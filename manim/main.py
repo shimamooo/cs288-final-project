@@ -1,6 +1,6 @@
 from manim_themes.manim_theme import apply_theme
 from manim_voiceover import VoiceoverScene
-from manim_voiceover.services.gtts import GTTSService
+from manim_voiceover.services.elevenlabs import ElevenLabsService
 from manim_voiceover.translate import get_gettext
 
 from manim import *
@@ -41,7 +41,13 @@ class Manim(VoiceoverScene):
         Dot.set_default(color=WHITE)
 
     def construct(self):
-        self.set_speech_service(GTTSService(lang=LOCALE, transcription_model="base"))
+        # self.set_speech_service(GTTSService(lang=LOCALE, transcription_model="base"))
+        self.set_speech_service(
+            ElevenLabsService(
+                model="eleven_v3",
+                voice_name="Rachel",
+            )
+        )
 
         circle = Circle()
 
