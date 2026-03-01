@@ -1,15 +1,15 @@
 # German translations for PACKAGE package
 # German translation for PACKAGE.
-# Copyright (C) 2025 THE PACKAGE'S COPYRIGHT HOLDER
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2025.
+# Automatically generated, 2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-16 23:09-0700\n"
-"PO-Revision-Date: 2025-09-16 23:09-0700\n"
+"POT-Creation-Date: 2026-03-01 02:13-0800\n"
+"PO-Revision-Date: 2026-03-01 02:13-0800\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -28,21 +28,21 @@ msgstr "Dieser Kreis wird gezeichnet, während ich spreche. Die Szene wartet, bi
 msgid ""
 "Let's shift the circle to the left 2 units... This animation takes as long "
 "as this text to be read."
-msgstr "Verschieben wir den Kreis um 2 Einheiten nach links... Diese Animation dauert so lange, wie dieser Text zu lesen ist."
+msgstr "Verschieben wir den Kreis um 2 Einheiten nach links... Diese Animation dauert so lange, wie es dauert, diesen Text zu lesen."
 
 #: .\manim\main.py:70
 msgid ""
 "You can <bookmark mark='A'/>trigger animations <bookmark mark='B'/>at any "
 "word in the middle of a sentence by adding <bookmark mark='C'/>bookmarks to "
 "your text."
-msgstr "Sie können <bookmark mark='A'/>Animationen <bookmark mark='B'/>bei jedem Wort in der Mitte eines Satzes auslösen, indem Sie <bookmark mark='C'/>Lesezeichen in Ihren Text einfügen."
+msgstr "Sie können <bookmark mark='A'/>Animationen <bookmark mark='B'/>an jedem Wort in der Mitte eines Satzes auslösen, indem Sie <bookmark mark='C'/>Lesezeichen zu Ihrem Text hinzufügen."
 
 #: .\manim\main.py:96
 msgid ""
 "Here is another example for more fine-tuned bookmarking. Super<bookmark "
 "mark='A'/>cali<bookmark mark='B'/>fragilistic<bookmark mark='C'/"
 ">expiali<bookmark mark='D'/>docious."
-msgstr "Hier ist ein weiteres Beispiel für eine feinere Abstimmung der Lesezeichen. Super<bookmark mark='A'/>cali<bookmark mark='B'/>fragilistic<bookmark mark='C'/>expiali<bookmark mark='D'/>docious."
+msgstr "Hier ist ein weiteres Beispiel für eine feinere Lesezeichen-Einstellung. Super<bookmark mark='A'/>cali<bookmark mark='B'/>fragilistic<bookmark mark='C'/>expiali<bookmark mark='D'/>docious."
 
 #: .\manim\main.py:125
 msgid ""
@@ -50,13 +50,13 @@ msgid ""
 "\".srt\" file next to the video output. By default, the subtitle is the same "
 "as the text, however you can modify this behavior by specifying the "
 "subcaption property."
-msgstr "Kommen wir nun zu den Untertiteln. Untertitel werden automatisch als \".srt\" Datei neben der Videoausgabe generiert. Standardmäßig ist der Untertitel derselbe wie der Text, aber Sie können dieses Verhalten ändern, indem Sie die Eigenschaft subcaption angeben."
+msgstr "Kommen wir nun zu den Untertiteln. Untertitel werden automatisch als \".srt\"-Datei neben der Videoausgabe generiert. Standardmäßig entspricht der Untertitel dem Text, Sie können dieses Verhalten jedoch ändern, indem Sie die Eigenschaft \"subcaption\" festlegen."
 
 #: .\manim\main.py:128
 msgid ""
 "This is a custom subcaption that lasts the duration of this scene. You can "
 "say facts like Yotsuba is the best Quintuplet."
-msgstr "Dies ist ein benutzerdefinierter Untertitel, der für die Dauer der Szene gilt. Sie können z. B. sagen, dass Yotsuba das beste Quintuplet ist."
+msgstr "Dies ist ein benutzerdefinierter Untertitel, der für die Dauer dieser Szene angezeigt wird. Sie können Fakten wie \"Yotsuba ist die beste Fünfling\" einfügen."
 
 #: .\manim\main.py:135
 msgid ""
@@ -64,7 +64,7 @@ msgid ""
 "subcaptions, however the text-to-speech isn't able to pronounce it "
 "correctly. As an example, here's the L2 norm of a vector and Mass-energy "
 "Equivalence."
-msgstr "Warum ist das hilfreich? Oft wollen wir LaTeX in die Untertitel einfügen, aber die Text-to-Speech-Funktion ist nicht in der Lage, sie richtig auszusprechen. Als Beispiel hier die L2-Norm eines Vektors und die Masse-Energie-Äquivalenz."
+msgstr "Warum sollte dies hilfreich sein? Oft möchten wir LaTeX in die Untertitel einfügen, aber die Text-to-Speech-Funktion kann es nicht richtig aussprechen. Als Beispiel hier die L2-Norm eines Vektors und die Masse-Energie-Äquivalenz."
 
 #: .\manim\main.py:138
 #, python-brace-format
@@ -73,18 +73,18 @@ msgid ""
 "subcaptions, however the text-to-speech isn't able to pronounce it "
 "correctly. As an example, here's $\\left\\lVert{x}\\right\\rVert_2$ and $e = "
 "mc^2$"
-msgstr "Warum ist das hilfreich? Oft wollen wir LaTeX in die Untertitel einfügen, aber die Text-to-Speech-Anwendung ist nicht in der Lage, sie richtig auszusprechen. Hier ein Beispiel: $\\left\\lVert{x}\\right\\rVert_2$ und $e = mc^2$"
+msgstr "Warum sollte dies hilfreich sein? Oft möchten wir LaTeX in die Untertitel einfügen, aber die Text-to-Speech-Funktion kann es nicht richtig aussprechen. Als Beispiel hier $\\left\\lVert{x}\\right\\rVert_2$ und $e = mc^2$"
 
 #: .\manim\main.py:145
 msgid ""
 "This also allows us to add SSML-like customizations to the voiceover, like "
 "\"insert emotion\" into the voices ———————— or add \"pauses\"....... without "
 "affecting the subcaption. This works on ElevenLabs... but not GTTS."
-msgstr "So können wir auch SSML-ähnliche Anpassungen in das Voiceover einfügen, z. B. \"Emotion einfügen\" in die Stimmen -------- oder \"Pausen einfügen\" ......., ohne die Untertitel zu beeinflussen. Dies funktioniert bei ElevenLabs... aber nicht bei GTTS."
+msgstr "Dadurch können wir auch SSML-ähnliche Anpassungen zum Voiceover hinzufügen, wie z. B. \"Emotionen einfügen\" in die Stimmen ———————— oder \"Pausen\" hinzufügen....... ohne die Untertitel zu beeinflussen. Dies funktioniert bei ElevenLabs... aber nicht bei GTTS."
 
 #: .\manim\main.py:148
 msgid ""
 "This also allows us to add SSML-like customizations to the voiceover, like "
 "insert emotion into the voices, or add pauses... without affecting the "
 "subcaption. This works on ElevenLabs but not GTTS."
-msgstr "Dies ermöglicht uns auch SSML-ähnliche Anpassungen des Voiceovers, wie z. B. das Einfügen von Emotionen in die Stimmen oder das Hinzufügen von Pausen... ohne die Untertitel zu beeinflussen. Dies funktioniert mit ElevenLabs, aber nicht mit GTTS."
+msgstr "Dadurch können wir auch SSML-ähnliche Anpassungen zum Voiceover hinzufügen, wie z. B. Emotionen in die Stimmen einfügen oder Pausen hinzufügen... ohne die Untertitel zu beeinflussen. Dies funktioniert bei ElevenLabs, aber nicht bei GTTS."
