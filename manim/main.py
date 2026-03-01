@@ -1,7 +1,7 @@
 from manim_themes.manim_theme import apply_theme
-from manim_voiceover_plus import VoiceoverScene
-from manim_voiceover_plus.services.gtts import GTTSService
-from manim_voiceover_plus.translate import get_gettext
+from manim_voiceover import VoiceoverScene
+from manim_voiceover.services.gtts import GTTSService
+from manim_voiceover.translate import get_gettext
 
 from manim import *
 
