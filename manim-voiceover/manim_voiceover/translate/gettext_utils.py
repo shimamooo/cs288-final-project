@@ -183,7 +183,21 @@ class POFile:
 
             to_translate.append(string_to_translate)
 
-        translate_text = "<msg/>".join(to_translate)
+        # Replace LaTeX expressions with XML placeholder tags so DeepL
+        # treats them as opaque entities (same as <msg/> separators).
+        latex_placeholders = []
+        latex_pattern = re.compile(r"\$\$[\s\S]*?\$\$|\$[^$\n]*?\$")
+
+        def _protect_latex(s):
+            def _replace(m):
+                idx = len(latex_placeholders)
+                latex_placeholders.append(m.group(0))
+                return f'<latex id="{idx}"/>'
+            return latex_pattern.sub(_replace, s)
+
+        to_translate_protected = [_protect_latex(s) for s in to_translate]
+
+        translate_text = "<msg/>".join(to_translate_protected)
 
         translator = deepl.Translator(api_key)
         translated = translator.translate_text(
@@ -193,12 +207,12 @@ class POFile:
             tag_handling="xml",
         )
 
-        # DeepTranslator doesn't allow passing tag_handling="xml"
-        # translated = DeeplTranslator(
-        #     api_key=api_key, source=source_lang, target=target_lang, use_free_api=True
-        # ).translate(translate_text)
-
-        translated = translated.text.split("<msg/>")
+        # Restore LaTeX placeholders, then split on message boundaries.
+        restore_pattern = re.compile(r'<latex id="(\d+)"/>')
+        translated_text = restore_pattern.sub(
+            lambda m: latex_placeholders[int(m.group(1))], translated.text
+        )
+        translated = translated_text.split("<msg/>")
 
         try:
             for idx, translation in zip(translate_idx, translated):
