@@ -10,18 +10,15 @@ DOMAIN = "translation-example"
 _ = get_gettext()
 
 
-class Manim(VoiceoverScene):
+class BaseScene(VoiceoverScene):
     def setup(self):
         theme = "Andromeda"
         apply_theme(manim_scene=self, theme_name=theme, light_theme=True)
 
-        # Here are the configs that manim-themes sets by default
-        # feel free to change them to your liking
         Text.set_default(color=WHITE)
         Tex.set_default(color=WHITE)
         MathTex.set_default(color=WHITE)
 
-        # Mobjects
         Mobject.set_default(color=WHITE)
         VMobject.set_default(color=WHITE)
 
@@ -31,24 +28,24 @@ class Manim(VoiceoverScene):
         AnnularSector.set_default(color=WHITE)
 
         NumberPlane().set_default(
-            background_line_style={
-                "stroke_color": GRAY,
-            },
+            background_line_style={"stroke_color": GRAY},
             x_axis_config={"stroke_color": WHITE},
             y_axis_config={"stroke_color": WHITE},
         )
         Arrow.set_default(color=WHITE)
         Dot.set_default(color=WHITE)
 
-    def construct(self):
-        # self.set_speech_service(GTTSService(lang=LOCALE, transcription_model="base"))
+    def init_speech(self):
         self.set_speech_service(
-            ElevenLabsService(
-                model="eleven_v3",
-                voice_name="Rachel",
-            )
+            ElevenLabsService(model="eleven_v3", voice_name="Rachel")
         )
 
+
+# ── Scene 1: circle creation and shift ───────────────────────────────────────
+
+class Scene1(BaseScene):
+    def construct(self):
+        self.init_speech()
         circle = Circle()
 
         with self.voiceover(
@@ -67,6 +64,12 @@ class Manim(VoiceoverScene):
 
         self.play(Uncreate(circle))
 
+
+# ── Scene 2: bookmark demo ────────────────────────────────────────────────────
+
+class Scene2(BaseScene):
+    def construct(self):
+        self.init_speech()
         blist = BulletedList(
             "Trigger animations", "At any word", "Bookmarks", font_size=64
         )
@@ -77,7 +80,6 @@ class Manim(VoiceoverScene):
             )
         ) as tracker:
             self.wait_until_bookmark("A")
-
             self.play(
                 Write(blist[0]), run_time=tracker.time_until_bookmark("B", limit=1)
             )
@@ -90,12 +92,18 @@ class Manim(VoiceoverScene):
 
         self.play(FadeOut(blist))
 
+
+# ── Scene 3: supercalifragilistic bookmarks ───────────────────────────────────
+
+class Scene3(BaseScene):
+    def construct(self):
+        self.init_speech()
         s32s_text = Tex("Supercalifragilisticexpialidocious", font_size=72)
-        super_text = s32s_text[0][:5]
-        cali_text = s32s_text[0][5:9]
-        fragilistic_text = s32s_text[0][9:20]
-        expiali_text = s32s_text[0][20:27]
-        docious_text = s32s_text[0][27:]
+        super_text      = s32s_text[0][:5]
+        cali_text       = s32s_text[0][5:9]
+        fragilistic_text= s32s_text[0][9:20]
+        expiali_text    = s32s_text[0][20:27]
+        docious_text    = s32s_text[0][27:]
 
         with self.voiceover(
             text=_(
@@ -124,7 +132,15 @@ class Manim(VoiceoverScene):
             )
 
         self.play(FadeOut(s32s_text))
+
+
+# ── Scene 4: subtitles demo ───────────────────────────────────────────────────
+
+class Scene4(BaseScene):
+    def construct(self):
+        self.init_speech()
         square = Square()
+        circle = Circle()
 
         with self.voiceover(
             text=_(
