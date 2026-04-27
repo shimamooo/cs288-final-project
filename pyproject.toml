@@ -19,3 +19,5 @@ dev = [
 
 [tool.uv.sources]
 manim-voiceover = { path = "./manim-voiceover", editable = true }
+[tool.uv.extra-build-dependencies]
+openai-whisper = ["setuptools<81"]

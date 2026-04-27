@@ -1,0 +1,29 @@
+
+    document.addEventListener("kmsButtonClickAnalytics", function (e) {
+        // name is mandatory
+        if (e.detail.name) {
+            // use GET params because POST has issues with CORS
+            var urlbase = 'https://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&eventType=10002&partnerId=2640881&ks=djJ8MjY0MDg4MXzKbTnZJf9y3RIU90L365HLzbwVgyKhpfCzKVSrJ6yEOB6Gel6Q4kxfM3eqUcBYGoUQuUkhQFKcdLui8AM3gL6SSg2KiBNo5QBTERN9JTNfdUsv3JeNHjznzneEoDmkgVs%3D&kalturaApplication=2&kalturaApplicationVer=5.174.13&application=Canvas&applicationVer=5.174.13&sessionId=js3gn2ig6pbrubhjlu4t5vip6c&virtualEventId=&referrer=https%3A%2F%2Fkaf.berkeley.edu%2Fmedia%2Ft%2F1_bsuehi1l%2F395089973';
+            var urldata = '&buttonName='+e.detail.name+'&buttonValue='+e.detail.value+'&buttonType='+e.detail.type;
+            if (e.detail.ks) {
+                                urlbase = 'https://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&eventType=10002&partnerId=2640881&kalturaApplication=2&kalturaApplicationVer=5.174.13&application=Canvas&applicationVer=5.174.13&sessionId=js3gn2ig6pbrubhjlu4t5vip6c&virtualEventId=&referrer=https%3A%2F%2Fkaf.berkeley.edu%2Fmedia%2Ft%2F1_bsuehi1l%2F395089973';
+                urldata += '&ks='+e.detail.ks;
+            }
+
+            if (e.detail.location) {
+                urldata += '&buttonInfo='+e.detail.location;
+            }
+            else if (e.detail.moduleName) { // keep for backward compatibility
+                urldata += '&buttonInfo='+e.detail.moduleName;
+            }
+
+            if (e.detail.entryId) {
+                urldata += '&entryId='+e.detail.entryId;
+            }
+
+            if (e.detail.applicationFeature) {
+                urldata += '&feature='+e.detail.applicationFeature;
+            }
+            navigator.sendBeacon(urlbase + urldata);
+        }
+    });
