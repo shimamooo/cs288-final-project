@@ -1,0 +1,53 @@
+Lec #,Lecture video name,Video,Timestamp start,Timestamp end,Question,Expected answer
+1,Lecture 1_lecture,0,48:19:00,48:23:00,"In Lecture 1, Rich presented two lists of words. What did Rich call List 2 words?",Exception words
+2,Lecture 2_lecture,0,43:44:00,43:53:00,Which neurons are the biggest in the body?,Pyramidal cells
+2,Lecture 2_lecture,0,44:45:00,45:06:00,How are one of Richard Ivry's favorite neurons unique? ,Purkinje cells
+2,Lecture 2_lecture,0,3:31,3:50,What grade could you get in the class if you didn't open the textbook?,B
+2,Lecture 2_lecture,0,10:10,10:20,What is quality of bird song correlated with? ,Neurogenesis
+2,Lecture 2_lecture,0,11:30,11:34,What is the red dye labeling here?,Cell bodies in the rat hippocampus
+2,Lecture 2_lecture,0,13:40,13:55,What is depicted in green in the image in the bottom right? ,A fully developed neuron
+2,Lecture 2_lecture,0,16:50,18:44,What is the enriched condition for the rat experiment about promoting neurogenesis?,Rats were given exercise wheels
+2,Lecture 2_lecture,0,42:27:00,42:36:00,What divides the frontal and temporal lobes?,lateral fissure | lateral sulcus
+3,Lecture 3_lecture,0,3:13,3:35,What holiday did the reshuffle the syllabus for?,President's Day
+3,Lecture 3_lecture,0,5:55,6:30,What brain scans did researchers use to correlate cortical thickness with intelligence? ,MRI
+3,Lecture 3_lecture,0,5:55,6:30,What type of neurons did researchers use to correlate cortical thickness with intelligence? ,grey matter cell bodies (cortex)
+3,Lecture 3_lecture,0,7:27,7:57,How did Rich describe the correlation over time between cortical thickness and intelligence?,non-monotopic | There is initially a negative correlation between thickness and intelligence which then reverses and becomes a positive but weak correlation
+3,Lecture 3_lecture,0,9:46,12:23,"Does a deeper sulcus have more, less, or equal neurons than a shallow sulcus? ",More
+3,Lecture 3_lecture,0,10:46,13:23,What features in the medial frontal sulcus allow you to tell individuals apart?,"Tertiary sulci | Tertiary sulci like these vary between individuals, either highly prominent or not prominent, and can be used to identify "
+3,Lecture 3_lecture,0,14:06,14:48,What are the black dots in this figure?,stained cell bodies of neurons 
+3,Lecture 3_lecture,0,15:05,15:20,"What are these numbers 1, 2, and 3 for?",Label of cell-density between layers
+3,Lecture 3_lecture,0,16:06,16:45,What anatomic features cause anatomists to label regions as distinct within architectonic maps of brain regions?,Change in cell density
+3,Lecture 3_lecture,0,24:10:00,24:21:00,What is HRP?,Horseradish peroxidase
+3,Lecture 3_lecture,0,24:30:00,24:53:00,Which part of the neuron is the tracer entering in the retina? ,Cell body
+3,Lecture 3_lecture,0,24:30:00,24:53:00,Is the tracer moving from retina to thalamus or thalamus to retina? ,Retina to thalamus
+3,Lecture 3_lecture,0,24:30:00,24:53:00,From what part to what part of the neuron is the tracer moving?,Cell body to axon | dendrites to axon
+13,Lecture13part1_lecture,0,0:00,0:40,Into how many segments is Richard Ivry going to break up his recorded lectures?,3 | 3 segments
+13,Lecture13part1_lecture,0,7:30,8:30,What are the nuclei of the basal ganglia?,"Striatum, globus pallidus, subthalamic nucleus, substantia nigra."
+13,Lecture13part1_lecture,0,9:38,9:58,All of the input to the basal ganglia comes from the cortex and most of the output from the basal ganglia goes into the cortex. How does Rich describe this system? ,Closed circuit
+13,Lecture13part1_lecture,0,12:40,13:12,What is a one-word to describe the basal ganglia's default role in inhibiting the cortex?,Tonic
+13,Lecture13part1_lecture,0,15:20,15:52,"Which pathway in the basal ganglia, when stimulated, increases movement? ",Direct pathway
+13,Lecture13part1_lecture,0,15:20,15:52,"Which pathway in the basal ganglia, when stimulated, decreases movement? ",Indirect pathway
+13,Lecture13part1_lecture,0,17:10,18:10,What analogy does Rich use to describe the basal ganglia?,Dam
+13,Lecture13part1_lecture,0,18:24,19:32,Rich says that the the basal ganglia is an example of a  _____ selection mechanism?,Dumb
+13,Lecture13part2_lecture,0,0:00,0:34,How did Rich feel after recording the first recorded lecture?,A little rusty
+13,Lecture13part2_lecture,1,1:05,1:25,What are the contents of the video titled PD_Walk1_Ivry,It's an older man with Parkinson's disorder trying to walk across a room. He's repeatedly getting a little stuck. He's trying to walk but he's walking really slow.
+13,Lecture13part2_lecture,1,1:30,1:37,What are the contents of the video titled PD_Walk2_Ivry,"It's an older man with Parkinson's disorder trying to walk across a room, but if you notice he kicks his walking cane in front of him with each step. Doing so means he uses a cane as a visual to guide his walking enabling him to have pretty good balance."
+13,Lecture13part2_lecture,0,2:05,2:56,"According to Rich, Parkinson's patients need ______ to provide external support for internal planning of motion?",Salient visual stimuli
+13,Lecture13part2_lecture,0,2:05,2:56,What famous male actor did Rich talk about in Lecture13part2?,Robin Williams
+13,Lecture13part2_lecture,0,2:05,2:56,What movie did Rich talk about in lecture13part2? ,The Awakenings
+13,Lecture13part2_lecture,0,2:05,2:56,What does the patient do when Robin Williams throws a ball at him? ,Catch it
+13,Lecture13part2_lecture,1,13:12,13:38,What are the contents of the video titled PD_Dyskinesia_Ivry?,"It's a headshot video of one of Rich's former patients from the 1980's who was one of the first people to be put on L-dopa therapy. In the video, the patient is talking to Rich. Although there's no audio, you can tell that the man is quickly and uncontrollably moving his head while speaking. "
+13,Lecture13part2_lecture,0,14:09,14:41,Rich's former patient preferred to take his medication despite it making his behavior dyskinetic. How did he feel when he was off of it?,brain fog
+13,Lecture13part3_lecture,1,2:00,2:30,What are the contents of the video titled Preop DBS PD AJ?,"It's footage of a man in a medical facility walking down a hallway and turning around. He takes very small steps and as he nears ""transition points,"" he begins to slow down even more, taking lots of very small steps. As he approaches the doorway, he freezes again. Thinking about the basal ganglia, its almost as though he has to update the motor plan every time he reaches a transition point"
+13,Lecture13part3_lecture,1,2:34,3:09,What are the contents of the video titled Postop DBS PD AJ?,"It's footage of the same man from Preop DBS AJ walking confidently down a different hallway, at one point waving. He walks perfectly, without any trouble. "
+13,Lecture13part3_lecture,1,3:06,5:08,What are the contents of the video titled DBS TremorOnOff,"This is footage of an older man explaining how he can control the voltage going into electrodes planted on his chest and his ear. He demonstrates turning off the voltage and immediately his right hand begins to tremor uncontrollably. He continues for about 30 seconds with the electrode off, explaining how he is barely able to control the tremor by focusing. While still tremoring, a technician passes the controller back to him, and after he turns it on again with his still tremoring hand, the tremors completely stop. "
+13,Lecture13part3_lecture,0,5:10,5:44,"In the case of the patient in the video titled DBS TremorOnOff, what does Rich primarily attribute the tremor to?",prolonged medication usage
+14,Lecture14part1_lecture,0,0:00,0:40,What surgery did Rich get recently?,Hip surgery
+14,Lecture14part2_lecture,1,9:25,11:20,What are the contents of the video titled cogneuro_40.mp4?,"A man in a lab environment demonstrates average reading proficiency by reading a scientific experiment procedure, slightly below average short-term memory by repeating 5-6 digit numbers correctly, and then when asked how old he was and who the president was, answered: ""I'm between 30 and 40."" ""Oh gosh, I have no idea."" "
+14,Lecture14part2_lecture,1,12:03,14:46,What are the contents of the video titled cogneuro_41.mp4?,"A man in an interview is able to demonstrate knowledge to simple facts, like how many months are in a year, but when asked what a thermometer is, responds by saying that a thermometer tells the time. He however, is unable to explain the abstract sentiment behind the common aphorism like ""strike when the iron is hot."""
+14,Lecture14part3_lecture,1,1:51,4:38,"What are the contents of the video titled Kors, Time and Place? ",A man interviews a patient with severe Korsakoff's disease. He is sober. His memory is limited and cognition is stuck and he seems to be fixated on this imagined reality that he's on a conference in Hawaii even though the interviewer reminds that patient that they are in a VA hospital in Fresno. The patient is actually slightly hostile to the interviewer and continues to confabulate--- make up a narrative about where they are.
+15,Lecture15part1_lecture,0,0:00,0:58,When is Rich's office hours according to Lecture15part1?,"Tomorrow, March 18th, from 1:00-3:00pm"
+15,Lecture15part1_lecture,0,0:00,0:58,How should you join Rich's office hours according to Lecture15part1?,Join the Zoom link he sent in the announcements
+15,Lecture15part2_lecture,0,2:12,2:29,What is Richard Ivry's dog's name?,Josie
+14,Lecture14part3_lecture,0,1:51,4:38,What was wrong with that guy in that video that was making stuff up about Hawaii? ,Korsakoff's syndrome
+14,Lecture14part2_lecture,0,12:03,14:46,"What disorder did that guy have in that video that was unable to explain ""strike while the iron is hot?""",Alzheimer's
