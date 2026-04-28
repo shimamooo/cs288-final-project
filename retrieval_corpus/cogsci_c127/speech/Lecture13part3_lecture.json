@@ -1,0 +1,848 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "Okay, so let's go through the last third of the class here.",
+    "start_ms": 0,
+    "end_ms": 6567,
+    "duration_ms": 6567,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 6.567,
+    "text": "Let me share the screen, flip back to the PowerPoint.",
+    "start_ms": 6567,
+    "end_ms": 12905,
+    "duration_ms": 6338,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 12.905,
+    "text": "Okay, and hide these floating controls. All right, so where I left off, I've been talking about different therapies that have been developed over the years, over the last 70 years.",
+    "start_ms": 12905,
+    "end_ms": 33999,
+    "duration_ms": 21094,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 33.999,
+    "text": "And really, I want to emphasize that again, Parkinson's used to be an incredibly debilitating and deadly disease.",
+    "start_ms": 33999,
+    "end_ms": 39768,
+    "duration_ms": 5769,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 39.768,
+    "text": "And now people can really live for many, many years with it.",
+    "start_ms": 39768,
+    "end_ms": 43636,
+    "duration_ms": 3868,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 43.636,
+    "text": "It certainly has its effects cumulatively, but people can live a very long time on the L-DOPA therapy, don't think the stem cells work that well.",
+    "start_ms": 43636,
+    "end_ms": 53446,
+    "duration_ms": 9810,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 53.446,
+    "text": "Lesion method is very popular, say, around 2000. But really, over the last 20 years, the wave has changed to a new intervention, which is called deep brain stimulation.",
+    "start_ms": 53446,
+    "end_ms": 63647,
+    "duration_ms": 10201,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 63.647,
+    "text": "This is going to involve neurosurgery, where they're going to implant an electrode in the subthalamic nucleus, and they're just going to run it at a very high frequency.",
+    "start_ms": 63647,
+    "end_ms": 74326,
+    "duration_ms": 10679,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 74.326,
+    "text": "And it's a little unclear how it works. We'll talk about that in a minute.",
+    "start_ms": 74326,
+    "end_ms": 77892,
+    "duration_ms": 3566,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 77.892,
+    "text": "But this has proven to be a really effective intervention.",
+    "start_ms": 77892,
+    "end_ms": 80752,
+    "duration_ms": 2860,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 80.752,
+    "text": "Now, again, it's not something you want to do right away.",
+    "start_ms": 80752,
+    "end_ms": 84519,
+    "duration_ms": 3767,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 84.519,
+    "text": "Surgery is a dangerous business. So these are all going to be individuals who have probably gone through extensive L-DOPA therapy.",
+    "start_ms": 84519,
+    "end_ms": 90267,
+    "duration_ms": 5748,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 90.267,
+    "text": "Over time, though, they might have developed some of these dyskinesias, or maybe they weren't that responsive to the L-DOPA anymore.",
+    "start_ms": 90267,
+    "end_ms": 97352,
+    "duration_ms": 7085,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 97.352,
+    "text": "So they get these DBS implants. And this procedure now has been done on easily thousands of people.",
+    "start_ms": 97352,
+    "end_ms": 103662,
+    "duration_ms": 6310,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 103.662,
+    "text": "And let me just show you, again, some of the really incredible outcomes you can get out of this.",
+    "start_ms": 103662,
+    "end_ms": 108923,
+    "duration_ms": 5261,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 108.923,
+    "text": "So this is an individual who's got advanced Parkinson's. He's extremely brain kinetic.",
+    "start_ms": 108923,
+    "end_ms": 114573,
+    "duration_ms": 5650,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 114.573,
+    "text": "He's just being asked to walk up and down this hallway here.",
+    "start_ms": 114573,
+    "end_ms": 119696,
+    "duration_ms": 5123,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 119.696,
+    "text": "And notice that, again, where his problems really come about at those transition points, where he has to change from walking in one direction to walking in another direction.",
+    "start_ms": 119696,
+    "end_ms": 129489,
+    "duration_ms": 9793,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 129.489,
+    "text": "Very small movements, so very small, still achinetic for the most part, but small movements.",
+    "start_ms": 129489,
+    "end_ms": 135408,
+    "duration_ms": 5919,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 135.408,
+    "text": "Notice when he gets near the doorway, now he freezes up.",
+    "start_ms": 135408,
+    "end_ms": 138980,
+    "duration_ms": 3572,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 138.98,
+    "text": "And again, think about in that gating model, it's like each time he has to make a transition, moving into another room.",
+    "start_ms": 138980,
+    "end_ms": 145639,
+    "duration_ms": 6659,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 145.639,
+    "text": "It's kind of almost like you have to update the motor plan.",
+    "start_ms": 145639,
+    "end_ms": 149319,
+    "duration_ms": 3680,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 149.319,
+    "text": "Now, this is the same individual, just a couple of days later, after he's had the DBS implant, and it's activating.",
+    "start_ms": 149319,
+    "end_ms": 156226,
+    "duration_ms": 6907,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 156.226,
+    "text": "It actually is quite miraculous, almost an immediate benefit. And he's just being, I mean, that is just incredible, turn around, just from, again, within a couple of days' time.",
+    "start_ms": 156226,
+    "end_ms": 167960,
+    "duration_ms": 11734,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 174.6,
+    "text": "No real evidence, again, of that freezing in his gait.",
+    "start_ms": 174600,
+    "end_ms": 177852,
+    "duration_ms": 3252,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 177.852,
+    "text": "Still probably slightly smaller steps than normal, but certainly had a much dramatic improvement.",
+    "start_ms": 177852,
+    "end_ms": 183965,
+    "duration_ms": 6113,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 183.965,
+    "text": "Here's another individual demonstrating. It's placed into the brain, I understand, comes level with the top of the nose and the ear.",
+    "start_ms": 183965,
+    "end_ms": 192919,
+    "duration_ms": 8954,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 194.6,
+    "text": "It is connected to a battery in my chest, in my skin and my chest here.",
+    "start_ms": 194600,
+    "end_ms": 200615,
+    "duration_ms": 6015,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 200.615,
+    "text": "And this is controlled. I can control the amount of the voltage going in.",
+    "start_ms": 200615,
+    "end_ms": 205658,
+    "duration_ms": 5043,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 205.658,
+    "text": "I can control the length of time that the pulse is.",
+    "start_ms": 205658,
+    "end_ms": 208759,
+    "duration_ms": 3101,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 209.72,
+    "text": "And I can identify the number of times per second that it goes in.",
+    "start_ms": 209720,
+    "end_ms": 215479,
+    "duration_ms": 5759,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 217.32,
+    "text": "And I'll turn myself off now. So he's going to turn it off.",
+    "start_ms": 217320,
+    "end_ms": 220520,
+    "duration_ms": 3200,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 220.52,
+    "text": "He has his own control of his device. And he's just going to show you now, almost immediately, you see the dramatic...",
+    "start_ms": 220520,
+    "end_ms": 230520,
+    "duration_ms": 10000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 239.0,
+    "text": "that you can't do very much for yourself, first of all, personal hygiene.",
+    "start_ms": 239000,
+    "end_ms": 242520,
+    "duration_ms": 3520,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 245.96,
+    "text": "But because my concentration now is up to 90% of my tremor, I'm trying to control it.",
+    "start_ms": 245960,
+    "end_ms": 258982,
+    "duration_ms": 13022,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 258.982,
+    "text": "And I'm thinking of the word Parkinson's all the time.",
+    "start_ms": 258982,
+    "end_ms": 262519,
+    "duration_ms": 3537,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 262.519,
+    "text": "And I'm not terribly... I'm not concentrating on my conversation with you at all.",
+    "start_ms": 262519,
+    "end_ms": 273799,
+    "duration_ms": 11280,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 286.519,
+    "text": "Now he's going to turn it back on again. A bit challenging to do so.",
+    "start_ms": 286519,
+    "end_ms": 293485,
+    "duration_ms": 6966,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 293.485,
+    "text": "But almost immediately, the wild movements stop. Quite dramatic. Now, you might have heard that people with Parkinson's have a tremor.",
+    "start_ms": 293485,
+    "end_ms": 316359,
+    "duration_ms": 22874,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 316.359,
+    "text": "I don't actually think in his case, that's a Parkinson's tremor that's being released.",
+    "start_ms": 316359,
+    "end_ms": 320839,
+    "duration_ms": 4480,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 320.839,
+    "text": "I think it's kind of the dyskinesia, probably the hypersensitivity.",
+    "start_ms": 320839,
+    "end_ms": 324200,
+    "duration_ms": 3361,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 324.2,
+    "text": "It'd come from the medication, being exposed to the medication.",
+    "start_ms": 324200,
+    "end_ms": 327559,
+    "duration_ms": 3359,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 327.513,
+    "text": "a long period of time prior to his DBS, and there might even be a rebound effect from having the DBS come off, really amplified it.",
+    "start_ms": 327513,
+    "end_ms": 335086,
+    "duration_ms": 7573,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 335.086,
+    "text": "But you certainly see that dramatic effect of either turning off the the DBS stimulator, wild symptoms, turning it back on, very look of calm.",
+    "start_ms": 335086,
+    "end_ms": 344558,
+    "duration_ms": 9472,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 344.558,
+    "text": "Okay, now it is a bit of a mystery why DBS works, because let's take a look at our diagram.",
+    "start_ms": 344558,
+    "end_ms": 354318,
+    "duration_ms": 9760,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 354.318,
+    "text": "Here's the subthalamic nucleus. Here's that output nucleus. Notice this is an excitatory projection.",
+    "start_ms": 354318,
+    "end_ms": 361444,
+    "duration_ms": 7126,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 361.444,
+    "text": "So if we turned on the, if we activate the subthalamic nucleus, right, if we made those neurons fire, we'd actually expect that you'd see a great deal of more excitation onto the GPI, and that would then produce greater inhibition.",
+    "start_ms": 361444,
+    "end_ms": 376810,
+    "duration_ms": 15366,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 376.81,
+    "text": "So you might, a priori, at least think, if I stimulate the STN, it may be that, you know, I'm actually going to increase Parkinson's symptoms because I'm going to increase that inhibition of the thalamus.",
+    "start_ms": 376810,
+    "end_ms": 389490,
+    "duration_ms": 12680,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 389.49,
+    "text": "Now, it's unclear why DBS works to tell you the truth.",
+    "start_ms": 389490,
+    "end_ms": 393580,
+    "duration_ms": 4090,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 393.58,
+    "text": "It may be that they're stimulating the STN at such high firing rates that it basically renders the STN inefficient, so that now the output from here may be on, it's no longer functional because these neurons are being made to fire at such a high rate.",
+    "start_ms": 393580,
+    "end_ms": 410415,
+    "duration_ms": 16835,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 410.415,
+    "text": "Another possibility, though, is, remember, there's this other connection from the cortex directly to the subthalamic nucleus, and it may be that by activating these neurons at a very high rate, there's actually some what we call antidromic, or indirect effects, where actually the signals are traveling back up the axons and activating the motor cortex in an indirect way through this kind of reverse process.",
+    "start_ms": 410415,
+    "end_ms": 434344,
+    "duration_ms": 23929,
+    "word_count": 66,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 434.344,
+    "text": "High activation, abnormally high activation of the STN may actually propagate backwards up through the axon and activate the cortex, and that's actually been demonstrated.",
+    "start_ms": 434344,
+    "end_ms": 444258,
+    "duration_ms": 9914,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 444.258,
+    "text": "Here's a study, again, this is in a rat model here, just showing the number of spikes per second being recorded in primary motor cortex of the rat by DBS of the STN in the rat, just showing as you increase that stimulation frequency, you start to record lots of activity in the motor cortex, and so in this indirect way, it may be that the motor cortex is being reactivated from the deep brain stimulation.",
+    "start_ms": 444258,
+    "end_ms": 470958,
+    "duration_ms": 26700,
+    "word_count": 76,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 471.759,
+    "text": "Now, these kinds of ideas, you know, we can start thinking about, what's going to be the next generation of treatments for Parkinson's disease?",
+    "start_ms": 471759,
+    "end_ms": 479465,
+    "duration_ms": 7706,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 479.465,
+    "text": "And as we also saw with the brain machine interface devices, certainly there's an interest about, you know, can we actually use feedback processes?",
+    "start_ms": 479465,
+    "end_ms": 489378,
+    "duration_ms": 9913,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 489.378,
+    "text": "And one thought is, remember, this gentleman here had control, and all of them do, over the device.",
+    "start_ms": 489378,
+    "end_ms": 495128,
+    "duration_ms": 5750,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 495.128,
+    "text": "They can, when they feel like they need assistance, or they feel their movement's slowing down, they can turn on the DBS.",
+    "start_ms": 495128,
+    "end_ms": 502050,
+    "duration_ms": 6922,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 502.05,
+    "text": "They tend to turn it off at night. But rather than depending on the person sort of choosing when to turn it on, there's some ideas now about, well, actually, let's try to make a closed-loop DBS system.",
+    "start_ms": 502050,
+    "end_ms": 515358,
+    "duration_ms": 13308,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 515.358,
+    "text": "And the notion is, like, let's try to monitor what's happening in the primary motor cortex, modulate the state of motor cortex activity, and then regulate the output of the DBS stimulator based on the current status of the primary motor cortex.",
+    "start_ms": 515358,
+    "end_ms": 532339,
+    "duration_ms": 16981,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 532.339,
+    "text": "And in particular, what people are focusing on is what's called a beta rhythm.",
+    "start_ms": 532339,
+    "end_ms": 536748,
+    "duration_ms": 4409,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 536.748,
+    "text": "So this is a rhythm, brain rhythm of about 20 hertz, 20 times per second, that you sort of see within the motor cortex when the brain's in an idling state or a non-movement state.",
+    "start_ms": 536748,
+    "end_ms": 547171,
+    "duration_ms": 10423,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 547.171,
+    "text": "And it's been noticed that this idling state is especially pronounced in Parkinson's disease.",
+    "start_ms": 547171,
+    "end_ms": 552558,
+    "duration_ms": 5387,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 552.558,
+    "text": "And so the idea is, like, if we regulate that beta state, will we actually be able to, in a sense, improve movement control?",
+    "start_ms": 552558,
+    "end_ms": 561224,
+    "duration_ms": 8666,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 561.224,
+    "text": "And this is a study just showing how you could use biofeedback to regulate the level of beta rhythm in primary motor cortex.",
+    "start_ms": 561224,
+    "end_ms": 569999,
+    "duration_ms": 8775,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 569.999,
+    "text": "The participant's looking here. There's a little cursor on the screen.",
+    "start_ms": 569999,
+    "end_ms": 574263,
+    "duration_ms": 4264,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 574.263,
+    "text": "And basically, they're getting feedback, showing them the position of the cursor.",
+    "start_ms": 574263,
+    "end_ms": 577667,
+    "duration_ms": 3404,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 577.667,
+    "text": "And they're trying to get the cursor to move from the left over to the right.",
+    "start_ms": 577667,
+    "end_ms": 582079,
+    "duration_ms": 4412,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 582.079,
+    "text": "And the position of the cursor is determined by the intensity of the beta rhythm.",
+    "start_ms": 582079,
+    "end_ms": 586944,
+    "duration_ms": 4865,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 586.944,
+    "text": "Actually, it's the inverse. If there's high beta rhythm, high idling state, the cursor doesn't move.",
+    "start_ms": 586944,
+    "end_ms": 592944,
+    "duration_ms": 6000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 592.944,
+    "text": "If they're able to suppress that beta state and they have to do whatever they want, however they want to think to try to lower that beta state, then the cursor will move off to the side.",
+    "start_ms": 592944,
+    "end_ms": 602680,
+    "duration_ms": 9736,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 602.68,
+    "text": "And this is just, again, showing that the position of the ball, so small numbers, no movement, large numbers, a lot of movement.",
+    "start_ms": 602680,
+    "end_ms": 609758,
+    "duration_ms": 7078,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 609.758,
+    "text": "Here showing, again, the level of the beta state. That's what's being plotted here is predictive of that state there.",
+    "start_ms": 609758,
+    "end_ms": 617215,
+    "duration_ms": 7457,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 617.215,
+    "text": "And moreover, here they're showing that when people are able to control that beta state, they can actually show an improvement in the speed at which they initiate movements compared to when they're getting fake feedback.",
+    "start_ms": 617215,
+    "end_ms": 629427,
+    "duration_ms": 12212,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 629.427,
+    "text": "So again, as with the brain-computer interface systems, doing some sort of feedback process, some sort of closed-loop control is one direction people are going.",
+    "start_ms": 629427,
+    "end_ms": 639244,
+    "duration_ms": 9817,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 639.244,
+    "text": "The next one, though, the idea is actually... Oh, I'm showing that same slide here.",
+    "start_ms": 639244,
+    "end_ms": 645022,
+    "duration_ms": 5778,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 645.022,
+    "text": "Here's what I want to show next is... course, again, DBS, very effective, but an invasive procedure with all the dangers of neurosurgery.",
+    "start_ms": 645022,
+    "end_ms": 652358,
+    "duration_ms": 7336,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 652.358,
+    "text": "And a very recent paper's come out which suggests maybe that there may be non-invasive methods that we could use for as an intervention in Parkinson's disease.",
+    "start_ms": 652358,
+    "end_ms": 662358,
+    "duration_ms": 10000,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 662.358,
+    "text": "And I won't go through the details here, but there's something called the scan network within the motor cortex.",
+    "start_ms": 662358,
+    "end_ms": 668358,
+    "duration_ms": 6000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 668.358,
+    "text": "And what's been observed is that, remember across the motor cortex we have a homunculus of the body with the feet up on top, the hands, body, then the hands, and then the face down here.",
+    "start_ms": 668358,
+    "end_ms": 679358,
+    "duration_ms": 11000,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 679.358,
+    "text": "What's been noticed is that in between the different effectors, there's a part of the motor cortex where there doesn't seem to be effector-specific representations, but rather it's parts of the motor cortex that can get activated when you're doing, say, a hand movement, or when you're doing a foot movement, or especially when you're doing a hand and foot movement coordination.",
+    "start_ms": 679358,
+    "end_ms": 698358,
+    "duration_ms": 19000,
+    "word_count": 62,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 698.358,
+    "text": "And the idea is that maybe these regions are important for coordinating activity between different parts of the body, or maybe they're important for postural control because whenever you reach, you're disturbing your posture and you need to keep things well maintained.",
+    "start_ms": 698358,
+    "end_ms": 713358,
+    "duration_ms": 15000,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 713.358,
+    "text": "Well, what's been noticed is that if you look at the functional connectivity between the scan regions of the primary motor cortex and a bunch of subcortical nuclei, including those that are part of the basal ganglia, that actually you have stronger connectivity between the scan regions of the cortex and the basal ganglia and subcortical nuclei in individuals with Parkinson's disease compared to controls.",
+    "start_ms": 713358,
+    "end_ms": 741358,
+    "duration_ms": 28000,
+    "word_count": 65,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 741.358,
+    "text": "And that's what's shown here. The color is the intensity of the functional connectivity using those resting state fMRI data.",
+    "start_ms": 741358,
+    "end_ms": 750358,
+    "duration_ms": 9000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 750.358,
+    "text": "You can see that it's brighter in the Parkinson's patients than in the control subjects and that data is summarized here just showing the sum aggregate strength of the connectivity there.",
+    "start_ms": 750358,
+    "end_ms": 761358,
+    "duration_ms": 11000,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 761.358,
+    "text": "And so these researchers then went on and said, well, let's do repetitive TMS and this is known to sort of disrupt neurofiring for say an hour after the stimulation is applied.",
+    "start_ms": 761358,
+    "end_ms": 773358,
+    "duration_ms": 12000,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 773.358,
+    "text": "Let's apply the stimulation and they're going to do it over the scan nodes and they're going to look to see how does that change a person's Parkinson's symptoms or as a control condition, they're also going to do it over the primary motor cortex, but they're going to do it over one of the effector specific regions in particular, here they did it over the foot region and they actually do this on one day, they do it repeatedly on many different days and what you're plotting here is this is basically the UPDRS is a standard clinical instrument that measures the severity of your Parkinson's symptoms.",
+    "start_ms": 773358,
+    "end_ms": 808358,
+    "duration_ms": 35000,
+    "word_count": 108,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 808.358,
+    "text": "So zero is sort of where everyone started and negative means that they're having a reduction in their symptoms.",
+    "start_ms": 808358,
+    "end_ms": 814358,
+    "duration_ms": 6000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 814.358,
+    "text": "Doing this TMS intervention is a non-invasive stimulation method does lead to nice improvement over a two week period, but what's even more impressive is that when you stimulate over that scan network, presumably reducing that correlation or that connectivity, now you actually see a much more dramatic improvement in the individuals.",
+    "start_ms": 814358,
+    "end_ms": 835358,
+    "duration_ms": 21000,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 835.358,
+    "text": "So again, this is in the very early stages, this paper just came out in the last month, but again, promising idea about how can we move beyond these invasive procedures to a non-invasive procedure, something that would be much easier to generate and distribute and apply to the broad population.",
+    "start_ms": 835358,
+    "end_ms": 853358,
+    "duration_ms": 18000,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 853.358,
+    "text": "All right. So again, one thing that's really nice about the motor control section here is that it's really a place where we see some beautiful examples of what I call translational research about taking basic ideas about how neurons are coded, we think about the motor system, about coding direction muscles, we're thinking about the basal ganglia and serving as this gating thing that determines when you initiate a movement and so forth.",
+    "start_ms": 853358,
+    "end_ms": 880358,
+    "duration_ms": 27000,
+    "word_count": 74,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 880.358,
+    "text": "How those basic ideas have actually now been translated into these brain machine interface systems that we're seeing a few of them even with these radical ones in people who are paralyzed or have these debilitating atrophic processes like ALS.",
+    "start_ms": 880358,
+    "end_ms": 894358,
+    "duration_ms": 14000,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 894.358,
+    "text": "Again, very limited application right now because it's such a demanding and intensive procedure.",
+    "start_ms": 894358,
+    "end_ms": 901358,
+    "duration_ms": 7000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 901.358,
+    "text": "Or in the Parkinson world, the DBS, and as I said, the numbers are in the tens of thousands if not hundreds of thousands now.",
+    "start_ms": 901358,
+    "end_ms": 907358,
+    "duration_ms": 6000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 907.358,
+    "text": "All right. So I'll end there and we'll pick up with memory lectures next week.",
+    "start_ms": 907358,
+    "end_ms": 913358,
+    "duration_ms": 6000,
+    "word_count": 15,
+    "avg_confidence": 90
+  }
+]

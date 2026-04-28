@@ -1,0 +1,3494 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "Great. Okay. Well, I'm sorry for starting the recording a little bit late.",
+    "start_ms": 0,
+    "end_ms": 7765,
+    "duration_ms": 7765,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 7.765,
+    "text": "You've missed a discussion about the difference between optic ataxia and apraxia, like ideomotor apraxia.",
+    "start_ms": 7765,
+    "end_ms": 15202,
+    "duration_ms": 7437,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 15.202,
+    "text": "And just to summarize that really briefly, both are difficulty in making coordinated movements, but optic ataxia is difficulty in actually using vision to make the movement.",
+    "start_ms": 15202,
+    "end_ms": 26120,
+    "duration_ms": 10918,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 26.12,
+    "text": "So actually, it's not so much a motor problem, except that they aren't able to direct their movements to target locations in space.",
+    "start_ms": 26120,
+    "end_ms": 32148,
+    "duration_ms": 6028,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 32.148,
+    "text": "And it really emphasized this difference between the dorsal pathway being important for using visual information to guide action, and the ventral pathway for recognizing what an object is.",
+    "start_ms": 32148,
+    "end_ms": 44819,
+    "duration_ms": 12671,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 44.819,
+    "text": "And again, people with optic ataxia, they can tell you what's out there in the world, but they can't direct their actions towards it.",
+    "start_ms": 44819,
+    "end_ms": 51843,
+    "duration_ms": 7024,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 51.843,
+    "text": "Whereas ideomotor apraxia, that's actually where you still have strength in your muscles, so you can do that, but you can't form a coherent movement.",
+    "start_ms": 51843,
+    "end_ms": 59691,
+    "duration_ms": 7848,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 59.691,
+    "text": "You kind of like can't chain together sequence events. And I refer you back to the videotape of the guy trying to open the can of soda, which requires quite coordinated movements, coordination between the two hands.",
+    "start_ms": 59691,
+    "end_ms": 72831,
+    "duration_ms": 13140,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 72.831,
+    "text": "The patient had great difficulty. Now we have someone asking a question about the exam question.",
+    "start_ms": 72831,
+    "end_ms": 79011,
+    "duration_ms": 6180,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 79.011,
+    "text": "And in particular, the question was about, let's go through essay question number A here on the sample exam.",
+    "start_ms": 79011,
+    "end_ms": 85706,
+    "duration_ms": 6695,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 85.706,
+    "text": "So this one's about... Professor? Yes. I'm so sorry to interrupt, but when you're answering essay question A, can you go like more in depth when you're about to like do your graph, like on what we should be doing instead of like a general explanation, just like what type of graph, if that makes sense?",
+    "start_ms": 85706,
+    "end_ms": 103599,
+    "duration_ms": 17893,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 103.599,
+    "text": "Sure. So it's a great question. You can make graphs of all sorts.",
+    "start_ms": 103599,
+    "end_ms": 111833,
+    "duration_ms": 8234,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 111.833,
+    "text": "In this class, I would say for the most part, you should anticipate that you're going to make either a line graph or a bar graph, okay?",
+    "start_ms": 111833,
+    "end_ms": 121540,
+    "duration_ms": 9707,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 121.54,
+    "text": "There may be times, so let's just quickly actually draw out some of the different graphs.",
+    "start_ms": 121540,
+    "end_ms": 126443,
+    "duration_ms": 4903,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 126.443,
+    "text": "So a bar graph would be something like, you know, you might have condition one and condition two.",
+    "start_ms": 126443,
+    "end_ms": 132535,
+    "duration_ms": 6092,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 132.535,
+    "text": "And then of course, I'm going to label my axes with my independent variable down here and my dependent variable up here.",
+    "start_ms": 132535,
+    "end_ms": 142189,
+    "duration_ms": 9654,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 142.189,
+    "text": "So that's certainly one type of graph that it's going to be quite common on answers.",
+    "start_ms": 142189,
+    "end_ms": 147799,
+    "duration_ms": 5610,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 147.799,
+    "text": "In some cases, people are going to have maybe their independent variable down here and their dependent variable, and they might have a line graph.",
+    "start_ms": 147799,
+    "end_ms": 155691,
+    "duration_ms": 7892,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 155.691,
+    "text": "And that's typically going to be when you have some sort of continuous variable, like for instance, just to make something up, if this independent variable was something like sports athletes versus non-athletes, those are two different groups, so I'd probably use a bar graph.",
+    "start_ms": 155691,
+    "end_ms": 175505,
+    "duration_ms": 19814,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 175.505,
+    "text": "But if those independent variable might have been years of practice where people had either practiced for three weeks, six weeks, or nine weeks on a task, then I might use a line graph because it's a continuous variable.",
+    "start_ms": 175505,
+    "end_ms": 189639,
+    "duration_ms": 14134,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 189.639,
+    "text": "On the other hand, you know, those are going to be the two main graphs.",
+    "start_ms": 189639,
+    "end_ms": 193439,
+    "duration_ms": 3800,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 193.439,
+    "text": "Of course, sometimes you might be doing a correlation. And so then we're going to have one variable on one axis, another variable on another axis.",
+    "start_ms": 193439,
+    "end_ms": 203985,
+    "duration_ms": 10546,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 203.985,
+    "text": "You might put a bunch of dots, or you might just draw the line.",
+    "start_ms": 203985,
+    "end_ms": 208750,
+    "duration_ms": 4765,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 208.75,
+    "text": "Frequently people do it this way. And that's just, again, to capture that there's a relationship between two different variables.",
+    "start_ms": 208750,
+    "end_ms": 215743,
+    "duration_ms": 6993,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 215.743,
+    "text": "It's not like I'm manipulating one of the variables, which is what we'd be doing if we had an independent variable.",
+    "start_ms": 215743,
+    "end_ms": 223189,
+    "duration_ms": 7446,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 223.189,
+    "text": "Here, with a correlation, we have two different variables, and we're just checking to see is there some sort of relationship between the two of them.",
+    "start_ms": 223189,
+    "end_ms": 229524,
+    "duration_ms": 6335,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 229.524,
+    "text": "So that's what most of your graphs are going to end up looking like.",
+    "start_ms": 229524,
+    "end_ms": 233666,
+    "duration_ms": 4142,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 233.666,
+    "text": "There are a few other exceptions. In some cases, you might decide that you want to show, say, the bold response to a particular stimulus.",
+    "start_ms": 233666,
+    "end_ms": 246281,
+    "duration_ms": 12615,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 246.281,
+    "text": "And so now you might be graphing something like here's time, here's the bold response.",
+    "start_ms": 246281,
+    "end_ms": 254324,
+    "duration_ms": 8043,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 254.324,
+    "text": "And you might be saying, like, let's say we're doing measurements in area V4, and we're comparing stimuli that vary in color versus motion.",
+    "start_ms": 254324,
+    "end_ms": 267896,
+    "duration_ms": 13572,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 267.896,
+    "text": "And we might then say, what's the bold response when we turn on that stimulus, and it's either a brightly colored one or one that's moving about?",
+    "start_ms": 267896,
+    "end_ms": 278819,
+    "duration_ms": 10923,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 278.819,
+    "text": "It's not the best experiment. I'd want to have some sort of contrast.",
+    "start_ms": 278819,
+    "end_ms": 281990,
+    "duration_ms": 3171,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 281.99,
+    "text": "But here I might place the bold response in terms of time zero.",
+    "start_ms": 281990,
+    "end_ms": 285519,
+    "duration_ms": 3529,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 285.519,
+    "text": "We know that with the bold response, it comes up, and then it gradually falls off, peaking, say, around six seconds.",
+    "start_ms": 285519,
+    "end_ms": 292863,
+    "duration_ms": 7344,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 292.863,
+    "text": "And we might show that, oh, it's stronger for color than for motion.",
+    "start_ms": 292863,
+    "end_ms": 299539,
+    "duration_ms": 6676,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 299.539,
+    "text": "So these are all very legitimate kinds of graphs that you might be using in the things here.",
+    "start_ms": 299539,
+    "end_ms": 308041,
+    "duration_ms": 8502,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 308.041,
+    "text": "Again, other time courses that you might have might be something like if you've decided to do an EEG study, and you were plotting the response to observing someone making a movement or something like that.",
+    "start_ms": 308041,
+    "end_ms": 326880,
+    "duration_ms": 18839,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 326.467,
+    "text": "like that. And again, there you might say, oh, there's going to be this EEG response in one condition.",
+    "start_ms": 326467,
+    "end_ms": 333359,
+    "duration_ms": 6892,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 333.359,
+    "text": "Again, this is time and this might just be the electrical signal and so forth.",
+    "start_ms": 333359,
+    "end_ms": 338559,
+    "duration_ms": 5200,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 338.559,
+    "text": "So those are really the kinds of graphs that should probably suffice for just about any of the questions in general.",
+    "start_ms": 338559,
+    "end_ms": 345764,
+    "duration_ms": 7205,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 345.764,
+    "text": "So now we can talk about applying this knowledge to option A here.",
+    "start_ms": 345764,
+    "end_ms": 353113,
+    "duration_ms": 7349,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 353.113,
+    "text": "And for those of you who attended the first review session, you know that I definitely prefer that we do this interactively rather than me preaching to the choir here.",
+    "start_ms": 353113,
+    "end_ms": 368284,
+    "duration_ms": 15171,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 368.284,
+    "text": "I think it's going to be a little trickier in Zoom, so I'll do more of the lead, but I'm still going to ask your involvement.",
+    "start_ms": 368284,
+    "end_ms": 375838,
+    "duration_ms": 7554,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 375.838,
+    "text": "So the question is, again, sports stars spend hours watching their own videos of the performance because they believe that, obviously, that this somehow is going to improve their skills just through observation.",
+    "start_ms": 375838,
+    "end_ms": 388256,
+    "duration_ms": 12418,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 388.256,
+    "text": "Propose an experiment that will assess the involvement of the primary motor cortex in skill learning through action observation.",
+    "start_ms": 388256,
+    "end_ms": 396214,
+    "duration_ms": 7958,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 396.214,
+    "text": "Okay, so you're actually just proposing one experiment in this condition here, but graph two different outcomes and then comment on the limitations you see with each outcomes in terms of the hypothesis.",
+    "start_ms": 396214,
+    "end_ms": 411625,
+    "duration_ms": 15411,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 411.625,
+    "text": "So someone give me a method that they'd like to use and we can go with that.",
+    "start_ms": 411625,
+    "end_ms": 417422,
+    "duration_ms": 5797,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 417.422,
+    "text": "Okay, and let's go walk through one method and then maybe we'll do it again with a different method to see.",
+    "start_ms": 417422,
+    "end_ms": 421998,
+    "duration_ms": 4576,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 422.159,
+    "text": "Okay, so we're going to do one where people are doing an fMRI experiment.",
+    "start_ms": 422159,
+    "end_ms": 427523,
+    "duration_ms": 5364,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 427.523,
+    "text": "Okay, and as I've advised some of you, you know, if you can, of course, you can jot down notes, but some ways I think you're going to find it easiest to do these essay questions is actually to try to go right to the graph.",
+    "start_ms": 427523,
+    "end_ms": 439544,
+    "duration_ms": 12021,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 439.544,
+    "text": "Now, you don't want to use up all your paper because if you get screwed up, you got to save some space to start over again, but I have my magic pen.",
+    "start_ms": 439544,
+    "end_ms": 447324,
+    "duration_ms": 7780,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 447.324,
+    "text": "I'm going to save some space to start over again, but I have my magic pad here.",
+    "start_ms": 447324,
+    "end_ms": 452005,
+    "duration_ms": 4681,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 452.005,
+    "text": "I can screw up and start over again. Can I add a follow-up question to that?",
+    "start_ms": 452005,
+    "end_ms": 459171,
+    "duration_ms": 7166,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 459.171,
+    "text": "Yeah. Can you explain the connection between BOLD and fMRI?",
+    "start_ms": 459171,
+    "end_ms": 464314,
+    "duration_ms": 5143,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 464.314,
+    "text": "I know we went over that last. Sure, sure, sure.",
+    "start_ms": 464314,
+    "end_ms": 467767,
+    "duration_ms": 3453,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 467.767,
+    "text": "Okay. Yeah, thank you. All right, so again, one of your colleagues there said they wanted to do an fMRI experiment.",
+    "start_ms": 467767,
+    "end_ms": 475679,
+    "duration_ms": 7912,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 476.479,
+    "text": "There are different measures we can use with fMRI, but the most classic one is to use the BOLD response, which stands for blood oxygen, B-O-L, oxygen level dependent response.",
+    "start_ms": 476479,
+    "end_ms": 489518,
+    "duration_ms": 13039,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 490.559,
+    "text": "Basically, again, with fMRI, we don't measure neural activity directly.",
+    "start_ms": 490559,
+    "end_ms": 495415,
+    "duration_ms": 4856,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 495.415,
+    "text": "We measure the delivery of oxygen because when neurons fire, there's feedback loops, probably driven by the astrocytes that say, hey, my neurons are firing here.",
+    "start_ms": 495415,
+    "end_ms": 507642,
+    "duration_ms": 12227,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 507.642,
+    "text": "I'm going to tap into the blood supply and extract extra oxygen because I know I've already burned up a lot of the oxygen.",
+    "start_ms": 507642,
+    "end_ms": 514951,
+    "duration_ms": 7309,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 514.951,
+    "text": "Brain cells use up a lot of oxygen, and so what happens is initially you deplete the oxygen in the active area, but that happens very quickly, and what really happens is that the brain compensates, overcompensates, and delivers more oxygen to an area that's been recently active, and the fMRI machine is set up, or the way people set it up, is that they're going to measure the magnetic properties that are different in oxygenated versus deoxygenated blood, and so in the end, we end up with a metabolic measure.",
+    "start_ms": 514951,
+    "end_ms": 547404,
+    "duration_ms": 32453,
+    "word_count": 91,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 547.404,
+    "text": "By metabolic, I mean it's really a measure of oxygen, but we use it as a proxy of neural activity, so if we're doing an fMRI experiment, that would be the basic one we'd be doing, so we're probably going to be measuring the bold, so we're going to put that, and usually we might even put it's going to be the change in the bold signal because, of course, oxygen is always being used, and as I mentioned earlier, you know, when you use a particular part of the brain, it might increase its level of oxygen by maybe one or two percent.",
+    "start_ms": 547404,
+    "end_ms": 578132,
+    "duration_ms": 30728,
+    "word_count": 104,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 578.132,
+    "text": "It's not a huge difference, but these machines are really sensitive, and so they'll pick up that one or two percent difference, and that little triangle I put in there, that just means the change in the bold response, but you'd probably be fine to just say the bold response.",
+    "start_ms": 578132,
+    "end_ms": 592408,
+    "duration_ms": 14276,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 592.408,
+    "text": "Now, again, we, of course, know that I could have drawn the bold response, but I could also just plot as a paragraph the change in the bold response, so now we've got to think about what are we going to do, so we want to look at the involvement of the primary motor cortex when people are observing actions, so what would be the most simplest thing we would measure here?",
+    "start_ms": 592408,
+    "end_ms": 616883,
+    "duration_ms": 24475,
+    "word_count": 72,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 616.883,
+    "text": "What might we do for an independent variable here? Brain regions.",
+    "start_ms": 616883,
+    "end_ms": 625758,
+    "duration_ms": 8875,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 627.679,
+    "text": "Okay, so you're saying one independent variable might be we're going to measure in primary motor cortex, is that right?",
+    "start_ms": 627679,
+    "end_ms": 634131,
+    "duration_ms": 6452,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 634.131,
+    "text": "Yeah, and then you could also have somewhere else as like a control that isn't related.",
+    "start_ms": 634131,
+    "end_ms": 639358,
+    "duration_ms": 5227,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 639.358,
+    "text": "Cool, so let's do M1 and V1, okay, primary motor cortex and primary visual.",
+    "start_ms": 639358,
+    "end_ms": 647198,
+    "duration_ms": 7840,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 646.757,
+    "text": "and primary visual cortex. Okay, so that's one thing we're gonna do.",
+    "start_ms": 646757,
+    "end_ms": 651597,
+    "duration_ms": 4840,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 651.597,
+    "text": "That's one independent variables we're gonna measure. Now, I could pop the bold response, but what is the bold response to?",
+    "start_ms": 651597,
+    "end_ms": 659458,
+    "duration_ms": 7861,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 661.398,
+    "text": "So again, assuming this is true, right? Sports stars spend many hours watching video clips of their own performance, claiming they can improve their skills just through observation.",
+    "start_ms": 661398,
+    "end_ms": 672258,
+    "duration_ms": 10860,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 673.277,
+    "text": "So what do we need to do? We need to have some, we actually need to look and see, let's have people watching video clips of their own performance.",
+    "start_ms": 673277,
+    "end_ms": 683317,
+    "duration_ms": 10040,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 683.317,
+    "text": "So it doesn't have to be their own performance, but they have to watch movies.",
+    "start_ms": 683317,
+    "end_ms": 686398,
+    "duration_ms": 3081,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 686.398,
+    "text": "So let's say we're gonna take, we might even say we're gonna take tennis players and we're gonna have them watch movies of tennis playing happening, okay?",
+    "start_ms": 686398,
+    "end_ms": 697098,
+    "duration_ms": 10700,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 697.098,
+    "text": "So let's say we do that. What do we expect to see?",
+    "start_ms": 697098,
+    "end_ms": 700797,
+    "duration_ms": 3699,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 700.797,
+    "text": "So now I'm gonna plot watching tennis movies. What do we expect to see in the motor cortex if our hypothesis is true?",
+    "start_ms": 700797,
+    "end_ms": 707978,
+    "duration_ms": 7181,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 712.457,
+    "text": "We're gonna expect to see a response in the primary motor cortex if the hypothesis is true, right?",
+    "start_ms": 712457,
+    "end_ms": 719758,
+    "duration_ms": 7301,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 719.758,
+    "text": "Just watching the movie should activate the primary motor cortex if the hypothesis is true.",
+    "start_ms": 719758,
+    "end_ms": 726497,
+    "duration_ms": 6739,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 726.538,
+    "text": "Now, the proposal here is we do it in another brain area.",
+    "start_ms": 726538,
+    "end_ms": 729377,
+    "duration_ms": 2839,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 729.377,
+    "text": "I chose V1, kind of a tricky one to choose that.",
+    "start_ms": 729377,
+    "end_ms": 733457,
+    "duration_ms": 4080,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 733.457,
+    "text": "What do we think is gonna happen in V1 if we do this?",
+    "start_ms": 733457,
+    "end_ms": 736777,
+    "duration_ms": 3320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 736.777,
+    "text": "Do we expect to see an increase in the bold response there?",
+    "start_ms": 736777,
+    "end_ms": 739637,
+    "duration_ms": 2860,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 742.997,
+    "text": "Less activity than M1. Okay, well, so we can say less than activity in M1.",
+    "start_ms": 742997,
+    "end_ms": 749177,
+    "duration_ms": 6180,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 749.177,
+    "text": "That would be one option, but it's unclear really, A, how we can compare those two because we don't, you know, they're two different parts of the brain.",
+    "start_ms": 749177,
+    "end_ms": 761177,
+    "duration_ms": 12000,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 761.177,
+    "text": "You know, they might work harder. It's kind of an apples and oranges connection, I'd say.",
+    "start_ms": 761177,
+    "end_ms": 765538,
+    "duration_ms": 4361,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 765.538,
+    "text": "But I think I like the idea that you're having that we do expect to see activation because what did I do?",
+    "start_ms": 765538,
+    "end_ms": 770617,
+    "duration_ms": 5079,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 770.617,
+    "text": "I said, let's have them watch movies, okay? So I'm gonna pretend that they're actually equally active.",
+    "start_ms": 770617,
+    "end_ms": 776938,
+    "duration_ms": 6321,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 776.938,
+    "text": "Could be more, could be less, but I'll pretend it's more.",
+    "start_ms": 776938,
+    "end_ms": 779658,
+    "duration_ms": 2720,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 779.658,
+    "text": "So now we can see that, oh, now we have a weakness here with this experiment.",
+    "start_ms": 779658,
+    "end_ms": 783018,
+    "duration_ms": 3360,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 783.018,
+    "text": "If you're drawing this experiment, you see, well, this hasn't really addressed it.",
+    "start_ms": 783018,
+    "end_ms": 786938,
+    "duration_ms": 3920,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 786.938,
+    "text": "What's missing? Okay, so we have one condition where the people are watching video clips of sports events.",
+    "start_ms": 786938,
+    "end_ms": 795397,
+    "duration_ms": 8459,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 795.397,
+    "text": "Well, what might we do as a control condition here?",
+    "start_ms": 795397,
+    "end_ms": 800397,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 802.858,
+    "text": "Have them watch something else that isn't related to their sport?",
+    "start_ms": 802858,
+    "end_ms": 805777,
+    "duration_ms": 2919,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 805.777,
+    "text": "Exactly, let's watch something else. Like let's watch landscape movies, National Geographic movies that are panning of across, the ice fields of Antarctica.",
+    "start_ms": 805777,
+    "end_ms": 817257,
+    "duration_ms": 11480,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 817.257,
+    "text": "So if we do that, now, what do we expect to see?",
+    "start_ms": 817257,
+    "end_ms": 820018,
+    "duration_ms": 2761,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 820.018,
+    "text": "We expect, so now we got to do our graph.",
+    "start_ms": 820018,
+    "end_ms": 822417,
+    "duration_ms": 2399,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 822.417,
+    "text": "We're gonna have another bar graph here. Oops, have another bar graph.",
+    "start_ms": 822417,
+    "end_ms": 828578,
+    "duration_ms": 6161,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 828.578,
+    "text": "And now we expect to see very little activation in M1, but we might expect to see a lot of activation still in V1.",
+    "start_ms": 828578,
+    "end_ms": 837218,
+    "duration_ms": 8640,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 837.218,
+    "text": "We don't know if watching movies is as stimulating as watching sports movies, but we're gonna make that point that we think we get this interaction.",
+    "start_ms": 837218,
+    "end_ms": 846218,
+    "duration_ms": 9000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 846.218,
+    "text": "And that's the essence here. And of course, now you have to label your graph.",
+    "start_ms": 846218,
+    "end_ms": 850218,
+    "duration_ms": 4000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 850.218,
+    "text": "So you'd want to go here. These are gonna be sports movies, and these are gonna be nature movies.",
+    "start_ms": 850218,
+    "end_ms": 861878,
+    "duration_ms": 11660,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 863.497,
+    "text": "And so now, see what we've done here is we've actually built in two controls.",
+    "start_ms": 863497,
+    "end_ms": 868137,
+    "duration_ms": 4640,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 868.137,
+    "text": "We didn't necessarily need it. You could have done the experiment probably just with this here, and that would have probably been sufficient.",
+    "start_ms": 868137,
+    "end_ms": 878417,
+    "duration_ms": 10280,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 878.417,
+    "text": "But again, I've talked about, the best answers really require something that goes a little bit beyond the most elementary response.",
+    "start_ms": 878417,
+    "end_ms": 887777,
+    "duration_ms": 9360,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 887.777,
+    "text": "And so here, this is a really nice one to have that other one, because we're showing that, hey, look, V1, it's active.",
+    "start_ms": 887777,
+    "end_ms": 895098,
+    "duration_ms": 7321,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 895.098,
+    "text": "It's watching movies, we expect to see activation of V1, but of course, it's responsive to both sports and nature movies.",
+    "start_ms": 895098,
+    "end_ms": 902298,
+    "duration_ms": 7200,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 902.298,
+    "text": "And our hypothesis is that M1 is gonna be active, engaged when we're watching a movie about athletics.",
+    "start_ms": 902298,
+    "end_ms": 909778,
+    "duration_ms": 7480,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 909.778,
+    "text": "So that would be one way to look at this question here, and this would be a perfectly fine experiment.",
+    "start_ms": 909778,
+    "end_ms": 915338,
+    "duration_ms": 5560,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 915.338,
+    "text": "And you could list again, if you describe it, you'd list that I have two independent variables.",
+    "start_ms": 915338,
+    "end_ms": 921298,
+    "duration_ms": 5960,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 921.298,
+    "text": "I have IV1 is brain region, and IV2 is movie type, and my dependent variable is the bold response, okay?",
+    "start_ms": 921298,
+    "end_ms": 939657,
+    "duration_ms": 18359,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 940.738,
+    "text": "So that would be a very, very solid answer to this question here.",
+    "start_ms": 940738,
+    "end_ms": 946458,
+    "duration_ms": 5720,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 946.458,
+    "text": "Okay, I might even get perfect points there. You've got the two different controls, the task control and the brain region control, okay?",
+    "start_ms": 946458,
+    "end_ms": 955058,
+    "duration_ms": 8600,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 955.498,
+    "text": "What is, sorry, I just, it's a little illegible where it says IV1, does that say?",
+    "start_ms": 955498,
+    "end_ms": 962217,
+    "duration_ms": 6719,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 962.217,
+    "text": "IV1 is, okay, I will try to draw a little nicer.",
+    "start_ms": 962217,
+    "end_ms": 966498,
+    "duration_ms": 4281,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 976.157,
+    "text": "Brain region. Okay, so IV is the independent variable. And so I have two different independent variables.",
+    "start_ms": 976157,
+    "end_ms": 983877,
+    "duration_ms": 7720,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 983.877,
+    "text": "One is which brain region, M1 or V1, right? And then I have a second independent variable, which was, again, if I clean it up here, it says movie type.",
+    "start_ms": 983877,
+    "end_ms": 996877,
+    "duration_ms": 13000,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1000.437,
+    "text": "And that's what I did here, of sports movies or nature movies.",
+    "start_ms": 1000437,
+    "end_ms": 1004717,
+    "duration_ms": 4280,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1004.717,
+    "text": "And again, as I've said in class, this is like a two by two, two levels of independent variable one, two levels of independent variable two.",
+    "start_ms": 1004717,
+    "end_ms": 1014636,
+    "duration_ms": 9919,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1014.676,
+    "text": "If it's two by two, that means I have four conditions and I should have four bar graphs.",
+    "start_ms": 1014676,
+    "end_ms": 1019717,
+    "duration_ms": 5041,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1019.717,
+    "text": "And that's how I would know, hey, I'm on the right track here, okay?",
+    "start_ms": 1019717,
+    "end_ms": 1024197,
+    "duration_ms": 4480,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1026.356,
+    "text": "I'm gonna erase this and do a few other things here.",
+    "start_ms": 1026356,
+    "end_ms": 1029636,
+    "duration_ms": 3280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1029.636,
+    "text": "So if you have a question before I erase this, ask now.",
+    "start_ms": 1029636,
+    "end_ms": 1032956,
+    "duration_ms": 3320,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1032.956,
+    "text": "Oh, I have a quick question. So if I were to write the hypothesis for this, like in bullet points on the exam, like how would I write it for like this specific graph?",
+    "start_ms": 1032956,
+    "end_ms": 1042837,
+    "duration_ms": 9881,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1045.197,
+    "text": "This one, you don't really even have to write that hypothesis because it's given to you, okay?",
+    "start_ms": 1045197,
+    "end_ms": 1050757,
+    "duration_ms": 5560,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1050.757,
+    "text": "The hypothesis is watching videos engages primary motor cortex. Or not, not watching videos, I'm sorry.",
+    "start_ms": 1050757,
+    "end_ms": 1059437,
+    "duration_ms": 8680,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1059.437,
+    "text": "Action observation. Okay, yeah, that would be the phrasing. I'm sorry, that's actually a good question.",
+    "start_ms": 1059437,
+    "end_ms": 1065437,
+    "duration_ms": 6000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1065.437,
+    "text": "To make it concise, to go from the general thing, right?",
+    "start_ms": 1065437,
+    "end_ms": 1068157,
+    "duration_ms": 2720,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1068.157,
+    "text": "I've given you an explanation about why they watch the videos, but really what's the hypothesis we're testing?",
+    "start_ms": 1068157,
+    "end_ms": 1074037,
+    "duration_ms": 5880,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1074.477,
+    "text": "We're testing a very specific hypothesis, and that is action observation engages the primary motor cortex.",
+    "start_ms": 1074477,
+    "end_ms": 1083037,
+    "duration_ms": 8560,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1083.037,
+    "text": "And remember, we've talked in the class about that, well, yes, primary motor cortex is important for activating the muscles, but we also know that apraxia, you know, isn't observed with lesions of the primary motor cortex.",
+    "start_ms": 1083037,
+    "end_ms": 1096236,
+    "duration_ms": 13199,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1096.236,
+    "text": "There it's lesions of the parietal lobe, that dorsal pathway, or lesions of the prefrontal and premotor cortices.",
+    "start_ms": 1096236,
+    "end_ms": 1103676,
+    "duration_ms": 7440,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1104.316,
+    "text": "And so it may well be, to observe an action, you're engaging the motor network, but maybe you aren't actually engaging the primary motor cortex at all.",
+    "start_ms": 1104316,
+    "end_ms": 1112316,
+    "duration_ms": 8000,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1112.316,
+    "text": "So again, the claim is that, you know, when we know lots of athletes think they gotta watch video clips over and over again, it does something for them, but here we're testing a very specific hypothesis.",
+    "start_ms": 1112316,
+    "end_ms": 1125557,
+    "duration_ms": 13241,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1125.557,
+    "text": "Does action observation engage the primary motor cortex? Because we usually think of the primary motor cortex as for the output, but here we're testing the idea that, actually, it's also engaged when people are engaged in action observation, when they're thinking about movement, not necessarily engaging in movement.",
+    "start_ms": 1125557,
+    "end_ms": 1144236,
+    "duration_ms": 18679,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1144.236,
+    "text": "So that would be the very specific hypothesis. If you think back to that assignment you did in sections, we had the general question about, gee, you know, observing action can be useful.",
+    "start_ms": 1144236,
+    "end_ms": 1156076,
+    "duration_ms": 11840,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1156.076,
+    "text": "Now though, we have that second level question, which is what we're really running our experiment on, which is, is primary motor cortex engaged during action observation?",
+    "start_ms": 1156076,
+    "end_ms": 1165956,
+    "duration_ms": 9880,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1165.956,
+    "text": "Okay? Any other questions about that before I erase this picture?",
+    "start_ms": 1165956,
+    "end_ms": 1170516,
+    "duration_ms": 4560,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1170.516,
+    "text": "Would there be any main effects here? There is a main effect the way I drew it, because there is actually more activation.",
+    "start_ms": 1170516,
+    "end_ms": 1180637,
+    "duration_ms": 10121,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1180.637,
+    "text": "If you look here, you can see there's more activation in the visual cortex than in the motor cortex.",
+    "start_ms": 1180637,
+    "end_ms": 1187236,
+    "duration_ms": 6599,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1187.236,
+    "text": "So there is actually a main effect of that. There's also a main effect that you can see that watching sports movies is actually greater, if I sum it up, than watching nature movies.",
+    "start_ms": 1187236,
+    "end_ms": 1198596,
+    "duration_ms": 11360,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1198.596,
+    "text": "Okay? So there are those main effects here. In this particular case, those main effects aren't really that relevant to our hypothesis, okay?",
+    "start_ms": 1198596,
+    "end_ms": 1208236,
+    "duration_ms": 9640,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1208.236,
+    "text": "What was really relevant was, do we get this selective engagement of the motor cortex when watching sports movies compared to another condition?",
+    "start_ms": 1208236,
+    "end_ms": 1216797,
+    "duration_ms": 8561,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1216.797,
+    "text": "So it's really that interaction that's critical. It tends to be true in general, that main effects frequently aren't that interesting.",
+    "start_ms": 1216797,
+    "end_ms": 1224316,
+    "duration_ms": 7519,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1225.316,
+    "text": "Interactions are always more important, in a sense, than the main effects.",
+    "start_ms": 1225316,
+    "end_ms": 1231276,
+    "duration_ms": 5960,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1231.276,
+    "text": "But there are two main effects here and the interaction.",
+    "start_ms": 1231276,
+    "end_ms": 1235276,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1235.276,
+    "text": "It's really the interaction, though, that's relevant to the hypothesis we're testing here.",
+    "start_ms": 1235276,
+    "end_ms": 1240077,
+    "duration_ms": 4801,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1240.077,
+    "text": "Because remember, as I said earlier, it was completely arbitrary.",
+    "start_ms": 1240077,
+    "end_ms": 1245237,
+    "duration_ms": 5160,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1246.237,
+    "text": "How I drew what happened in visual cortex, that could have been like this, you know, and so forth.",
+    "start_ms": 1246237,
+    "end_ms": 1253996,
+    "duration_ms": 7759,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1253.996,
+    "text": "It could have been, the one thing we didn't want to see in visual cortex, okay, is something like this.",
+    "start_ms": 1253996,
+    "end_ms": 1261077,
+    "duration_ms": 7081,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1261.077,
+    "text": "If we got this result, now let's think about it.",
+    "start_ms": 1261077,
+    "end_ms": 1267757,
+    "duration_ms": 6680,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1267.757,
+    "text": "Suppose we got this result, okay? How would that change it?",
+    "start_ms": 1267757,
+    "end_ms": 1272757,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1272.757,
+    "text": "Again, if we get this result, now we know that, huh, sports movies are more active, more engaging for the primary visual cortex than nature movies, okay?",
+    "start_ms": 1272757,
+    "end_ms": 1286917,
+    "duration_ms": 14160,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1286.596,
+    "text": "Okay, this is nature movies. Same is true in motor cortex.",
+    "start_ms": 1286596,
+    "end_ms": 1291875,
+    "duration_ms": 5279,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1291.875,
+    "text": "So you might think, oh, well, maybe that doesn't support my hypothesis because I guess I gotta admit one more person, okay?",
+    "start_ms": 1291875,
+    "end_ms": 1301115,
+    "duration_ms": 9240,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1301.115,
+    "text": "Because it's just the main effect that sports movies engage the brain more than other movies.",
+    "start_ms": 1301115,
+    "end_ms": 1307156,
+    "duration_ms": 6041,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1307.156,
+    "text": "In truth though, if you got this result, okay, you'd still have support for the hypothesis because the hypothesis is really about is motor cortex engaged through action observation?",
+    "start_ms": 1307156,
+    "end_ms": 1319436,
+    "duration_ms": 12280,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1319.436,
+    "text": "And that is true with this result here. So the truth is the way to do this experiment if you're really worrying about making a tight one is I would choose movies in advance that activate the visual cortex to a similar degree.",
+    "start_ms": 1319436,
+    "end_ms": 1336155,
+    "duration_ms": 16719,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1336.756,
+    "text": "So I keep playing with my movies and pilot work to get movies that activate the visual cortex in a similar way, and then I'd see, does that, do those same movies have a differential effect on the primary motor cortex?",
+    "start_ms": 1336756,
+    "end_ms": 1350436,
+    "duration_ms": 13680,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1350.436,
+    "text": "Again, that's a little more sophisticated than you'd need to get a very strong answer here.",
+    "start_ms": 1350436,
+    "end_ms": 1356196,
+    "duration_ms": 5760,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1356.196,
+    "text": "But if I was comparing to another area, that's one way that I would go about doing the experiment is first say, I'm gonna choose stimuli that activate this other area in a similar way and then see, do they have this differential effect in motor cortex?",
+    "start_ms": 1356196,
+    "end_ms": 1370796,
+    "duration_ms": 14600,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1372.516,
+    "text": "To keep moving forward though, let me just say one quick thing here.",
+    "start_ms": 1372516,
+    "end_ms": 1376675,
+    "duration_ms": 4159,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1376.675,
+    "text": "I could have done the same thing, but drawing it as a bold response, as I said, which could have been time.",
+    "start_ms": 1376675,
+    "end_ms": 1388516,
+    "duration_ms": 11841,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1389.396,
+    "text": "And I could have said, oh, I'm just gonna focus now, let's say on independent variable two.",
+    "start_ms": 1389396,
+    "end_ms": 1396275,
+    "duration_ms": 6879,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1396.275,
+    "text": "And I could say, when I watched nature movies, there was a very weak, bold response in the primary cortex.",
+    "start_ms": 1396275,
+    "end_ms": 1403275,
+    "duration_ms": 7000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1403.275,
+    "text": "We're gonna watch action movies, there was a very strong response.",
+    "start_ms": 1403275,
+    "end_ms": 1406796,
+    "duration_ms": 3521,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1406.796,
+    "text": "And I'm sorry, I should have done it more like, so that I could have labeled my things, right?",
+    "start_ms": 1406796,
+    "end_ms": 1416555,
+    "duration_ms": 9759,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1416.555,
+    "text": "This is the action movie, oops. This is the action movie, and this is the nature movie.",
+    "start_ms": 1416555,
+    "end_ms": 1425596,
+    "duration_ms": 9041,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1427.275,
+    "text": "So again, I'm actually graphing that same effect we just summarized in the bar graph, but now I'm showing you the time course here.",
+    "start_ms": 1427275,
+    "end_ms": 1436156,
+    "duration_ms": 8881,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1436.156,
+    "text": "And that would be another way to do it. If I wanted to have the two different brain regions, I'd have two more line functions here or two more functions.",
+    "start_ms": 1436156,
+    "end_ms": 1444915,
+    "duration_ms": 8759,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1444.915,
+    "text": "But again, this is really making the same point. I'm just graphing it a different way, a perfectly legitimate way that I'm showing you the bold response over time, okay?",
+    "start_ms": 1444915,
+    "end_ms": 1454076,
+    "duration_ms": 9161,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1454.076,
+    "text": "So let's leave that here now alone. Let's quickly do a different method for the same question.",
+    "start_ms": 1454076,
+    "end_ms": 1467676,
+    "duration_ms": 13600,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1468.716,
+    "text": "So what's a different method we could walk through here?",
+    "start_ms": 1468716,
+    "end_ms": 1471516,
+    "duration_ms": 2800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1480.115,
+    "text": "Well, I'll give you one. No, go ahead, yeah. Sorry, if I understand right by method, you mean like another type of, like something that's not fMRI?",
+    "start_ms": 1480115,
+    "end_ms": 1489275,
+    "duration_ms": 9160,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1489.275,
+    "text": "Yeah, yeah, exactly. Okay, TMS? Okay, let's do TMS. Okay, TMS is a little trickier.",
+    "start_ms": 1489275,
+    "end_ms": 1494876,
+    "duration_ms": 5601,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1494.876,
+    "text": "So we know TMS, if I do it over the motor cortex, right?",
+    "start_ms": 1494876,
+    "end_ms": 1499876,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1500.876,
+    "text": "We did the class demonstration, and you saw that when I did it in the class demonstration, right, by stimulating the primary motor cortex, I could make my finger move, okay, or I can make my hand move, all right?",
+    "start_ms": 1500876,
+    "end_ms": 1515275,
+    "duration_ms": 14399,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1516.195,
+    "text": "Now, if I was watching a movie that activated the motor cortex, what do you think might happen with the TMS there?",
+    "start_ms": 1516195,
+    "end_ms": 1527335,
+    "duration_ms": 11140,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1529.436,
+    "text": "Okay, what we might expect is, again, watching the movie is gonna activate the neurons in the motor cortex, and if I activate the neurons, I might expect now my TMS is actually gonna cause my hand to move even stronger.",
+    "start_ms": 1529436,
+    "end_ms": 1542356,
+    "duration_ms": 12920,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1542.356,
+    "text": "If I give the exact same TMS pulse, because those neurons are excited, I might now expect to see that the TMS pulse produces a bigger effect when I apply the TMS over the primary motor cortex.",
+    "start_ms": 1542356,
+    "end_ms": 1556436,
+    "duration_ms": 14080,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1556.436,
+    "text": "So that could be the experiment. And again, now we turn to drawing that experiment.",
+    "start_ms": 1556436,
+    "end_ms": 1561816,
+    "duration_ms": 5380,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1562.816,
+    "text": "So what might be our dependent variable here? And we talked about it, but you might not remember, so I'm gonna just say it.",
+    "start_ms": 1562816,
+    "end_ms": 1573735,
+    "duration_ms": 10919,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1573.735,
+    "text": "Officially, we might call it what's called the motor evoked potential.",
+    "start_ms": 1573735,
+    "end_ms": 1577856,
+    "duration_ms": 4121,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1581.455,
+    "text": "But basically, you could say, you can make up the words.",
+    "start_ms": 1581455,
+    "end_ms": 1584596,
+    "duration_ms": 3141,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1584.596,
+    "text": "If you don't remember the word motor evoked potential, you could say amount of hand movement.",
+    "start_ms": 1584596,
+    "end_ms": 1591656,
+    "duration_ms": 7060,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1592.656,
+    "text": "Hand movement in response to the TMS pulse. Sorry about, this is obviously jumbled.",
+    "start_ms": 1592656,
+    "end_ms": 1604816,
+    "duration_ms": 12160,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1604.816,
+    "text": "So this is big. big response and this is small response.",
+    "start_ms": 1604816,
+    "end_ms": 1610875,
+    "duration_ms": 6059,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1610.875,
+    "text": "Okay. And now basically, right, I could do something like watch action movie, watch nature movie.",
+    "start_ms": 1610875,
+    "end_ms": 1621488,
+    "duration_ms": 10613,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1621.488,
+    "text": "Okay. And again, if that action movie is activating the motor cortex, I might expect to see a big response compared to when I'm watching a nature movie.",
+    "start_ms": 1621488,
+    "end_ms": 1636635,
+    "duration_ms": 15147,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1636.635,
+    "text": "Okay. And that again would say that, look, there's a difference watching the movies activates.",
+    "start_ms": 1636635,
+    "end_ms": 1643235,
+    "duration_ms": 6600,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1643.235,
+    "text": "Now you could turn around and you could say, I'm going to draw the opposite and make the opposite prediction.",
+    "start_ms": 1643235,
+    "end_ms": 1651495,
+    "duration_ms": 8260,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1651.495,
+    "text": "And now you might interpret that by saying, oh, well, watching the movies activated the motor cortex and those neurons were occupied.",
+    "start_ms": 1651495,
+    "end_ms": 1661986,
+    "duration_ms": 10491,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1661.986,
+    "text": "And so they were less responsive to the TMS pulse.",
+    "start_ms": 1661986,
+    "end_ms": 1665728,
+    "duration_ms": 3742,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1665.728,
+    "text": "You can argue it either way, hypothesize it either way and so forth.",
+    "start_ms": 1665728,
+    "end_ms": 1671234,
+    "duration_ms": 5506,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1671.234,
+    "text": "But both would be consistent with the hypothesis because they basically are saying the activation state of the motor cortex is different between the action in the nature conditions.",
+    "start_ms": 1671234,
+    "end_ms": 1683842,
+    "duration_ms": 12608,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1683.842,
+    "text": "Therefore, I have support that watching action observation again is somehow engaging the primary motor cortex.",
+    "start_ms": 1683842,
+    "end_ms": 1691965,
+    "duration_ms": 8123,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1691.965,
+    "text": "So here's a case where, again, the direction of your results doesn't really matter.",
+    "start_ms": 1691965,
+    "end_ms": 1697714,
+    "duration_ms": 5749,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1697.714,
+    "text": "Both would be consistent with the hypothesis. One is that you prime the neurons so they're more excitable.",
+    "start_ms": 1697714,
+    "end_ms": 1703264,
+    "duration_ms": 5550,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1703.264,
+    "text": "The other one is that now you engage them because they're watching the movies and they're less responsive.",
+    "start_ms": 1703264,
+    "end_ms": 1708712,
+    "duration_ms": 5448,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1708.712,
+    "text": "Either way, the point is to say that I'm getting a differential response in the primary motor cortex between watching action movies and watching nature movies.",
+    "start_ms": 1708712,
+    "end_ms": 1718914,
+    "duration_ms": 10202,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1718.914,
+    "text": "And therefore, somehow action observation has engaged the primary motor cortex.",
+    "start_ms": 1718914,
+    "end_ms": 1723795,
+    "duration_ms": 4881,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1724.755,
+    "text": "Someone asked, what does the Y-axis say? Again, if you remember the details, and it's in the textbook, we call it a motor evoked potential.",
+    "start_ms": 1724755,
+    "end_ms": 1735135,
+    "duration_ms": 10380,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1735.135,
+    "text": "That is I'm measuring, I can do with EMG, how active is the hand muscle when I say TMS over my motor cortex.",
+    "start_ms": 1735135,
+    "end_ms": 1743234,
+    "duration_ms": 8099,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1743.954,
+    "text": "But if you don't remember that term, you're welcome to make up something that captures what you're measuring and what you're basically measuring is how much does the TMS pulse make my hand move.",
+    "start_ms": 1743954,
+    "end_ms": 1754706,
+    "duration_ms": 10752,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1754.706,
+    "text": "And if it moves a lot, it means the motor cortex is more activated by the TMS pulse.",
+    "start_ms": 1754706,
+    "end_ms": 1759954,
+    "duration_ms": 5248,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1759.954,
+    "text": "If it's activated a little, it means it's less activated by the TMS pulse.",
+    "start_ms": 1759954,
+    "end_ms": 1764434,
+    "duration_ms": 4480,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1765.234,
+    "text": "So again, you don't always have to remember exactly what the dependent variable is.",
+    "start_ms": 1765234,
+    "end_ms": 1773746,
+    "duration_ms": 8512,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1773.746,
+    "text": "You just have to be able to explain it. Even if you don't remember the word bold, or you don't remember motor evoked potential, just tell us what you're measuring.",
+    "start_ms": 1773746,
+    "end_ms": 1780843,
+    "duration_ms": 7097,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1780.843,
+    "text": "But you got to tell us what you're measuring. You can't say I'm going to use TMS and then not tell us and say that Y-axis is TMS measurement.",
+    "start_ms": 1780843,
+    "end_ms": 1789733,
+    "duration_ms": 8890,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1789.733,
+    "text": "That's the kind of thing that we saw cost people some points in the first exam.",
+    "start_ms": 1789733,
+    "end_ms": 1795154,
+    "duration_ms": 5421,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1795.794,
+    "text": "So make up the way to describe it, but just be able to describe it.",
+    "start_ms": 1795794,
+    "end_ms": 1801337,
+    "duration_ms": 5543,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1801.337,
+    "text": "And you can say my measure is motor cortex excitability.",
+    "start_ms": 1801337,
+    "end_ms": 1805389,
+    "duration_ms": 4052,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1805.389,
+    "text": "And then in text, write down my operational definition of motor cortex excitability is how far the hand moves when I give it a TMS pulse.",
+    "start_ms": 1805389,
+    "end_ms": 1815654,
+    "duration_ms": 10265,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1815.654,
+    "text": "Yeah. There was a question. Yeah. I was just going to ask for the results section of the experiment.",
+    "start_ms": 1815654,
+    "end_ms": 1822372,
+    "duration_ms": 6718,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1822.372,
+    "text": "That's where I got docked the most points. I'm wondering like what constitutes or like what you're looking for in that section.",
+    "start_ms": 1822372,
+    "end_ms": 1829817,
+    "duration_ms": 7445,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1829.817,
+    "text": "Exactly what I've been graphing here. Okay. So, so this, these are, I mean, having a graph, okay.",
+    "start_ms": 1829817,
+    "end_ms": 1842345,
+    "duration_ms": 12528,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1842.345,
+    "text": "And I've shown different types of graphs to do, but that you've labeled the X-axis.",
+    "start_ms": 1842345,
+    "end_ms": 1849475,
+    "duration_ms": 7130,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1849.475,
+    "text": "And again, if it's an experimental manipulation, that will be the independent variable.",
+    "start_ms": 1849475,
+    "end_ms": 1855298,
+    "duration_ms": 5823,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1855.298,
+    "text": "So basic. And then the Y-axis is what you're measuring.",
+    "start_ms": 1855298,
+    "end_ms": 1859216,
+    "duration_ms": 3918,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1859.216,
+    "text": "And basically the people grading it, they look at this graph and they say, do I know what this person did for an experiment?",
+    "start_ms": 1859216,
+    "end_ms": 1867003,
+    "duration_ms": 7787,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1867.003,
+    "text": "Does it make sense? Again, if they looked at this again, I would have labeled it movie type.",
+    "start_ms": 1867003,
+    "end_ms": 1874622,
+    "duration_ms": 7619,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1874.622,
+    "text": "So they can look at this and they'll say, oh, here's the person's experiment.",
+    "start_ms": 1874622,
+    "end_ms": 1879897,
+    "duration_ms": 5275,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1879.897,
+    "text": "They had a movie type. You watched an action movie.",
+    "start_ms": 1879897,
+    "end_ms": 1882674,
+    "duration_ms": 2777,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1882.674,
+    "text": "You watched a nature movie. And I measured, you know, the strength of the, the, the activation from a TMS pulse over the motor cortex.",
+    "start_ms": 1882674,
+    "end_ms": 1893368,
+    "duration_ms": 10694,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1893.368,
+    "text": "And I see it is different between the action condition and the nature condition.",
+    "start_ms": 1893368,
+    "end_ms": 1898960,
+    "duration_ms": 5592,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1898.96,
+    "text": "Therefore it supports the hypothesis that the primary motor cortex is engaged during action observation.",
+    "start_ms": 1898960,
+    "end_ms": 1906439,
+    "duration_ms": 7479,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1906.439,
+    "text": "Okay. So that's, again, you should be able to look at the graph and be able to say, describe the experiment.",
+    "start_ms": 1906439,
+    "end_ms": 1914438,
+    "duration_ms": 7999,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1914.438,
+    "text": "That's why I say, if you get the graph right, it's going to be very easy to write down what are the different variables and so forth, and to interpret it.",
+    "start_ms": 1914438,
+    "end_ms": 1923314,
+    "duration_ms": 8876,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1923.314,
+    "text": "And if your graph doesn't look right, if right, if, you know, suddenly, you know, you're finding that, wait a second, I can't figure out how to graph this.",
+    "start_ms": 1923314,
+    "end_ms": 1930665,
+    "duration_ms": 7351,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1930.665,
+    "text": "I think we started off by saying in the BOLD experiment, right, we started off, someone said, in that fMRI experiment, they said, let's measure BOLD while you watch sports movies, because that's exactly what you're told to do.",
+    "start_ms": 1930665,
+    "end_ms": 1951434,
+    "duration_ms": 20769,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1952.713,
+    "text": "Again, I hope you can read my writing. I'll do it again better.",
+    "start_ms": 1952713,
+    "end_ms": 1955353,
+    "duration_ms": 2640,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1958.233,
+    "text": "So, this is what you guys first told me your experiment was going to be.",
+    "start_ms": 1958233,
+    "end_ms": 1961434,
+    "duration_ms": 3201,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1962.873,
+    "text": "Okay, and when you look at that, you're probably going to know, well, wait, that doesn't look right, right?",
+    "start_ms": 1962873,
+    "end_ms": 1967456,
+    "duration_ms": 4583,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1967.456,
+    "text": "Because experiments always really are comparing different things. We have to have some sort of contrast.",
+    "start_ms": 1967456,
+    "end_ms": 1972986,
+    "duration_ms": 5530,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1972.986,
+    "text": "And so, this is sort of, again, we were talking through it as a group here.",
+    "start_ms": 1972986,
+    "end_ms": 1977274,
+    "duration_ms": 4288,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1977.274,
+    "text": "This is sort of the experiment you gave me at first, which is exactly what the question is asked for.",
+    "start_ms": 1977274,
+    "end_ms": 1982814,
+    "duration_ms": 5540,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1982.814,
+    "text": "It says, is the primary motor cortex engaged, okay, when observing an action?",
+    "start_ms": 1982814,
+    "end_ms": 1989704,
+    "duration_ms": 6890,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1989.704,
+    "text": "So, you're watching a sports movie, and indeed, it is.",
+    "start_ms": 1989704,
+    "end_ms": 1993884,
+    "duration_ms": 4180,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1993.884,
+    "text": "But without any control conditions, we really can't interpret that, okay?",
+    "start_ms": 1993884,
+    "end_ms": 1998193,
+    "duration_ms": 4309,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1998.193,
+    "text": "And maybe that, you know, always the primary motor cortex is engaged no matter what you're doing.",
+    "start_ms": 1998193,
+    "end_ms": 2003891,
+    "duration_ms": 5698,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2003.891,
+    "text": "And so, you need to have some sort of contrast.",
+    "start_ms": 2003891,
+    "end_ms": 2006602,
+    "duration_ms": 2711,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2006.602,
+    "text": "So, if you do your graph, and it looks like this, doesn't really, you know, then suddenly you can see it doesn't quite make sense.",
+    "start_ms": 2006602,
+    "end_ms": 2012730,
+    "duration_ms": 6128,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2012.73,
+    "text": "And so, that's how you sort of, you know, that's why I'm saying, draw your graph, get the graph right, and then everything else will be read right off of it.",
+    "start_ms": 2012730,
+    "end_ms": 2020794,
+    "duration_ms": 8064,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2020.794,
+    "text": "Okay. I mean, let's just turn away from the essays for a few minutes.",
+    "start_ms": 2020794,
+    "end_ms": 2028508,
+    "duration_ms": 7714,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2028.508,
+    "text": "We can always come back and do more essays here.",
+    "start_ms": 2028508,
+    "end_ms": 2032656,
+    "duration_ms": 4148,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2032.656,
+    "text": "But I want to make sure we have a chance to also talk about any questions, things that were unclear in the lecture.",
+    "start_ms": 2032656,
+    "end_ms": 2040953,
+    "duration_ms": 8297,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2040.953,
+    "text": "So, let me do that. Okay. So, okay, here we have a question about vector representation.",
+    "start_ms": 2040953,
+    "end_ms": 2047135,
+    "duration_ms": 6182,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2047.135,
+    "text": "So, let me pull that up. And I think I actually already have that lecture up, right?",
+    "start_ms": 2047135,
+    "end_ms": 2052633,
+    "duration_ms": 5498,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2056.074,
+    "text": "I will stop share here and share on the other screen.",
+    "start_ms": 2056074,
+    "end_ms": 2060199,
+    "duration_ms": 4125,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2060.199,
+    "text": "Give me one second here. Okay. You guys can all see my screen now?",
+    "start_ms": 2060199,
+    "end_ms": 2072473,
+    "duration_ms": 12274,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2072.874,
+    "text": "Someone give me a yes? Yes. Yeah, we can. Thank you.",
+    "start_ms": 2072874,
+    "end_ms": 2078536,
+    "duration_ms": 5662,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2078.536,
+    "text": "Okay. So, here we go. All right. So, it's actually, it was actually a landmark idea.",
+    "start_ms": 2078536,
+    "end_ms": 2086713,
+    "duration_ms": 8177,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2088.234,
+    "text": "But once people had it down, they realized, oh, yeah, this makes a lot of sense.",
+    "start_ms": 2088234,
+    "end_ms": 2092410,
+    "duration_ms": 4176,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2092.41,
+    "text": "It's just really in a way, a simple way to describe, how do we, we can, we've had tools developed to describe the activity of individual neurons.",
+    "start_ms": 2092410,
+    "end_ms": 2103290,
+    "duration_ms": 10880,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2103.29,
+    "text": "Okay. But now we want to have a way, we know that neurons don't work individually, right?",
+    "start_ms": 2103290,
+    "end_ms": 2108761,
+    "duration_ms": 5471,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2108.761,
+    "text": "There's populations, there's millions of them. And so, we wanted a way to describe what's the combined activity.",
+    "start_ms": 2108761,
+    "end_ms": 2114963,
+    "duration_ms": 6202,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2114.963,
+    "text": "And that's why we call it a population vector, because it's a way to describe the summed or aggregate activity of a bunch of neurons.",
+    "start_ms": 2114963,
+    "end_ms": 2128006,
+    "duration_ms": 13043,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2128.006,
+    "text": "But to simplify it, right, we started off with the idea that when we move, we can see one of the first observations, right?",
+    "start_ms": 2128006,
+    "end_ms": 2137768,
+    "duration_ms": 9762,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2137.768,
+    "text": "We did cortex and primary visual cortex was where work started and people saw that neurons were tuned to things like the direction, color, the motion.",
+    "start_ms": 2137768,
+    "end_ms": 2146265,
+    "duration_ms": 8497,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2146.265,
+    "text": "Well, they did the same experiment in the primary motor cortex.",
+    "start_ms": 2146265,
+    "end_ms": 2149997,
+    "duration_ms": 3732,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2149.997,
+    "text": "And one thing that jumped out right away is that the neurons activity level, each individual neurons activity level, not each, but many of them was correlated with the direction of the movement.",
+    "start_ms": 2149997,
+    "end_ms": 2162802,
+    "duration_ms": 12805,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2162.802,
+    "text": "And again, there's a debate about is the direction of the movement, is it about the location you're going to?",
+    "start_ms": 2162802,
+    "end_ms": 2168595,
+    "duration_ms": 5793,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2168.595,
+    "text": "Is it about the muscles? But let's just talk about its direction.",
+    "start_ms": 2168595,
+    "end_ms": 2171869,
+    "duration_ms": 3274,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2171.869,
+    "text": "Okay. And that's what's shown in this picture here. The monkey is moving its arm to one of the eight locations.",
+    "start_ms": 2171869,
+    "end_ms": 2179433,
+    "duration_ms": 7564,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2179.433,
+    "text": "So it's going to do hundreds and hundreds of trials.",
+    "start_ms": 2179433,
+    "end_ms": 2183233,
+    "duration_ms": 3800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2183.233,
+    "text": "Every trial is represented by a row and each of the black dots, and I guess I can blow it up here.",
+    "start_ms": 2183233,
+    "end_ms": 2191484,
+    "duration_ms": 8251,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2191.484,
+    "text": "Each of the black dots represents a spike or action potential generated by the neuron.",
+    "start_ms": 2191484,
+    "end_ms": 2197888,
+    "duration_ms": 6404,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2197.888,
+    "text": "So this is all one different neuron doing, let's say about a hundred trials, 10 trials for each of the eight directions.",
+    "start_ms": 2197888,
+    "end_ms": 2205647,
+    "duration_ms": 7759,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2205.647,
+    "text": "And what you can see is that the cell is very active when you move to the left, very little activity when you move to the right, you know, it's not pure, it's not one direction, it kind of likes leftward movements in general, and it doesn't like rightward movements.",
+    "start_ms": 2205647,
+    "end_ms": 2222153,
+    "duration_ms": 16506,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2223.193,
+    "text": "I can graphically summarize all this single trial data by this tuning profile.",
+    "start_ms": 2223193,
+    "end_ms": 2230106,
+    "duration_ms": 6913,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2230.106,
+    "text": "And that's what I'm showing here on the x-axis. This is my independent variable, which is the direction of the movement.",
+    "start_ms": 2230106,
+    "end_ms": 2239193,
+    "duration_ms": 9087,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2239.753,
+    "text": "So zero is a movement to the right, 90 is a movement up, 180 is a movement to the left.",
+    "start_ms": 2239753,
+    "end_ms": 2245593,
+    "duration_ms": 5840,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2245.524,
+    "text": "to the left. I draw a function here, not bar graphs, because it's a continuous variable, varying continuously the direction in space that the animal is moving.",
+    "start_ms": 2245524,
+    "end_ms": 2257160,
+    "duration_ms": 11636,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2257.16,
+    "text": "And I'm just plotting how active is the neuron. So that's the y-axis.",
+    "start_ms": 2257160,
+    "end_ms": 2261973,
+    "duration_ms": 4813,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2261.973,
+    "text": "What's the response rate? And I'm showing that it's very active for moving in the 180 direction.",
+    "start_ms": 2261973,
+    "end_ms": 2267418,
+    "duration_ms": 5445,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2267.418,
+    "text": "And again, it was arbitrary what I called zero, but I'm going to still do it in this polar coordinates.",
+    "start_ms": 2267418,
+    "end_ms": 2272973,
+    "duration_ms": 5555,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2272.973,
+    "text": "So if I call this zero, this is 180. And it's very inactive at zero.",
+    "start_ms": 2272973,
+    "end_ms": 2277321,
+    "duration_ms": 4348,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2277.321,
+    "text": "It's a little bit active at 90 and say 270.",
+    "start_ms": 2277321,
+    "end_ms": 2280481,
+    "duration_ms": 3160,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2280.481,
+    "text": "And that's what we see here. 270 has got more activation than zero.",
+    "start_ms": 2280481,
+    "end_ms": 2285615,
+    "duration_ms": 5134,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2285.615,
+    "text": "Okay? So that's one single neuron. Now let's skip all that.",
+    "start_ms": 2285615,
+    "end_ms": 2291807,
+    "duration_ms": 6192,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2291.807,
+    "text": "Now let's just consider two neurons. Pretend our brain just contained two neurons.",
+    "start_ms": 2291807,
+    "end_ms": 2298561,
+    "duration_ms": 6754,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2298.561,
+    "text": "Okay? Here's the neuron I already told you about, cell one.",
+    "start_ms": 2298561,
+    "end_ms": 2302133,
+    "duration_ms": 3572,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2302.133,
+    "text": "I just showed you that. That's the one that really likes movements that are going to the left, doesn't like movements.",
+    "start_ms": 2302133,
+    "end_ms": 2309320,
+    "duration_ms": 7187,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2309.32,
+    "text": "And by doesn't like means doesn't respond. So this cell is coding, in a sense, something about the direction of the movement.",
+    "start_ms": 2309320,
+    "end_ms": 2316401,
+    "duration_ms": 7081,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2316.401,
+    "text": "If it's active, I know I'm moving to the left.",
+    "start_ms": 2316401,
+    "end_ms": 2319423,
+    "duration_ms": 3022,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2319.423,
+    "text": "If it's inactive, I'm not moving to the left. Well, cell two, I've chosen a different cell.",
+    "start_ms": 2319423,
+    "end_ms": 2325820,
+    "duration_ms": 6397,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2325.82,
+    "text": "It also is directionally tuned. But notice its preferred direction is quite different.",
+    "start_ms": 2325820,
+    "end_ms": 2331913,
+    "duration_ms": 6093,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2331.913,
+    "text": "Its preferred direction is for cell movements that are in the upward direction.",
+    "start_ms": 2331913,
+    "end_ms": 2336332,
+    "duration_ms": 4419,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2336.332,
+    "text": "And it's very inactive for movements in the downward direction.",
+    "start_ms": 2336332,
+    "end_ms": 2339893,
+    "duration_ms": 3561,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2339.893,
+    "text": "That's what its profile looks like. So now basically, I can look at any single trial at the relative activity of these two neurons and make a vector out of that.",
+    "start_ms": 2339893,
+    "end_ms": 2353176,
+    "duration_ms": 13283,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2353.176,
+    "text": "And that's what I'm showing at the bottom. So for instance, if I'm moving to the left, right, we see that cell one is very active.",
+    "start_ms": 2353176,
+    "end_ms": 2362233,
+    "duration_ms": 9057,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2362.873,
+    "text": "Cell one is always preferred direction is always to the left, because that's a characteristic of cell one, right?",
+    "start_ms": 2362873,
+    "end_ms": 2368995,
+    "duration_ms": 6122,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2368.995,
+    "text": "It prefers leftward movements. If I'm moving to the left, it's very active.",
+    "start_ms": 2368995,
+    "end_ms": 2373337,
+    "duration_ms": 4342,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2373.337,
+    "text": "And that's what I represent by making a long vector.",
+    "start_ms": 2373337,
+    "end_ms": 2376594,
+    "duration_ms": 3257,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2376.594,
+    "text": "The length of the vector corresponds to its response rate for that trial.",
+    "start_ms": 2376594,
+    "end_ms": 2380793,
+    "duration_ms": 4199,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2380.793,
+    "text": "So if I move to the left, if I'm moving 180, I see this response rate is very high.",
+    "start_ms": 2380793,
+    "end_ms": 2386948,
+    "duration_ms": 6155,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2386.948,
+    "text": "I have a long vector. The green one, well, it's not its lowest point, but it's not very high.",
+    "start_ms": 2386948,
+    "end_ms": 2393632,
+    "duration_ms": 6684,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2393.632,
+    "text": "So I have a shorter vector. And basically, the population vectors, I just sum up those two.",
+    "start_ms": 2393632,
+    "end_ms": 2399955,
+    "duration_ms": 6323,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2399.955,
+    "text": "And the way you sum up vectors is I have one vector plus the other vector, and black is the sum of the two of them.",
+    "start_ms": 2399955,
+    "end_ms": 2407222,
+    "duration_ms": 7267,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2407.222,
+    "text": "Okay? Now, if I was moving upward, well, now that's 90 degrees.",
+    "start_ms": 2407222,
+    "end_ms": 2411280,
+    "duration_ms": 4058,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2411.28,
+    "text": "Now I have a long vector for neuron, the green neuron, because that's very active here, high response rate.",
+    "start_ms": 2411280,
+    "end_ms": 2418952,
+    "duration_ms": 7672,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2419.753,
+    "text": "The red one now, well, its response rate is much weaker.",
+    "start_ms": 2419753,
+    "end_ms": 2422979,
+    "duration_ms": 3226,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2422.979,
+    "text": "So it's still voting for a leftward movement, but it's a very weak vote now.",
+    "start_ms": 2422979,
+    "end_ms": 2426664,
+    "duration_ms": 3685,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2426.664,
+    "text": "It's just not very active. We can read that right off the graph here.",
+    "start_ms": 2426664,
+    "end_ms": 2429856,
+    "duration_ms": 3192,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2429.856,
+    "text": "So now when I sum up these two vectors, now the movement direction is different.",
+    "start_ms": 2429856,
+    "end_ms": 2435432,
+    "duration_ms": 5576,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2435.432,
+    "text": "Here it was going kind of at a diagonal like this way.",
+    "start_ms": 2435432,
+    "end_ms": 2438936,
+    "duration_ms": 3504,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2438.936,
+    "text": "Now, you know, this direction here is going at a diagonal in this direction.",
+    "start_ms": 2438936,
+    "end_ms": 2443493,
+    "duration_ms": 4557,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2443.493,
+    "text": "So that's basically the whole idea of the population vector.",
+    "start_ms": 2443493,
+    "end_ms": 2447193,
+    "duration_ms": 3700,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2447.672,
+    "text": "It's just basically saying every cell has a tuning profile like this.",
+    "start_ms": 2447672,
+    "end_ms": 2452713,
+    "duration_ms": 5041,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2453.913,
+    "text": "For any direction of movement, I can figure out how active is the cell.",
+    "start_ms": 2453913,
+    "end_ms": 2457567,
+    "duration_ms": 3654,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2457.567,
+    "text": "I can measure how active is the cell. In a sense, that's how strongly is it voting that the current movement is in its preferred direction.",
+    "start_ms": 2457567,
+    "end_ms": 2465048,
+    "duration_ms": 7481,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2465.048,
+    "text": "And basically, that's what this graph here is. Instead of having just two neurons, I actually have about 40 or 50 neurons in here.",
+    "start_ms": 2465048,
+    "end_ms": 2475565,
+    "duration_ms": 10517,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2475.565,
+    "text": "Each one of them, I've identified its tuning profile individually.",
+    "start_ms": 2475565,
+    "end_ms": 2479857,
+    "duration_ms": 4292,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2479.857,
+    "text": "And so there's 50 neurons in here. Each one is always pointing in the same direction, but the length of it varies as a function of what direction I'm moving.",
+    "start_ms": 2479857,
+    "end_ms": 2491353,
+    "duration_ms": 11496,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2491.353,
+    "text": "That's what you saw up here in the graph where I characterized each of the individual neurons.",
+    "start_ms": 2491353,
+    "end_ms": 2496473,
+    "duration_ms": 5120,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2497.112,
+    "text": "And so what I'm just showing here is that the dotted line is showing what's the population vector.",
+    "start_ms": 2497112,
+    "end_ms": 2503499,
+    "duration_ms": 6387,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2503.499,
+    "text": "If I summed up, instead of just summing up the two neurons, I summed up the activity, vector summation of the 50 neurons, the dotted line is what the sum is over those 50 neurons.",
+    "start_ms": 2503499,
+    "end_ms": 2516152,
+    "duration_ms": 12653,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2516.872,
+    "text": "And what's really impressive here is I'm just taking 50 neurons out of the millions of neurons or whatever there are in the primary motor cortex.",
+    "start_ms": 2516872,
+    "end_ms": 2526003,
+    "duration_ms": 9131,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2526.003,
+    "text": "I'm just characterizing 50 neurons, measuring their activity as I move in all these eight directions.",
+    "start_ms": 2526003,
+    "end_ms": 2531193,
+    "duration_ms": 5190,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2532.552,
+    "text": "This is always the population vector, you know, if I average across trials and so forth.",
+    "start_ms": 2532552,
+    "end_ms": 2538712,
+    "duration_ms": 6160,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2538.712,
+    "text": "And it basically, that population vector corresponds exactly to the movement that the monkey is making.",
+    "start_ms": 2538712,
+    "end_ms": 2545272,
+    "duration_ms": 6560,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2545.272,
+    "text": "These lines are right, the targets here, the monkey's going to move this direction.",
+    "start_ms": 2545272,
+    "end_ms": 2549524,
+    "duration_ms": 4252,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2549.524,
+    "text": "The population vector of those 50 neurons perfectly matches what the animal's behavior is.",
+    "start_ms": 2549524,
+    "end_ms": 2555629,
+    "duration_ms": 6105,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2555.629,
+    "text": "So now actually, again, that's what to all the brain machine interfaces is, I can read the activity of those 50 neurons, say, when the the animal is planning a movement, that's what was shown here, right?",
+    "start_ms": 2555629,
+    "end_ms": 2569671,
+    "duration_ms": 14042,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2569.671,
+    "text": "Here's what the animal's told, this is where the direction you're gonna move, but you don't get to start moving until 500 milliseconds later.",
+    "start_ms": 2569671,
+    "end_ms": 2577552,
+    "duration_ms": 7881,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2577.552,
+    "text": "The monkey's trained, it's told which way to move, but it doesn't get the go signal for a half second.",
+    "start_ms": 2577552,
+    "end_ms": 2583751,
+    "duration_ms": 6199,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2583.751,
+    "text": "But the monkeys, they're really motivated. They wanna get this over with, they wanna get their juice reward, whatever.",
+    "start_ms": 2583751,
+    "end_ms": 2588911,
+    "duration_ms": 5160,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2588.911,
+    "text": "And so we can see that even before the animal moves, if we record from the primary motor cortex, and we look at that population vector, we know pretty much exactly what the monkey's gonna do.",
+    "start_ms": 2588911,
+    "end_ms": 2601551,
+    "duration_ms": 12640,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2601.551,
+    "text": "And that's what was essential for this idea about brain machine interfaces, that we could decode the activity of the brain to actually predict the movement, and we could now, instead of having the animal move an arm, we could actually move a robotic device.",
+    "start_ms": 2601551,
+    "end_ms": 2617472,
+    "duration_ms": 15921,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2618.312,
+    "text": "Yeah, so just to look at some questions really quickly here, that's right.",
+    "start_ms": 2618312,
+    "end_ms": 2623472,
+    "duration_ms": 5160,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2623.472,
+    "text": "The vectors are each of these individual arrows. Each cell has a vector on a particular trial, and always each cell's vector always points in its preferred direction.",
+    "start_ms": 2623472,
+    "end_ms": 2633832,
+    "duration_ms": 10360,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2633.832,
+    "text": "The length of the vector is how strongly activated it is, is it for that particular trial or movement, and we read that off from its tuning profile.",
+    "start_ms": 2633832,
+    "end_ms": 2644071,
+    "duration_ms": 10239,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2644.071,
+    "text": "And then basically, once we have the vectors as a way to describe the activity of an individual neuron, we'd simply sum them up to get the population vector.",
+    "start_ms": 2644071,
+    "end_ms": 2654912,
+    "duration_ms": 10841,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2654.912,
+    "text": "Population vector's gonna get, if we just have two cells, it's pretty hard to know.",
+    "start_ms": 2654912,
+    "end_ms": 2660472,
+    "duration_ms": 5560,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2660.472,
+    "text": "None of these cells are very active if we're moving in the zero direction.",
+    "start_ms": 2660472,
+    "end_ms": 2664232,
+    "duration_ms": 3760,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2664.232,
+    "text": "So two cells aren't enough, but having 50 cells turns out to be sufficient.",
+    "start_ms": 2664232,
+    "end_ms": 2668991,
+    "duration_ms": 4759,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2669.832,
+    "text": "All right, next question. The multiple access hypothesis. Sure, let me do that one.",
+    "start_ms": 2669832,
+    "end_ms": 2680512,
+    "duration_ms": 10680,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2682.631,
+    "text": "And that one is from the memory section. What am I looking for?",
+    "start_ms": 2682631,
+    "end_ms": 2690271,
+    "duration_ms": 7640,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2694.071,
+    "text": "Actually, I'd say it's from the perceptual section, sorry. Nine, maybe?",
+    "start_ms": 2694071,
+    "end_ms": 2701392,
+    "duration_ms": 7321,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2704.471,
+    "text": "No, 10. The multiple access hypothesis was just, there's this real curiosity, okay?",
+    "start_ms": 2704471,
+    "end_ms": 2720152,
+    "duration_ms": 15681,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2720.152,
+    "text": "So we talked about people having agnosia, right? An inability to visually take an input and connect it up with their knowledge, okay?",
+    "start_ms": 2720152,
+    "end_ms": 2730752,
+    "duration_ms": 10600,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2730.752,
+    "text": "The knowledge is still there, right? A person can usually describe the thing to you if they touch it.",
+    "start_ms": 2730752,
+    "end_ms": 2737271,
+    "duration_ms": 6519,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2737.271,
+    "text": "They know it, they'll even touch it and they'll describe the property.",
+    "start_ms": 2737271,
+    "end_ms": 2740512,
+    "duration_ms": 3241,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2740.512,
+    "text": "So they have that knowledge usually in there, okay? But they just can't access it through the visual pathway.",
+    "start_ms": 2740512,
+    "end_ms": 2746792,
+    "duration_ms": 6280,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2746.792,
+    "text": "So it's what we would call a disconnection syndrome. They can't take the visual input and use it somehow to access that long-term knowledge, okay?",
+    "start_ms": 2746792,
+    "end_ms": 2756351,
+    "duration_ms": 9559,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2756.351,
+    "text": "That's what makes it an agnosia rather than sort of a memory thing because the information's in there, they can't access it.",
+    "start_ms": 2756351,
+    "end_ms": 2763232,
+    "duration_ms": 6881,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2763.232,
+    "text": "And I talked about that, you know, that's a general visual agnosia.",
+    "start_ms": 2763232,
+    "end_ms": 2767432,
+    "duration_ms": 4200,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2767.432,
+    "text": "Talked about subtypes like aperceptive, they can't recognize things from atypical views.",
+    "start_ms": 2767432,
+    "end_ms": 2773831,
+    "duration_ms": 6399,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2773.831,
+    "text": "On the other hand, there's some people who can't recognize, you know, can't take that visual input and they're kind of locked in the physical similarity and kind of don't understand what's the function of things so far.",
+    "start_ms": 2773831,
+    "end_ms": 2785831,
+    "duration_ms": 12000,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2785.831,
+    "text": "But then the really bizarre thing comes about when you get these sort of category-specific deficits.",
+    "start_ms": 2785831,
+    "end_ms": 2790911,
+    "duration_ms": 5080,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2790.911,
+    "text": "And the one that's been described very often is that it's not just one weird patient in the world, there's many patients who actually do very well when they're naming non-living things.",
+    "start_ms": 2790911,
+    "end_ms": 2802152,
+    "duration_ms": 11241,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2802.152,
+    "text": "So they're looking at these pictures and they'll go along, locks, you know, bolt or whatever that is, nut, I mean, motorcycle, mountain.",
+    "start_ms": 2802152,
+    "end_ms": 2809672,
+    "duration_ms": 7520,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2809.672,
+    "text": "And they, you know, this particular patient got 90% of those correct.",
+    "start_ms": 2809672,
+    "end_ms": 2813592,
+    "duration_ms": 3920,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2813.592,
+    "text": "Now you show them these line drawings, okay? It's not obvious that they're radically, you know, hard or anything, and they only got 6% of these correct, all right?",
+    "start_ms": 2813592,
+    "end_ms": 2822472,
+    "duration_ms": 8880,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2822.472,
+    "text": "So, and again, the question is, why is it so much more often observed that people have trouble with living things compared to non-living things?",
+    "start_ms": 2822472,
+    "end_ms": 2833391,
+    "duration_ms": 10919,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2833.391,
+    "text": "And that's where the multiple access hypothesis came in. It says, again, we have our knowledge, you know, the ideas that we're gonna talk about this.",
+    "start_ms": 2833391,
+    "end_ms": 2841951,
+    "duration_ms": 8560,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2841.951,
+    "text": "We've talked about this in the memory section, right? We talked about how, you know, if I think about the golden boy pizzeria, that knowledge is distributed across the brain.",
+    "start_ms": 2841951,
+    "end_ms": 2851231,
+    "duration_ms": 9280,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2851.231,
+    "text": "It's not like there's one single place where all the information's located, a grandmother cell, but there's knowledge about where a golden boy pizzeria is located, different from like, you know, the neon sign, the distinctive neon sign, the smells they associate with it, its location in San Francisco, et cetera.",
+    "start_ms": 2851231,
+    "end_ms": 2869111,
+    "duration_ms": 17880,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2869.111,
+    "text": "So that's the same sort of idea here. It's saying that, you know, look, your knowledge of scissors is gonna be, there's gonna be multiple ways we think about scissors.",
+    "start_ms": 2869111,
+    "end_ms": 2877032,
+    "duration_ms": 7921,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2877.032,
+    "text": "We know the shape of scissors. We know they're metallic.",
+    "start_ms": 2877032,
+    "end_ms": 2880231,
+    "duration_ms": 3199,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2880.231,
+    "text": "They might be sharp and pointy, but we also have kind of motor, sensory.",
+    "start_ms": 2880231,
+    "end_ms": 2885152,
+    "duration_ms": 4921,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2884.844,
+    "text": "sensory motor knowledge about what we do with scissors, okay?",
+    "start_ms": 2884844,
+    "end_ms": 2888211,
+    "duration_ms": 3367,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2888.211,
+    "text": "So we might have, you know, again, a sense of, oh yeah, we see the scissors and part of our knowledge is about the kinds of functions we can do with a scissor.",
+    "start_ms": 2888211,
+    "end_ms": 2896430,
+    "duration_ms": 8219,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2897.83,
+    "text": "With the living things though, you know, our knowledge is much more restricted, right?",
+    "start_ms": 2897830,
+    "end_ms": 2902850,
+    "duration_ms": 5020,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2902.85,
+    "text": "If you think about a bird, well, okay, we know that what they look like, we know maybe the colors of them, we might know where we typically find, say, a seagull down by the seashore, but we don't have any sort of functional knowledge, sort of any sort of sensory motor knowledge.",
+    "start_ms": 2902850,
+    "end_ms": 2917870,
+    "duration_ms": 15020,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2917.87,
+    "text": "It's not like we, you know, sit there and play with seagulls all the time.",
+    "start_ms": 2917870,
+    "end_ms": 2921311,
+    "duration_ms": 3441,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2921.311,
+    "text": "And so the idea is that I have a much less distributed representation for a living thing than I do for a non-living thing.",
+    "start_ms": 2921311,
+    "end_ms": 2929530,
+    "duration_ms": 8219,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2929.53,
+    "text": "For non-living things, I have multiple ways that I can access what that object is.",
+    "start_ms": 2929530,
+    "end_ms": 2935671,
+    "duration_ms": 6141,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2935.671,
+    "text": "Whereas with the seagull, I have much more limited paths to access it.",
+    "start_ms": 2935671,
+    "end_ms": 2939991,
+    "duration_ms": 4320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2939.991,
+    "text": "You remember, in that videotape, we had the patient who saw the thing, said it was a candle, and then he picked it up, smelled it, and said it was a crayon, okay?",
+    "start_ms": 2939991,
+    "end_ms": 2951310,
+    "duration_ms": 11319,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2951.31,
+    "text": "So he, of course, accessed it a different way there.",
+    "start_ms": 2951310,
+    "end_ms": 2954151,
+    "duration_ms": 2841,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2954.151,
+    "text": "He accessed it through the smell, but as soon as he accessed it through the smell, now suddenly all the properties seem to come together for him.",
+    "start_ms": 2954151,
+    "end_ms": 2961551,
+    "duration_ms": 7400,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2961.551,
+    "text": "He'll insist that, oh yeah, now I'm seeing a crayon.",
+    "start_ms": 2961551,
+    "end_ms": 2964210,
+    "duration_ms": 2659,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2964.21,
+    "text": "He clearly had seen something like a crayon, right? It wasn't like he's blind.",
+    "start_ms": 2964210,
+    "end_ms": 2968091,
+    "duration_ms": 3881,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2968.091,
+    "text": "He said it was a pencil at first, but then, so he used a different way to access his knowledge of what the object was.",
+    "start_ms": 2968091,
+    "end_ms": 2974930,
+    "duration_ms": 6839,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2974.93,
+    "text": "He used smell, but again, once I got through smell, presumably that activates, as we've seen in the memory section, that might activate all the other associations with it.",
+    "start_ms": 2974930,
+    "end_ms": 2984490,
+    "duration_ms": 9560,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2984.49,
+    "text": "And so it all came together. So again, the idea is that with functional objects like scissors and so forth, now we have multiple ways to access that visual knowledge, our memory through our visual input, something that's lacking with living things.",
+    "start_ms": 2984490,
+    "end_ms": 2999950,
+    "duration_ms": 15460,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2999.95,
+    "text": "So it's an explanation for why we get this separation between the two.",
+    "start_ms": 2999950,
+    "end_ms": 3003990,
+    "duration_ms": 4040,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3004.95,
+    "text": "All right, so we're winding down with our time. Any other pressing questions here?",
+    "start_ms": 3004950,
+    "end_ms": 3013030,
+    "duration_ms": 8080,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3013.03,
+    "text": "I'll stop sharing, and why is it not going back to seeing all of your happy faces?",
+    "start_ms": 3013030,
+    "end_ms": 3018931,
+    "duration_ms": 5901,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3021.39,
+    "text": "Well, I think you're still there, right? Someone there? I didn't cut you off, right?",
+    "start_ms": 3021390,
+    "end_ms": 3025411,
+    "duration_ms": 4021,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3029.911,
+    "text": "Hello? Yeah, we can all hear you. Oh, okay. I somehow lost your pictures there.",
+    "start_ms": 3029911,
+    "end_ms": 3034670,
+    "duration_ms": 4759,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3034.67,
+    "text": "So any final questions that people really want answered? Okay, well then, I guess I'd just say, you know, good luck on the exam.",
+    "start_ms": 3034670,
+    "end_ms": 3050010,
+    "duration_ms": 15340,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3050.01,
+    "text": "Again, do the practice exam there. I don't provide a key on the multiple choice as a good way to make you, if you don't get it right, have to dig through your notes to learn.",
+    "start_ms": 3050010,
+    "end_ms": 3062931,
+    "duration_ms": 12921,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3062.931,
+    "text": "It's a lot better. I know learning is a lot better when you go in active engagement with it rather than looking at the answers.",
+    "start_ms": 3062931,
+    "end_ms": 3069790,
+    "duration_ms": 6859,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3069.79,
+    "text": "But again, really practice the exams and think about getting, does my graph look like what I want?",
+    "start_ms": 3069790,
+    "end_ms": 3075971,
+    "duration_ms": 6181,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3075.971,
+    "text": "And then you're golden, okay? So good luck to you all.",
+    "start_ms": 3075971,
+    "end_ms": 3081450,
+    "duration_ms": 5479,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3081.45,
+    "text": "And I will try for, oh, there you are. Thank you.",
+    "start_ms": 3081450,
+    "end_ms": 3087030,
+    "duration_ms": 5580,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3087.03,
+    "text": "Sure. Thank you. I'll post the recording right away.",
+    "start_ms": 3087030,
+    "end_ms": 3091991,
+    "duration_ms": 4961,
+    "word_count": 9,
+    "avg_confidence": 90
+  }
+]

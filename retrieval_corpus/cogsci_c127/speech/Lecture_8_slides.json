@@ -1,0 +1,3224 @@
+[
+  {
+    "timestamp": 150.0,
+    "text": "Okay, so we have the midterm on Monday and just a few announcements there.",
+    "start_ms": 150000,
+    "end_ms": 163960,
+    "duration_ms": 13960,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 163.96,
+    "text": "I made them before. The main one is we now have a room for tomorrow evening if you want to join us.",
+    "start_ms": 163960,
+    "end_ms": 171119,
+    "duration_ms": 7159,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 171.119,
+    "text": "That's at 5 p.m. in Physics 4. I've actually never been to Physics 4, but I assume it's just off the Campanile or behind the Campanile up there, top of campus.",
+    "start_ms": 171119,
+    "end_ms": 184440,
+    "duration_ms": 13321,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 184.44,
+    "text": "And again, it's a Q&A, so you guys come and ask questions, okay?",
+    "start_ms": 184440,
+    "end_ms": 190399,
+    "duration_ms": 5959,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 190.399,
+    "text": "And I'll answer your questions as best I can. And people have asked me about how to prepare for the exam.",
+    "start_ms": 190399,
+    "end_ms": 199119,
+    "duration_ms": 8720,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 199.119,
+    "text": "So here's my summary, basically. I consider everything I say in lectures to be fair game because everything I say is important.",
+    "start_ms": 199119,
+    "end_ms": 210240,
+    "duration_ms": 11121,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 210.24,
+    "text": "And the textbook, though, again, I've tried to emphasize you don't need to read, memorize all the details.",
+    "start_ms": 210240,
+    "end_ms": 217279,
+    "duration_ms": 7039,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 217.279,
+    "text": "You should not obsess about that. I would certainly think that the things in bold, the key terms, the heading sections, the figures, I mean, you should be comfortable with all that stuff, but there would be questions at that level.",
+    "start_ms": 217279,
+    "end_ms": 231759,
+    "duration_ms": 14480,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 231.759,
+    "text": "You should not be digging into the paragraphs to ask, you know, the details of sodium channels or anything like that.",
+    "start_ms": 231759,
+    "end_ms": 238679,
+    "duration_ms": 6920,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 238.679,
+    "text": "And then the reader articles. The reader articles, I can guarantee if you take a look at, well, I may have trimmed them out of last year's exam because they're not relevant this year, because it's different articles.",
+    "start_ms": 238679,
+    "end_ms": 249759,
+    "duration_ms": 11080,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 249.759,
+    "text": "But I'm sure there are going to be a couple of questions off of the reader articles.",
+    "start_ms": 249759,
+    "end_ms": 254759,
+    "duration_ms": 5000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 254.759,
+    "text": "It's actually, they're kind of tricky to write because I want to make sure it's not a question you can answer just by reading the abstract, which tells you the main story.",
+    "start_ms": 254759,
+    "end_ms": 263559,
+    "duration_ms": 8800,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 263.559,
+    "text": "But I don't want it to be any details either, picky details.",
+    "start_ms": 263559,
+    "end_ms": 266839,
+    "duration_ms": 3280,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 266.839,
+    "text": "So I call it major conceptual themes or issues about the methods used and or key results.",
+    "start_ms": 266839,
+    "end_ms": 273079,
+    "duration_ms": 6240,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 273.079,
+    "text": "Okay. So just be familiar with the reader articles the way you, I'm sure the information you had at the end of your sections, if you went, are going to be sufficient for understanding the reader articles.",
+    "start_ms": 273079,
+    "end_ms": 285279,
+    "duration_ms": 12200,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 285.279,
+    "text": "You got to speak louder. Sorry, are you recording where you sat?",
+    "start_ms": 285279,
+    "end_ms": 288440,
+    "duration_ms": 3161,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 288.44,
+    "text": "Am I recording tomorrow's discussion? If I remember. So if anyone's there, it reminds me, I will try to, I will record it and post it.",
+    "start_ms": 288440,
+    "end_ms": 298440,
+    "duration_ms": 10000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 298.44,
+    "text": "Yeah. My, like, section tomorrow, our discussion section, is at five.",
+    "start_ms": 298440,
+    "end_ms": 306440,
+    "duration_ms": 8000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 306.44,
+    "text": "Is that right? Yeah. So what should I do? Who's your GSI?",
+    "start_ms": 306440,
+    "end_ms": 315440,
+    "duration_ms": 9000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 315.6,
+    "text": "Someone. Jen. Okay. I didn't think of that. Sorry. I would recommend going to one of Jen's other sessions.",
+    "start_ms": 315600,
+    "end_ms": 327600,
+    "duration_ms": 12000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 327.083,
+    "text": "one of Jen's other sections and coming to the review session, if you wanted to come to the review session.",
+    "start_ms": 327083,
+    "end_ms": 334139,
+    "duration_ms": 7056,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 335.719,
+    "text": "Yeah. Okay. Other questions? Yeah. From the what? Zaps. No.",
+    "start_ms": 335719,
+    "end_ms": 347719,
+    "duration_ms": 12000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 347.719,
+    "text": "No. Nothing from the zaps. Just the stuff I listed up here.",
+    "start_ms": 347719,
+    "end_ms": 353079,
+    "duration_ms": 5360,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 353.079,
+    "text": "Okay. We got some stuff to cover today, so let's jump ahead.",
+    "start_ms": 353079,
+    "end_ms": 357039,
+    "duration_ms": 3960,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 357.039,
+    "text": "When I ended last class, we were talking about, we're kind of moving into the neurology part, and I was talking about, you know, how the brain gets damaged, and I talked about strokes, tumors, degenerative disorders, but the big one that's especially relevant for you, your age group, is traumatic brain injury, because that is the most common neurological problem that people in your age group have doing stupid things like, you know, riding skateboards without a helmet, or diving into rivers, and things like that.",
+    "start_ms": 357039,
+    "end_ms": 390119,
+    "duration_ms": 33080,
+    "word_count": 87,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 393.079,
+    "text": "They aren't usually, like degenerative disorders, they aren't usually great studies in cognitive neuroscience, because the damage tends to be quite widespread.",
+    "start_ms": 393079,
+    "end_ms": 402878,
+    "duration_ms": 9799,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 403.878,
+    "text": "There's been a lot of interest about, for instance, this disorder, CPE, chronic traumatic encephalopathy, and basically it's the disorder that especially boxers have, but there's now worries that, you know, high school soccer players are going to develop this in the long run, just about the cumulative effects of jolts to the head, and that it's basically shaking the brain, and that this will, in the long run, cause some sort of damage, and this is kind of showing some CT scans, and the main thing to notice is that these ventricles, they contain the cerebral spinal fluid that's gonna bathe or surround the whole brain in the spinal cord, they become enlarged, and they become enlarged means that there's been a lot of atrophy.",
+    "start_ms": 403878,
+    "end_ms": 448598,
+    "duration_ms": 44720,
+    "word_count": 126,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 448.598,
+    "text": "Tissue's been lost, if your tissue's lost, something's gotta fill that space, and it's gonna be the cerebral spinal fluid.",
+    "start_ms": 448598,
+    "end_ms": 455158,
+    "duration_ms": 6560,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 456.119,
+    "text": "This is a 60-year-old retired football player. This is a very famous case.",
+    "start_ms": 456119,
+    "end_ms": 460559,
+    "duration_ms": 4440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 460.559,
+    "text": "10 years ago, a guy named Aaron Hernandez, who was like the all-star pro tight end for the New England Patriots, and he ended up killing a few people, and then he killed himself, and basically had autopsy.",
+    "start_ms": 460559,
+    "end_ms": 473438,
+    "duration_ms": 12879,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 473.438,
+    "text": "This was showing his own brain, even at age 27, already showing from, presumably, his extensive football playing and his style, massive atrophy throughout his cortex there.",
+    "start_ms": 473438,
+    "end_ms": 484318,
+    "duration_ms": 10880,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 486.559,
+    "text": "Okay, so we have these different ways we can cure brain injury, and then just briefly wanna touch about how might we use these measures if we're gonna study things like brain behavior relationships, and we can do things like our crude, we talked about volumetric measures, and we talked about this before.",
+    "start_ms": 486559,
+    "end_ms": 503759,
+    "duration_ms": 17200,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 503.759,
+    "text": "We can measure the volume of your gray matter. We can measure the volume of your white matter.",
+    "start_ms": 503759,
+    "end_ms": 507958,
+    "duration_ms": 4199,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 507.958,
+    "text": "We can measure the whole brain volume. We can measure the volume of your prefrontal cortex, your parietal lobe, so forth, and there's many, many studies where people have looked at correlations between these volumetric measures, one second, and things about behavior.",
+    "start_ms": 507958,
+    "end_ms": 524119,
+    "duration_ms": 16161,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 524.119,
+    "text": "I talked about this earlier where they looked at cortical thickness and IQ and how that changed over the course of the lifetime.",
+    "start_ms": 524119,
+    "end_ms": 531639,
+    "duration_ms": 7520,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 531.639,
+    "text": "Won't go through these in detail, but this is kind of a study looking at, some people really sensitive to music and remember the lyrics, remember any melody, but there's a whole class of people out there with what they call amusia, and A in front of everything means without or impaired at, so these are individuals that music doesn't make any sense to.",
+    "start_ms": 531639,
+    "end_ms": 551919,
+    "duration_ms": 20280,
+    "word_count": 64,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 551.919,
+    "text": "It's a fairly rare condition, but here they're basically asking, are there any volumetric predictors of people having amusia?",
+    "start_ms": 551919,
+    "end_ms": 560479,
+    "duration_ms": 8560,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 560.479,
+    "text": "Are there any correlations there? And here they were showing, again, that actually the thicker the temporal lobe was, the greater volume of the gray matter in the temporal lobe was actually a predictor, was something that was observed in these individuals with amusia.",
+    "start_ms": 560479,
+    "end_ms": 574798,
+    "duration_ms": 14319,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 574.798,
+    "text": "Question back there. Was the effects from the brain injuries, regardless of whether it was treated or not, like, I mean, you can't really treat a concussion.",
+    "start_ms": 574798,
+    "end_ms": 585958,
+    "duration_ms": 11160,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 585.958,
+    "text": "Yeah, I mean, there are ways to treat concussion. Mainly ways to try to make sure you avoid having another concussion right afterwards, but no, I mean, that's basically true with just about all the degenerative disorders.",
+    "start_ms": 585958,
+    "end_ms": 602119,
+    "duration_ms": 16161,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 602.119,
+    "text": "There are new drugs on the market now. Some have been approved for trying to slow the rate of atrophy and Alzheimer's disease or the development of some of the pathology there.",
+    "start_ms": 602119,
+    "end_ms": 613279,
+    "duration_ms": 11160,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 613.279,
+    "text": "There's other drugs in the testing stages, but no, with traumatic brain injury, it's really very difficult outcomes.",
+    "start_ms": 613279,
+    "end_ms": 619559,
+    "duration_ms": 6280,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 619.599,
+    "text": "Yeah. And again, I'm not really gonna, just very, very briefly, here was a study asking about, again, there's always been an interest, if you've deprived of one sense, is there some sort of compensation in other senses?",
+    "start_ms": 619599,
+    "end_ms": 634238,
+    "duration_ms": 14639,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 634.238,
+    "text": "And here was just a study asking about people who were deprived of vision, and they're looking in particular at the hippocampus.",
+    "start_ms": 634238,
+    "end_ms": 640958,
+    "duration_ms": 6720,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 640.958,
+    "text": "There was some sense about, these people have to rely on other cues to navigate, and this might have some impact on the size of the hippocampus, a structure that's very important for spatial navigation.",
+    "start_ms": 640958,
+    "end_ms": 652397,
+    "duration_ms": 11439,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 652.397,
+    "text": "And here's the data they were showing for four different measures, but we can only look at the...this is the cumulative size of the hippocampus, and you can see that actually there was...it doesn't look like a big effect, but it's small error bars that the blind individuals had a larger hippocampus, and that was especially pronounced in those who were blind from birth rather than those who became blind later on in life.",
+    "start_ms": 652397,
+    "end_ms": 676266,
+    "duration_ms": 23869,
+    "word_count": 74,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 676.266,
+    "text": "So again, large literature is about asking about what can we actually make inferences we can make from these volumetric measures.",
+    "start_ms": 676266,
+    "end_ms": 683837,
+    "duration_ms": 7571,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 683.837,
+    "text": "Now, different type of anatomical measures, what's called tractography, and this is the most prominent type of this is called diffusion tensor imaging or DTI.",
+    "start_ms": 683837,
+    "end_ms": 695333,
+    "duration_ms": 11496,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 695.333,
+    "text": "And basically, it's a method that's going to use an MRI scanner and just try to track the white matter, right?",
+    "start_ms": 695333,
+    "end_ms": 703645,
+    "duration_ms": 8312,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 703.645,
+    "text": "Remember, the white matter are the axons. They look like white matter because basically surrounding the axons are the glia cells, and in particular, they're made of a fatty substance, okay?",
+    "start_ms": 703645,
+    "end_ms": 716518,
+    "duration_ms": 12873,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 716.518,
+    "text": "And so think about that. There's a lot of water everywhere in the brain, right?",
+    "start_ms": 716518,
+    "end_ms": 719438,
+    "duration_ms": 2920,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 719.478,
+    "text": "Most of our body is made of water. There's going to be water inside the cell membrane, and there's going to be water outside the cell membrane.",
+    "start_ms": 719478,
+    "end_ms": 729277,
+    "duration_ms": 9799,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 729.277,
+    "text": "Well, the water molecules that are inside the cell membrane, they're limited in what direction they can move, right?",
+    "start_ms": 729277,
+    "end_ms": 735777,
+    "duration_ms": 6500,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 735.777,
+    "text": "Water molecules are going to be bouncing around, but because you have that membrane there, those molecules are going to be restricted to only be flowing in certain directions, whereas if you're a molecule that's outside, water molecule that's outside the membrane, well, then you can float in freer space except when you hit that membrane, and then you're restricted about how you can move.",
+    "start_ms": 735777,
+    "end_ms": 756458,
+    "duration_ms": 20681,
+    "word_count": 65,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 756.458,
+    "text": "And so basically, what diffusion tensor imaging is basically going to take different snapshots with the MRI scanner of the water molecules at different points in time, and they're going to use, you know, algorithmic, you know, big data analysis systems there to ask, where's the flow of the water?",
+    "start_ms": 756458,
+    "end_ms": 775706,
+    "duration_ms": 19248,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 775.706,
+    "text": "What direction is it flowing? And you're going to see, basically, that there's certain barriers, that the water's flowing freely except along certain directions.",
+    "start_ms": 775706,
+    "end_ms": 784718,
+    "duration_ms": 9012,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 784.718,
+    "text": "And that's what these images are here. The color is just basically, this is a 2D image.",
+    "start_ms": 784718,
+    "end_ms": 791015,
+    "duration_ms": 6297,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 791.015,
+    "text": "Some of these white matter tracks are going up and down, some are going side to side, some are going front to back, and so forth.",
+    "start_ms": 791015,
+    "end_ms": 798863,
+    "duration_ms": 7848,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 798.863,
+    "text": "And that's what the color coding here is. But you see, you get a very beautiful image here of the major axonal tracks that are connecting things, sometimes locally, but very often, these long tracks here.",
+    "start_ms": 798863,
+    "end_ms": 811584,
+    "duration_ms": 12721,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 811.584,
+    "text": "And again, this is on a horizontal section showing those tracks.",
+    "start_ms": 811584,
+    "end_ms": 815969,
+    "duration_ms": 4385,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 815.969,
+    "text": "Here's a coronal section. And so actually, this technique just came out, well, about 20 years after MRI came on the scene, people realized that they could do this sort of imaging to structurally image the white matter tracks.",
+    "start_ms": 815969,
+    "end_ms": 827917,
+    "duration_ms": 11948,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 827.917,
+    "text": "And that's kind of launched the whole industry, because now you can ask questions about connectivity.",
+    "start_ms": 827917,
+    "end_ms": 835037,
+    "duration_ms": 7120,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 835.037,
+    "text": "So for instance, we keep up with our professional boxers.",
+    "start_ms": 835037,
+    "end_ms": 838678,
+    "duration_ms": 3641,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 838.678,
+    "text": "Here's a picture, a bunch of horizontal slices, asking, where are their abnormalities in the white matter tracks of professional boxers compared to their control group?",
+    "start_ms": 838678,
+    "end_ms": 852761,
+    "duration_ms": 14083,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 852.761,
+    "text": "And basically, anything that's colored here is showing that it's lower-tracked integrity.",
+    "start_ms": 852761,
+    "end_ms": 857237,
+    "duration_ms": 4476,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 857.237,
+    "text": "What does it mean to have lower-tracked integrity? Remember, that axon shield, right, the myelin, is restricting the flow of the oxygen.",
+    "start_ms": 857237,
+    "end_ms": 868118,
+    "duration_ms": 10881,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 868.118,
+    "text": "But if the axons are breaking down, then the water's freer to move, so you have less integrity.",
+    "start_ms": 868118,
+    "end_ms": 873678,
+    "duration_ms": 5560,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 873.678,
+    "text": "You have less of these restricted paths of flow. And so anything colored here is saying, in a sample of boxers, where do you see abnormalities in their white matter?",
+    "start_ms": 873678,
+    "end_ms": 884389,
+    "duration_ms": 10711,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 884.389,
+    "text": "You can see it's really quite massive, right? Throughout the whole brain, there are variations in the white matter tracks.",
+    "start_ms": 884389,
+    "end_ms": 891438,
+    "duration_ms": 7049,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 891.438,
+    "text": "And again, it probably relates to the fact that these individuals are receiving a lot of kind of violent blows to the head.",
+    "start_ms": 891438,
+    "end_ms": 897837,
+    "duration_ms": 6399,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 897.837,
+    "text": "The head's being shook, and that's probably tearing some of the tissue.",
+    "start_ms": 897837,
+    "end_ms": 900659,
+    "duration_ms": 2822,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 900.659,
+    "text": "And the things that are going to be torn are going to be those long tracks.",
+    "start_ms": 900659,
+    "end_ms": 905252,
+    "duration_ms": 4593,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 905.252,
+    "text": "Here's a study where people wanted to say, well, what about people with dyslexia?",
+    "start_ms": 905252,
+    "end_ms": 909357,
+    "duration_ms": 4105,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 909.357,
+    "text": "Might we find that there are certain tracks that are abnormal in these individuals?",
+    "start_ms": 909357,
+    "end_ms": 914524,
+    "duration_ms": 5167,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 914.524,
+    "text": "It's not well-colored, but actually the one they found was over in the left hemisphere, a track running from kind of the posterior language regions up to the front language regions.",
+    "start_ms": 914524,
+    "end_ms": 924731,
+    "duration_ms": 10207,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 924.731,
+    "text": "And again, here they were actually saying there's this correlation, that individuals with dyslexia tend to have weaker tract integrity, but only in a very restricted part of the brain.",
+    "start_ms": 924731,
+    "end_ms": 936545,
+    "duration_ms": 11814,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 936.545,
+    "text": "So the boxers, it seems to be widespread damage from all the trauma, but the dyslexics seem to have this very restricted place where they were showing this loss of integrity of the white matter track.",
+    "start_ms": 936545,
+    "end_ms": 947757,
+    "duration_ms": 11212,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 947.757,
+    "text": "But again, this is a good place to point out that, like many of these things, these are correlational studies, right?",
+    "start_ms": 947757,
+    "end_ms": 955238,
+    "duration_ms": 7481,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 955.238,
+    "text": "I observe one variable, observe another, and see a relationship.",
+    "start_ms": 955238,
+    "end_ms": 959197,
+    "duration_ms": 3959,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 959.197,
+    "text": "There's no experiment going on here, right? They didn't assign a group to become dyslexic and assign another group to not be dyslexic.",
+    "start_ms": 959197,
+    "end_ms": 966347,
+    "duration_ms": 7150,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 966.347,
+    "text": "So it's correlational. correlational. We, again, always have that problem.",
+    "start_ms": 966347,
+    "end_ms": 969917,
+    "duration_ms": 3570,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 969.917,
+    "text": "What about cause and effect here, right? Because maybe that white matter tract is because, you know, is causing their dyslexia, but it could be the other way.",
+    "start_ms": 969917,
+    "end_ms": 978957,
+    "duration_ms": 9040,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 978.957,
+    "text": "It could be, hey, these people had dyslexia. Maybe they don't read very much, and so they don't have as strong a tract that maybe is involved in reading.",
+    "start_ms": 978957,
+    "end_ms": 986756,
+    "duration_ms": 7799,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 987.356,
+    "text": "And of course, it could be completely unrelated and related to some third variable and so forth.",
+    "start_ms": 987356,
+    "end_ms": 992996,
+    "duration_ms": 5640,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 992.996,
+    "text": "So, well, we always have to be cautious whenever we're looking at these correlational types of data.",
+    "start_ms": 992996,
+    "end_ms": 997597,
+    "duration_ms": 4601,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 997.597,
+    "text": "All right. So let's turn to human functional neuroimaging, and, again, here are methods that we want to make inferences about neural activity, but we aren't actually going to be measuring neural activity directly.",
+    "start_ms": 997597,
+    "end_ms": 1013156,
+    "duration_ms": 15559,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1013.156,
+    "text": "We're going to be measuring metabolic changes that serve as a proxy of neural activity, and there's lots of studies going on to ask, you know, are these measures truly correlated with neural activity?",
+    "start_ms": 1013156,
+    "end_ms": 1025717,
+    "duration_ms": 12561,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1025.717,
+    "text": "That would be studies usually involving non-human species, but, again, in these studies, we're basically looking at some metabolic process, and the most common one is to look at the utilization of oxygen.",
+    "start_ms": 1025717,
+    "end_ms": 1039117,
+    "duration_ms": 13400,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1039.117,
+    "text": "Other places they might be looking at glucose metabolism and so forth, but, basically, neural activity demands lots of energy, okay, and it consumes lots of oxygen and lots of glucose.",
+    "start_ms": 1039117,
+    "end_ms": 1050316,
+    "duration_ms": 11199,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1050.316,
+    "text": "So the brain is, I don't know what percentage of the total body, but it consumes a disproportionate amount of the body's energy, and so people have developed methods to basically be able to track that oxygen utilization or that glucose utilization.",
+    "start_ms": 1050316,
+    "end_ms": 1066437,
+    "duration_ms": 16121,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1066.437,
+    "text": "I won't talk much about it here, maybe just a few references over the course of the class, but the first major technology is what's called PET scanning, which stands for positron emission tomography.",
+    "start_ms": 1066437,
+    "end_ms": 1078236,
+    "duration_ms": 11799,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1078.236,
+    "text": "Again, you can read about it a bit in the textbook, but, basically, here, you're going to inject a radioactive form of oxygen, or at least that's the most common form of it, okay?",
+    "start_ms": 1078236,
+    "end_ms": 1090037,
+    "duration_ms": 11801,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1090.037,
+    "text": "So O15 is a form of oxygen, but it's an unstable one that you have to make in a cyclotron, and, basically, it has a half-life, I believe it's like 40 seconds.",
+    "start_ms": 1090037,
+    "end_ms": 1101156,
+    "duration_ms": 11119,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1101.156,
+    "text": "So again, you give an injection, the oxygen you have, or a bunch of it is labeled with this O15 molecules there, and then, basically, it's going to be absorbed by the body, right?",
+    "start_ms": 1101156,
+    "end_ms": 1111956,
+    "duration_ms": 10800,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1111.956,
+    "text": "Cells are going to absorb that oxygen, and then, because it's radioactive and it's constantly decaying, you're going to have the device, that's what the PET scanner is, it's measuring the decay of that oxygen, and then it can, basically, reconstruct where was that oxygen being utilized, and we can say, is it being utilized in this part of the brain, that part of the brain, while a person is doing a task?",
+    "start_ms": 1111956,
+    "end_ms": 1134596,
+    "duration_ms": 22640,
+    "word_count": 73,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1134.596,
+    "text": "So we can take it in vivo, while the person's sitting there, have them do some sort of cognitive task and ask which parts of the brain are gobbling up most of the oxygen, or gobbling up more oxygen than they typically do.",
+    "start_ms": 1134596,
+    "end_ms": 1148997,
+    "duration_ms": 14401,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1149.596,
+    "text": "Well, the same idea is true with functional magnetic resonance imaging.",
+    "start_ms": 1149596,
+    "end_ms": 1153397,
+    "duration_ms": 3801,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1153.397,
+    "text": "We already talked about the methodology, right, about putting the person into a field that's a magnetic field that's going to orient, say, the hydrogen protons, and then, basically, perturbing them with a radio wave and measuring off the signal that they give off as they reset.",
+    "start_ms": 1153397,
+    "end_ms": 1174637,
+    "duration_ms": 21240,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1174.637,
+    "text": "This has kind of replaced PET scanning, just because fMRI is much more accessible.",
+    "start_ms": 1174637,
+    "end_ms": 1179397,
+    "duration_ms": 4760,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1179.397,
+    "text": "Many hospitals have it, universities have them. We have two over here, or three over here at Berkeley.",
+    "start_ms": 1179397,
+    "end_ms": 1185397,
+    "duration_ms": 6000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1185.397,
+    "text": "They're non-invasive. They don't require any radioactive tracer. It's not that the radioactive tracers are dangerous so much, but you actually need a cyclotron to construct these radioactive tracers.",
+    "start_ms": 1185397,
+    "end_ms": 1196436,
+    "duration_ms": 11039,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1196.436,
+    "text": "So PET scanning is much more expensive, and fMRI is relatively cheaper.",
+    "start_ms": 1196436,
+    "end_ms": 1202837,
+    "duration_ms": 6401,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1202.837,
+    "text": "So again, the basic idea is going to be that when neurons are active, right, they're going to consume.",
+    "start_ms": 1202837,
+    "end_ms": 1210197,
+    "duration_ms": 7360,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1210.197,
+    "text": "They're going to use up a lot of oxygen. So you might expect that a part of the brain that's active is actually going to show oxygen depletion, okay?",
+    "start_ms": 1210197,
+    "end_ms": 1220357,
+    "duration_ms": 10160,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1220.357,
+    "text": "But those glial cells, remember the glial cells are kind of signaling, you know, they're kind of regulating the metabolic processes there.",
+    "start_ms": 1220357,
+    "end_ms": 1227637,
+    "duration_ms": 7280,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1227.637,
+    "text": "They actually get a signal that says oxygen levels are dropping here, and they send a signal basically to the circulatory system, where they open up to the circulatory system that's going to allow oxygen flow to be replenished to those parts of the brain.",
+    "start_ms": 1227637,
+    "end_ms": 1242596,
+    "duration_ms": 14959,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1242.596,
+    "text": "So there's kind of a feedback loop here. If a part of the brain's active, it is going to consume up a relatively large amount of the available oxygen, but fairly quickly through the glial cell signaling, there's actually going to be a replenishing of the oxygen, and there's actually an overabundance or an overshoot in that process.",
+    "start_ms": 1242596,
+    "end_ms": 1265716,
+    "duration_ms": 23120,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1265.716,
+    "text": "So if I use up, say, 10 units of oxygen, the system's actually designed that it's going to replenish with making up the numbers with 20 units of oxygen.",
+    "start_ms": 1265716,
+    "end_ms": 1275637,
+    "duration_ms": 9921,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1275.637,
+    "text": "And so initially there's going to be this drop, but then over time you're going to get this increase in the blood flow.",
+    "start_ms": 1275637,
+    "end_ms": 1282477,
+    "duration_ms": 6840,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1282.477,
+    "text": "And so basically what the fMRI study is measuring is what's the ratio.",
+    "start_ms": 1282477,
+    "end_ms": 1286757,
+    "duration_ms": 4280,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1286.583,
+    "text": "is, what's the ratio of oxygenated to deoxygenated blood? Because they have different magnetic properties.",
+    "start_ms": 1286583,
+    "end_ms": 1294276,
+    "duration_ms": 7693,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1294.276,
+    "text": "So that's what the fMRI scanner is measuring, is that ratio.",
+    "start_ms": 1294276,
+    "end_ms": 1299556,
+    "duration_ms": 5280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1299.556,
+    "text": "And basically, we're actually seeing usually that there's an increase in the level of oxygenated blood relative to deoxygenated in the parts that are activated.",
+    "start_ms": 1299556,
+    "end_ms": 1310435,
+    "duration_ms": 10879,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1310.435,
+    "text": "And that's what's called the BOLD response, which stands for Blood Oxygenation Level Dependent Response.",
+    "start_ms": 1310435,
+    "end_ms": 1317155,
+    "duration_ms": 6720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1317.155,
+    "text": "And that's the core measure in just about all the brain imaging studies.",
+    "start_ms": 1317155,
+    "end_ms": 1320675,
+    "duration_ms": 3520,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1320.675,
+    "text": "And it's just, again, like I said, it's a ratio of the oxygenated to deoxygenated blood.",
+    "start_ms": 1320675,
+    "end_ms": 1327556,
+    "duration_ms": 6881,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1327.556,
+    "text": "And again, it's usually a positive number, meaning brain areas that are active show an increase in the BOLD response.",
+    "start_ms": 1327556,
+    "end_ms": 1335155,
+    "duration_ms": 7599,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1335.155,
+    "text": "It's again, it's because of that oversupply, that replenishing overshoots the amount of blood that was used.",
+    "start_ms": 1335155,
+    "end_ms": 1341596,
+    "duration_ms": 6441,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1341.596,
+    "text": "And so usually, it's plotted as a percent signal change, OK?",
+    "start_ms": 1341596,
+    "end_ms": 1345955,
+    "duration_ms": 4359,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1345.955,
+    "text": "We're measuring at all points in time. With fMRI, usually taking measurements every two seconds or so.",
+    "start_ms": 1345955,
+    "end_ms": 1353436,
+    "duration_ms": 7481,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1353.436,
+    "text": "And basically, we're measuring that ratio, and we're going to see an increase in that ratio in parts of the brain that are active.",
+    "start_ms": 1353436,
+    "end_ms": 1361635,
+    "duration_ms": 8199,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1361.635,
+    "text": "That percentage is usually going to be in the order of 1%, 2%, maybe a 3% increase.",
+    "start_ms": 1361635,
+    "end_ms": 1367196,
+    "duration_ms": 5561,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1367.196,
+    "text": "But again, we're making these measurements over and over time.",
+    "start_ms": 1367196,
+    "end_ms": 1371915,
+    "duration_ms": 4719,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1371.915,
+    "text": "In some papers, you won't see it plotted as a BOLD response and percent change.",
+    "start_ms": 1371915,
+    "end_ms": 1376756,
+    "duration_ms": 4841,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1376.756,
+    "text": "They'll actually talk about it in terms of a beta weight.",
+    "start_ms": 1376756,
+    "end_ms": 1380035,
+    "duration_ms": 3279,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1380.035,
+    "text": "And basically, a beta weight, we don't need to worry about the details.",
+    "start_ms": 1380035,
+    "end_ms": 1383675,
+    "duration_ms": 3640,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1383.675,
+    "text": "It's just a measure that's basically saying, what's the relative contribution of the change in the BOLD activity at this region within the brain?",
+    "start_ms": 1383675,
+    "end_ms": 1394995,
+    "duration_ms": 11320,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1394.995,
+    "text": "So it's another way, basically, expressing what that percent change is or what the BOLD response is.",
+    "start_ms": 1394995,
+    "end_ms": 1402196,
+    "duration_ms": 7201,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1402.196,
+    "text": "Just say that so that you're familiar with it and run into it.",
+    "start_ms": 1402196,
+    "end_ms": 1404836,
+    "duration_ms": 2640,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1404.836,
+    "text": "Now, of course, we're taking the measurements. One of the beautiful things of fMRI is we can actually measure the whole brain activity at the same time, right?",
+    "start_ms": 1404836,
+    "end_ms": 1414275,
+    "duration_ms": 9439,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1414.275,
+    "text": "With many methods, especially with animal models, we're doing very local measurements.",
+    "start_ms": 1414275,
+    "end_ms": 1418596,
+    "duration_ms": 4321,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1419.355,
+    "text": "But with fMRI, we're actually getting a measure of the whole brain every two seconds or so.",
+    "start_ms": 1419355,
+    "end_ms": 1425755,
+    "duration_ms": 6400,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1425.755,
+    "text": "So then we have to decide, what are going to be the units, right?",
+    "start_ms": 1425755,
+    "end_ms": 1428835,
+    "duration_ms": 3080,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1428.835,
+    "text": "Because the brain's this mass here. We could do it for every single spec there, but we're going to do some sort of averaging.",
+    "start_ms": 1428835,
+    "end_ms": 1438195,
+    "duration_ms": 9360,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1438.195,
+    "text": "And so what the brain does is it gets divided up into what are called voxels, which are really just volumetric pixels.",
+    "start_ms": 1438195,
+    "end_ms": 1445316,
+    "duration_ms": 7121,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1445.316,
+    "text": "So a pixel is like on your computer screen, right?",
+    "start_ms": 1445316,
+    "end_ms": 1448596,
+    "duration_ms": 3280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1448.596,
+    "text": "It's pixelated. There's like little dots there that are getting filled, assigned a particular color.",
+    "start_ms": 1448596,
+    "end_ms": 1453956,
+    "duration_ms": 5360,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1453.956,
+    "text": "Well, in fMRI, basically, we're taking volumetric pixels, three-dimensional pixels.",
+    "start_ms": 1453956,
+    "end_ms": 1459956,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1459.956,
+    "text": "We can vary the size of it depending on the spatial resolution we want from the scanner.",
+    "start_ms": 1459956,
+    "end_ms": 1465716,
+    "duration_ms": 5760,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1465.716,
+    "text": "So we're basically getting a BOLD response from every single pixel every two seconds and so forth.",
+    "start_ms": 1465716,
+    "end_ms": 1472395,
+    "duration_ms": 6679,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1472.395,
+    "text": "And then here, what I'm just showing is, here's the BOLD activity, okay, in one particular voxel as a function of time.",
+    "start_ms": 1472395,
+    "end_ms": 1480915,
+    "duration_ms": 8520,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1480.915,
+    "text": "So every two seconds, we're going to get a measure there.",
+    "start_ms": 1480915,
+    "end_ms": 1484956,
+    "duration_ms": 4041,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1484.956,
+    "text": "This is actually going to be normalized so that zero is the average response.",
+    "start_ms": 1484956,
+    "end_ms": 1488755,
+    "duration_ms": 3799,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1488.755,
+    "text": "And you can see that there's going to be fluctuations, just spontaneous fluctuations over the course of time in that BOLD response that's being measured from that one voxel.",
+    "start_ms": 1488755,
+    "end_ms": 1500135,
+    "duration_ms": 11380,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1500.135,
+    "text": "So it's going up, it goes down, goes up and down.",
+    "start_ms": 1500135,
+    "end_ms": 1503456,
+    "duration_ms": 3321,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1503.456,
+    "text": "That might be at rest. But if we do an experiment, we might find that we get a consistent increase in the BOLD response.",
+    "start_ms": 1503456,
+    "end_ms": 1509816,
+    "duration_ms": 6360,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1509.816,
+    "text": "And that's how we're going to then be making inferences about which parts of the brain are active as they relate to the experiment that we're trying to do.",
+    "start_ms": 1509816,
+    "end_ms": 1518615,
+    "duration_ms": 8799,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1518.615,
+    "text": "All right. So let's just give a few examples about how we might then use this tool in experiments.",
+    "start_ms": 1518615,
+    "end_ms": 1527016,
+    "duration_ms": 8401,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1527.016,
+    "text": "And again, this came around in around 1990, and there's hundreds of thousands of studies that have been done doing fMRI.",
+    "start_ms": 1527016,
+    "end_ms": 1533576,
+    "duration_ms": 6560,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1533.576,
+    "text": "It's basically taken over cognitive neuroscience. So this is kind of the most simplest experiment, is that basically that BOLD response, it takes about six seconds before it actually reaches its peak, okay, that oxygenation change in the measurements we're taking.",
+    "start_ms": 1533576,
+    "end_ms": 1552455,
+    "duration_ms": 18879,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1552.455,
+    "text": "So basically, it doesn't have very good temporal resolution. And so what people will say is, well, let's do one task for, say, 40 seconds, and then do another test for 40 seconds.",
+    "start_ms": 1552455,
+    "end_ms": 1562356,
+    "duration_ms": 9901,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1562.356,
+    "text": "We can average over those two different epochs and compare the BOLD response at different places in the brain or across the whole brain.",
+    "start_ms": 1562356,
+    "end_ms": 1570295,
+    "duration_ms": 7939,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1570.295,
+    "text": "So for instance, in this experiment here, what they're doing is they're alternating between, and I can't really read it at that level, so let me look down here.",
+    "start_ms": 1570295,
+    "end_ms": 1577775,
+    "duration_ms": 7480,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1577.775,
+    "text": "They basically are going to have people looking at the screen, and there's a bunch of dots that are either on the screen that are stationary, or the dots start to wiggle, or the screen is blank.",
+    "start_ms": 1577775,
+    "end_ms": 1588436,
+    "duration_ms": 10661,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1588.436,
+    "text": "So again, the independent variable, the thing they're manipulating there is, are the dots present or not, and if they are present, are they stationary, or are they moving?",
+    "start_ms": 1588436,
+    "end_ms": 1599916,
+    "duration_ms": 11480,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1599.916,
+    "text": "And basically, here they're plotting the BOLD response, and this is the percent change, goes up to about 3% here.",
+    "start_ms": 1599916,
+    "end_ms": 1606436,
+    "duration_ms": 6520,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1606.123,
+    "text": "Over time, this is when the screen is blank. They're measuring the primary visual cortex.",
+    "start_ms": 1606123,
+    "end_ms": 1611746,
+    "duration_ms": 5623,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1611.746,
+    "text": "And basically, this is sort of a baseline measure here.",
+    "start_ms": 1611746,
+    "end_ms": 1615571,
+    "duration_ms": 3825,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1615.571,
+    "text": "But then notice what happens when we actually turn on the stimulus.",
+    "start_ms": 1615571,
+    "end_ms": 1619620,
+    "duration_ms": 4049,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1619.62,
+    "text": "The BOLD response goes up. Once we turn it off, it drops down and it tends to overshoot.",
+    "start_ms": 1619620,
+    "end_ms": 1625901,
+    "duration_ms": 6281,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1625.901,
+    "text": "And then turn back on the stimulus again, it goes back up.",
+    "start_ms": 1625901,
+    "end_ms": 1629341,
+    "duration_ms": 3440,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1629.341,
+    "text": "And you can't see the colors very well, but the darker ones are when the stimulus is moving, and the grayer ones here are when the stimulus is stationary.",
+    "start_ms": 1629341,
+    "end_ms": 1638116,
+    "duration_ms": 8775,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1638.116,
+    "text": "And the point to be seen here is that in the primary visual cortex, there's actually no difference.",
+    "start_ms": 1638116,
+    "end_ms": 1645089,
+    "duration_ms": 6973,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1645.089,
+    "text": "If there's a visual stimulus present, it doesn't matter whether it's moving or stationary.",
+    "start_ms": 1645089,
+    "end_ms": 1650704,
+    "duration_ms": 5615,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1650.704,
+    "text": "The visual cortex is very responsive as soon as you turn on a visual stimulus here.",
+    "start_ms": 1650704,
+    "end_ms": 1656434,
+    "duration_ms": 5730,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1656.434,
+    "text": "But now if we actually look at a higher order visual area, and we'll talk about this starting next week, V5, again, it's an area that's been shown, or this is one of the studies that shows it, is sensitive to moving stimuli.",
+    "start_ms": 1656434,
+    "end_ms": 1671234,
+    "duration_ms": 14800,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1671.234,
+    "text": "You can see that here. No stimulus present, low BOLD response.",
+    "start_ms": 1671234,
+    "end_ms": 1675781,
+    "duration_ms": 4547,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1675.781,
+    "text": "Stimulus comes on, but it's not moving. And again, there's basically no change in that BOLD response.",
+    "start_ms": 1675781,
+    "end_ms": 1681768,
+    "duration_ms": 5987,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1681.768,
+    "text": "But make those dots start wiggling back and forth, and you get a massive response.",
+    "start_ms": 1681768,
+    "end_ms": 1687218,
+    "duration_ms": 5450,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1687.218,
+    "text": "So again, here's an experimental tool that we can make inferences experimentally about the difference between V1 primary visual cortex in this higher order area, both responsive to visual inputs, but here there's like a specialization.",
+    "start_ms": 1687218,
+    "end_ms": 1702942,
+    "duration_ms": 15724,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1702.942,
+    "text": "This region's only sensitive to when there's actually moving visual events, not to the static images.",
+    "start_ms": 1702942,
+    "end_ms": 1709291,
+    "duration_ms": 6349,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1709.291,
+    "text": "So that's one way to do it, is this block design.",
+    "start_ms": 1709291,
+    "end_ms": 1714156,
+    "duration_ms": 4865,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1714.156,
+    "text": "And again, there you're kind of hammering things for like 40 seconds, you're doing the same thing over and over again, and then 40 seconds doing something else.",
+    "start_ms": 1714156,
+    "end_ms": 1722177,
+    "duration_ms": 8021,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1722.177,
+    "text": "Question? What would a higher order visual stimuli be like?",
+    "start_ms": 1722177,
+    "end_ms": 1726115,
+    "duration_ms": 3938,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1726.115,
+    "text": "Oh, I meant higher order visual processing area. And we'll talk about this next week, that all the visual input's going to come into the primary visual cortex, but then it's going to go to other areas in the occipital and temporal lobe.",
+    "start_ms": 1726115,
+    "end_ms": 1738618,
+    "duration_ms": 12503,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1738.618,
+    "text": "And I'm calling those higher order, that they're more specialized.",
+    "start_ms": 1738618,
+    "end_ms": 1741902,
+    "duration_ms": 3284,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1741.902,
+    "text": "But again, that's really for the next section of the course.",
+    "start_ms": 1741902,
+    "end_ms": 1746154,
+    "duration_ms": 4252,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1746.154,
+    "text": "Well, on the other hand, a different way to do these experiments is what's called event-related designs.",
+    "start_ms": 1746154,
+    "end_ms": 1753000,
+    "duration_ms": 6846,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1753.0,
+    "text": "And here the idea is, let's try to look at the BOLD response to particular events, rather than say averaging over in this crude way, over a 40 second period.",
+    "start_ms": 1753000,
+    "end_ms": 1765635,
+    "duration_ms": 12635,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1765.635,
+    "text": "Now again, let's say each of these are different events.",
+    "start_ms": 1765635,
+    "end_ms": 1769329,
+    "duration_ms": 3694,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1769.329,
+    "text": "We're going to have that very slow, sluggish, BOLD response to each one of those events.",
+    "start_ms": 1769329,
+    "end_ms": 1775335,
+    "duration_ms": 6006,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1775.335,
+    "text": "And if these events are spaced close together, then this BOLD response is actually going to be the cumulative effect of multiple events.",
+    "start_ms": 1775335,
+    "end_ms": 1784434,
+    "duration_ms": 9099,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1784.434,
+    "text": "We aren't able to separate things easily because of the sluggish or slow response of the BOLD response.",
+    "start_ms": 1784434,
+    "end_ms": 1791709,
+    "duration_ms": 7275,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1791.709,
+    "text": "But nonetheless, I can take this general signal here, and I can use algorithms to basically extract which part of this response is related to this event, which I would say we take this point here, how much of this response is related to this event, this event, this event, and this event.",
+    "start_ms": 1791709,
+    "end_ms": 1811142,
+    "duration_ms": 19433,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1811.142,
+    "text": "So we can basically run a bunch of events successively, but we can use this other method to extract how much of the change in the BOLD response is related to each of the events.",
+    "start_ms": 1811142,
+    "end_ms": 1822114,
+    "duration_ms": 10972,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1822.114,
+    "text": "And now I can do better experiments because I can randomize my stimuli.",
+    "start_ms": 1822114,
+    "end_ms": 1826167,
+    "duration_ms": 4053,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1826.167,
+    "text": "I can have all my conditions randomly shuffled together and extract from the BOLD response how the response is to one type of event compared to a different one.",
+    "start_ms": 1826167,
+    "end_ms": 1835974,
+    "duration_ms": 9807,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1835.974,
+    "text": "And, oh, we're already there. So actually, one of the most beautiful experiments, I think, that came along early days here with event-related fMRI was to ask the question about, you know, classic question, why don't we remember things?",
+    "start_ms": 1835974,
+    "end_ms": 1849081,
+    "duration_ms": 13107,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1849.081,
+    "text": "And obviously, if I ask you why you can't remember anything, there's two primary reasons, right?",
+    "start_ms": 1849081,
+    "end_ms": 1854402,
+    "duration_ms": 5321,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1854.402,
+    "text": "That if I can't, I meet someone, two days later, I don't remember their name, whatever, right?",
+    "start_ms": 1854402,
+    "end_ms": 1860036,
+    "duration_ms": 5634,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1860.036,
+    "text": "It could have been that I failed to retrieve information.",
+    "start_ms": 1860036,
+    "end_ms": 1862859,
+    "duration_ms": 2823,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1862.859,
+    "text": "That's what we usually say. Ah, gee, I just can't recall.",
+    "start_ms": 1862859,
+    "end_ms": 1865851,
+    "duration_ms": 2992,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1865.851,
+    "text": "You know, I know it's in there somewhere. But alternatively, it might have been, no, the failure was really at the time of encoding, that the information never really got in there.",
+    "start_ms": 1865851,
+    "end_ms": 1874925,
+    "duration_ms": 9074,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1874.925,
+    "text": "So these are two, like, classic ideas, right? They both could be right.",
+    "start_ms": 1874925,
+    "end_ms": 1878882,
+    "duration_ms": 3957,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1878.882,
+    "text": "But basically, they wanted to design an experiment to ask, memory failure is either really due to a failure to actually encode the information, or is it really a problem about retrieval?",
+    "start_ms": 1878882,
+    "end_ms": 1889709,
+    "duration_ms": 10827,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1889.709,
+    "text": "And again, our phenomenology usually is about that I have trouble retrieving the information.",
+    "start_ms": 1889709,
+    "end_ms": 1894349,
+    "duration_ms": 4640,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1894.349,
+    "text": "But they wanted to be open to the idea that maybe it's more about that I never really encoded the information properly.",
+    "start_ms": 1894349,
+    "end_ms": 1900914,
+    "duration_ms": 6565,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1900.914,
+    "text": "All right. So here's the iClicker. Let me start it.",
+    "start_ms": 1900914,
+    "end_ms": 1905031,
+    "duration_ms": 4117,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1905.031,
+    "text": "It's a poll. It's a multiple choice. Go right there.",
+    "start_ms": 1905031,
+    "end_ms": 1910070,
+    "duration_ms": 5039,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1910.07,
+    "text": "Okay. So going to do this experiment, right? We want to test these two hypotheses.",
+    "start_ms": 1910070,
+    "end_ms": 1916994,
+    "duration_ms": 6924,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1916.994,
+    "text": "It's really good practice for the exam. All right. I'm going to study a list of words.",
+    "start_ms": 1916994,
+    "end_ms": 1923368,
+    "duration_ms": 6374,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1923.368,
+    "text": "I'll give you six examples here. it's going to be a much longer list.",
+    "start_ms": 1923368,
+    "end_ms": 1927922,
+    "duration_ms": 4554,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1927.922,
+    "text": "You'll have to study that list of words. I'm going to bring you back one week later, and I'm going to test you and see how many of the words you remember.",
+    "start_ms": 1927922,
+    "end_ms": 1936585,
+    "duration_ms": 8663,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1936.585,
+    "text": "Okay? And I know that if I test you a week later and I've given you a long list of words, you're going to make a lot of memory failures.",
+    "start_ms": 1936585,
+    "end_ms": 1943947,
+    "duration_ms": 7362,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1943.947,
+    "text": "Okay? So I'm going to be able to produce some things you're going to recall, some things you're not going to recall.",
+    "start_ms": 1943947,
+    "end_ms": 1949306,
+    "duration_ms": 5359,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1949.306,
+    "text": "And the question for you here is if I want to test these two hypotheses, I want to evaluate, compare them, when should I do my scanning?",
+    "start_ms": 1949306,
+    "end_ms": 1957714,
+    "duration_ms": 8408,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1957.714,
+    "text": "Should I do it while you study the list, or should I do it during the recall phase?",
+    "start_ms": 1957714,
+    "end_ms": 1964604,
+    "duration_ms": 6890,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1964.604,
+    "text": "Or should I really do my scanning both during study and during recall?",
+    "start_ms": 1964604,
+    "end_ms": 1971450,
+    "duration_ms": 6846,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1971.45,
+    "text": "Okay? So that's the question for you. Okay. You're on your toes.",
+    "start_ms": 1971450,
+    "end_ms": 1979535,
+    "duration_ms": 8085,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1979.535,
+    "text": "A lot of answers already. So let's see the results here.",
+    "start_ms": 1979535,
+    "end_ms": 1987092,
+    "duration_ms": 7557,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1987.092,
+    "text": "All right. Now you guys, you want to figure, hey, more data can't be, is always good.",
+    "start_ms": 1987092,
+    "end_ms": 1993820,
+    "duration_ms": 6728,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1993.82,
+    "text": "So let's just scan them during both the study phase and the recall phase.",
+    "start_ms": 1993820,
+    "end_ms": 1999169,
+    "duration_ms": 5349,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1999.169,
+    "text": "Okay? Well, I would argue that actually the correct answer here is what I want to do is scan them during the study phase.",
+    "start_ms": 1999169,
+    "end_ms": 2007809,
+    "duration_ms": 8640,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2007.809,
+    "text": "Okay? And let me actually show you the results here, and then I think it'll become clear.",
+    "start_ms": 2007809,
+    "end_ms": 2012810,
+    "duration_ms": 5001,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2012.81,
+    "text": "All right. If I study, or in brief, what do I learn if I study people during the recall phase?",
+    "start_ms": 2012810,
+    "end_ms": 2019798,
+    "duration_ms": 6988,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2019.798,
+    "text": "Okay? We know they're not going to remember some words, and they are going to remember other words.",
+    "start_ms": 2019798,
+    "end_ms": 2024809,
+    "duration_ms": 5011,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2024.809,
+    "text": "So I compare the two, and presumably, some parts of the brain will respond stronger, say when I recall a word, than when I forget the words.",
+    "start_ms": 2024809,
+    "end_ms": 2034126,
+    "duration_ms": 9317,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2034.126,
+    "text": "But actually there, I'm not going to know why I failed.",
+    "start_ms": 2034126,
+    "end_ms": 2037673,
+    "duration_ms": 3547,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2037.673,
+    "text": "I just know I did fail. All right? I didn't recall all the words.",
+    "start_ms": 2037673,
+    "end_ms": 2041593,
+    "duration_ms": 3920,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2041.593,
+    "text": "But that scanning taken at the time of recall isn't diagnostic.",
+    "start_ms": 2041593,
+    "end_ms": 2045718,
+    "duration_ms": 4125,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2045.718,
+    "text": "It just tells me, hey, the brain responds differently when I recall or when I forget a word.",
+    "start_ms": 2045718,
+    "end_ms": 2051295,
+    "duration_ms": 5577,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2051.295,
+    "text": "But it might have been due to that from encoding, or it might have been due to retrieval.",
+    "start_ms": 2051295,
+    "end_ms": 2056880,
+    "duration_ms": 5585,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2056.88,
+    "text": "So the answer really is, you know, I stopped that.",
+    "start_ms": 2056880,
+    "end_ms": 2060929,
+    "duration_ms": 4049,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2060.929,
+    "text": "Yes. Stop that and make it small. And I'll show you how they work.",
+    "start_ms": 2060929,
+    "end_ms": 2067000,
+    "duration_ms": 6071,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2067.0,
+    "text": "So again, what they did is they scanned people while they study, and they set it up so basically they do this event-related response.",
+    "start_ms": 2067000,
+    "end_ms": 2076203,
+    "duration_ms": 9203,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2076.203,
+    "text": "Again, things might be smooshed together in the signal, but they're going to use this extraction methods to be able to separate what's the bold response to the word table, what's the bold response to the word eagle, et cetera, for all six items.",
+    "start_ms": 2076203,
+    "end_ms": 2091069,
+    "duration_ms": 14866,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2091.069,
+    "text": "The next week, they come back and do the recall, and the person says, table, eagle, office, toothbrush.",
+    "start_ms": 2091069,
+    "end_ms": 2098895,
+    "duration_ms": 7826,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2098.895,
+    "text": "Okay? So they got four of the six words right.",
+    "start_ms": 2098895,
+    "end_ms": 2102789,
+    "duration_ms": 3894,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2102.789,
+    "text": "Well, now we can sort our data based on whether it was successfully recalled or forgotten.",
+    "start_ms": 2102789,
+    "end_ms": 2111134,
+    "duration_ms": 8345,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2111.134,
+    "text": "And so red here, I've got the recalled items. Blue here, I've got the forgotten items.",
+    "start_ms": 2111134,
+    "end_ms": 2117713,
+    "duration_ms": 6579,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2117.713,
+    "text": "And basically my fMRI contrast, or the comparison I'm going to make, is what areas in the brain show a stronger response for words that are recalled a week later compared to the words that I forgot.",
+    "start_ms": 2117713,
+    "end_ms": 2132996,
+    "duration_ms": 15283,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2132.996,
+    "text": "Right? And again, we know behaviorally that they recalled some and they forgot others.",
+    "start_ms": 2132996,
+    "end_ms": 2139111,
+    "duration_ms": 6115,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2139.111,
+    "text": "If it was an encoding problem, then I should see a difference at the initial scan.",
+    "start_ms": 2139111,
+    "end_ms": 2145593,
+    "duration_ms": 6482,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2145.593,
+    "text": "The difference should actually be apparent during the encoding phase.",
+    "start_ms": 2145593,
+    "end_ms": 2149905,
+    "duration_ms": 4312,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2149.905,
+    "text": "But if it's a retrieval problem, I wouldn't see any difference between the bold response to the words that a week later I remembered or the words that a week later that I forgot.",
+    "start_ms": 2149905,
+    "end_ms": 2161393,
+    "duration_ms": 11488,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2161.393,
+    "text": "Is that clear? It's a subtle experiment, but it's a really powerful way to do this.",
+    "start_ms": 2161393,
+    "end_ms": 2167801,
+    "duration_ms": 6408,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2167.801,
+    "text": "Yeah? Sorry, could I get a quick clarification on the difference between failure of retrieval and encoding?",
+    "start_ms": 2167801,
+    "end_ms": 2173113,
+    "duration_ms": 5312,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2173.113,
+    "text": "Okay. Again, I give you this list of words. Okay?",
+    "start_ms": 2173113,
+    "end_ms": 2176424,
+    "duration_ms": 3311,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2176.424,
+    "text": "These six words. A week later, I ask you to tell me what those six words were.",
+    "start_ms": 2176424,
+    "end_ms": 2181693,
+    "duration_ms": 5269,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2181.693,
+    "text": "You get three of the six words right. Okay? So you've had a memory failure.",
+    "start_ms": 2181693,
+    "end_ms": 2186233,
+    "duration_ms": 4540,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2186.233,
+    "text": "Right? The memory failure might be because you never encoded the information initially or you poorly encoded some of the words initially.",
+    "start_ms": 2186233,
+    "end_ms": 2194794,
+    "duration_ms": 8561,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2194.794,
+    "text": "Or it might have been that initially you studied everything really well, but now when I test you, you just can't come up with those three words.",
+    "start_ms": 2194794,
+    "end_ms": 2201808,
+    "duration_ms": 7014,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2201.808,
+    "text": "So that's really the difference between was it really the memory failure?",
+    "start_ms": 2201808,
+    "end_ms": 2205708,
+    "duration_ms": 3900,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2205.708,
+    "text": "Again, our phenomenology is I can't recall it. We think of it as a retrieval problem.",
+    "start_ms": 2205708,
+    "end_ms": 2211323,
+    "duration_ms": 5615,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2211.323,
+    "text": "But here they're saying maybe it wasn't a retrieval problem.",
+    "start_ms": 2211323,
+    "end_ms": 2214473,
+    "duration_ms": 3150,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2214.473,
+    "text": "Maybe the words you don't remember just were never really encoded properly to start.",
+    "start_ms": 2214473,
+    "end_ms": 2221379,
+    "duration_ms": 6906,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2221.379,
+    "text": "Okay. So that's the test they're going to see. I already gave you the answer, but we'll see how well it stuck.",
+    "start_ms": 2221379,
+    "end_ms": 2234007,
+    "duration_ms": 12628,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2234.007,
+    "text": "All right. So this would be classic exam type question.",
+    "start_ms": 2234007,
+    "end_ms": 2243740,
+    "duration_ms": 9733,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2243.74,
+    "text": "Relatively hard one. We're now asking what outcome supports which of our hypotheses.",
+    "start_ms": 2243740,
+    "end_ms": 2273593,
+    "duration_ms": 29853,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2282.552,
+    "text": "Now let's take a look at the results here. You can keep pulling in with them here.",
+    "start_ms": 2282552,
+    "end_ms": 2287232,
+    "duration_ms": 4680,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2288.712,
+    "text": "All right, so the majority answer here is B. Okay, and that is the correct answer here, right?",
+    "start_ms": 2288712,
+    "end_ms": 2297232,
+    "duration_ms": 8520,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2297.232,
+    "text": "Because I'm saying that if we find at the time of encoding, because we only did our scanning at the time of encoding, if that response is strong, if we find that brain areas that are more active when encoding words that are remembered compared to words that are forgotten, then that would be consistent with the idea that the failures of memory really related to a failure to properly encode the information originally.",
+    "start_ms": 2297232,
+    "end_ms": 2324513,
+    "duration_ms": 27281,
+    "word_count": 74,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2325.272,
+    "text": "Now you might be asking, why is it that you actually get a weak, bold response to some items than others?",
+    "start_ms": 2325272,
+    "end_ms": 2330553,
+    "duration_ms": 5281,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2330.553,
+    "text": "Well, you know, your state of attention when you're reading that list of 50 words is going to fluctuate over time.",
+    "start_ms": 2330553,
+    "end_ms": 2336712,
+    "duration_ms": 6159,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2336.712,
+    "text": "I mean, there's going to be all sorts of reasons that are going to cause variation, but basically they're saying if we see this difference, then we know that this is a brain area that's likely involved in encoding information.",
+    "start_ms": 2336712,
+    "end_ms": 2348952,
+    "duration_ms": 12240,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2351.833,
+    "text": "And indeed, they actually identified, let me just put them all up there, just a few different regions that showed that signature.",
+    "start_ms": 2351833,
+    "end_ms": 2362112,
+    "duration_ms": 10279,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2362.112,
+    "text": "So here's the bold response. Again, this is time locked, where zero would be the onset of each event, because they've realigned the bold response to each event, and in red they're plotting, here's the bold response to the remembered items, here's the bold response to the forgotten items, and you can see that there's a difference.",
+    "start_ms": 2362112,
+    "end_ms": 2381553,
+    "duration_ms": 19441,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2381.553,
+    "text": "There's a stronger, bold response to the remembered items than the forgotten items.",
+    "start_ms": 2381553,
+    "end_ms": 2386432,
+    "duration_ms": 4879,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2387.312,
+    "text": "Again, this is just a metabolic proxy for neural activity, but presumably there was stronger neural activity when you're remembering things in the left frontal region and also in this left temporal lobe region.",
+    "start_ms": 2387312,
+    "end_ms": 2400073,
+    "duration_ms": 12761,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2400.113,
+    "text": "So two regions in the left hemisphere seem to be important for this distinction between remembered and forgotten words.",
+    "start_ms": 2400113,
+    "end_ms": 2407512,
+    "duration_ms": 7399,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2412.672,
+    "text": "Why was it not C? Let's go back to C.",
+    "start_ms": 2412672,
+    "end_ms": 2415993,
+    "duration_ms": 3321,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2417.753,
+    "text": "All right. Well, C wouldn't really be diagnostic for anything.",
+    "start_ms": 2417753,
+    "end_ms": 2428059,
+    "duration_ms": 10306,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2428.059,
+    "text": "Basically, C says the whole brain looks the same, whether it's encoded, whether I remember the word or forgot the word, right?",
+    "start_ms": 2428059,
+    "end_ms": 2435592,
+    "duration_ms": 7533,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2435.592,
+    "text": "That's what C is saying, basically. If the bold equals for forgotten and remembered are the same, okay, then we don't have any fMRI signature of memory failure.",
+    "start_ms": 2435592,
+    "end_ms": 2447860,
+    "duration_ms": 12268,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2447.86,
+    "text": "It basically tells us this method wasn't good for actually evaluating the hypothesis there.",
+    "start_ms": 2447860,
+    "end_ms": 2453312,
+    "duration_ms": 5452,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2456.672,
+    "text": "I added these two areas here to show, again, that it turns out in the primary visual cortex you might have thought maybe the words that were later forgotten, they didn't actually see them, but this says that the bold response in the visual cortex was the same.",
+    "start_ms": 2456672,
+    "end_ms": 2469073,
+    "duration_ms": 12401,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2469.432,
+    "text": "They had to make movements and that response tended to be the same.",
+    "start_ms": 2469432,
+    "end_ms": 2472792,
+    "duration_ms": 3360,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2472.792,
+    "text": "So these are kind of control areas here to reinforce that it wasn't true that the whole brain was more active for the remembered words versus the forgotten words, but it was very specific to a couple particular regions within the cerebral cortex.",
+    "start_ms": 2472792,
+    "end_ms": 2486232,
+    "duration_ms": 13440,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2487.913,
+    "text": "Well, again, studies like that, there's been like a launch to a whole revolution.",
+    "start_ms": 2487913,
+    "end_ms": 2493512,
+    "duration_ms": 5599,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2493.512,
+    "text": "I mean, not studies like that, but going back from the 1990s and so forth.",
+    "start_ms": 2493512,
+    "end_ms": 2497753,
+    "duration_ms": 4241,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2499.552,
+    "text": "Early on, I mentioned that the behavioral neurologist gave us pictures about what different functions were associated with different parts of the brain, like the parietal lobe with movement, occipital lobe with vision.",
+    "start_ms": 2499552,
+    "end_ms": 2510872,
+    "duration_ms": 11320,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2510.872,
+    "text": "That came out of neurological observations of brain damage over many, many years.",
+    "start_ms": 2510872,
+    "end_ms": 2515753,
+    "duration_ms": 4881,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2516.432,
+    "text": "In a sense, this is what we've kind of gotten out of fMRI.",
+    "start_ms": 2516432,
+    "end_ms": 2519272,
+    "duration_ms": 2840,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2519.272,
+    "text": "If you're kind of skeptical in some sense about that, fMRI is really good about telling you what brain area is associated with what particular function.",
+    "start_ms": 2519272,
+    "end_ms": 2528633,
+    "duration_ms": 9361,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2529.353,
+    "text": "It's what the behavioral neurologists were doing. Maybe we could say that the fMRI workers are doing it at a finer resolution.",
+    "start_ms": 2529353,
+    "end_ms": 2536393,
+    "duration_ms": 7040,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2536.393,
+    "text": "They aren't talking about vision in general, but they've actually identified, say, within the visual cortex, this is looking at the bottom of the brain from the back, that we have some areas that are actually very responsive to seeing faces, other areas, places, other areas, color.",
+    "start_ms": 2536393,
+    "end_ms": 2551272,
+    "duration_ms": 14879,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2551.592,
+    "text": "So again, fMRI is very good at the sort of localization question about what part of the brain area is involved in what sort of task.",
+    "start_ms": 2551592,
+    "end_ms": 2560152,
+    "duration_ms": 8560,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2560.913,
+    "text": "You know, at first it was very crude, and I'm just showing here that, you know, things got refined over.",
+    "start_ms": 2560913,
+    "end_ms": 2565432,
+    "duration_ms": 4519,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2565.172,
+    "text": "over the years and so forth. But again, it doesn't tell us all that much about what it means to be perceiving color.",
+    "start_ms": 2565172,
+    "end_ms": 2573072,
+    "duration_ms": 7900,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2573.072,
+    "text": "It just tells us where, which parts of the brain are important for that sort of function.",
+    "start_ms": 2573072,
+    "end_ms": 2579071,
+    "duration_ms": 5999,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2579.071,
+    "text": "Now in the last 10 plus years, I think we've entered sort of, again, the era of kind of what I call big data, okay?",
+    "start_ms": 2579071,
+    "end_ms": 2586911,
+    "duration_ms": 7840,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2586.911,
+    "text": "And basically, I'll just give you a few examples of this.",
+    "start_ms": 2586911,
+    "end_ms": 2590071,
+    "duration_ms": 3160,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2590.071,
+    "text": "So this is some work done from one of the faculty here, Jack Gallon's group.",
+    "start_ms": 2590071,
+    "end_ms": 2594952,
+    "duration_ms": 4881,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2594.952,
+    "text": "And they basically had people listen to stories or watch movies, and they just asked, where in the brain is our conceptual knowledge associated with?",
+    "start_ms": 2594952,
+    "end_ms": 2605911,
+    "duration_ms": 10959,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2605.911,
+    "text": "And so they just basically had people listen to the stories.",
+    "start_ms": 2605911,
+    "end_ms": 2609312,
+    "duration_ms": 3401,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2609.312,
+    "text": "Sometimes in the story, they'd be talking about another person.",
+    "start_ms": 2609312,
+    "end_ms": 2612591,
+    "duration_ms": 3279,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2612.591,
+    "text": "Sometimes it might be talking about getting in a car and driving someplace.",
+    "start_ms": 2612591,
+    "end_ms": 2616591,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2616.591,
+    "text": "Using an event-related type of analysis and so forth, they could ask which parts of the brain became active when people were, like, listening to a story that involved social interactions versus which part of the brain was active when the person described moving from one location to another place.",
+    "start_ms": 2616591,
+    "end_ms": 2634472,
+    "duration_ms": 17881,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2634.472,
+    "text": "You could do this. You could code every element of the story there on all these different features there.",
+    "start_ms": 2634472,
+    "end_ms": 2639872,
+    "duration_ms": 5400,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2639.872,
+    "text": "And that's what's being shown here. This is kind of the colors, a subset of the colors.",
+    "start_ms": 2639872,
+    "end_ms": 2644311,
+    "duration_ms": 4439,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2644.311,
+    "text": "So, you know, anything of this color here is a part of the brain that became active when the story was describing something that involves some sort of violent interaction, usually between individuals or between, say, a person in a motor vehicle.",
+    "start_ms": 2644311,
+    "end_ms": 2659311,
+    "duration_ms": 15000,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2659.311,
+    "text": "And so again, these kind of things, I'm saying you're getting very beautiful big data images of how our conceptual knowledge is distributed across the brain.",
+    "start_ms": 2659311,
+    "end_ms": 2668792,
+    "duration_ms": 9481,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2668.792,
+    "text": "And you might say, what's the alternative hypothesis? Well, classic neurology, remember, had language in a very limited part of the brain.",
+    "start_ms": 2668792,
+    "end_ms": 2677031,
+    "duration_ms": 8239,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2677.031,
+    "text": "So our view might have been that all language was done in one place.",
+    "start_ms": 2677031,
+    "end_ms": 2680031,
+    "duration_ms": 3000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2680.031,
+    "text": "This kind of picture says, no, our kind of understanding of the concepts of the world, our semantic knowledge, is broadly distributed.",
+    "start_ms": 2680031,
+    "end_ms": 2690032,
+    "duration_ms": 10001,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2690.032,
+    "text": "We can also use the bold activity to look at functional connectivity.",
+    "start_ms": 2690032,
+    "end_ms": 2695991,
+    "duration_ms": 5959,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2695.991,
+    "text": "So I talked about the fusion test in imaging as an anatomical method to look at how areas were connected with one another.",
+    "start_ms": 2695991,
+    "end_ms": 2704071,
+    "duration_ms": 8080,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2704.071,
+    "text": "Functional connectivity just basically means, how does the bold response in one area relate to the bold response in another area?",
+    "start_ms": 2704071,
+    "end_ms": 2711592,
+    "duration_ms": 7521,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2711.592,
+    "text": "Are there, you know, are there parts of the brain that are widely separated, but show similar fluctuations in their bold response over time, which means that they're probably somehow engaged, they're kind of forming some sort of brain network.",
+    "start_ms": 2711592,
+    "end_ms": 2725551,
+    "duration_ms": 13959,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2725.551,
+    "text": "So how do we do that? Well, basically, we'll take the bold response, remember, in any one voxel, we can plot the bold response here.",
+    "start_ms": 2725551,
+    "end_ms": 2735232,
+    "duration_ms": 9681,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2735.232,
+    "text": "We can actually see that same bold response in every single voxel.",
+    "start_ms": 2735232,
+    "end_ms": 2738952,
+    "duration_ms": 3720,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2738.952,
+    "text": "We might have, what do you have, 200,000 voxels in your typical scan?",
+    "start_ms": 2738952,
+    "end_ms": 2744512,
+    "duration_ms": 5560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2744.512,
+    "text": "About 200,000 voxels. People typically will divide the brain up with 200,000 voxels.",
+    "start_ms": 2744512,
+    "end_ms": 2749432,
+    "duration_ms": 4920,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2749.432,
+    "text": "I can correlate this one voxel with all the other 199, 999 other voxels and ask, which ones show a strong correlation, which ones don't?",
+    "start_ms": 2749432,
+    "end_ms": 2761312,
+    "duration_ms": 11880,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2761.312,
+    "text": "And I can repeat that process for any seed I want.",
+    "start_ms": 2761312,
+    "end_ms": 2764592,
+    "duration_ms": 3280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2764.592,
+    "text": "And what people have identified is that there do seem to be certain networks that are consistent across individuals in terms of brain connectivity.",
+    "start_ms": 2764592,
+    "end_ms": 2776152,
+    "duration_ms": 11560,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2776.152,
+    "text": "Very often, people refer to this seven-region map. I call it RS fMRI because there's actually no task involved here.",
+    "start_ms": 2776152,
+    "end_ms": 2784711,
+    "duration_ms": 8559,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2784.711,
+    "text": "The person just sits in the scanner for, say, 10 minutes.",
+    "start_ms": 2784711,
+    "end_ms": 2788351,
+    "duration_ms": 3640,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2788.351,
+    "text": "They just measure the natural fluctuations in the bold response over those 10 minutes.",
+    "start_ms": 2788351,
+    "end_ms": 2795872,
+    "duration_ms": 7521,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2795.872,
+    "text": "And then they ask, what's the correlations between different regions?",
+    "start_ms": 2795872,
+    "end_ms": 2799952,
+    "duration_ms": 4080,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2799.952,
+    "text": "And they're basically color-coding things by whether they seem to, and then they put labels on them based on the brain areas.",
+    "start_ms": 2799952,
+    "end_ms": 2806312,
+    "duration_ms": 6360,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2806.312,
+    "text": "But if we take the green area, this is one of the so-called attention networks.",
+    "start_ms": 2806312,
+    "end_ms": 2811032,
+    "duration_ms": 4720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2811.032,
+    "text": "You can see that they aren't areas that are necessarily close to one another, but they seem to be forming what we'd call a functional network.",
+    "start_ms": 2811032,
+    "end_ms": 2819632,
+    "duration_ms": 8600,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2819.632,
+    "text": "This is actually inspired by, in many experiments, the contrast is always do task A and compare it to do nothing.",
+    "start_ms": 2819632,
+    "end_ms": 2828111,
+    "duration_ms": 8479,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2828.111,
+    "text": "Do task B, compare it to doing nothing. After about 15 years of doing this, people realized, actually, when people are doing nothing, there's actually a very consistent pattern of activity across the brain.",
+    "start_ms": 2828111,
+    "end_ms": 2840991,
+    "duration_ms": 12880,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2840.991,
+    "text": "People call it the default network. Sometimes they call it the daydreaming network and so forth.",
+    "start_ms": 2840991,
+    "end_ms": 2846551,
+    "duration_ms": 5560,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2846.551,
+    "text": "But it was observed that there's always this consistency when people are not doing anything, when they're just internally thinking and so forth.",
+    "start_ms": 2846551,
+    "end_ms": 2853912,
+    "duration_ms": 7361,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2853.912,
+    "text": "And that led to this sort of analysis about what are these functional resting state networks.",
+    "start_ms": 2853912,
+    "end_ms": 2859632,
+    "duration_ms": 5720,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2859.711,
+    "text": "What was the black sign? Oh, the black is spaces there, cerebral spinal fluid.",
+    "start_ms": 2859711,
+    "end_ms": 2866671,
+    "duration_ms": 6960,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2866.671,
+    "text": "What they're doing here is they're taking the three-dimensional brain and kind of flattening it.",
+    "start_ms": 2866671,
+    "end_ms": 2870951,
+    "duration_ms": 4280,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2870.951,
+    "text": "And this is areas either that you can't get a good bold response.",
+    "start_ms": 2870951,
+    "end_ms": 2874032,
+    "duration_ms": 3081,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2874.032,
+    "text": "There are certain parts of the brain that are just susceptible to artifacts, or it's where you have the ventricles, once you've flattened it in this manner.",
+    "start_ms": 2874032,
+    "end_ms": 2883231,
+    "duration_ms": 9199,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2883.231,
+    "text": "So what do you do then? This is actually... actually, this network analysis has launched again its own sort of industry because people can ask, well, let's take different neurological or psychiatric conditions and we'll ask, are there differences in certain resting in these network patterns, say in individuals with schizophrenia or depression and so forth, are there certain parts of the brain that seem to be abnormally connected?",
+    "start_ms": 2883231,
+    "end_ms": 2908471,
+    "duration_ms": 25240,
+    "word_count": 69,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2908.471,
+    "text": "Are they showing less strength in their terms of functional connectivity?",
+    "start_ms": 2908471,
+    "end_ms": 2913311,
+    "duration_ms": 4840,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2913.311,
+    "text": "And so again, here's one study looking at healthy young adults, but actually comparing them to depressed young adults, that's what's shown down here, the yellow are all the places that the depressed population is showing differences in connectivity relative to the control subjects.",
+    "start_ms": 2913311,
+    "end_ms": 2932030,
+    "duration_ms": 18719,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2932.03,
+    "text": "They aren't actually looking at all the networks here. They actually put their seed in this posterior cingulate region.",
+    "start_ms": 2932030,
+    "end_ms": 2939590,
+    "duration_ms": 7560,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2939.59,
+    "text": "It's part of that default network, that kind of rumination or daydreaming network.",
+    "start_ms": 2939590,
+    "end_ms": 2944710,
+    "duration_ms": 5120,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2944.71,
+    "text": "And basically all the red areas are showing areas of the brain that seem to be connected with that particular seed.",
+    "start_ms": 2944710,
+    "end_ms": 2951070,
+    "duration_ms": 6360,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2951.07,
+    "text": "So this is what I said is called that default network.",
+    "start_ms": 2951070,
+    "end_ms": 2954651,
+    "duration_ms": 3581,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2954.651,
+    "text": "And then they're basically saying in depressed individuals, do they show a difference?",
+    "start_ms": 2954651,
+    "end_ms": 2959231,
+    "duration_ms": 4580,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2959.231,
+    "text": "Do they show stronger or weaker functional connectivity across that default network?",
+    "start_ms": 2959231,
+    "end_ms": 2965271,
+    "duration_ms": 6040,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2965.271,
+    "text": "And these are all regions that are actually showing stronger connectivity, and you can then make an inference that maybe people who are depressed are kind of internally thinking about their thoughts more strongly than people who aren't depressed and so forth.",
+    "start_ms": 2965271,
+    "end_ms": 2979511,
+    "duration_ms": 14240,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2979.511,
+    "text": "So again, those are the kinds of studies people do there.",
+    "start_ms": 2979511,
+    "end_ms": 2982750,
+    "duration_ms": 3239,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2982.75,
+    "text": "You can actually, I mean, there's some amazing experiments where people now can do fMRI on fetuses.",
+    "start_ms": 2982750,
+    "end_ms": 2988450,
+    "duration_ms": 5700,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2988.45,
+    "text": "So this is taking a pregnant woman, putting her into the scanner at different ages of gestation.",
+    "start_ms": 2988450,
+    "end_ms": 2995051,
+    "duration_ms": 6601,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2995.051,
+    "text": "You get an image of the brain there. It's alive.",
+    "start_ms": 2995051,
+    "end_ms": 2997611,
+    "duration_ms": 2560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2997.611,
+    "text": "It's active, right? It's going to be consuming oxygen, so we're going to get a bold response from the fetus.",
+    "start_ms": 2997611,
+    "end_ms": 3004130,
+    "duration_ms": 6519,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3004.13,
+    "text": "And basically they were just looking here to say, how is connectivity developing, right?",
+    "start_ms": 3004130,
+    "end_ms": 3009170,
+    "duration_ms": 5040,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3009.17,
+    "text": "At what age and development, in utero development, do we start to see these patterns of connectivity emerging?",
+    "start_ms": 3009170,
+    "end_ms": 3016691,
+    "duration_ms": 7521,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3016.691,
+    "text": "And so here they're actually putting a seed in one side of the brain, and they were looking at the corresponding region across at the other side, and they're basically kind of looking at interhemispheric connectivity.",
+    "start_ms": 3016691,
+    "end_ms": 3026611,
+    "duration_ms": 9920,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3026.611,
+    "text": "When is that corpus callosum, say, becoming stronger? And they actually start scanning fetuses just 20 weeks after conception, so in the fifth month of pregnancy, out to just before they're born here, and they can plot now, here's the rising.",
+    "start_ms": 3026611,
+    "end_ms": 3042170,
+    "duration_ms": 15559,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3042.17,
+    "text": "You might expect that. You'd see a pattern like this, right?",
+    "start_ms": 3042170,
+    "end_ms": 3044611,
+    "duration_ms": 2441,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3044.611,
+    "text": "There's nothing surprising about the results. It's just kind of a cool technique that we can now image the developing brain at a very early age, showing that increase in interhemispheric connectivity emerging over the course of gestation there.",
+    "start_ms": 3044611,
+    "end_ms": 3062051,
+    "duration_ms": 17440,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3062.051,
+    "text": "We can also look at, again, more on the default network here, basically ask the question, kind of studies that are being done at the psychedelic center here, about what happens to the brain when people take a psychedelic substance, like psilocybin mushrooms.",
+    "start_ms": 3062051,
+    "end_ms": 3079051,
+    "duration_ms": 17000,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3079.051,
+    "text": "That's what they're showing in this study here. First of all, they want them to be good experimentalists, have a control condition, and so basically they did brain scanning on two different days.",
+    "start_ms": 3079051,
+    "end_ms": 3090411,
+    "duration_ms": 11360,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3090.411,
+    "text": "They just said, you know, how much does that connectivity change from one day to the next day?",
+    "start_ms": 3090411,
+    "end_ms": 3096650,
+    "duration_ms": 6239,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3096.65,
+    "text": "And basically, if it's blue, it means very little change, and so this is really impressive.",
+    "start_ms": 3096650,
+    "end_ms": 3101331,
+    "duration_ms": 4681,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3101.331,
+    "text": "It says, I can scan you one day, I can scan you another day, do this connectivity analysis, and your brain looks roughly about the same.",
+    "start_ms": 3101331,
+    "end_ms": 3109971,
+    "duration_ms": 8640,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3109.971,
+    "text": "So these measurements are really quite stable and reliable. Now we do that same measurement, okay, functional connectivity change, when the people were on psilocybin mushrooms compared to when they weren't, and now you see massive changes, okay?",
+    "start_ms": 3109971,
+    "end_ms": 3125450,
+    "duration_ms": 15479,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3125.45,
+    "text": "Basically across the whole brain. Before you did this study, you didn't know.",
+    "start_ms": 3125450,
+    "end_ms": 3128571,
+    "duration_ms": 3121,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3128.571,
+    "text": "It was going to be very restricted to certain networks and not other networks, but at least this study says that, except for a few regions where there's relatively smaller changes, basically the whole brain has been changed by the psilocybin experience in some way.",
+    "start_ms": 3128571,
+    "end_ms": 3143331,
+    "duration_ms": 14760,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3143.331,
+    "text": "I imagine that was kind of more disappointing than seeing more local changes, to just see the whole brain's basically functionality has been radically altered.",
+    "start_ms": 3143331,
+    "end_ms": 3152290,
+    "duration_ms": 8959,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3152.29,
+    "text": "Interestingly, they then asked, if we actually look at the extent of that change, and they created a measure here where this is basically the largest changes, this is the smallest changes, and they had the participants in the scanner reporting what their experiences were, rating on some measure of mystical experience, they had this fairly strong correlation.",
+    "start_ms": 3152290,
+    "end_ms": 3175450,
+    "duration_ms": 23160,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3175.45,
+    "text": "So the more your brain connectivity was changed, the more likely you would be having some sort of altered states of thinking.",
+    "start_ms": 3175450,
+    "end_ms": 3181850,
+    "duration_ms": 6400,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3181.85,
+    "text": "It all makes sense, but these are the kinds of things that are possible now using these sorts of techniques here.",
+    "start_ms": 3181850,
+    "end_ms": 3188251,
+    "duration_ms": 6401,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3188.251,
+    "text": "And that's probably a good place to leave things. So tomorrow, 5 o'clock.",
+    "start_ms": 3188251,
+    "end_ms": 3195491,
+    "duration_ms": 7240,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3195.491,
+    "text": "Those of you who have a 5 o'clock section, I was saying maybe go to one of Jen's other sections this week if you want to come to the review session.",
+    "start_ms": 3195491,
+    "end_ms": 3203811,
+    "duration_ms": 8320,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3203.639,
+    "text": "session.",
+    "start_ms": 3203639,
+    "end_ms": 3203889,
+    "duration_ms": 250,
+    "word_count": 1,
+    "avg_confidence": 90
+  }
+]

@@ -1,0 +1,3080 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "you you you you you you you Okay, we can get started one announcement to start is that I'd like to tell you that I was going off on some exotic conference or venture, but I actually have to have a hip replacement next week, so I'm not going to be in on Wednesday, so I'll post that lecture, you can watch a recording of it, and the week after that, I'll probably do them zoom live, but I'm not going to be in on Wednesday, so I'll post that lecture, you can watch a recording of it, and the week after that, I'll probably do them zoom live, but I'm not going to be in on Wednesday, so I'll post that lecture, you can watch a recording of it, and the week after that, I'll probably do them zoom live, but I'm not going to be in on Wednesday, so I'll post that lecture, you can watch a recording of it, and the week after that, I'll probably do them zoom live, but I'm not going to be in on Wednesday, so I'll post that lecture, you can watch a recording of it, and the week after that people tell me that works pretty well, or record them, and then back in the classroom after spring break is the plan, and but again, Monday, we're back here, so it's just taking effect next week from today, and you get attendance credits for free for all three of those lectures.",
+    "start_ms": 0,
+    "end_ms": 264399,
+    "duration_ms": 264399,
+    "word_count": 250,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 264.959,
+    "text": "Oh yeah, should say attendance credit for all classes not held in the classroom, right, okay.",
+    "start_ms": 264959,
+    "end_ms": 271519,
+    "duration_ms": 6560,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 272.88,
+    "text": "All right, so let's see, so we posted the grades for the anatomy quiz, she looked it over, I think there's a, is there a key post, I actually didn't check, there's no key posted, okay, so if there isn't a key posted, we will get that, and I think we'll have the exams back to you on Monday.",
+    "start_ms": 272880,
+    "end_ms": 296256,
+    "duration_ms": 23376,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 296.256,
+    "text": "All right, so today, we move into our next topic, and it's the motor control section, so we talked about getting all the information into the brain, and how we can construct, you know, take very phenomenal building blocks, build them up to recognize objects, which I said is really kind of almost like a memory process, but again, the question people always ask for is, you know, why do we have such big brains, and the answer, you know, isn't really to learn all that information, but it's to do something with that information, so I think people make a very a very compelling argument that really a big brain actually just allows you to interact in the world in both a coordinated way, an exploratory way to manipulate the world, and with great flexibility.",
+    "start_ms": 296256,
+    "end_ms": 341199,
+    "duration_ms": 44943,
+    "word_count": 136,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 341.199,
+    "text": "I'd say that's the two big things about having a cerebral cortex are, again, sophisticated movement and flexibility.",
+    "start_ms": 341199,
+    "end_ms": 349398,
+    "duration_ms": 8199,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 349.398,
+    "text": "We'll be talking about flexibility later in the class. So obviously these are the kinds of activities that no other creatures do anything sort of like this.",
+    "start_ms": 349398,
+    "end_ms": 357938,
+    "duration_ms": 8540,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 359.919,
+    "text": "For the motor section, we'll actually first talk about the anatomy, and then we'll talk about some of the disorders of the motor system, and then we'll talk more about the physiology over the course of the semester, over the course of the next three lectures.",
+    "start_ms": 359919,
+    "end_ms": 372759,
+    "duration_ms": 12840,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 372.759,
+    "text": "So just very briefly about the anatomy, of course, we have a big brain that's gonna control our movements.",
+    "start_ms": 372759,
+    "end_ms": 378798,
+    "duration_ms": 6039,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 378.798,
+    "text": "We've talked about the motor cortex and so forth. You had the reading article about the hand representation, before and after amputation, but a lot of creatures don't have a big brain up there, and they don't even have a subcortex.",
+    "start_ms": 378798,
+    "end_ms": 392498,
+    "duration_ms": 13700,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 392.498,
+    "text": "They might just have a spinal cord, and a spinal cord is actually gonna be very important, controls lots of aspects of movement.",
+    "start_ms": 392498,
+    "end_ms": 400359,
+    "duration_ms": 7861,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 400.359,
+    "text": "And so the most basic unit of the motor system is what we call the stretch reflex.",
+    "start_ms": 400359,
+    "end_ms": 407119,
+    "duration_ms": 6760,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 407.119,
+    "text": "And that's this notion here this is where you get tested at the doctors when they wrap your knee.",
+    "start_ms": 407119,
+    "end_ms": 413039,
+    "duration_ms": 5920,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 413.039,
+    "text": "That's gonna send through the alpha motor neuron, or through the dorsal root here, through the sensory neuron, it's gonna send a signal that, hey, the limb has been stretched.",
+    "start_ms": 413039,
+    "end_ms": 423598,
+    "duration_ms": 10559,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 423.598,
+    "text": "And the body, at least much of the spinal cord, is important for maintaining our posture, keeping us upright.",
+    "start_ms": 423598,
+    "end_ms": 430479,
+    "duration_ms": 6881,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 430.479,
+    "text": "And so if there's any sort of detected stretch, there's this automatic reflex that says, let me counteract that perturbation.",
+    "start_ms": 430479,
+    "end_ms": 437598,
+    "duration_ms": 7119,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 437.598,
+    "text": "Something got changed, I want stability in the world. And that's what the stretch reflex is all about.",
+    "start_ms": 437598,
+    "end_ms": 443039,
+    "duration_ms": 5441,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 443.039,
+    "text": "We have that sensory signal coming in through the back of the spinal cord, and we have a motor neuron coming out from the spinal cord.",
+    "start_ms": 443039,
+    "end_ms": 449919,
+    "duration_ms": 6880,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 449.919,
+    "text": "And the neurotransduction here then is that that neuron, that alpha motor neuron, is actually gonna synapse, not on another neuron, but it's gonna synapse on the muscle spindles, and it's gonna make those muscle spindles contract, and that's what's gonna produce movement.",
+    "start_ms": 449919,
+    "end_ms": 466158,
+    "duration_ms": 16239,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 466.158,
+    "text": "So that's the most elementary type of movement we can produce, is a stretch reflex.",
+    "start_ms": 466158,
+    "end_ms": 471158,
+    "duration_ms": 5000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 471.158,
+    "text": "It's a single monosynaptic reflex there. One synapse in the spinal cord produces something, some action that's gonna counteract the sensory input.",
+    "start_ms": 471158,
+    "end_ms": 480958,
+    "duration_ms": 9800,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 482.279,
+    "text": "Of course, what we really don't have is we have a bunch of other stuff up here in the brain that's gonna be able to modulate those spinal reflexes, or modulate the output of the alpha motor neurons to produce coordinated movement.",
+    "start_ms": 482279,
+    "end_ms": 495078,
+    "duration_ms": 12799,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 496.039,
+    "text": "But I just wanna make this point here. These were some classic experiments at the start of the 20th century, so back in like 1905, where they asked, well, what happens, and it's a very kind of cruel-sounding experiment, but it was a basic science of type here.",
+    "start_ms": 496039,
+    "end_ms": 511158,
+    "duration_ms": 15119,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 511.158,
+    "text": "What happens if we actually dissect the spinal cord, or make a cut in the spinal cord?",
+    "start_ms": 511158,
+    "end_ms": 516798,
+    "duration_ms": 5640,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 516.798,
+    "text": "And we know that in human behavior, right, that if you have a cut in the spinal cord down here, you're not gonna be able to walk, right?",
+    "start_ms": 516798,
+    "end_ms": 522718,
+    "duration_ms": 5920,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 522.718,
+    "text": "If you break your spinal cord, you're unable to walk.",
+    "start_ms": 522718,
+    "end_ms": 526098,
+    "duration_ms": 3380,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 526.098,
+    "text": "They asked the same question to the cat, and certainly, if you did the same experiment to the cat, its lower legs would crumble.",
+    "start_ms": 526098,
+    "end_ms": 532458,
+    "duration_ms": 6360,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 532.458,
+    "text": "But what they did is they actually put it on this treadmill here.",
+    "start_ms": 532458,
+    "end_ms": 536499,
+    "duration_ms": 4041,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 536.499,
+    "text": "They supported the cat so that it could stay upright, and then they started the treadmill.",
+    "start_ms": 536499,
+    "end_ms": 541139,
+    "duration_ms": 4640,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 541.139,
+    "text": "So the cat has no connection between the brain and the back legs of its body, and yet, as soon as they gave it the stimulus of this moving floor, the cat started walking in a normal manner, sped up the treadmill, and it walked faster, slowed down the treadmill, and it slowed down here.",
+    "start_ms": 541139,
+    "end_ms": 557419,
+    "duration_ms": 16280,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 557.419,
+    "text": "So again, this is making the point that much of our movement capability, or at least there's a great deal of movement capability that's kind of, in a sense, controlled at the spinal level, at least some very fundamental movement patterns, such as those that are important for locomotion, that we actually don't need to have the brain signals to have that happen.",
+    "start_ms": 557419,
+    "end_ms": 577659,
+    "duration_ms": 20240,
+    "word_count": 63,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 577.659,
+    "text": "And indeed, people have shown that with babies, as soon as they're born, practically, they don't move, they can't make any coordinated movement, I mean, they move about and stuff, they fidget, but they don't seem like they're capable of any coordinated movement.",
+    "start_ms": 577659,
+    "end_ms": 590358,
+    "duration_ms": 12699,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 590.358,
+    "text": "But again, if you do a similar experiment, take a young infant, before they can walk, put them in the water so that their body is supported, then they also will produce the walking type of movement there.",
+    "start_ms": 590358,
+    "end_ms": 600939,
+    "duration_ms": 10581,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 600.939,
+    "text": "So again, fundamental movement patterns seem to be locked in or have evolved into being controlled at the spinal cord.",
+    "start_ms": 600939,
+    "end_ms": 607518,
+    "duration_ms": 6579,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 608.439,
+    "text": "Well, if we move up, though, from the spinal cord, we're gonna hit the subcortex.",
+    "start_ms": 608439,
+    "end_ms": 612879,
+    "duration_ms": 4440,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 612.879,
+    "text": "That's all those structures shown here that lie underneath the cerebral cortex, the most prominent one being the cerebellum back here, and also this complex called the basal ganglia.",
+    "start_ms": 612879,
+    "end_ms": 624358,
+    "duration_ms": 11479,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 624.358,
+    "text": "We'll actually talk about the basal ganglia in detail next Wednesday.",
+    "start_ms": 624358,
+    "end_ms": 627638,
+    "duration_ms": 3280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 629.238,
+    "text": "These parts of the brain, or some of them, are sending fibers right down the spinal cord, so they're gonna synapse on those alpha motor neurons, and so these subcortical structures are capable of producing movement.",
+    "start_ms": 629238,
+    "end_ms": 643958,
+    "duration_ms": 14720,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 643.958,
+    "text": "We actually call those the extrapyramidal tract. extra-pyramidal track. I'll tell you why by contrast in a minute here, but this is just basically showing that there's extra-pyramidal neurons starting from the red nucleus, the vestibular, and so forth.",
+    "start_ms": 643958,
+    "end_ms": 659517,
+    "duration_ms": 15559,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 659.517,
+    "text": "Don't have to remember all the details there, just the notion that there's one way to actually regulate the activity of the spinal cord is through these extra-pyramidal pathways that are coming from the sub-cortex.",
+    "start_ms": 659517,
+    "end_ms": 671118,
+    "duration_ms": 11601,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 675.598,
+    "text": "And then, of course, we have the output coming from the cerebral cortex itself.",
+    "start_ms": 675598,
+    "end_ms": 680078,
+    "duration_ms": 4480,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 680.078,
+    "text": "And most of it is coming from the primary motor cortex.",
+    "start_ms": 680078,
+    "end_ms": 683517,
+    "duration_ms": 3439,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 683.517,
+    "text": "And it's coming down what's called the pyramidal track. So again, this is basically referring to the pyramidal track where most of the cell bodies originate in, say, primary motor cortex, or M1, whatever terminology you're using.",
+    "start_ms": 683517,
+    "end_ms": 697718,
+    "duration_ms": 14201,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 697.718,
+    "text": "There are some descending fibers from the premotor cortex, tissue in front of the motor cortex, or also even from the parietal lobe.",
+    "start_ms": 697718,
+    "end_ms": 706118,
+    "duration_ms": 8400,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 706.118,
+    "text": "But most of it's coming from the primary motor cortex.",
+    "start_ms": 706118,
+    "end_ms": 708438,
+    "duration_ms": 2320,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 708.438,
+    "text": "And again, as I said earlier, these are the longest axons in the nervous system.",
+    "start_ms": 708438,
+    "end_ms": 713158,
+    "duration_ms": 4720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 713.158,
+    "text": "They're basically going directly from the cortex and having their first synapse down at some level of the spinal cord, some of it atop to control arm movements, some of it down low to control leg movements, and much of it also helping regulate postural control.",
+    "start_ms": 713158,
+    "end_ms": 728597,
+    "duration_ms": 15439,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 728.597,
+    "text": "So that's the pyramidal track. And these, by contrast, are called the extrapyramidal pathway.",
+    "start_ms": 728597,
+    "end_ms": 735637,
+    "duration_ms": 7040,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 735.637,
+    "text": "So again, it's really this hierarchical control where the spinal cord and subcortex can help modulate these basic reflexes.",
+    "start_ms": 735637,
+    "end_ms": 743478,
+    "duration_ms": 7841,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 743.478,
+    "text": "But it's really the cerebral cortex that's going to allow for the fine, coordinated, complex movements that we're capable of producing.",
+    "start_ms": 743478,
+    "end_ms": 750798,
+    "duration_ms": 7320,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 750.917,
+    "text": "And this figure is just highlighting that at least, again, we talk about the vision.",
+    "start_ms": 750917,
+    "end_ms": 754758,
+    "duration_ms": 3841,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 754.758,
+    "text": "People will talk about, oh, 50% of the brain is devoted to perception.",
+    "start_ms": 754758,
+    "end_ms": 759478,
+    "duration_ms": 4720,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 759.478,
+    "text": "Well, the motor folks have the same sort of chauvinism.",
+    "start_ms": 759478,
+    "end_ms": 762038,
+    "duration_ms": 2560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 762.038,
+    "text": "They're going to claim that 50% or 70% of the brain is really involved in the control of movement.",
+    "start_ms": 762038,
+    "end_ms": 768477,
+    "duration_ms": 6439,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 768.477,
+    "text": "So here's the primary motor cortex. Obviously, as we move, we're getting sensory feedback here.",
+    "start_ms": 768477,
+    "end_ms": 774518,
+    "duration_ms": 6041,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 774.518,
+    "text": "That's going to be very important for regulating our movements.",
+    "start_ms": 774518,
+    "end_ms": 777917,
+    "duration_ms": 3399,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 777.917,
+    "text": "But as we'll see, there's also some involvement of these parietal regions.",
+    "start_ms": 777917,
+    "end_ms": 781078,
+    "duration_ms": 3161,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 781.078,
+    "text": "We talked about that the other day, about the dorsal pathway really being vision for action.",
+    "start_ms": 781078,
+    "end_ms": 787277,
+    "duration_ms": 6199,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 787.277,
+    "text": "And the prefrontal cortex that we can talk about planning.",
+    "start_ms": 787277,
+    "end_ms": 790358,
+    "duration_ms": 3081,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 790.358,
+    "text": "But again, all that planning that's going on is really usually about what's the kind of action we want to take.",
+    "start_ms": 790358,
+    "end_ms": 796037,
+    "duration_ms": 5679,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 796.037,
+    "text": "And as the actions become more complicated, we'll see that you actually engage more and more of the prefrontal regions of the cortex.",
+    "start_ms": 796037,
+    "end_ms": 803958,
+    "duration_ms": 7921,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 804.917,
+    "text": "So in terms of the motor cortex, it's really a fairly recent adaptation, or at least the direct pathway going from the cortex down to the spinal cord.",
+    "start_ms": 804917,
+    "end_ms": 814637,
+    "duration_ms": 9720,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 814.637,
+    "text": "And here's a way you can demonstrate this for yourself.",
+    "start_ms": 814637,
+    "end_ms": 816917,
+    "duration_ms": 2280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 816.917,
+    "text": "So put your hand up like this. And now stick your thumb out.",
+    "start_ms": 816917,
+    "end_ms": 823798,
+    "duration_ms": 6881,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 823.798,
+    "text": "Everyone's pretty good at that. Now stick out your index finger up.",
+    "start_ms": 823798,
+    "end_ms": 828798,
+    "duration_ms": 5000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 828.798,
+    "text": "Pretty good at that. Well, that's really important. You really need to have control of your thumb and index finger.",
+    "start_ms": 828798,
+    "end_ms": 835358,
+    "duration_ms": 6560,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 835.358,
+    "text": "Now try the middle finger. See if you can get that out there.",
+    "start_ms": 835358,
+    "end_ms": 837878,
+    "duration_ms": 2520,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 840.878,
+    "text": "It goes pretty well. Maybe practice effect there. But try the fourth finger.",
+    "start_ms": 840878,
+    "end_ms": 847117,
+    "duration_ms": 6239,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 847.117,
+    "text": "And the key is you can't hold the other fingers down.",
+    "start_ms": 847117,
+    "end_ms": 849277,
+    "duration_ms": 2160,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 849.277,
+    "text": "Just close your hand, put your thumb on the side, and put up your fourth finger.",
+    "start_ms": 849277,
+    "end_ms": 854358,
+    "duration_ms": 5081,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 854.358,
+    "text": "So if you look around the room, you'll see there's two different ways to do this.",
+    "start_ms": 854358,
+    "end_ms": 858318,
+    "duration_ms": 3960,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 858.678,
+    "text": "So if you look around the room, you'll see there's tremendous variation in the capability.",
+    "start_ms": 858678,
+    "end_ms": 863318,
+    "duration_ms": 4640,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 863.318,
+    "text": "Like, put your hand up. One finger is the instruction there.",
+    "start_ms": 863318,
+    "end_ms": 868037,
+    "duration_ms": 4719,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 868.037,
+    "text": "You're cheating. Nele, you seem to be. All right, here's a very advanced member of our species.",
+    "start_ms": 868037,
+    "end_ms": 873397,
+    "duration_ms": 5360,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 873.397,
+    "text": "It's all practice. It's all practice. Believe me, I have practiced this more than anyone in the world.",
+    "start_ms": 873397,
+    "end_ms": 881598,
+    "duration_ms": 8201,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 881.598,
+    "text": "And I can't get my fourth finger to go up there.",
+    "start_ms": 881598,
+    "end_ms": 883917,
+    "duration_ms": 2319,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 883.917,
+    "text": "I think this is sort of a snapshot of evolution happening, that there isn't a lot of pressure to separate the fourth finger.",
+    "start_ms": 883917,
+    "end_ms": 890518,
+    "duration_ms": 6601,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 890.518,
+    "text": "It's kind of tied up with the pinky. You want the two of them to go up together.",
+    "start_ms": 890518,
+    "end_ms": 894518,
+    "duration_ms": 4000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 894.518,
+    "text": "But you can see that some people, right, there's some evolutionary pressure to individuate the fingers.",
+    "start_ms": 894518,
+    "end_ms": 899998,
+    "duration_ms": 5480,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 899.998,
+    "text": "That's really the most remarkable thing about primate motor control.",
+    "start_ms": 899998,
+    "end_ms": 904037,
+    "duration_ms": 4039,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 904.037,
+    "text": "And yet, here we see that at least this finger, which doesn't have great functionality to operate independently, we see that, again, some people, you're convinced.",
+    "start_ms": 904037,
+    "end_ms": 913238,
+    "duration_ms": 9201,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 913.238,
+    "text": "Why, you're a guitar player? Might be more prominently able to work with the pinky and upper body.",
+    "start_ms": 913238,
+    "end_ms": 921358,
+    "duration_ms": 8120,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 921.358,
+    "text": "Just might be motor training. We have done some studies on this.",
+    "start_ms": 921358,
+    "end_ms": 926197,
+    "duration_ms": 4839,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 926.197,
+    "text": "And the individual differences, I don't think, are that related to experience.",
+    "start_ms": 926197,
+    "end_ms": 931358,
+    "duration_ms": 5161,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 931.358,
+    "text": "All right, so let's talk about disorders of the motor system.",
+    "start_ms": 931358,
+    "end_ms": 935358,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 935.358,
+    "text": "OK, and of course, the first one, we're going to work our way from the bottom up again.",
+    "start_ms": 935358,
+    "end_ms": 939597,
+    "duration_ms": 4239,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 939.597,
+    "text": "So if we have some sort of injury on the spinal cord, and oh, let's just do a quick eye clicker.",
+    "start_ms": 939597,
+    "end_ms": 946118,
+    "duration_ms": 6521,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 946.118,
+    "text": "You don't have the answer here, but just think it through.",
+    "start_ms": 946118,
+    "end_ms": 950358,
+    "duration_ms": 4240,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 950.358,
+    "text": "Pull, multiple choice, go. OK, so a quadriplegic is someone who can't move any of their limbs, upper or lower.",
+    "start_ms": 950358,
+    "end_ms": 962637,
+    "duration_ms": 12279,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 962.637,
+    "text": "A paraplegic is an individual who can't move their lower limbs.",
+    "start_ms": 962637,
+    "end_ms": 967717,
+    "duration_ms": 5080,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 967.608,
+    "text": "the question is, why is quadriplegia more severe? OK, let's take another minute there.",
+    "start_ms": 967608,
+    "end_ms": 997037,
+    "duration_ms": 29429,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 997.037,
+    "text": "All right, so we've got kind of a mixture of answers here, B and D being the most common one.",
+    "start_ms": 997037,
+    "end_ms": 1001400,
+    "duration_ms": 4363,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1001.4,
+    "text": "So let's go through each of these. So in quadriplegia, you might think, ah, the first answer was that the spinal cord is completely severed.",
+    "start_ms": 1001400,
+    "end_ms": 1009703,
+    "duration_ms": 8303,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1009.703,
+    "text": "Actually, if you're a quadriplegic or a paraplegic, it means that there is a complete cut at the spinal cord.",
+    "start_ms": 1009703,
+    "end_ms": 1017703,
+    "duration_ms": 8000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1017.703,
+    "text": "So the question is, what about maybe the spinal cord damage is closer to the brain.",
+    "start_ms": 1017703,
+    "end_ms": 1022537,
+    "duration_ms": 4834,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1022.537,
+    "text": "So right, a cut could be down here because the spinal cord's going the whole length of the back.",
+    "start_ms": 1022537,
+    "end_ms": 1027287,
+    "duration_ms": 4750,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1027.287,
+    "text": "So the cut could be down here or it could be closer to the brain up at, say, the level of the neck or just below the neck.",
+    "start_ms": 1027287,
+    "end_ms": 1033960,
+    "duration_ms": 6673,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1033.96,
+    "text": "And that would be the correct answer here because, right, the nerves that are going to radiate to the arms are going to be up here whereas the nerves that radiate out to the legs are going to be down here.",
+    "start_ms": 1033960,
+    "end_ms": 1045037,
+    "duration_ms": 11077,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1045.037,
+    "text": "So for someone to be a quadriplegic usually means that they've broken their neck.",
+    "start_ms": 1045037,
+    "end_ms": 1049322,
+    "duration_ms": 4285,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1049.322,
+    "text": "And so the spinal cord cut is at the top level and they lose control of their arms and so forth.",
+    "start_ms": 1049322,
+    "end_ms": 1057037,
+    "duration_ms": 7715,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1057.037,
+    "text": "And there's damage to the brain in addition to the spinal cord.",
+    "start_ms": 1057037,
+    "end_ms": 1060465,
+    "duration_ms": 3428,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1060.465,
+    "text": "Actually, with these conditions, all of the damage is at the level of the spinal cord.",
+    "start_ms": 1060465,
+    "end_ms": 1065037,
+    "duration_ms": 4572,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1065.037,
+    "text": "So the rest of the nervous system is intact and that's going to be important in our discussion on Wednesday.",
+    "start_ms": 1065037,
+    "end_ms": 1073037,
+    "duration_ms": 8000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1073.037,
+    "text": "And I stopped that. All right. Now if you have thank you.",
+    "start_ms": 1073037,
+    "end_ms": 1081652,
+    "duration_ms": 8615,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1081.652,
+    "text": "I don't know why. I just keep getting very dry mouth in this class.",
+    "start_ms": 1081652,
+    "end_ms": 1089037,
+    "duration_ms": 7385,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1093.037,
+    "text": "All right. Now what about if you have damage in the subcortex?",
+    "start_ms": 1093037,
+    "end_ms": 1097037,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1097.037,
+    "text": "Here I'll just show you a short videotape. This is an individual.",
+    "start_ms": 1097037,
+    "end_ms": 1101037,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1101.037,
+    "text": "This is an intact MRI, sagittal section of MRI. Here's the cerebellum.",
+    "start_ms": 1101037,
+    "end_ms": 1106370,
+    "duration_ms": 5333,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1106.37,
+    "text": "There are these disorders called spinocerebellar ataxia where in the 30, when a person's in the ages between 30 and 50, for whatever reason, there's some genetic coding because it's identified with certain genes, you just get this atrophy of the cerebellum.",
+    "start_ms": 1106370,
+    "end_ms": 1122179,
+    "duration_ms": 15809,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1122.179,
+    "text": "That's what you see in this individual. You can see there's been this massive shrinkage of the cerebellum and it produces this sort of movement.",
+    "start_ms": 1122179,
+    "end_ms": 1133037,
+    "duration_ms": 10858,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1133.037,
+    "text": "Now what I want you to do is take that right arm and touch your nose again with it.",
+    "start_ms": 1133037,
+    "end_ms": 1137037,
+    "duration_ms": 4000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1137.037,
+    "text": "Okay. Do that again. Okay. Let's see if I can go a little bit faster this time.",
+    "start_ms": 1137037,
+    "end_ms": 1145037,
+    "duration_ms": 8000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1145.037,
+    "text": "Okay. Oh, when I go fast, I lose everything. It's a little dangerous.",
+    "start_ms": 1145037,
+    "end_ms": 1153037,
+    "duration_ms": 8000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1153.037,
+    "text": "Okay. All right. So there you can see that he's kind of got the idea of what he wants to do with the movements there, but he's really lost the coordination.",
+    "start_ms": 1153037,
+    "end_ms": 1163498,
+    "duration_ms": 10461,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1163.498,
+    "text": "And you'd see that if you got him up to walk, he can stand up, he can support his legs, but he'd show the same thing.",
+    "start_ms": 1163498,
+    "end_ms": 1169322,
+    "duration_ms": 5824,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1169.322,
+    "text": "And so he's going to walk with this very wide stance there, very wobbly.",
+    "start_ms": 1169322,
+    "end_ms": 1173400,
+    "duration_ms": 4078,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1173.4,
+    "text": "So he's, again, lost the ability for the fine coordination of movement.",
+    "start_ms": 1173400,
+    "end_ms": 1177570,
+    "duration_ms": 4170,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1177.57,
+    "text": "He can make the basic gestures, but he can't put it all together.",
+    "start_ms": 1177570,
+    "end_ms": 1181037,
+    "duration_ms": 3467,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1181.037,
+    "text": "Might have been able to hear his voice. I didn't have the volume turned up loud enough, but he has the same sort of thing.",
+    "start_ms": 1181037,
+    "end_ms": 1185481,
+    "duration_ms": 4444,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1185.481,
+    "text": "His voice is going to be kind of tremulous because it's kind of got this shakiness that you see in the hand movements there.",
+    "start_ms": 1185481,
+    "end_ms": 1191703,
+    "duration_ms": 6222,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1191.703,
+    "text": "That's one type of subcortical movement disorder. There's many others.",
+    "start_ms": 1191703,
+    "end_ms": 1197303,
+    "duration_ms": 5600,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1197.303,
+    "text": "The most prominent one is Parkinson's disease, and I'm not going to say anything about that because we'll talk about that in detail in a week from today.",
+    "start_ms": 1197303,
+    "end_ms": 1205037,
+    "duration_ms": 7734,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1205.037,
+    "text": "But there's also all sorts of vestibular disorders. You'll hear about people having vestibular disorders.",
+    "start_ms": 1205037,
+    "end_ms": 1209652,
+    "duration_ms": 4615,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1209.652,
+    "text": "That means, again, they have some input coming into the ear.",
+    "start_ms": 1209652,
+    "end_ms": 1213037,
+    "duration_ms": 3385,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1213.037,
+    "text": "Innovates these subcortical structures, and that's essential for your sense of balance, about feeling wherever you are, always being able to maintain some sort of orientation about what is upright or not.",
+    "start_ms": 1213037,
+    "end_ms": 1225037,
+    "duration_ms": 12000,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1225.037,
+    "text": "Now, what about if we get to the motor cortex?",
+    "start_ms": 1225037,
+    "end_ms": 1229037,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1229.037,
+    "text": "Here, again, was our quadriplegia, our paraplegia. The term we use for talking about a disorder of the motor cortex is hemiplegia.",
+    "start_ms": 1229037,
+    "end_ms": 1237370,
+    "duration_ms": 8333,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1237.37,
+    "text": "Again, I should have said plegia means a loss of movement control.",
+    "start_ms": 1237370,
+    "end_ms": 1241537,
+    "duration_ms": 4167,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1241.537,
+    "text": "The word hemi means that it's one-sided. That's what you'd expect if you have damage, say a stroke or a tumor, in the motor areas of the cortex, is that the damage is going to be restricted to the contralateral side of the body, and that's where you have the hemiplegia.",
+    "start_ms": 1241537,
+    "end_ms": 1257537,
+    "duration_ms": 16000,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1257.537,
+    "text": "If you remember, there's that homunculus there. Where the stroke is will result in what kind of effect you have.",
+    "start_ms": 1257537,
+    "end_ms": 1265037,
+    "duration_ms": 7500,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1265.037,
+    "text": "If it happens to be on the side of the motor cortex, then the person's probably going to be hemiplegic in using their limb.",
+    "start_ms": 1265037,
+    "end_ms": 1272421,
+    "duration_ms": 7384,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1272.421,
+    "text": "And again, if you walk around, because it's a fairly common disorder, you'll notice people aren't using one of their limbs, and it might be slightly more contracted like this is a very common thing for a person who's had a stroke that's produced...",
+    "start_ms": 1272421,
+    "end_ms": 1287037,
+    "duration_ms": 14616,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1286.755,
+    "text": "produced upper limb hemiplegia. Some individuals, though, might have a hemiplegia that's both the upper limb and the lower limb.",
+    "start_ms": 1286755,
+    "end_ms": 1294775,
+    "duration_ms": 8020,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1294.775,
+    "text": "Now if it's complete paralysis, that's where you use the word hemiplegia, but in most cases there's some functional recovery, and that's what we call hemiparesis.",
+    "start_ms": 1294775,
+    "end_ms": 1305576,
+    "duration_ms": 10801,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1305.576,
+    "text": "Hemiparesis meaning it's a mild version, they have a weakness in the limb rather than a complete loss of the ability to use the limb.",
+    "start_ms": 1305576,
+    "end_ms": 1313776,
+    "duration_ms": 8200,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1313.776,
+    "text": "Now, of course, because this is such a devastating thing to many people, you lose a lot of your functionality if you're unable to use one of your limbs, there's a huge amount of research asking about how can we restore function in individuals who've had, say, some sort of cortical damage that produces a hemiparesis.",
+    "start_ms": 1313776,
+    "end_ms": 1334135,
+    "duration_ms": 20359,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1334.135,
+    "text": "One big debate has been is the recovery really about a reorganization in the damaged hemisphere, or is it about the recruitment of the intact hemisphere?",
+    "start_ms": 1334135,
+    "end_ms": 1343976,
+    "duration_ms": 9841,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1343.976,
+    "text": "So if I ever had a stroke in the right side of the brain, right, and I have difficulty using my left hand, two pathways you might consider for recovery is that maybe things get reorganized in the right hemisphere to recover the functionality, or maybe that the other hemisphere is recruited, it seems to be that it's really much more about what sort of function is still, what residual function remains in the damaged hemisphere.",
+    "start_ms": 1343976,
+    "end_ms": 1371135,
+    "duration_ms": 27159,
+    "word_count": 76,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1371.135,
+    "text": "It seems to be much more important for recovery than actually having some sort of ipsilateral control.",
+    "start_ms": 1371135,
+    "end_ms": 1377135,
+    "duration_ms": 6000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1377.135,
+    "text": "And there's lots of interventions that have been tried out there, restraint-induced therapies where, again, if I've had a stroke in the right side and can't use my left hand, what they'll do is they will restrain the person's good hand and force them to use the weak hand.",
+    "start_ms": 1377135,
+    "end_ms": 1392936,
+    "duration_ms": 15801,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1392.936,
+    "text": "There's these robot-assisted movements out there. There's lots of work going on with non-invasive brain stimulation to see if they could facilitate recovery by giving different types, either TMS or TES and so forth.",
+    "start_ms": 1392936,
+    "end_ms": 1406736,
+    "duration_ms": 13800,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1406.736,
+    "text": "Here's a recent one. I don't think it's got great, you know, generality.",
+    "start_ms": 1406736,
+    "end_ms": 1411656,
+    "duration_ms": 4920,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1411.656,
+    "text": "I think it would be very difficult to, like, get lots of people into treatment with it.",
+    "start_ms": 1411656,
+    "end_ms": 1416615,
+    "duration_ms": 4959,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1416.615,
+    "text": "But they basically want to ask, could we improve recovery by allowing a person to monitor the activity in their motor cortex?",
+    "start_ms": 1416615,
+    "end_ms": 1424335,
+    "duration_ms": 7720,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1424.335,
+    "text": "So there's some tissue, residual tissue, in the motor cortex, and they're just going to use what's called biofeedback, and they're going to do real-time fMRI.",
+    "start_ms": 1424335,
+    "end_ms": 1433615,
+    "duration_ms": 9280,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1433.615,
+    "text": "They're just going to plot what's the bold response. Let's say this is the affected hemisphere, so this person had a left-sided stroke.",
+    "start_ms": 1433615,
+    "end_ms": 1442216,
+    "duration_ms": 8601,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1442.216,
+    "text": "They're going to just do in real time the person's told, try to make a movement that's going to activate your left hemisphere motor cortex.",
+    "start_ms": 1442216,
+    "end_ms": 1450736,
+    "duration_ms": 8520,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1450.736,
+    "text": "We're going to show you this bar. This bar is going to indicate how strong is the activity in that left hemisphere.",
+    "start_ms": 1450736,
+    "end_ms": 1457135,
+    "duration_ms": 6399,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1457.135,
+    "text": "Well, when people have a stroke, they tend to activate both hemispheres, okay?",
+    "start_ms": 1457135,
+    "end_ms": 1462055,
+    "duration_ms": 4920,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1462.055,
+    "text": "And so the one line here, one bar here is going to show what's the activity level in the damaged hemisphere.",
+    "start_ms": 1462055,
+    "end_ms": 1468415,
+    "duration_ms": 6360,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1468.415,
+    "text": "The other bar is going to show what's the activity in the intact hemisphere.",
+    "start_ms": 1468415,
+    "end_ms": 1472255,
+    "duration_ms": 3840,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1472.255,
+    "text": "Again, the game people try to play is, can I make the damaged hemisphere more active than the undamaged hemisphere?",
+    "start_ms": 1472255,
+    "end_ms": 1479975,
+    "duration_ms": 7720,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1479.975,
+    "text": "So that's what I mean by they're using biofeedback here, by taking the fMRI signal, projecting it to the person, and they're just sitting there trying to make the movements, getting this continuous feedback, and here are the results showing this, that here they're doing three different runs, and one condition they actually have the real biofeedback, and for a control condition, they actually just randomize what's the level of the bars, not tied to the actual bold response in the damaged hemisphere.",
+    "start_ms": 1479975,
+    "end_ms": 1510335,
+    "duration_ms": 30360,
+    "word_count": 83,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1510.335,
+    "text": "So here they're showing that there actually is some improvement, or at least some degree of control over this one hour session in the person's ability to activate the damaged hemisphere.",
+    "start_ms": 1510335,
+    "end_ms": 1524216,
+    "duration_ms": 13881,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1524.216,
+    "text": "More recently, people have also been moving towards invasive stimulation techniques, and this is a fairly mild stimulation technique about just activating the vagus nerve.",
+    "start_ms": 1524216,
+    "end_ms": 1540856,
+    "duration_ms": 16640,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1540.856,
+    "text": "The vagus nerve is kind of part of the parasympathetic system that I think I mentioned earlier on, serves almost as an arousal function, and the question is, can you actually just sort of by putting the state in aroused state, can that also facilitate recovery from stroke?",
+    "start_ms": 1540856,
+    "end_ms": 1556856,
+    "duration_ms": 16000,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1556.856,
+    "text": "And this is just sort of the data that's come out from this recent study.",
+    "start_ms": 1556856,
+    "end_ms": 1560856,
+    "duration_ms": 4000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1560.856,
+    "text": "At baseline, they're sort of measuring this Fuglmeier, is a scale that's indicating how well you can control your upper limbs.",
+    "start_ms": 1560856,
+    "end_ms": 1568575,
+    "duration_ms": 7719,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1568.575,
+    "text": "So a low score is poorly, a high score is good.",
+    "start_ms": 1568575,
+    "end_ms": 1571575,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1571.575,
+    "text": "They're showing that if they do rehabilitation, say for six weeks, this is the degree of achievement they're able to achieve.",
+    "start_ms": 1571575,
+    "end_ms": 1577416,
+    "duration_ms": 5841,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1577.416,
+    "text": "About two points on that scale, and basically to the patient, that wouldn't be noticeable.",
+    "start_ms": 1577416,
+    "end_ms": 1582295,
+    "duration_ms": 4879,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1582.295,
+    "text": "They're getting a bit better, but it's not something that's going to have an impact on their everyday life.",
+    "start_ms": 1582295,
+    "end_ms": 1586735,
+    "duration_ms": 4440,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1586.735,
+    "text": "But if they do the rehabilitation in combination with the stimulation, now they're able to get about a six point improvement, and that actually does translate into some improved functionality.",
+    "start_ms": 1586735,
+    "end_ms": 1597136,
+    "duration_ms": 10401,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1597.136,
+    "text": "So lots of excitement in the world about how can we use either non-invasive or invasive methods to help recovery.",
+    "start_ms": 1597136,
+    "end_ms": 1606416,
+    "duration_ms": 9280,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1606.225,
+    "text": "about actually on Monday is some really radical things about invasive brain stimulation and how that's being used to help some of these people have these hemiplegias or these severe movement disorders.",
+    "start_ms": 1606225,
+    "end_ms": 1617534,
+    "duration_ms": 11309,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1617.534,
+    "text": "All right, so then moving up further up the system, so now first we talked about damage to the spinal cord, then the subcortex, then the primary motor cortex, but now what about those secondary motor areas?",
+    "start_ms": 1617534,
+    "end_ms": 1631334,
+    "duration_ms": 13800,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1631.334,
+    "text": "I mentioned that the parietal lobe seems to be associated with movement, as does the premotor cortex or the prefrontal cortex, and that is what produces a condition called apraxia.",
+    "start_ms": 1631334,
+    "end_ms": 1642054,
+    "duration_ms": 10720,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1642.054,
+    "text": "And apraxia, like many different types of neurological syndromes, is almost defined by exclusion.",
+    "start_ms": 1642054,
+    "end_ms": 1649174,
+    "duration_ms": 7120,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1649.174,
+    "text": "These are individuals who have trouble with producing coordinated movement, but it's not because of any problem in the loss of control of the muscles.",
+    "start_ms": 1649174,
+    "end_ms": 1658775,
+    "duration_ms": 9601,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1658.775,
+    "text": "So with the ataxia patient we saw, the cerebellar ataxia, they have kind of lost control of the muscles.",
+    "start_ms": 1658775,
+    "end_ms": 1665494,
+    "duration_ms": 6719,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1665.494,
+    "text": "They couldn't make a smooth coordinated movement. The person with the motor cortex lesion, they have weakness.",
+    "start_ms": 1665494,
+    "end_ms": 1672134,
+    "duration_ms": 6640,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1672.134,
+    "text": "They can't recruit those motor units. They can't recruit, send signals down to activate the spinal cord.",
+    "start_ms": 1672134,
+    "end_ms": 1678734,
+    "duration_ms": 6600,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1678.734,
+    "text": "The people with apraxia, they have the normal strength, they have normal coordination.",
+    "start_ms": 1678734,
+    "end_ms": 1683555,
+    "duration_ms": 4821,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1683.555,
+    "text": "The movements they produce are smooth for the most part, but what they can't do is come up with sort of the knowledge or connect up that knowledge about what you want to do with an action.",
+    "start_ms": 1683555,
+    "end_ms": 1693734,
+    "duration_ms": 10179,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1693.734,
+    "text": "I'll just show you a few videotapes of patients with apraxia.",
+    "start_ms": 1693734,
+    "end_ms": 1696734,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1696.734,
+    "text": "Show me how you comb your hair. Hold on a minute.",
+    "start_ms": 1696734,
+    "end_ms": 1702734,
+    "duration_ms": 6000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1702.734,
+    "text": "No. Pretend there's a comb in your hand and show me how you comb a little.",
+    "start_ms": 1702734,
+    "end_ms": 1709734,
+    "duration_ms": 7000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1709.734,
+    "text": "Good. Okay. Show me with the comb. Good. Now, without the comb, show me how you comb your hair.",
+    "start_ms": 1709734,
+    "end_ms": 1729734,
+    "duration_ms": 20000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1733.734,
+    "text": "Good. Excellent. Okay. So you really see the sharp contrast there.",
+    "start_ms": 1733734,
+    "end_ms": 1738734,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1738.734,
+    "text": "When he gave him the comb, the guy did a pretty good job of combing his hair, did a very good job.",
+    "start_ms": 1738734,
+    "end_ms": 1743734,
+    "duration_ms": 5000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1743.734,
+    "text": "When he just sort of said to him, show me how you comb your hair, so now you have to draw on that knowledge, kind of that imagery of what the action is.",
+    "start_ms": 1743734,
+    "end_ms": 1750734,
+    "duration_ms": 7000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1750.734,
+    "text": "First time he kind of went like this, so he had some concept of it right about, it's some hand gesture towards the head, but it had none of the features of what it would be like to comb your hair.",
+    "start_ms": 1750734,
+    "end_ms": 1759734,
+    "duration_ms": 9000,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1759.734,
+    "text": "And then the second time he did it, I don't know what the guy was doing there, just sort of making abstract gestures.",
+    "start_ms": 1759734,
+    "end_ms": 1766734,
+    "duration_ms": 7000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1766.734,
+    "text": "Here's another example. Show me how you hammer a nail.",
+    "start_ms": 1766734,
+    "end_ms": 1771734,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1776.734,
+    "text": "With this hand. Show me that. Okay. Now do what I do.",
+    "start_ms": 1776734,
+    "end_ms": 1781734,
+    "duration_ms": 5000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1784.734,
+    "text": "Good. Good. Okay. The more information you give to the person, the better they're going to be at it.",
+    "start_ms": 1784734,
+    "end_ms": 1790734,
+    "duration_ms": 6000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1790.734,
+    "text": "It's the same way we saw in perception. If you enhance the information, then you can do better, but unable to sort of come up with that knowledge without the sort of combs.",
+    "start_ms": 1790734,
+    "end_ms": 1802734,
+    "duration_ms": 12000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1802.734,
+    "text": "Here's another gentleman. Might have to open the can. I got all my signs on the glass.",
+    "start_ms": 1802734,
+    "end_ms": 1823734,
+    "duration_ms": 21000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1823.734,
+    "text": "Brilliant. Turn the can around a little bit. Try it again.",
+    "start_ms": 1823734,
+    "end_ms": 1832734,
+    "duration_ms": 9000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1833.734,
+    "text": "I never opened the can. A task you take for granted every day, but really one that requires exquisite coordination.",
+    "start_ms": 1833734,
+    "end_ms": 1840734,
+    "duration_ms": 7000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1840.734,
+    "text": "You have to really orient the can in a particular direction, pick up the tab.",
+    "start_ms": 1840734,
+    "end_ms": 1847734,
+    "duration_ms": 7000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1849.734,
+    "text": "He has also this confusion about, you know, this should be first going towards the can, or I don't know if he knows, but he also can't get the coordination together, take the cup and put it out of his way.",
+    "start_ms": 1849734,
+    "end_ms": 1861734,
+    "duration_ms": 12000,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1864.734,
+    "text": "Roger, turn the can. Turn the can over. Turn the can.",
+    "start_ms": 1864734,
+    "end_ms": 1872734,
+    "duration_ms": 8000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1872.734,
+    "text": "She comes in to give him a prompt, and then again he moves that cup.",
+    "start_ms": 1872734,
+    "end_ms": 1875734,
+    "duration_ms": 3000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1878.734,
+    "text": "Okay. I don't know where that came from. There's a gremlin here.",
+    "start_ms": 1878734,
+    "end_ms": 1884734,
+    "duration_ms": 6000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1884.734,
+    "text": "Anyhow, that inability to produce that sequence of coordinated movements that's going to be required for something like opening a can, or for most of the more complex sequential actions we make, that's what's called ideomotor apraxia.",
+    "start_ms": 1884734,
+    "end_ms": 1899734,
+    "duration_ms": 15000,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1900.734,
+    "text": "Again, the distinction here is again by contrast. With ideomotor, these individuals presumably have a good sense, or from their behavior, it looks like they have a good sense of what are the components of the action that they have to put together, but they can't piece the things together properly.",
+    "start_ms": 1900734,
+    "end_ms": 1915734,
+    "duration_ms": 15000,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1917.734,
+    "text": "I don't have a good video here, but ideational apraxia is actually kind of the more extreme version.",
+    "start_ms": 1917734,
+    "end_ms": 1923734,
+    "duration_ms": 6000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1923.734,
+    "text": "These are individuals who might be able to produce the movement.",
+    "start_ms": 1923734,
+    "end_ms": 1925734,
+    "duration_ms": 2000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1925.722,
+    "text": "the movement, but they've kind of lost that knowledge about what are actions, what are different tools useful for?",
+    "start_ms": 1925722,
+    "end_ms": 1932594,
+    "duration_ms": 6872,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1932.594,
+    "text": "In the videotape I don't have here, it's pretty dramatic.",
+    "start_ms": 1932594,
+    "end_ms": 1935793,
+    "duration_ms": 3199,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1935.793,
+    "text": "The guy's sitting there, he's got his food in front of him, and they put out a bunch of different tools in front of him, you know, a fork, whatever you should be using, but what he does is he picks up his toothbrush and he starts eating with the toothbrush there.",
+    "start_ms": 1935793,
+    "end_ms": 1948674,
+    "duration_ms": 12881,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1948.674,
+    "text": "So again, he's got the general notion of what's the action that he wants to accomplish, but he's kind of lost this knowledge about what are the proper tools that one would do to make a particular action.",
+    "start_ms": 1948674,
+    "end_ms": 1959173,
+    "duration_ms": 10499,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1961.233,
+    "text": "Now these, as I mentioned, these apraxias are associated with primarily damage in either of these premotor regions.",
+    "start_ms": 1961233,
+    "end_ms": 1970154,
+    "duration_ms": 8921,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1970.154,
+    "text": "So if we have our primary motor cortex, the tissue in front of it we'd call premotor just because pre means in front of, and if we go in front of the premotor cortex we talk about the prefrontal cortex.",
+    "start_ms": 1970154,
+    "end_ms": 1983033,
+    "duration_ms": 12879,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1983.033,
+    "text": "Damage to usually these premotor regions can be very often is associated with producing apraxia as is damage to the parietal lobe, especially with both the dorsal but also this intraparietal cortex region.",
+    "start_ms": 1983033,
+    "end_ms": 1995393,
+    "duration_ms": 12360,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1995.393,
+    "text": "So these are regions that seem to be critical for sequential movements.",
+    "start_ms": 1995393,
+    "end_ms": 1999593,
+    "duration_ms": 4200,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1999.593,
+    "text": "Let's try one other eye clicker today. So here's the data from a study, not with people with apraxia, with healthy individuals, and it's kind of like a two by two experiment, right?",
+    "start_ms": 1999593,
+    "end_ms": 2010514,
+    "duration_ms": 10921,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2010.514,
+    "text": "You might have had practice in this in writing your exams.",
+    "start_ms": 2010514,
+    "end_ms": 2013874,
+    "duration_ms": 3360,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2013.874,
+    "text": "They're gonna basically do, it's an fMRI study, they're gonna take the measurements while the person's planning the movement and then while they're executing the movement.",
+    "start_ms": 2013874,
+    "end_ms": 2023853,
+    "duration_ms": 9979,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2023.853,
+    "text": "So this column is plan, this column is move. They're either told just move a single finger or move a series of fingers, okay?",
+    "start_ms": 2023853,
+    "end_ms": 2032554,
+    "duration_ms": 8701,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2032.554,
+    "text": "So it's single finger or a series of movements. And this is the bold response here.",
+    "start_ms": 2032554,
+    "end_ms": 2037974,
+    "duration_ms": 5420,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2037.974,
+    "text": "In one case, they're projecting it on the brain, so here's the central sulcus right here.",
+    "start_ms": 2037974,
+    "end_ms": 2043353,
+    "duration_ms": 5379,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2043.353,
+    "text": "Here's the premotor regions, here's the parietal. Again, central sulcus, so here's the motor cortex, primary somatosensory, premotor, parietal, okay?",
+    "start_ms": 2043353,
+    "end_ms": 2053794,
+    "duration_ms": 10441,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2053.794,
+    "text": "Or they've plotted it in terms of the bold response itself.",
+    "start_ms": 2053794,
+    "end_ms": 2057633,
+    "duration_ms": 3839,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2057.633,
+    "text": "Okay, so here's the bold response in the premotor and parietal regions and in the motor cortex, either during the plan or during the move.",
+    "start_ms": 2057633,
+    "end_ms": 2066514,
+    "duration_ms": 8881,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2066.514,
+    "text": "So if you have these data, the question is, what do the results show here?",
+    "start_ms": 2066514,
+    "end_ms": 2071753,
+    "duration_ms": 5239,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2071.753,
+    "text": "Is it a main effect of phase, which would mean there's a difference between plan and move?",
+    "start_ms": 2071753,
+    "end_ms": 2076853,
+    "duration_ms": 5100,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2076.853,
+    "text": "Is there a main effect of single and multi, meaning it depends on how many fingers you're using?",
+    "start_ms": 2076853,
+    "end_ms": 2082594,
+    "duration_ms": 5741,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2082.594,
+    "text": "Is there an interaction there? Or are all these effects there?",
+    "start_ms": 2082594,
+    "end_ms": 2086174,
+    "duration_ms": 3580,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2087.753,
+    "text": "I guess I have to start the poll. Okay. Okay, let's take a look at the results.",
+    "start_ms": 2087753,
+    "end_ms": 2116674,
+    "duration_ms": 28921,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2116.674,
+    "text": "All right, so the correct answer is D here, okay?",
+    "start_ms": 2116674,
+    "end_ms": 2120954,
+    "duration_ms": 4280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2122.674,
+    "text": "And probably the second most answer was, ah, wow, people changing their answers?",
+    "start_ms": 2122674,
+    "end_ms": 2127234,
+    "duration_ms": 4560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2127.234,
+    "text": "Is that allowed here? Okay. Right, so you can see right away, you can see it either in these data or in these data, that there's clearly a difference between planning and moving, okay?",
+    "start_ms": 2127234,
+    "end_ms": 2140833,
+    "duration_ms": 13599,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2140.833,
+    "text": "I should say the colors indicating the strength of the bold response, much stronger when you're moving than when you're planning the movement.",
+    "start_ms": 2140833,
+    "end_ms": 2148113,
+    "duration_ms": 7280,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2148.113,
+    "text": "There's also a big difference between single and multi, much more activity during the multiple movements than during the single movements.",
+    "start_ms": 2148113,
+    "end_ms": 2156154,
+    "duration_ms": 8041,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2156.154,
+    "text": "And there's this interaction, and that's what they wanted to highlight in this paper, is that actually you get very little engagement of the premotor and the parietal region when you're making a very simple movement.",
+    "start_ms": 2156154,
+    "end_ms": 2167333,
+    "duration_ms": 11179,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2167.333,
+    "text": "So during planning here, there's essentially very little activation. But if I'm planning to make a sequential movement, now I get this very strong activation in both the premotor and in the parietal cortex.",
+    "start_ms": 2167333,
+    "end_ms": 2180633,
+    "duration_ms": 13300,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2180.633,
+    "text": "When I actually go to produce the movement, basically it looks almost indistinguishable, at least in the primary motor cortex, between making a simple movement or a sequence of movements.",
+    "start_ms": 2180633,
+    "end_ms": 2190274,
+    "duration_ms": 9641,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2190.274,
+    "text": "Did you have a question? No, okay. All right. And perhaps more puzzling is that the subpraxias are almost always associated with lesions of the left hemisphere.",
+    "start_ms": 2190274,
+    "end_ms": 2208514,
+    "duration_ms": 18240,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2208.514,
+    "text": "So everyone knows about that, oh, language is really strongly dependent on the left hemisphere.",
+    "start_ms": 2208514,
+    "end_ms": 2213714,
+    "duration_ms": 5200,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2213.714,
+    "text": "But what's much less appreciated is the fact that you have a very similar pattern when you look at the ability to produce complex movements.",
+    "start_ms": 2213714,
+    "end_ms": 2221093,
+    "duration_ms": 7379,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2221.093,
+    "text": "Or movement disorders associated with the cerebral cortex, other than hemiparesis, are almost always associated with left hemisphere lesions.",
+    "start_ms": 2221093,
+    "end_ms": 2231054,
+    "duration_ms": 9961,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2231.054,
+    "text": "So let's do a little experiment here to see if we might gain some insight into this.",
+    "start_ms": 2231054,
+    "end_ms": 2235554,
+    "duration_ms": 4500,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2235.554,
+    "text": "We need two left-handers. You're a lefty, come on up.",
+    "start_ms": 2235554,
+    "end_ms": 2240353,
+    "duration_ms": 4799,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2240.353,
+    "text": "Another lefty, come on down. Okay? And we need two right-handers.",
+    "start_ms": 2240353,
+    "end_ms": 2249393,
+    "duration_ms": 9040,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2249.393,
+    "text": "Come on down. So you're the lefties over here. We'll even forget about that.",
+    "start_ms": 2249393,
+    "end_ms": 2257392,
+    "duration_ms": 7999,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2257.392,
+    "text": "You guys want to be blind, OK? So each one of you, one goes down to this end.",
+    "start_ms": 2257392,
+    "end_ms": 2263513,
+    "duration_ms": 6121,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2263.513,
+    "text": "Go down right here. You'll be right here, and you'll be right here.",
+    "start_ms": 2263513,
+    "end_ms": 2269033,
+    "duration_ms": 5520,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2269.033,
+    "text": "Done, done. We don't even know what you are there.",
+    "start_ms": 2269033,
+    "end_ms": 2271753,
+    "duration_ms": 2720,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2271.753,
+    "text": "We're going to shuffle that up. And I need a counter for each person.",
+    "start_ms": 2271753,
+    "end_ms": 2275793,
+    "duration_ms": 4040,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2275.793,
+    "text": "So who's going to be your counter? Pick someone out of the audience.",
+    "start_ms": 2275793,
+    "end_ms": 2278633,
+    "duration_ms": 2840,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2278.633,
+    "text": "Here's up front. You're a counter. All right, you got a counter?",
+    "start_ms": 2278633,
+    "end_ms": 2287793,
+    "duration_ms": 9160,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2287.793,
+    "text": "You'll be his counter? OK. Want to be the counter?",
+    "start_ms": 2287793,
+    "end_ms": 2291552,
+    "duration_ms": 3759,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2291.552,
+    "text": "OK. And how about the counter right there? OK. So here's what our four contestants are going to do.",
+    "start_ms": 2291552,
+    "end_ms": 2297593,
+    "duration_ms": 6041,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2300.953,
+    "text": "When I say, oh, I do need to know which hand you are.",
+    "start_ms": 2300953,
+    "end_ms": 2304513,
+    "duration_ms": 3560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2304.513,
+    "text": "With your non-dominant hand, OK? So if you're a righty, use your left.",
+    "start_ms": 2304513,
+    "end_ms": 2308153,
+    "duration_ms": 3640,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2308.153,
+    "text": "If you're a lefty, use your right. OK, when I say go, as fast as you can, just go up and down as quickly as you can with your finger, OK?",
+    "start_ms": 2308153,
+    "end_ms": 2314992,
+    "duration_ms": 6839,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2314.992,
+    "text": "As fast as you can. I've got to put a timer on it.",
+    "start_ms": 2314992,
+    "end_ms": 2318433,
+    "duration_ms": 3441,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2318.433,
+    "text": "OK. OK, we're going to go for 20 seconds, OK?",
+    "start_ms": 2318433,
+    "end_ms": 2328153,
+    "duration_ms": 9720,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2328.153,
+    "text": "But you can all practice for a few seconds here, OK?",
+    "start_ms": 2328153,
+    "end_ms": 2332072,
+    "duration_ms": 3919,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2332.072,
+    "text": "All right. All right, ready? Face your counter. Your counter's got to be ready to pick up on how many times you do it.",
+    "start_ms": 2332072,
+    "end_ms": 2340113,
+    "duration_ms": 8041,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2340.113,
+    "text": "Got to go up and down each time, OK? OK, ready, set, go.",
+    "start_ms": 2340113,
+    "end_ms": 2345513,
+    "duration_ms": 5400,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2348.433,
+    "text": "OK. Stop. OK, let's get our count. So lefty one.",
+    "start_ms": 2348433,
+    "end_ms": 2371392,
+    "duration_ms": 22959,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2371.392,
+    "text": "What was your lefty one? What was the count? 43.",
+    "start_ms": 2371392,
+    "end_ms": 2376113,
+    "duration_ms": 4721,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2376.113,
+    "text": "So this is going to be the lefty one, my lefty two, my righty one, and my righty two.",
+    "start_ms": 2376113,
+    "end_ms": 2385872,
+    "duration_ms": 9759,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2385.872,
+    "text": "And that was simple non-dominant. What was the number? 43.",
+    "start_ms": 2385872,
+    "end_ms": 2392833,
+    "duration_ms": 6961,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2392.833,
+    "text": "You are a righty? 52. Lefty or righty? Lefty, because I did it with my right.",
+    "start_ms": 2392833,
+    "end_ms": 2405713,
+    "duration_ms": 12880,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2405.713,
+    "text": "78. And what was the count here? 57. OK, we had a bit of a range.",
+    "start_ms": 2405713,
+    "end_ms": 2413952,
+    "duration_ms": 8239,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2413.952,
+    "text": "All right, now let's try it with your dominant hand, OK?",
+    "start_ms": 2413952,
+    "end_ms": 2419232,
+    "duration_ms": 5280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2425.392,
+    "text": "Whatever they did the first time, do it again the second time.",
+    "start_ms": 2425392,
+    "end_ms": 2428512,
+    "duration_ms": 3120,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2428.512,
+    "text": "OK. All right, so we ready? OK, now you're going to do it with your dominant hand.",
+    "start_ms": 2428512,
+    "end_ms": 2434672,
+    "duration_ms": 6160,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2434.672,
+    "text": "OK, ready, set, go. Stop. OK, let's get our numbers again.",
+    "start_ms": 2434672,
+    "end_ms": 2455672,
+    "duration_ms": 21000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2455.672,
+    "text": "Lefty one? 48? OK. Lefty two? 89. Righty one? 55.",
+    "start_ms": 2455672,
+    "end_ms": 2471032,
+    "duration_ms": 15360,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2471.032,
+    "text": "And righty two? 90. We have a new chip leader.",
+    "start_ms": 2471032,
+    "end_ms": 2475713,
+    "duration_ms": 4681,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2475.713,
+    "text": "OK, now we're going to go to the next condition.",
+    "start_ms": 2475713,
+    "end_ms": 2479232,
+    "duration_ms": 3519,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2479.232,
+    "text": "And you're going to do it with your non-dominant hand again, OK?",
+    "start_ms": 2479232,
+    "end_ms": 2483113,
+    "duration_ms": 3881,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2483.113,
+    "text": "And this time, if I'm a lefty, you're going to go one, two, three, four.",
+    "start_ms": 2483113,
+    "end_ms": 2487312,
+    "duration_ms": 4199,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2487.312,
+    "text": "One, two, three, four. One, two, three, four, OK? You got to go up, down, and then keep going the same direction, OK?",
+    "start_ms": 2487312,
+    "end_ms": 2495233,
+    "duration_ms": 7921,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2495.233,
+    "text": "What? Yep, one cycle is one, two, three, four, OK?",
+    "start_ms": 2495233,
+    "end_ms": 2500753,
+    "duration_ms": 5520,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2500.753,
+    "text": "It's going to be easier for our counters. All right, ready?",
+    "start_ms": 2500753,
+    "end_ms": 2504312,
+    "duration_ms": 3559,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2504.312,
+    "text": "Practiced a little? You're all set? OK, ready, set. This is with your non-dominant hand.",
+    "start_ms": 2504312,
+    "end_ms": 2511312,
+    "duration_ms": 7000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2511.312,
+    "text": "All right, ready, set, go. OK, let's get our numbers.",
+    "start_ms": 2511312,
+    "end_ms": 2531032,
+    "duration_ms": 19720,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2536.393,
+    "text": "All right, how many cycles? 20 cycles. OK, how many cycles?",
+    "start_ms": 2536393,
+    "end_ms": 2544633,
+    "duration_ms": 8240,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2544.633,
+    "text": "14. How many cycles here? 27. How many cycles here?",
+    "start_ms": 2544633,
+    "end_ms": 2553712,
+    "duration_ms": 9079,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2553.712,
+    "text": "21. All right, last one. Dominant hand, same thing. Practice a little, get yourself ready.",
+    "start_ms": 2553712,
+    "end_ms": 2562953,
+    "duration_ms": 9241,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2562.953,
+    "text": "OK, here we go. go. Ready? Go. Stop. Stop. OK, what do we have here?",
+    "start_ms": 2562953,
+    "end_ms": 2590051,
+    "duration_ms": 27098,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2593.772,
+    "text": "Lefties. 19. 19 for this one. OK, righty one. 25.",
+    "start_ms": 2593772,
+    "end_ms": 2605871,
+    "duration_ms": 12099,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2609.251,
+    "text": "23. All right, thank you very much. Let's tally up our data here.",
+    "start_ms": 2609251,
+    "end_ms": 2614292,
+    "duration_ms": 5041,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2614.292,
+    "text": "OK. All right, so now we have to graph our results, right?",
+    "start_ms": 2614292,
+    "end_ms": 2626732,
+    "duration_ms": 12440,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2626.732,
+    "text": "Let's see, how am I going to graph the results here?",
+    "start_ms": 2626732,
+    "end_ms": 2629612,
+    "duration_ms": 2880,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2629.612,
+    "text": "We've got to have our simple, and maybe I'll do separate graphs for the multi-finger one, right?",
+    "start_ms": 2629612,
+    "end_ms": 2639332,
+    "duration_ms": 9720,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2639.332,
+    "text": "And I have my lefties over here, and my righties here.",
+    "start_ms": 2639332,
+    "end_ms": 2645851,
+    "duration_ms": 6519,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2645.851,
+    "text": "And I've got to do one color for their dominant hand and their non-dominant hand.",
+    "start_ms": 2645851,
+    "end_ms": 2654171,
+    "duration_ms": 8320,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2654.171,
+    "text": "All right, so what are the numbers here? You've got to add these up now.",
+    "start_ms": 2654171,
+    "end_ms": 2657851,
+    "duration_ms": 3680,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2660.932,
+    "text": "What's the average here? This is single. With the dominant, we have a, let's say, average of 48 and 89, 69, 69.",
+    "start_ms": 2660932,
+    "end_ms": 2670692,
+    "duration_ms": 9760,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2670.692,
+    "text": "And the average of that one, 60. Is that right?",
+    "start_ms": 2670692,
+    "end_ms": 2676332,
+    "duration_ms": 5640,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2676.332,
+    "text": "Someone checking me? So we have about 60 here. And with the left hand, they were faster with the dominant hand than the non-dominant.",
+    "start_ms": 2676332,
+    "end_ms": 2687691,
+    "duration_ms": 11359,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2687.691,
+    "text": "OK, and then the righties, if we add it up, that's an easy one.",
+    "start_ms": 2687691,
+    "end_ms": 2692532,
+    "duration_ms": 4841,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2692.532,
+    "text": "53. Oh, no, I've got to go this way. 54 and, well, that's 145.73.",
+    "start_ms": 2692532,
+    "end_ms": 2704292,
+    "duration_ms": 11760,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2704.292,
+    "text": "So again, dominant and non-dominant down here. So that's our data there.",
+    "start_ms": 2704292,
+    "end_ms": 2714491,
+    "duration_ms": 10199,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2714.491,
+    "text": "And that makes sense, right? That you're faster with your dominant hand than your non-dominant hand.",
+    "start_ms": 2714491,
+    "end_ms": 2718851,
+    "duration_ms": 4360,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2718.851,
+    "text": "But let's see if this works out for the sequential movements.",
+    "start_ms": 2718851,
+    "end_ms": 2724172,
+    "duration_ms": 5321,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2724.172,
+    "text": "So non-dominant here was 17 versus dominant, 19. So our lefties, if I did that right, with the dominant hand, they're actually 17, way down here.",
+    "start_ms": 2724172,
+    "end_ms": 2739012,
+    "duration_ms": 14840,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2742.932,
+    "text": "And faster with the non-dominant hand. And then our righties, that's a 24 and a 24, a dead tie.",
+    "start_ms": 2742932,
+    "end_ms": 2752532,
+    "duration_ms": 9600,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2752.532,
+    "text": "Well, almost worked out. This is what the data would look like if we did everything.",
+    "start_ms": 2752532,
+    "end_ms": 2761292,
+    "duration_ms": 8760,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2761.292,
+    "text": "It turns out that lefties or righties tend to be faster when they use their right hand than when they use their left hand when producing the sequential movements.",
+    "start_ms": 2761292,
+    "end_ms": 2774051,
+    "duration_ms": 12759,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2774.051,
+    "text": "And we sort of had that here, right? If it's a simple movement, they're always faster with the dominant hand.",
+    "start_ms": 2774051,
+    "end_ms": 2780491,
+    "duration_ms": 6440,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2780.491,
+    "text": "That's the way it feels in terms of your coordination.",
+    "start_ms": 2780491,
+    "end_ms": 2783652,
+    "duration_ms": 3161,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2783.652,
+    "text": "But when you do the sequential movements, it turns out that lefties or righties, I don't know if I graphed that right, typically, if we'd only had our one last data point, would have worked out perfectly, are actually faster with the right hand than with the left hand.",
+    "start_ms": 2783652,
+    "end_ms": 2798131,
+    "duration_ms": 14479,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2798.131,
+    "text": "So that's a puzzle about, is this about handedness? Are we just better with our right hands than our left hands if we're doing some sort of complex action?",
+    "start_ms": 2798131,
+    "end_ms": 2807252,
+    "duration_ms": 9121,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2807.252,
+    "text": "Or is it about the hemispheres? Is it about the left hemisphere versus the right hemisphere?",
+    "start_ms": 2807252,
+    "end_ms": 2812892,
+    "duration_ms": 5640,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2812.892,
+    "text": "With that kind of behavioral data, we can't actually tell which it is.",
+    "start_ms": 2812892,
+    "end_ms": 2819972,
+    "duration_ms": 7080,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2819.972,
+    "text": "But you can look at brain imaging, for instance. This is the kind of picture you get if you have a right-hander producing sequential movements.",
+    "start_ms": 2819972,
+    "end_ms": 2830852,
+    "duration_ms": 10880,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2830.852,
+    "text": "So you get prominent activation in the sensory motor cortex.",
+    "start_ms": 2830852,
+    "end_ms": 2835132,
+    "duration_ms": 4280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2835.132,
+    "text": "You get activation in the supplementary motor area. And you get a lot of activation in the posterior parietal lobe.",
+    "start_ms": 2835132,
+    "end_ms": 2841252,
+    "duration_ms": 6120,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2847.852,
+    "text": "So again, as we've always seen, there's strong contralateral organization, whether it's in the perceptual system or in the motor system.",
+    "start_ms": 2847852,
+    "end_ms": 2856852,
+    "duration_ms": 9000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2856.852,
+    "text": "Now, if you actually take those same right-handers and you ask them to use their left hand, well, as you'd expect, you still now get very strong activation in the right hemisphere sensory motor cortex because they're moving their left hand.",
+    "start_ms": 2856852,
+    "end_ms": 2871252,
+    "duration_ms": 14400,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2871.252,
+    "text": "But interestingly, in addition, you get a lot of other activation in these parietal and premotor regions.",
+    "start_ms": 2871252,
+    "end_ms": 2877491,
+    "duration_ms": 6239,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2877.491,
+    "text": "But that's almost all in the left hemisphere, some in the right hemisphere, but much stronger in the left hemisphere.",
+    "start_ms": 2877491,
+    "end_ms": 2884451,
+    "duration_ms": 6960,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2884.451,
+    "text": "So if you're right-handed. using your right hand or your left hand, you're always going to get the motor cortex that's in the contralateral hemisphere, but you're always going to activate the left hemisphere independent of whether you're using your right hand or your left hand to produce the action.",
+    "start_ms": 2884451,
+    "end_ms": 2900211,
+    "duration_ms": 15760,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2901.651,
+    "text": "And the interesting result is that the left-handers show the exact same pattern, okay?",
+    "start_ms": 2901651,
+    "end_ms": 2906811,
+    "duration_ms": 5160,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2907.111,
+    "text": "When they use their left hand, their dominant hand, they're going to get good activation in the central motor cortex of the right hemisphere, but they're going to get lots of activation in the left hemisphere, in the parietal, in the premotor regions, whether they're using their left hand or their right hand.",
+    "start_ms": 2907111,
+    "end_ms": 2923111,
+    "duration_ms": 16000,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2923.59,
+    "text": "So this, again, is really strong evidence that this asymmetry is something about a difference between the two cerebral hemispheres, rather than something about the hands themselves.",
+    "start_ms": 2923590,
+    "end_ms": 2933030,
+    "duration_ms": 9440,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2933.671,
+    "text": "That there's something about the left hemisphere that seems to be more specialized for movement than the right hemisphere.",
+    "start_ms": 2933671,
+    "end_ms": 2939991,
+    "duration_ms": 6320,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2947.99,
+    "text": "I don't know that. Don't know that. So this gentleman here is saying, you know, what's the cause-effect here, right?",
+    "start_ms": 2947990,
+    "end_ms": 2954911,
+    "duration_ms": 6921,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2954.911,
+    "text": "I was trying to make, I guess, suggest, I think I am guilty of suggesting, that this is sort of wired into us through evolution, the same way that language has been wired into us, evolution, to have this strong left hemisphere dominance, at least for speech, that the same thing happens for motor control.",
+    "start_ms": 2954911,
+    "end_ms": 2971606,
+    "duration_ms": 16695,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2971.606,
+    "text": "And you're saying, well, maybe, no, maybe it's something about the experience.",
+    "start_ms": 2971606,
+    "end_ms": 2974990,
+    "duration_ms": 3384,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2974.99,
+    "text": "And your idea there would be that maybe left-handers are forced to use their right hands a lot.",
+    "start_ms": 2974990,
+    "end_ms": 2980231,
+    "duration_ms": 5241,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2981.03,
+    "text": "Because, again, remember the result of the left-handers is, even when they use their dominant hand, they still get strong left hemisphere activation.",
+    "start_ms": 2981030,
+    "end_ms": 2988950,
+    "duration_ms": 7920,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2989.31,
+    "text": "So you'd still have to be able to tie that in, that, well, how is it about living in a right-handed world, still causes you to activate this left parietal and premotor regions.",
+    "start_ms": 2989310,
+    "end_ms": 2999791,
+    "duration_ms": 10481,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3001.95,
+    "text": "So there are different ideas about, you know, what are the computations that may underlie what's this left hemisphere specialization?",
+    "start_ms": 3001950,
+    "end_ms": 3008750,
+    "duration_ms": 6800,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3008.991,
+    "text": "Because remember, as I said earlier in the class, just knowing that something like complex movements associated with the left hemisphere doesn't tell you anything all that interesting about how, why, why this is arranged this way.",
+    "start_ms": 3008991,
+    "end_ms": 3021390,
+    "duration_ms": 12399,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3021.75,
+    "text": "And one argument is that, actually, maybe the left hemisphere is really specialized for producing sequential representations.",
+    "start_ms": 3021750,
+    "end_ms": 3028950,
+    "duration_ms": 7200,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3029.31,
+    "text": "And there's actually other ideas that we'll mention about the right hemisphere is maybe more about more static things, like postural control.",
+    "start_ms": 3029310,
+    "end_ms": 3036471,
+    "duration_ms": 7161,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3036.711,
+    "text": "But that the left hemisphere is really good at these sequential representations.",
+    "start_ms": 3036711,
+    "end_ms": 3040310,
+    "duration_ms": 3599,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3040.831,
+    "text": "And this is kind of an argument that says that maybe the specialization for movement and language are actually intimately tied together, because language is also something that involves representations that are changing over time.",
+    "start_ms": 3040831,
+    "end_ms": 3053230,
+    "duration_ms": 12399,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3054.111,
+    "text": "That's sort of one hypothesis. People have looked at that by doing things like this.",
+    "start_ms": 3054111,
+    "end_ms": 3059390,
+    "duration_ms": 5279,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3059.431,
+    "text": "Here's a case where you're just sort of watching a videotape of someone producing a skilled action.",
+    "start_ms": 3059431,
+    "end_ms": 3065510,
+    "duration_ms": 6079,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3066.111,
+    "text": "They're doing it with their left hand. So again, the observer is watching it, and their task is simply to say, was there an error produced in the production?",
+    "start_ms": 3066111,
+    "end_ms": 3074390,
+    "duration_ms": 8279,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3074.431,
+    "text": "So sometimes they'll produce the sequence correctly, sometimes they'll make an error.",
+    "start_ms": 3074431,
+    "end_ms": 3078991,
+    "duration_ms": 4560,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3079.431,
+    "text": "Okay, so that's what the question is here. What they do is then they train the person to make one of four different sequences.",
+    "start_ms": 3079431,
+    "end_ms": 3086271,
+    "duration_ms": 6840,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3086.95,
+    "text": "And then this isn't showing bold activation, it's showing where in the brain can we decode which of the four sequences was being produced?",
+    "start_ms": 3086950,
+    "end_ms": 3095790,
+    "duration_ms": 8840,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3096.271,
+    "text": "We've talked about that in some of the papers, these decoding techniques.",
+    "start_ms": 3096271,
+    "end_ms": 3099551,
+    "duration_ms": 3280,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3099.95,
+    "text": "So basically, anything that's highlighted here is an area of the brain that the brain activity allowed you to say, was it sequence one, two, three, or four?",
+    "start_ms": 3099950,
+    "end_ms": 3108191,
+    "duration_ms": 8241,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3108.631,
+    "text": "And the point here is that those areas, even for these left hand movements, are in these left hemisphere, parietal, and premotor regions.",
+    "start_ms": 3108631,
+    "end_ms": 3116790,
+    "duration_ms": 8159,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3117.431,
+    "text": "Some activation also in the right hemisphere, mirroring the same locations, that's commonly what you observe, but much stronger in the left hemisphere.",
+    "start_ms": 3117431,
+    "end_ms": 3125510,
+    "duration_ms": 8079,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3126.79,
+    "text": "The one other idea I just mentioned briefly is that, the other idea is that maybe the left hemisphere is strongly specialized for manipulating tools.",
+    "start_ms": 3126790,
+    "end_ms": 3135230,
+    "duration_ms": 8440,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3135.751,
+    "text": "And again, it's that knowledge about the tool use that may be associated more with the left hemisphere than the right hemisphere.",
+    "start_ms": 3135751,
+    "end_ms": 3142031,
+    "duration_ms": 6280,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3142.271,
+    "text": "And this is kind of making that same point about, when you're planning a movement with the right hand, so imagining using tools, you see this strong left hemisphere activation, but if you plan movements with your left hand, again, the asymmetry goes the same way, underscoring that there is this asymmetry between the two hemispheres.",
+    "start_ms": 3142271,
+    "end_ms": 3159871,
+    "duration_ms": 17600,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3160.711,
+    "text": "And I think I'll leave it at that, we'll turn to physiology on Monday.",
+    "start_ms": 3160711,
+    "end_ms": 3164470,
+    "duration_ms": 3759,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3180.991,
+    "text": "Do you know if you're planning to return them their papers after the midterms?",
+    "start_ms": 3180991,
+    "end_ms": 3196991,
+    "duration_ms": 16000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3196.79,
+    "text": "Thank you. Thank you.",
+    "start_ms": 3196790,
+    "end_ms": 3231790,
+    "duration_ms": 35000,
+    "word_count": 4,
+    "avg_confidence": 90
+  }
+]

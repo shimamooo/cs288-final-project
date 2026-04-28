@@ -1,0 +1,2783 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "you you you oh you you Can you hear that back there?",
+    "start_ms": 0,
+    "end_ms": 149919,
+    "duration_ms": 149919,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 150.919,
+    "text": "No No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response No response up in Physics 4, and you come, ask questions, and that'll be the review session and the exam formats.",
+    "start_ms": 150919,
+    "end_ms": 334718,
+    "duration_ms": 183799,
+    "word_count": 114,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 334.718,
+    "text": "Going to be the same as last time, though I think it's going to be easier.",
+    "start_ms": 334718,
+    "end_ms": 340338,
+    "duration_ms": 5620,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 340.338,
+    "text": "That's my goal, because I think I missed the mark a little bit on the last one.",
+    "start_ms": 340338,
+    "end_ms": 343799,
+    "duration_ms": 3461,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 343.799,
+    "text": "Okay? So any questions about any of that? No? All right, so just to get us back in shape, because you've got to get back from spring break, you know, you've got to get your mind back into school, so this might be an exam question.",
+    "start_ms": 343799,
+    "end_ms": 360998,
+    "duration_ms": 17199,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 360.998,
+    "text": "I guess I could start it here. What do I do?",
+    "start_ms": 360998,
+    "end_ms": 363998,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 363.998,
+    "text": "Do I quiz? Poll? What the hell is it? It's been a little while.",
+    "start_ms": 363998,
+    "end_ms": 367998,
+    "duration_ms": 4000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 367.998,
+    "text": "Multiple choice. Go. Okay, that sounds right. Right. So this might be a kind of question that would be on the midterm.",
+    "start_ms": 367998,
+    "end_ms": 379199,
+    "duration_ms": 11201,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 406.198,
+    "text": "Yeah? I like locations. What's happening? It says, like, I'm not in the classroom.",
+    "start_ms": 406198,
+    "end_ms": 410198,
+    "duration_ms": 4000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 410.198,
+    "text": "I didn't work last lecture as well. Well, 95 of you are in the classroom, so it's not my device.",
+    "start_ms": 410198,
+    "end_ms": 412198,
+    "duration_ms": 2000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 412.198,
+    "text": "It seems like it's probably your device. What? What? What?",
+    "start_ms": 412198,
+    "end_ms": 416198,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 416.198,
+    "text": "What? What? What? What? What? What? What? What? What? What?",
+    "start_ms": 416198,
+    "end_ms": 426198,
+    "duration_ms": 10000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 426.198,
+    "text": "What? What? What? What? What? What? What? What? What? What?",
+    "start_ms": 426198,
+    "end_ms": 436399,
+    "duration_ms": 10201,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 443.399,
+    "text": "You're offering them a solution or explaining why it doesn't work?",
+    "start_ms": 443399,
+    "end_ms": 446399,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 452.399,
+    "text": "Oh, so if you get off of Eduroam and do mobile or CalVisit or something like that?",
+    "start_ms": 452399,
+    "end_ms": 459399,
+    "duration_ms": 7000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 459.399,
+    "text": "Okay. Give you a couple more seconds there. All right.",
+    "start_ms": 459399,
+    "end_ms": 466399,
+    "duration_ms": 7000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 466.399,
+    "text": "So what's the correct answer here? Let's see your results here.",
+    "start_ms": 466399,
+    "end_ms": 469399,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 469.399,
+    "text": "Results. See, I've forgotten everything a little bit. All right.",
+    "start_ms": 469399,
+    "end_ms": 473399,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 473.399,
+    "text": "All right. This could have been a difficult question, because all of these facts are correct, right?",
+    "start_ms": 473399,
+    "end_ms": 481399,
+    "duration_ms": 8000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 481.399,
+    "text": "Everything is something that HM, this guy who had dense amnesia, anterograde amnesia, could do, right?",
+    "start_ms": 481399,
+    "end_ms": 488399,
+    "duration_ms": 7000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 488.399,
+    "text": "He could remember the short string of numbers, so he wasn't distracted.",
+    "start_ms": 488399,
+    "end_ms": 491399,
+    "duration_ms": 3000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 491.399,
+    "text": "He could recall the memories from his childhood. But again, the question was about which of these observations really made salient this really striking distinction between explicit and implicit memory.",
+    "start_ms": 491399,
+    "end_ms": 503598,
+    "duration_ms": 12199,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 503.598,
+    "text": "And it was this number C, that basically this guy looked like he couldn't learn anything, and then they started doing this mirror reverse drawing test.",
+    "start_ms": 503598,
+    "end_ms": 511598,
+    "duration_ms": 8000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 511.598,
+    "text": "And suddenly, from day to day, even though he had no knowledge that he had actually done the test the day before, his performance showed that he was improving from day to day.",
+    "start_ms": 511598,
+    "end_ms": 521598,
+    "duration_ms": 10000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 521.798,
+    "text": "And clearly, again, the D, I imagine, is because all these things are true.",
+    "start_ms": 521798,
+    "end_ms": 528798,
+    "duration_ms": 7000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 528.798,
+    "text": "But again, the question is really about what was the observation that really made this distinction.",
+    "start_ms": 528798,
+    "end_ms": 534798,
+    "duration_ms": 6000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 534.798,
+    "text": "The other things were really demonstrating that he had this profound anterograde amnesia and spared retrograde amnesia.",
+    "start_ms": 534798,
+    "end_ms": 540798,
+    "duration_ms": 6000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 540.798,
+    "text": "They weren't relevant to the question of the explicit versus the implicit memory.",
+    "start_ms": 540798,
+    "end_ms": 545798,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 545.798,
+    "text": "All right. So let me stop this. How do I get rid of this again?",
+    "start_ms": 545798,
+    "end_ms": 549798,
+    "duration_ms": 4000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 549.999,
+    "text": "Someone remind me. Like that. Okay. All right. Well, that said, let's move on to our next topic.",
+    "start_ms": 549999,
+    "end_ms": 555999,
+    "duration_ms": 6000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 555.999,
+    "text": "So now we're going to leave the memory behind and move on to the language section.",
+    "start_ms": 555999,
+    "end_ms": 560999,
+    "duration_ms": 5000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 560.999,
+    "text": "And today I'm going to focus on, actually, for much of this class, this section will talk about neuropsychology, neurological observations.",
+    "start_ms": 560999,
+    "end_ms": 570999,
+    "duration_ms": 10000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 570.999,
+    "text": "There isn't that much work to be done in the animal world when it comes to language.",
+    "start_ms": 570999,
+    "end_ms": 573999,
+    "duration_ms": 3000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 573.999,
+    "text": "We'll talk a little bit about that. But it's obviously something that's a really salient feature, important feature of human cognitive capabilities, our ability to communicate.",
+    "start_ms": 573999,
+    "end_ms": 586198,
+    "duration_ms": 12199,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 586.198,
+    "text": "And certainly we see in neurology that disturbances of language, and that's what aphasia means.",
+    "start_ms": 586198,
+    "end_ms": 591198,
+    "duration_ms": 5000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 591.198,
+    "text": "To have an aphasic disorder means A, again, is the loss of phasic ability to communicate or ability to engage in communicative behavior.",
+    "start_ms": 591198,
+    "end_ms": 601198,
+    "duration_ms": 10000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 601.198,
+    "text": "And aphasic disorders, they're extremely common. At least they're extremely common right after a person has a neurological insult.",
+    "start_ms": 601198,
+    "end_ms": 608399,
+    "duration_ms": 7201,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 608.399,
+    "text": "So, especially if you have a stroke, about 40% of the people who have a stroke are going to have some sort of communication problem.",
+    "start_ms": 608399,
+    "end_ms": 615399,
+    "duration_ms": 7000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 615.399,
+    "text": "It's going to be the thing, one of two things is going to happen when you know you've had a stroke.",
+    "start_ms": 615399,
+    "end_ms": 619399,
+    "duration_ms": 4000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 619.399,
+    "text": "You're going to wake up and you're going to feel like you're weak, or might not even wake up.",
+    "start_ms": 619399,
+    "end_ms": 623399,
+    "duration_ms": 4000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 623.399,
+    "text": "You might just suddenly feel dizzy and feel you have weakness.",
+    "start_ms": 623399,
+    "end_ms": 626399,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 626.399,
+    "text": "And you might try to speak and be unable to speak.",
+    "start_ms": 626399,
+    "end_ms": 629399,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 629.399,
+    "text": "Or suddenly you don't understand what people are saying to you.",
+    "start_ms": 629399,
+    "end_ms": 633399,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 633.599,
+    "text": "Now again, that's what we call the acute phase. Right after you have the stroke, you're going to have these aphasic disorders.",
+    "start_ms": 633599,
+    "end_ms": 639599,
+    "duration_ms": 6000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 639.599,
+    "text": "Fortunately, in 40% of the individuals, if we think about that, half the strokes are in the right hemisphere, half are in the left hemisphere.",
+    "start_ms": 639599,
+    "end_ms": 647599,
+    "duration_ms": 8000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 647.415,
+    "text": "hemisphere, and it's much more common in the left hemisphere, as we'll talk about, that it means that if you have a stroke or some disturbance in the left hemisphere, you're probably going to have some disruption of language, at least in the early days after the stroke, when everything is a bit chaotic in terms of just sort of the whole balance of function in the left hemisphere is distorted.",
+    "start_ms": 647415,
+    "end_ms": 668958,
+    "duration_ms": 21543,
+    "word_count": 71,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 668.958,
+    "text": "And in many cases, people are going to recover, so there's going to be great variation in the severity of the aphasic disorder, and especially in the recovery.",
+    "start_ms": 668958,
+    "end_ms": 677997,
+    "duration_ms": 9039,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 677.997,
+    "text": "Person might not be able to speak immediately after the stroke, a week later, they might be perfectly fine again, completely have recovered.",
+    "start_ms": 677997,
+    "end_ms": 685438,
+    "duration_ms": 7441,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 685.438,
+    "text": "Now, the study of aphasia really is kind of the classic cases that are cited in the neurology or neuropsychology literature, and it really stemmed from these 19th century observations of Broca and Wernicke, and again, many of you probably heard about them in other classes.",
+    "start_ms": 685438,
+    "end_ms": 703398,
+    "duration_ms": 17960,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 703.398,
+    "text": "And again, people understood clearly by the 19th century that the brain was central to our mental capabilities, but these guys did this work about making localization, making analysis showing that there was a relationship between behavior and damage to particular parts of the brain.",
+    "start_ms": 703398,
+    "end_ms": 721317,
+    "duration_ms": 17919,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 721.358,
+    "text": "So Broca, in around 1860 or 1860, published a paper about a patient who seemed to actually understand language, okay, you could sort of have a conversation with him, at least he seemed to, you know, be tuned in to the person who was speaking to him, kind of maybe respond in at least appropriate manner of turn-taking, but all he would say was, tan, tan, tan, and I'll actually show you a patient like this in a few minutes.",
+    "start_ms": 721358,
+    "end_ms": 745158,
+    "duration_ms": 23800,
+    "word_count": 80,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 745.158,
+    "text": "So he clearly had a problem, but he couldn't say, he had no variation in what he produced, and again, it'd be obviously hard to know, is the person really understanding you if you just, if all they ever said to you was the word tan back at you, but they could give this guy commands and he could respond to the commands to show other ways that he understood that he was comprehending language.",
+    "start_ms": 745158,
+    "end_ms": 764518,
+    "duration_ms": 19360,
+    "word_count": 75,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 764.518,
+    "text": "Shortly afterwards though, Wernicke described a bunch of patients who actually seemed to have a different picture, that their language production was still intact, but their language comprehension was severely compromised, and both of them had access to the brains of the patients they had studied after they had died, so they'd done autopsies, and they'd actually been able to look and see where was the damage, and what was striking is that the patient Broca was describing had damage in this inferior frontal region here, Wernicke's patients tended to have lesions more posterior, especially on the superior parts of the temporal lobe, and of course, that's why these two areas get their common names that are still referred to by as Broca's area and Wernicke's area, and in the classic neurology model, it was a simple story, you know, Wernicke's area sits close to the primary auditory cortex, this was thought to be the seed of language comprehension, Broca's area, the seed of language production, indeed, it was identified that there was this arcuate fasciculus, that's just a white matter track, but it's a very prominent one, so it has this particular name, arcuate fasciculus, and it actually is very prominent in humans, and it goes directly from Wernicke's area to Broca's area, and the thought was that with evolutionary pressures, there had to be this very strong communication between the receptive parts of language and the productive part of language, so again, in your classic behavioral neurology picture, that's sort of what the story might have looked like, say, in circa 1950, but as we'll see over the next few lectures, the story's much more complex, much more nuanced.",
+    "start_ms": 764518,
+    "end_ms": 868917,
+    "duration_ms": 104399,
+    "word_count": 281,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 868.917,
+    "text": "This, though, is a cool video from about 15 years ago now from Bob Knight's lab, it's a patient who, again, has severe epilepsy, they're going to do some surgery to try to take out the tissue that's generating the epileptic seizures here, so they've implanted this grid of electrodes on the cortical surface, and basically the patient's going to be in the hospital for about a week prior to the surgery, where they're just recording from the electrodes clinically to identify where the seizure activity originates, but while they're in the hospital, they could do experiments, they could say, what activates the electrodes?",
+    "start_ms": 868917,
+    "end_ms": 908798,
+    "duration_ms": 39881,
+    "word_count": 104,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 908.798,
+    "text": "Here's just a movie of the patient doing a very simple task, they hear a word spoken to them or presented on the computer screen, they hear the word, no, they actually hear the word presented, and their job is to hear a noun, and they just have to say a verb that's associated with it, so they might hear the word knife, and they have to say cut, or they might hear the word chair, and they have to say sit, and what you're just going to see here is that how the activity traverses across these different electrode sites, so again, as the electrodes increase, they're of course all firing all the time, but as they increase their firing, you'll actually see it play out in real time up at the top, so there's the stimulus being presented, again, right back here in Wernicke's area, then the person's processing it, we're seeing some frontal lobe activation, along then these premotor regions here, and now the person's making the response up close to Broca's area, and again, I'll just play that one more time, now that you're oriented, so this is just going to be taking just going to be taking place.",
+    "start_ms": 908798,
+    "end_ms": 968383,
+    "duration_ms": 59585,
+    "word_count": 203,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 968.383,
+    "text": "2,000 milliseconds is two seconds. So this is in real time now.",
+    "start_ms": 968383,
+    "end_ms": 972751,
+    "duration_ms": 4368,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 972.751,
+    "text": "Again, right at zero, the word's presented. Immediately activation in Wernicke's area.",
+    "start_ms": 972751,
+    "end_ms": 977493,
+    "duration_ms": 4742,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 977.493,
+    "text": "And then as the person's doing this verb retrieval, right, they're thinking about what word to respond.",
+    "start_ms": 977493,
+    "end_ms": 983879,
+    "duration_ms": 6386,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 983.879,
+    "text": "You're seeing this frontal activation, and now you see the response.",
+    "start_ms": 983879,
+    "end_ms": 987095,
+    "duration_ms": 3216,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 987.095,
+    "text": "When they respond, they're speaking out loud, and you again see some activation back in Wernicke's area, perhaps hearing their own voice speaking there.",
+    "start_ms": 987095,
+    "end_ms": 995339,
+    "duration_ms": 8244,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 995.339,
+    "text": "So again, very consistent with the classic picture that we see there.",
+    "start_ms": 995339,
+    "end_ms": 999316,
+    "duration_ms": 3977,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 999.316,
+    "text": "All right. Well, of course, one of the real things that came out of the lessons from Broca and Wernicke is that we saw this strong lateralization.",
+    "start_ms": 999316,
+    "end_ms": 1008996,
+    "duration_ms": 9680,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1008.996,
+    "text": "Their patient's a small sample, right? Broca really dealing with one patient, Wernicke with a handful of patients.",
+    "start_ms": 1008996,
+    "end_ms": 1014533,
+    "duration_ms": 5537,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1014.533,
+    "text": "All the damage there on the left hemisphere, but very quickly it became apparent that language was strongly lateralized to the left hemisphere.",
+    "start_ms": 1014533,
+    "end_ms": 1021157,
+    "duration_ms": 6624,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1021.157,
+    "text": "And I'll just walk you through some of the evidence for that.",
+    "start_ms": 1021157,
+    "end_ms": 1024682,
+    "duration_ms": 3525,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1024.682,
+    "text": "This is a large-scale study that was published a couple years ago.",
+    "start_ms": 1024682,
+    "end_ms": 1030473,
+    "duration_ms": 5791,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1030.473,
+    "text": "Basically, what they did is it's an fMRI study. They devised a series of tasks, very short tasks that they thought could isolate different types of cognitive functions.",
+    "start_ms": 1030473,
+    "end_ms": 1040217,
+    "duration_ms": 9744,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1040.217,
+    "text": "They were mainly interested in those tasks that identified what they called the essential components of language.",
+    "start_ms": 1040217,
+    "end_ms": 1046310,
+    "duration_ms": 6093,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1046.31,
+    "text": "So it involved comprehension. It might involve speaking. It was mostly about comprehension.",
+    "start_ms": 1046310,
+    "end_ms": 1050882,
+    "duration_ms": 4572,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1050.882,
+    "text": "They were trying to separate, you know, more complex functions that might be involved in manipulating language, but they just wanted to look at if people were reading a simple word, listening to a word, having to repeat the word, what brain areas were engaged.",
+    "start_ms": 1050882,
+    "end_ms": 1063153,
+    "duration_ms": 12271,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1063.153,
+    "text": "And the main point they want to make here is that across these 45 different languages, and again, some of them have been isolated from one another for say 50,000 years of different evolutionary branches, you see this very common network across all these brains here.",
+    "start_ms": 1063153,
+    "end_ms": 1078584,
+    "duration_ms": 15431,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1078.584,
+    "text": "And again, it's strongly lateralized to the left hemisphere. I'm actually only showing you left hemisphere brains.",
+    "start_ms": 1078584,
+    "end_ms": 1084837,
+    "duration_ms": 6253,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1084.837,
+    "text": "So again, these are different language sub-families and then within them, different sub-specialties, specializations, or specific languages within these different branches.",
+    "start_ms": 1084837,
+    "end_ms": 1095373,
+    "duration_ms": 10536,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1095.373,
+    "text": "But their picture here is that something's involved in our brains that actually has formed this essential language network.",
+    "start_ms": 1095373,
+    "end_ms": 1101417,
+    "duration_ms": 6044,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1101.417,
+    "text": "Doesn't matter what language you learn, you're going to be engaging a very similar set of brain structures.",
+    "start_ms": 1101417,
+    "end_ms": 1107473,
+    "duration_ms": 6056,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1107.473,
+    "text": "On the right here, it's just making the point that if you actually look over to the right hemisphere, you can either look in terms of the percent bold signal, so the strength of the fMRI activation during the language test, or you can look at it in terms of how many voxels, that is right when we do fMRI studies, we're having these volumetric units that we can measure the activity within.",
+    "start_ms": 1107473,
+    "end_ms": 1128484,
+    "duration_ms": 21011,
+    "word_count": 73,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1128.484,
+    "text": "So you can count up the number of voxels that respond during this language, that are part of this language network, or the strength of the activation.",
+    "start_ms": 1128484,
+    "end_ms": 1136216,
+    "duration_ms": 7732,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1136.216,
+    "text": "You can look at this two ways. One way is that clearly there is a stronger left hemisphere activation, more voxels being activated, but at the same time, you're also seeing parallel activation in the right hemisphere.",
+    "start_ms": 1136216,
+    "end_ms": 1148820,
+    "duration_ms": 12604,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1148.82,
+    "text": "So it's not really left hemisphere almost for language, but it also, we look from this picture here, that there's also considerable right hemisphere engagement during these same language tests.",
+    "start_ms": 1148820,
+    "end_ms": 1159716,
+    "duration_ms": 10896,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1159.716,
+    "text": "In development, actually, you know, here's just an fMRI study of three-month-old babies.",
+    "start_ms": 1159716,
+    "end_ms": 1166253,
+    "duration_ms": 6537,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1166.253,
+    "text": "So they're taking three-month-old babies, sticking them in the scanner.",
+    "start_ms": 1166253,
+    "end_ms": 1169516,
+    "duration_ms": 3263,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1169.516,
+    "text": "They don't move very much. Well, they, you know, stabilize them in there.",
+    "start_ms": 1169516,
+    "end_ms": 1172292,
+    "duration_ms": 2776,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1172.292,
+    "text": "Of course, they're not going to do production tests here.",
+    "start_ms": 1172292,
+    "end_ms": 1174346,
+    "duration_ms": 2054,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1174.346,
+    "text": "They're just going to play speech sounds. So they're just going to sit there listening to speech, and at three months of age, you're seeing a really striking left lateralization of the activation patterns.",
+    "start_ms": 1174346,
+    "end_ms": 1185060,
+    "duration_ms": 10714,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1185.06,
+    "text": "So again, consistent with this idea that, you know, this is something that's been wired into us through evolution to have this specialization for decoding speech when you're three months old.",
+    "start_ms": 1185060,
+    "end_ms": 1196147,
+    "duration_ms": 11087,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1196.147,
+    "text": "It actually turns out when babies are born, like almost the day after they're born, they actually recognize their native language.",
+    "start_ms": 1196147,
+    "end_ms": 1202682,
+    "duration_ms": 6535,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1202.682,
+    "text": "So if you actually play a movie, I think the study was done with Polish babies speaking, or babies whose mothers spoke Polish versus babies whose mothers spoke English, and the babies responded differentially if they were listening to speech from their own language at birth.",
+    "start_ms": 1202682,
+    "end_ms": 1221224,
+    "duration_ms": 18542,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1221.224,
+    "text": "And that sounds quite amazing, right? But it turns out that in utero, the baby's basically hearing some of the sounds of language.",
+    "start_ms": 1221224,
+    "end_ms": 1227967,
+    "duration_ms": 6743,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1227.967,
+    "text": "It's highly filtered, but there's enough information there that when the baby's born, it's already sensitized to its own specific language.",
+    "start_ms": 1227967,
+    "end_ms": 1236294,
+    "duration_ms": 8327,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1236.294,
+    "text": "Nonetheless, independent of what language it speaks, it's already going to show this strong left hemisphere lateralization.",
+    "start_ms": 1236294,
+    "end_ms": 1243237,
+    "duration_ms": 6943,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1243.237,
+    "text": "What about other species? Okay, I said that, you know, this lateralization pattern is obviously very strong in humans.",
+    "start_ms": 1243237,
+    "end_ms": 1249556,
+    "duration_ms": 6319,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1249.556,
+    "text": "Well, we obviously share a lot of genetics and not that long of a genetic history or distant history with other mammals.",
+    "start_ms": 1249556,
+    "end_ms": 1257443,
+    "duration_ms": 7887,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1257.443,
+    "text": "So this is a pretty wild study. They wanted to ask, is there evidence for language lateralization in dogs?",
+    "start_ms": 1257443,
+    "end_ms": 1264528,
+    "duration_ms": 7085,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1264.528,
+    "text": "Okay, so they're going to put dogs in the MRI scanner.",
+    "start_ms": 1264528,
+    "end_ms": 1267616,
+    "duration_ms": 3088,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1267.616,
+    "text": "There's a group that's done lots of fMRI studies of dogs down at Emory University.",
+    "start_ms": 1267616,
+    "end_ms": 1272071,
+    "duration_ms": 4455,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1272.071,
+    "text": "And so here's the study. They basically, okay, we all know that, you know, dogs do respond to commands, right?",
+    "start_ms": 1272071,
+    "end_ms": 1278523,
+    "duration_ms": 6452,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1278.523,
+    "text": "I have a dog, his name's Josie, and, you know, I can tell Josie, you know, good dog, Josie, and, you know, show like wag her tail there, and she's never bad.",
+    "start_ms": 1278523,
+    "end_ms": 1286716,
+    "duration_ms": 8193,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1286.625,
+    "text": "if I did yell at her, she'd, you know, respond differently.",
+    "start_ms": 1286625,
+    "end_ms": 1290035,
+    "duration_ms": 3410,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1290.035,
+    "text": "Of course, we think, well, it's kind of our tone of speech, right?",
+    "start_ms": 1290035,
+    "end_ms": 1292955,
+    "duration_ms": 2920,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1292.955,
+    "text": "I mean, if I said, you know, jerky dog, Josie, with my happy tone of voice, you know, Josie presumably is not going to know that I'm actually really, you know, insulting her.",
+    "start_ms": 1292955,
+    "end_ms": 1302795,
+    "duration_ms": 9840,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1302.795,
+    "text": "But these guys said, well, maybe that's true, maybe it's not true, let's do fMRI, let's look at this question here.",
+    "start_ms": 1302795,
+    "end_ms": 1308675,
+    "duration_ms": 5880,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1308.675,
+    "text": "So they're basically going to do a two-by-two design, they're going to vary the tone of speech, they're going to do it the upbeat way, the way we usually talk to our dogs, you know, come Josie, or they're just going to speak in this nice flat tone, you know, come Josie, and they're either going to give praise or they're going to give neutral instructions, they don't want to, you know, yell at the dogs, okay?",
+    "start_ms": 1308675,
+    "end_ms": 1327756,
+    "duration_ms": 19081,
+    "word_count": 77,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1327.756,
+    "text": "And basically, they wanted to ask, you know, is the dog responding, they wanted to look at the lateralization, and they wanted to ask also, is the dog actually responding to the tone of speech, or does it actually understand the contents of the words here?",
+    "start_ms": 1327756,
+    "end_ms": 1340896,
+    "duration_ms": 13140,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1340.896,
+    "text": "So make your, so that's the one more I clicked here, what am I doing, multiple choice, yep, go for it, right.",
+    "start_ms": 1340896,
+    "end_ms": 1350696,
+    "duration_ms": 9800,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1350.696,
+    "text": "So right, the question is, if the dogs understood word content, then what do you express, right?",
+    "start_ms": 1350696,
+    "end_ms": 1357696,
+    "duration_ms": 7000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1358.376,
+    "text": "We talk about main effects, right, the difference of tone of speech versus words or interactions.",
+    "start_ms": 1358376,
+    "end_ms": 1364696,
+    "duration_ms": 6320,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1364.775,
+    "text": "And again, all part of your exam practice is you're going to be doing graphs again in the exam.",
+    "start_ms": 1364775,
+    "end_ms": 1370775,
+    "duration_ms": 6000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1370.775,
+    "text": "All right, let's take a look at your results, you can keep on answering here, all right, so now we have quite a bit of variation in people's responses, so let's walk through these one at a time here.",
+    "start_ms": 1370775,
+    "end_ms": 1401415,
+    "duration_ms": 30640,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1401.415,
+    "text": "So if the dog could understand the word content, okay, A is there should be a main effect of words, that is, the dog should be able to tell the difference between praise and neutral independent of whether I'm using my upbeats tone of voice or my flat tone of speech.",
+    "start_ms": 1401415,
+    "end_ms": 1415695,
+    "duration_ms": 14280,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1415.695,
+    "text": "That certainly would be consistent with the hypothesis, okay? B, main effect of tone of speech, no, that wouldn't tell me anything about understanding the content, that would be what we kind of intuit, that the dogs are sensitive to, you know, what kind of voice tone we're using.",
+    "start_ms": 1415695,
+    "end_ms": 1431495,
+    "duration_ms": 15800,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1431.495,
+    "text": "What about C, a main effect, if we had a main effect of both words and tone of speech, would that be consistent with that the dogs understand the content?",
+    "start_ms": 1431495,
+    "end_ms": 1440216,
+    "duration_ms": 8721,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1440.216,
+    "text": "And the answer is that that also is true. It means that the dogs are not only sensitive to the content of speech, praise versus neutral words, but that they're also sensitive to the tone of speech, upbeat or flat.",
+    "start_ms": 1440216,
+    "end_ms": 1453895,
+    "duration_ms": 13679,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1453.895,
+    "text": "But again, it would still be indicating, if there was a main effect there, that the dogs are sensitive to word content.",
+    "start_ms": 1453895,
+    "end_ms": 1460016,
+    "duration_ms": 6121,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1460.016,
+    "text": "So that's why the correct answer here would be E.",
+    "start_ms": 1460016,
+    "end_ms": 1464704,
+    "duration_ms": 4688,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1464.704,
+    "text": "All right, so no, don't do that, just go away.",
+    "start_ms": 1464704,
+    "end_ms": 1469456,
+    "duration_ms": 4752,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1469.456,
+    "text": "There we go. All right, so here's the results, and again, remember, they're actually looking at this in terms of left lateralization.",
+    "start_ms": 1469456,
+    "end_ms": 1479615,
+    "duration_ms": 10159,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1479.615,
+    "text": "Here's the dog brains with their MRI scans on them.",
+    "start_ms": 1479615,
+    "end_ms": 1483975,
+    "duration_ms": 4360,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1483.975,
+    "text": "It's not obvious. It's a very subtle difference between the degree of activation in the left hemisphere versus the degree of activation in the right hemisphere.",
+    "start_ms": 1483975,
+    "end_ms": 1493216,
+    "duration_ms": 9241,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1493.216,
+    "text": "But what they're plotting over here is for each of the four conditions, was there a lateralization index?",
+    "start_ms": 1493216,
+    "end_ms": 1499775,
+    "duration_ms": 6559,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1499.775,
+    "text": "And a positive number means stronger activation in the left hemisphere than in the right hemisphere.",
+    "start_ms": 1499775,
+    "end_ms": 1505456,
+    "duration_ms": 5681,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1505.695,
+    "text": "Okay, so in all four conditions, these are the four conditions here, all four conditions, we have a positive number here, barely positive for this one around here, but we have a positive number.",
+    "start_ms": 1505695,
+    "end_ms": 1517016,
+    "duration_ms": 11321,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1517.016,
+    "text": "So again, there is a slight left lateralization, and indeed, actually, it looks like there's this main effect of praise versus neutral.",
+    "start_ms": 1517016,
+    "end_ms": 1524775,
+    "duration_ms": 7759,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1524.775,
+    "text": "That is, when they gave positive words, the dog's brains responded better than when they gave the neutral words, and again, it didn't matter whether they're using that upbeat tone or the flat tone.",
+    "start_ms": 1524775,
+    "end_ms": 1535295,
+    "duration_ms": 10520,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1535.295,
+    "text": "So at least this study says that your dogs do understand some words.",
+    "start_ms": 1535295,
+    "end_ms": 1539015,
+    "duration_ms": 3720,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1539.015,
+    "text": "They understand between the difference, you know, good or, I don't know, what's a neutral word you say to your dog?",
+    "start_ms": 1539015,
+    "end_ms": 1545015,
+    "duration_ms": 6000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1545.015,
+    "text": "Later. Whatever it was. So, you know, this hasn't been replicated.",
+    "start_ms": 1545015,
+    "end_ms": 1549735,
+    "duration_ms": 4720,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1549.735,
+    "text": "I don't know how strong this effect is. You do get, statistically, that is the only effect, a main effect of praise versus neutral on the word category.",
+    "start_ms": 1549735,
+    "end_ms": 1559895,
+    "duration_ms": 10160,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1559.895,
+    "text": "And it looks like there is sort of a trend towards an interaction.",
+    "start_ms": 1559895,
+    "end_ms": 1563735,
+    "duration_ms": 3840,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1563.735,
+    "text": "There isn't a large sample of dogs in this study, and it might be that, you know, when you have a flat tone of speech, that's what this PF is, praise with a flat tone of speech, so that's when you're saying to your dog, good, you know, A, maybe the dog's not used to hearing the word good in a flat tone of speech, or maybe if you use the flat tone of speech, now the dog has to really pay attention to the content of the words more because it doesn't have the cue coming from the, you know, the upbeat sound there.",
+    "start_ms": 1563735,
+    "end_ms": 1589416,
+    "duration_ms": 25681,
+    "word_count": 105,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1589.416,
+    "text": "All right. So that's the world of dogs. It's a cute study.",
+    "start_ms": 1589416,
+    "end_ms": 1594015,
+    "duration_ms": 4599,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1594.015,
+    "text": "I'm not sure what it means. In terms of evidence from brain damage, obviously, we're going to talk about lots of patients with aphasic disorders, almost always associated with left hemisphere damage.",
+    "start_ms": 1594015,
+    "end_ms": 1606136,
+    "duration_ms": 12121,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1606.136,
+    "text": "One thing... One observation that was made back in the 70s and 80s was that you could actually take people who were born without spoken language, who used sign language, and you could ask when they had brain damage, did they show similar patterns as what you saw in speaking individuals?",
+    "start_ms": 1606136,
+    "end_ms": 1622634,
+    "duration_ms": 16498,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1622.634,
+    "text": "And indeed, they did. So people who use purely sign language, completely deaf from birth, if they have a posterior limb damage, they tend to have trouble interpreting sign language.",
+    "start_ms": 1622634,
+    "end_ms": 1634435,
+    "duration_ms": 11801,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1634.435,
+    "text": "If they have an anterior lesion, a frontal lobe lesion, they have trouble producing sign language.",
+    "start_ms": 1634435,
+    "end_ms": 1639994,
+    "duration_ms": 5559,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1639.994,
+    "text": "So a very similar pattern to what you saw in healthy individuals.",
+    "start_ms": 1639994,
+    "end_ms": 1643755,
+    "duration_ms": 3761,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1643.755,
+    "text": "A real question, though, is what about the recovery? As I mentioned, people can have strokes, have really severe aphasic disorders, but fortunately, many people recover.",
+    "start_ms": 1643755,
+    "end_ms": 1654955,
+    "duration_ms": 11200,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1654.955,
+    "text": "Certainly, some individuals will have chronic problems, aphasic disorders, and it's really something that really impacts the quality of their life.",
+    "start_ms": 1654955,
+    "end_ms": 1663594,
+    "duration_ms": 8639,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1663.594,
+    "text": "But most people recover a good deal of their language functions, and of course, there's lots of work devoted to doing language rehabilitation.",
+    "start_ms": 1663594,
+    "end_ms": 1671634,
+    "duration_ms": 8040,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1671.634,
+    "text": "We'll talk about that a little bit later on, too.",
+    "start_ms": 1671634,
+    "end_ms": 1674354,
+    "duration_ms": 2720,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1674.354,
+    "text": "But the question is, when you recover, is it that, remember I said, there's some activation in the right hemisphere, if your left hemisphere is damaged, does recovery rely on the reorganization of the right hemisphere?",
+    "start_ms": 1674354,
+    "end_ms": 1687594,
+    "duration_ms": 13240,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1687.594,
+    "text": "Is the right hemisphere going to take over those language functions, or is there actually reorganization or recruitment of the spare tissue in the left hemisphere?",
+    "start_ms": 1687594,
+    "end_ms": 1697435,
+    "duration_ms": 9841,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1697.435,
+    "text": "And so people have asked that by tracking individuals across the period of recovery.",
+    "start_ms": 1697435,
+    "end_ms": 1703314,
+    "duration_ms": 5879,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1703.314,
+    "text": "So these are all individuals who had some reasonable degree of recovery of speech, where they're scanned at three different points.",
+    "start_ms": 1703314,
+    "end_ms": 1711674,
+    "duration_ms": 8360,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1711.674,
+    "text": "Right after the stroke, that's the acute phase. In a subacute phase, where they're still having pretty severe problems, but they're making some recovery.",
+    "start_ms": 1711674,
+    "end_ms": 1719994,
+    "duration_ms": 8320,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1719.994,
+    "text": "And back in the chronic stage, so this would be about six months after the stroke, when they've kind of reached a plateau.",
+    "start_ms": 1719994,
+    "end_ms": 1725594,
+    "duration_ms": 5600,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1725.594,
+    "text": "They've recovered a lot of their language functions, there might be some still residual problems here.",
+    "start_ms": 1725594,
+    "end_ms": 1730434,
+    "duration_ms": 4840,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1730.434,
+    "text": "And again, this is basically showing, this is the control pattern that we've seen.",
+    "start_ms": 1730434,
+    "end_ms": 1735195,
+    "duration_ms": 4761,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1735.195,
+    "text": "There's the language network, a little bit of activation in the right.",
+    "start_ms": 1735195,
+    "end_ms": 1738835,
+    "duration_ms": 3640,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1738.835,
+    "text": "A strong left hemisphere lateralization. In the acute phase, of course, this is when the people are severely compromised in their language abilities.",
+    "start_ms": 1738835,
+    "end_ms": 1747755,
+    "duration_ms": 8920,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1747.755,
+    "text": "Almost no activation in the right hemisphere, very little activation in the left.",
+    "start_ms": 1747755,
+    "end_ms": 1752355,
+    "duration_ms": 4600,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1752.355,
+    "text": "In the subacute phase, now what you see is actually pretty strong activation in the right hemisphere, especially in these anterior regions, but also some recovery going on in corresponding regions of the left hemisphere.",
+    "start_ms": 1752355,
+    "end_ms": 1766514,
+    "duration_ms": 14159,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1766.514,
+    "text": "And then the interesting thing is that in the chronic phase, that right hemisphere recruitment has actually died down, so that now they're actually looking very much like controls.",
+    "start_ms": 1766514,
+    "end_ms": 1776115,
+    "duration_ms": 9601,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1776.115,
+    "text": "So it really seems to be that it's not that the right hemisphere takes over for the damaged left hemisphere.",
+    "start_ms": 1776115,
+    "end_ms": 1781835,
+    "duration_ms": 5720,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1781.835,
+    "text": "I'm not showing you here the lesions. These individuals are going to have large lesions in the left hemisphere, but it's rather that the residual tissue in the left hemisphere reorganizes and reasserts itself over that period of the recovery.",
+    "start_ms": 1781835,
+    "end_ms": 1795674,
+    "duration_ms": 13839,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1795.674,
+    "text": "All right. So again, I've talked about aphasia in general, talked about Broca's versus Wernicke's, this crude distinction between production and comprehension.",
+    "start_ms": 1795674,
+    "end_ms": 1806674,
+    "duration_ms": 11000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1806.674,
+    "text": "So let me just walk through different subtypes of aphasia, what we call taxonomy of different aphasic disorders.",
+    "start_ms": 1806674,
+    "end_ms": 1813555,
+    "duration_ms": 6881,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1813.555,
+    "text": "And again, mapping onto that Broca-Wernicke distinction, really the more general categorization is between the non-fluent aphasics versus the fluent aphasics.",
+    "start_ms": 1813555,
+    "end_ms": 1824094,
+    "duration_ms": 10539,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1824.094,
+    "text": "And as the names imply, non-fluent means they have difficulty in speaking.",
+    "start_ms": 1824094,
+    "end_ms": 1829335,
+    "duration_ms": 5241,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1829.335,
+    "text": "Their speech is no longer fluent. And there's really two categories here.",
+    "start_ms": 1829335,
+    "end_ms": 1834135,
+    "duration_ms": 4800,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1834.135,
+    "text": "One is what's called global aphasic individuals, and they aren't studied very much because these are the folks who basically aren't able to speak or can speak in very minimal way, but it's also not clear that they understand things.",
+    "start_ms": 1834135,
+    "end_ms": 1849094,
+    "duration_ms": 14959,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1849.094,
+    "text": "So they basically have such a severe aphasic disorder that you can't really communicate with them.",
+    "start_ms": 1849094,
+    "end_ms": 1854574,
+    "duration_ms": 5480,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1854.574,
+    "text": "And again, in terms of at least research participants, there's not much that can be done just because it's unclear whether they understand the instructions they're given in the test and so forth.",
+    "start_ms": 1854574,
+    "end_ms": 1863895,
+    "duration_ms": 9321,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1863.895,
+    "text": "And this is just, again, an example of someone with global aphasic doing a classic sort of language assessment where they just tell the patient, describe what you see in the picture.",
+    "start_ms": 1863895,
+    "end_ms": 1875134,
+    "duration_ms": 11239,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1875.134,
+    "text": "And this is basically all the production they get out of them.",
+    "start_ms": 1875134,
+    "end_ms": 1877454,
+    "duration_ms": 2320,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1877.454,
+    "text": "He stares at the picture and he goes, no, no, because, and that's basically what they get out of them.",
+    "start_ms": 1877454,
+    "end_ms": 1885014,
+    "duration_ms": 7560,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1885.014,
+    "text": "Was there a question? Yeah. I guess I'm just curious because you have the vertebrates area and the bronchus area.",
+    "start_ms": 1885014,
+    "end_ms": 1888014,
+    "duration_ms": 3000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1888.014,
+    "text": "Like with these sorts of global aphasias, are you seeing just like in stroke patients in particular, you see like massive strokes?",
+    "start_ms": 1888014,
+    "end_ms": 1890014,
+    "duration_ms": 2000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1890.014,
+    "text": "Yeah. So these are the lesions right here that you see.",
+    "start_ms": 1890014,
+    "end_ms": 1901134,
+    "duration_ms": 11120,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1901.134,
+    "text": "So this is a lesion overlap of seven patients. So colors, coding, where is the commonality?",
+    "start_ms": 1901134,
+    "end_ms": 1908254,
+    "duration_ms": 7120,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1908.254,
+    "text": "So if you have a red color, it means all seven of these patients had damage in that region.",
+    "start_ms": 1908254,
+    "end_ms": 1913335,
+    "duration_ms": 5081,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1913.335,
+    "text": "If you go down to the other tail end, blue, it might mean that only one or two of the patients had damage in there.",
+    "start_ms": 1913335,
+    "end_ms": 1919495,
+    "duration_ms": 6160,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1919.495,
+    "text": "And what you can see is that these are pretty large lesions, right?",
+    "start_ms": 1919495,
+    "end_ms": 1922775,
+    "duration_ms": 3280,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1922.775,
+    "text": "Six or seven of the patients are having it across the full extent.",
+    "start_ms": 1922775,
+    "end_ms": 1926095,
+    "duration_ms": 3320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1925.893,
+    "text": "the full extent of inferior frontal lobe and across the temporal lobe there.",
+    "start_ms": 1925893,
+    "end_ms": 1930954,
+    "duration_ms": 5061,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1930.954,
+    "text": "So yeah, these tend to be the kinds of strokes, and there's certain arteries, remember, the arteries are coming up into the brain, they're branching.",
+    "start_ms": 1930954,
+    "end_ms": 1938574,
+    "duration_ms": 7620,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1938.574,
+    "text": "Every time they branch, they're getting smaller and smaller. So if it's a small embolism, a small thing that's going to cause the blood clot, it's going to be right at the end of an artery, it's probably going to be a small area of tissue that's going to be affected, but if it's a big giant thing that's in the bloodstream, it might block, do a blockage in the middle cerebral artery, and that's going to cut off the blood flow to a large section of the brain, and that's the kind of thing that's going to produce a global aphasic disorder like this.",
+    "start_ms": 1938574,
+    "end_ms": 1966634,
+    "duration_ms": 28060,
+    "word_count": 105,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1966.634,
+    "text": "All right, so what about the more classic one with the patients that we've typically called Broca's aphasics, and again, I'm going to show you some YouTube video here.",
+    "start_ms": 1966634,
+    "end_ms": 1977833,
+    "duration_ms": 11199,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1977.833,
+    "text": "Again, here's the kind of picture that they might show these individuals, they're kind of always hokey 1950s types of pictures, right, you see what's going on here, mom's washing dishes, kids are raiding the cookie jar.",
+    "start_ms": 1977833,
+    "end_ms": 1989633,
+    "duration_ms": 11800,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1989.633,
+    "text": "Let me play you the video here. And I hope the sound's working.",
+    "start_ms": 1989633,
+    "end_ms": 1997834,
+    "duration_ms": 8201,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1998.033,
+    "text": "In stool, is it a boy, is it landing down?",
+    "start_ms": 1998033,
+    "end_ms": 2016033,
+    "duration_ms": 18000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2016.234,
+    "text": "The girl is laughing, and cookie jar, window, curtains, and out the garden, and trees, low grass, and lady washing the dishes, and hot and cold water flashing, running, floor, and two cups of coffee are empty.",
+    "start_ms": 2016234,
+    "end_ms": 2092633,
+    "duration_ms": 76399,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2092.833,
+    "text": "Cupboard, cupboard, and cupboards, and exit. Okay, I want to get that last little part where she reaches for the pen, okay.",
+    "start_ms": 2092833,
+    "end_ms": 2116833,
+    "duration_ms": 24000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2117.034,
+    "text": "So, you know, obviously she's got language problems, and, you know, notice that her speech isn't coherent sentences, but she's clearly got the content of what's going on.",
+    "start_ms": 2117034,
+    "end_ms": 2128034,
+    "duration_ms": 11000,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2128.034,
+    "text": "She's describing, you know, the woman's washing dishes, the trees outside, the kids in the cookie jar, so she's able to indicate that she's understanding what the scene's about, but she's just stumbling.",
+    "start_ms": 2128034,
+    "end_ms": 2139034,
+    "duration_ms": 11000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2139.034,
+    "text": "And she's stumbling both about putting together a coherent sentence, she's also stumbling on certain words, like splashing, flashing, she's trying to get it out.",
+    "start_ms": 2139034,
+    "end_ms": 2147234,
+    "duration_ms": 8200,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2147.234,
+    "text": "She's sometimes having trouble coming up with the word. She, like, you know, reaches for the pen and scribbles, and you might think, oh yeah, maybe she can write fine.",
+    "start_ms": 2147234,
+    "end_ms": 2155234,
+    "duration_ms": 8000,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2155.234,
+    "text": "Well, she can't. This sort of production problem affects both oral and written language, but something about scribbling with the pen was actually helping her to retrieve the word.",
+    "start_ms": 2155234,
+    "end_ms": 2165234,
+    "duration_ms": 10000,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2165.234,
+    "text": "People have that idea that, you know, that's why we make a lot of gestures, it helps retrieve words and so forth.",
+    "start_ms": 2165234,
+    "end_ms": 2171234,
+    "duration_ms": 6000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2171.434,
+    "text": "So she's showing that classic sort of problem about that dissociation between intact comprehension but real difficulty with the production.",
+    "start_ms": 2171434,
+    "end_ms": 2179433,
+    "duration_ms": 7999,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2179.433,
+    "text": "Show you one other patient. Now, this is just a rare individual, if he shows up.",
+    "start_ms": 2179433,
+    "end_ms": 2185433,
+    "duration_ms": 6000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2187.433,
+    "text": "What happened to Mr. Tono? Maybe if you wait too long, I don't know.",
+    "start_ms": 2187433,
+    "end_ms": 2200433,
+    "duration_ms": 13000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2201.433,
+    "text": "Oh, there he is. Why is it that you're moving, actually?",
+    "start_ms": 2201433,
+    "end_ms": 2210433,
+    "duration_ms": 9000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2210.433,
+    "text": "Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, Tono, T Is it because the kids have grown and the house is getting too big or?",
+    "start_ms": 2210433,
+    "end_ms": 2244753,
+    "duration_ms": 34320,
+    "word_count": 131,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2244.753,
+    "text": "Are you ready for a smaller place? It seems reasonable.",
+    "start_ms": 2244753,
+    "end_ms": 2250753,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2250.753,
+    "text": "Less to keep up. That's incredibly bizarre, right? But again, we can comment about that.",
+    "start_ms": 2250753,
+    "end_ms": 2266753,
+    "duration_ms": 16000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2266.753,
+    "text": "Obviously, this is the only thing he says. He says it over and over again.",
+    "start_ms": 2266753,
+    "end_ms": 2270753,
+    "duration_ms": 4000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2270.753,
+    "text": "But this guy is having a conversation, right? His tone of speech, his appropriate turn taking.",
+    "start_ms": 2270753,
+    "end_ms": 2275753,
+    "duration_ms": 5000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2275.753,
+    "text": "You really know, yeah, he is moving to the smaller place because the kids have grown up and moved out and so forth.",
+    "start_ms": 2275753,
+    "end_ms": 2281753,
+    "duration_ms": 6000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2281.753,
+    "text": "And he's okay with it. So he's able to communicate with that one word.",
+    "start_ms": 2281753,
+    "end_ms": 2286753,
+    "duration_ms": 5000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2286.753,
+    "text": "I thought Broca's patients were able to tell that what they were saying doesn't make sense.",
+    "start_ms": 2286753,
+    "end_ms": 2291753,
+    "duration_ms": 5000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2291.753,
+    "text": "Say that again. I thought that Broca's patients, the people who have Broca's patients were able to tell when what they were saying doesn't make sense and it frustrates them, right?",
+    "start_ms": 2291753,
+    "end_ms": 2301753,
+    "duration_ms": 10000,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2301.753,
+    "text": "So the first patient, you saw that, right? So she's having that articulation problem and she's aware of it and she's struggling through and she's having trouble getting started and so she's scribbling.",
+    "start_ms": 2301753,
+    "end_ms": 2312753,
+    "duration_ms": 11000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2312.753,
+    "text": "Yeah, in this guy's case, it seems like, you know, he doesn't seem to have that net awareness or he's had this condition for so long now that he's just gotten comfortable saying this is the way I'm going to communicate in the world.",
+    "start_ms": 2312753,
+    "end_ms": 2324753,
+    "duration_ms": 12000,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2330.753,
+    "text": "Yeah, it's a good question. How would you, I guess you could ask him that question, right?",
+    "start_ms": 2330753,
+    "end_ms": 2335753,
+    "duration_ms": 5000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2335.753,
+    "text": "You could say, do you know you're saying tonal all the time?",
+    "start_ms": 2335753,
+    "end_ms": 2338753,
+    "duration_ms": 3000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2338.753,
+    "text": "He'd probably go, tonal? You know, like really? Is that the first time?",
+    "start_ms": 2338753,
+    "end_ms": 2342753,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2343.753,
+    "text": "My guess is he probably does have that understanding. But again, of course, these are messy strokes.",
+    "start_ms": 2343753,
+    "end_ms": 2349753,
+    "duration_ms": 6000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2349.753,
+    "text": "He probably also has damage into other frontal lobe structures and I don't know what his metacognition's about.",
+    "start_ms": 2349753,
+    "end_ms": 2356753,
+    "duration_ms": 7000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2356.753,
+    "text": "He actually was a patient who was studied at Berkeley.",
+    "start_ms": 2356753,
+    "end_ms": 2359753,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2359.753,
+    "text": "I can check with the person who's running that videotape there.",
+    "start_ms": 2359753,
+    "end_ms": 2363753,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2363.753,
+    "text": "Yeah, it was about a decade ago. I mean, it was basically rediscovering almost Broca's initial patient is what they had happening there.",
+    "start_ms": 2363753,
+    "end_ms": 2371753,
+    "duration_ms": 8000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2371.753,
+    "text": "All right, let me get back on here. Okay, so right.",
+    "start_ms": 2371753,
+    "end_ms": 2379753,
+    "duration_ms": 8000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2379.753,
+    "text": "So I've said they had the output problems. Again, she makes that gesture, but really the writing, it's a generalized problem.",
+    "start_ms": 2379753,
+    "end_ms": 2385753,
+    "duration_ms": 6000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2385.753,
+    "text": "It's not like writing spared. You certainly have people have trouble writing and still have the speech.",
+    "start_ms": 2385753,
+    "end_ms": 2391753,
+    "duration_ms": 6000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2391.753,
+    "text": "Writing's a more acquired language, so it's more susceptible to damage.",
+    "start_ms": 2391753,
+    "end_ms": 2395753,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2395.753,
+    "text": "But again, in these classic anterior patients, the output's going to be a problem no matter what modality they're using with the spared thing.",
+    "start_ms": 2395753,
+    "end_ms": 2403753,
+    "duration_ms": 8000,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2403.753,
+    "text": "There is a raging debate to this day. So here is Broca's area.",
+    "start_ms": 2403753,
+    "end_ms": 2409753,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2409.753,
+    "text": "It's on the outer surface of the inferior frontal lobe.",
+    "start_ms": 2409753,
+    "end_ms": 2414753,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2414.753,
+    "text": "And here was a study that was done to, say, take 25 patients who had Broca's-like symptoms and ask where was the damage most likely to occur.",
+    "start_ms": 2414753,
+    "end_ms": 2425753,
+    "duration_ms": 11000,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2425.753,
+    "text": "And of course, they expected it was going to occur in Broca's area.",
+    "start_ms": 2425753,
+    "end_ms": 2429753,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2429.753,
+    "text": "But when they did the analysis, and again, the color coding here is the percent of overlap, it turns out that the one place that was affected in all 25 patients was not Broca's area, but it was actually medial, buried deep inside there in what's called the insula region of the frontal lobe.",
+    "start_ms": 2429753,
+    "end_ms": 2447753,
+    "duration_ms": 18000,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2447.753,
+    "text": "And so the argument has been made that what we classically thought was Broca's area is kind of a misnomer, that Broca's aphasia is actually more associated with damage to these medial or more interior regions of the frontal lobe rather than the outer region.",
+    "start_ms": 2447753,
+    "end_ms": 2462753,
+    "duration_ms": 15000,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2462.753,
+    "text": "Now, the debate that goes on is, well, you know, it may be that the blood supply is more likely to damage this interior region, but it doesn't necessarily mean that the outer region isn't the critical part for the production of language.",
+    "start_ms": 2462753,
+    "end_ms": 2474753,
+    "duration_ms": 12000,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2474.753,
+    "text": "And that's an ongoing debate, but it did inspire Lena Drunkard, the Berkeley researcher who had worked on the patient we just saw in the video, to actually go over to France.",
+    "start_ms": 2474753,
+    "end_ms": 2485753,
+    "duration_ms": 11000,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2485.753,
+    "text": "In one of the museums there, they have Broca. This is the initial brain of the patient sitting in a museum.",
+    "start_ms": 2485753,
+    "end_ms": 2491753,
+    "duration_ms": 6000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2491.753,
+    "text": "It looks like this here. You can see classic. Here's what Broca noticed.",
+    "start_ms": 2491753,
+    "end_ms": 2496753,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2496.753,
+    "text": "Here's the big lesion that this person had from a stroke.",
+    "start_ms": 2496753,
+    "end_ms": 2500753,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2500.753,
+    "text": "Okay, you know, after 150 years, the brain doesn't look great.",
+    "start_ms": 2500753,
+    "end_ms": 2503753,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2503.753,
+    "text": "Hard to see the psilocyte, and this is also with, you know, preservative methods from back then.",
+    "start_ms": 2503753,
+    "end_ms": 2508753,
+    "duration_ms": 5000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2509.753,
+    "text": "But nonetheless, the stroke's obvious. Obviously, this is a really rare specimen, so what Lena got permission to do is to actually put this brain into the scanner because she wanted to see, was there damage not only in this lateral, superficial part of the cortex, Broca's area, but was there also damage in the insular cortex?",
+    "start_ms": 2509753,
+    "end_ms": 2527753,
+    "duration_ms": 18000,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2527.753,
+    "text": "And when you do that, I don't have the MRI picture here, but there's basically no insular cortex.",
+    "start_ms": 2527753,
+    "end_ms": 2532753,
+    "duration_ms": 5000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2532.753,
+    "text": "So at least the argument that the insula is really the true Broca's area is consistent with the original patient.",
+    "start_ms": 2532753,
+    "end_ms": 2538753,
+    "duration_ms": 6000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2538.753,
+    "text": "They just didn't see that because they were preserving the whole brain and not dissecting it.",
+    "start_ms": 2538753,
+    "end_ms": 2543753,
+    "duration_ms": 5000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2543.753,
+    "text": "But there's huge damage on the medial insular regions of this brain here.",
+    "start_ms": 2543753,
+    "end_ms": 2548753,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2548.753,
+    "text": "Again, I've said comprehension's spared, but there does seem to be subtle sorts of comprehension problems, which if people have talked about that, maybe there's some sort of grammatical functions that are also associated with this, or syntactic functions, right?",
+    "start_ms": 2548753,
+    "end_ms": 2563753,
+    "duration_ms": 15000,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2563.753,
+    "text": "You have this picture here. to do it as an eye clicker.",
+    "start_ms": 2563753,
+    "end_ms": 2567871,
+    "duration_ms": 4118,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2567.871,
+    "text": "You can just think to yourself true or false. The man kisses the woman.",
+    "start_ms": 2567871,
+    "end_ms": 2571666,
+    "duration_ms": 3795,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2571.666,
+    "text": "Yep, true. The woman kisses the man. False. The woman is kissed by the man.",
+    "start_ms": 2571666,
+    "end_ms": 2576736,
+    "duration_ms": 5070,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2576.736,
+    "text": "That is true. If I measured your reaction times, you'd be a little slower to say three is true compared to one.",
+    "start_ms": 2576736,
+    "end_ms": 2584372,
+    "duration_ms": 7636,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2584.372,
+    "text": "That's because in English, we almost always have our subject first, our verb second, and our object third.",
+    "start_ms": 2584372,
+    "end_ms": 2590871,
+    "duration_ms": 6499,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2590.871,
+    "text": "That's not true in all languages. You get all sorts of shufflings here, but that's a really strong grammatical ordering.",
+    "start_ms": 2590871,
+    "end_ms": 2597991,
+    "duration_ms": 7120,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2597.991,
+    "text": "You find that people with Broca's aphasic, they will say that this sentence here is false.",
+    "start_ms": 2597991,
+    "end_ms": 2603871,
+    "duration_ms": 5880,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2603.871,
+    "text": "Again, it seems like in a sense, they're applying the normal rules of grammar.",
+    "start_ms": 2603871,
+    "end_ms": 2608191,
+    "duration_ms": 4320,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2608.191,
+    "text": "They're hearing this is the subject. The woman kissed the man.",
+    "start_ms": 2608191,
+    "end_ms": 2611639,
+    "duration_ms": 3448,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2611.639,
+    "text": "They're kind of insensitive or have some impairment on these sort of subtle grammatical distinctions between hearing kisses and hearing kissed.",
+    "start_ms": 2611639,
+    "end_ms": 2620131,
+    "duration_ms": 8492,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2620.131,
+    "text": "It may be, again, that small articulatory difference between the two that makes it difficult there.",
+    "start_ms": 2620131,
+    "end_ms": 2626272,
+    "duration_ms": 6141,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2626.272,
+    "text": "Again, comprehension to say it's completely intact would be overstating the case here.",
+    "start_ms": 2626272,
+    "end_ms": 2631241,
+    "duration_ms": 4969,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2631.241,
+    "text": "All right. Let's look at the other side then. These are the fluent aphasics.",
+    "start_ms": 2631241,
+    "end_ms": 2636271,
+    "duration_ms": 5030,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2636.271,
+    "text": "As the name implies, their language is fluent. Their speech production is fluent.",
+    "start_ms": 2636271,
+    "end_ms": 2640263,
+    "duration_ms": 3992,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2640.263,
+    "text": "It's the content that's affected. I'll show you a couple of those videos here.",
+    "start_ms": 2640263,
+    "end_ms": 2645662,
+    "duration_ms": 5399,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2645.662,
+    "text": "Here's a patient with verticose aphasia. I'd like for you to do some things now with your mouth.",
+    "start_ms": 2645662,
+    "end_ms": 2672671,
+    "duration_ms": 27009,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2672.671,
+    "text": "First thing I'd like for you to do is stick out your tongue.",
+    "start_ms": 2672671,
+    "end_ms": 2676311,
+    "duration_ms": 3640,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2676.311,
+    "text": "Stick out your tongue. Show me how you would kiss.",
+    "start_ms": 2676311,
+    "end_ms": 2679644,
+    "duration_ms": 3333,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2679.644,
+    "text": "Show me how you love to kiss me. There you go.",
+    "start_ms": 2679644,
+    "end_ms": 2683311,
+    "duration_ms": 3667,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2683.311,
+    "text": "Show me how you sip on a straw. Show how the substance is super, zee, zee, zee, zee, super, super, super, super.",
+    "start_ms": 2683311,
+    "end_ms": 2692312,
+    "duration_ms": 9001,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2692.312,
+    "text": "Can you sip on a straw? See what a sip sticks, see what a sip sticks?",
+    "start_ms": 2692312,
+    "end_ms": 2697235,
+    "duration_ms": 4923,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2697.235,
+    "text": "Say it in front of me. Okay. Try this one.",
+    "start_ms": 2697235,
+    "end_ms": 2700312,
+    "duration_ms": 3077,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2700.312,
+    "text": "Zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, z zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, z zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, z zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, z ee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, z ee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, z ee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, zee, z nothing in his speech that gives any indication that, you know, he's frustrated that they're not communicating.",
+    "start_ms": 2700312,
+    "end_ms": 2889672,
+    "duration_ms": 189360,
+    "word_count": 535,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2889.672,
+    "text": "It seems to me in his mind he thinks he's having a regular conversation.",
+    "start_ms": 2889672,
+    "end_ms": 2897270,
+    "duration_ms": 7598,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2897.27,
+    "text": "Then within the Flohn case, though, we have much more subtle things.",
+    "start_ms": 2897270,
+    "end_ms": 2899894,
+    "duration_ms": 2624,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2899.894,
+    "text": "So the Wernicke's is really like, you know, a devastating language disorder.",
+    "start_ms": 2899894,
+    "end_ms": 2902891,
+    "duration_ms": 2997,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2902.891,
+    "text": "Now I'll show you a videotape of a woman who has what's called an anomia, and as the name implies, an anomia, unable to name things.",
+    "start_ms": 2902891,
+    "end_ms": 2910643,
+    "duration_ms": 7752,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2910.643,
+    "text": "This woman has a really severe anomia. She had a stroke at a fairly young age, okay?",
+    "start_ms": 2910643,
+    "end_ms": 2915680,
+    "duration_ms": 5037,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2915.68,
+    "text": "And again, it's a problem we all have, right? Coming up with the right word.",
+    "start_ms": 2915680,
+    "end_ms": 2919951,
+    "duration_ms": 4271,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2919.951,
+    "text": "She just has it, you know, in spades, really magnified.",
+    "start_ms": 2919951,
+    "end_ms": 2922706,
+    "duration_ms": 2755,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2922.706,
+    "text": "So let me show you that last video for today.",
+    "start_ms": 2922706,
+    "end_ms": 2926784,
+    "duration_ms": 4078,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2926.784,
+    "text": "Okay. So I've actually spared you. They're looking at some pictures.",
+    "start_ms": 2926784,
+    "end_ms": 2937092,
+    "duration_ms": 10308,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2937.092,
+    "text": "She's trying to name some pictures. There's been a few minutes there where she's been struggling to come up with the word.",
+    "start_ms": 2937092,
+    "end_ms": 2943544,
+    "duration_ms": 6452,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2943.544,
+    "text": "We're picking up partway through the conversation here. He knew what it is.",
+    "start_ms": 2943544,
+    "end_ms": 2947422,
+    "duration_ms": 3878,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2947.422,
+    "text": "I can't tell you. Maybe I can. If I was to carry the wood and cut it in half with that, you know, if I had to cut the wood down to bring it in.",
+    "start_ms": 2947422,
+    "end_ms": 2959030,
+    "duration_ms": 11608,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2959.03,
+    "text": "Then you'd use one of these? It's called a... I have them in the garage.",
+    "start_ms": 2959030,
+    "end_ms": 2970030,
+    "duration_ms": 11000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2970.03,
+    "text": "They are your... You cut the wood with them. It's soft.",
+    "start_ms": 2970030,
+    "end_ms": 2979030,
+    "duration_ms": 9000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2979.03,
+    "text": "How is it? Soft. I can't state it. I know what it is and I could cut the wood with it and it's in my garage.",
+    "start_ms": 2979030,
+    "end_ms": 2993080,
+    "duration_ms": 14050,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2993.08,
+    "text": "And it's a... You also, when you go out and you want to stay out in the woods with people, you always take those with you.",
+    "start_ms": 2993080,
+    "end_ms": 3003530,
+    "duration_ms": 10450,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3003.53,
+    "text": "And it is a... It's not a knife. It's not a saw.",
+    "start_ms": 3003530,
+    "end_ms": 3009830,
+    "duration_ms": 6300,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3009.83,
+    "text": "I know what it is, I think. Well, finish saying what you started saying.",
+    "start_ms": 3009830,
+    "end_ms": 3016030,
+    "duration_ms": 6200,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3016.03,
+    "text": "I'm not sure I'm stating it right. Try again. No, I'm incorrect.",
+    "start_ms": 3016030,
+    "end_ms": 3021887,
+    "duration_ms": 5857,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3021.887,
+    "text": "I know what it is. I just don't know how to repeat it to you.",
+    "start_ms": 3021887,
+    "end_ms": 3026172,
+    "duration_ms": 4285,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3026.172,
+    "text": "If I was to cut your... If I was to cut through the wood, I'd tell them I would bring the...",
+    "start_ms": 3026172,
+    "end_ms": 3034608,
+    "duration_ms": 8436,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3034.608,
+    "text": "I know what it is. I saw one of these yesterday.",
+    "start_ms": 3034608,
+    "end_ms": 3038030,
+    "duration_ms": 3422,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3038.03,
+    "text": "So did I at my neighbor's. And what do they call them?",
+    "start_ms": 3038030,
+    "end_ms": 3042030,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3042.03,
+    "text": "He's kind of torturing her, right? He says the word.",
+    "start_ms": 3042030,
+    "end_ms": 3044030,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3044.03,
+    "text": "They're sawing the wood in half. Sawing the wood in half.",
+    "start_ms": 3044030,
+    "end_ms": 3052280,
+    "duration_ms": 8250,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3052.28,
+    "text": "It's not sawing. It's sawing. I saw one of those too.",
+    "start_ms": 3052280,
+    "end_ms": 3058030,
+    "duration_ms": 5750,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3058.03,
+    "text": "It started with an S. Okay. So, obviously she's struggling.",
+    "start_ms": 3058030,
+    "end_ms": 3060568,
+    "duration_ms": 2538,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3060.568,
+    "text": "They're sitting there torturing her and saying, I saw one the other day.",
+    "start_ms": 3060568,
+    "end_ms": 3064458,
+    "duration_ms": 3890,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3064.458,
+    "text": "If you go on in this video, you go on to the next thing.",
+    "start_ms": 3064458,
+    "end_ms": 3068458,
+    "duration_ms": 4000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3068.458,
+    "text": "She announced the name, the hammer, and she starts saying it's not a saw.",
+    "start_ms": 3068458,
+    "end_ms": 3071696,
+    "duration_ms": 3238,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3071.696,
+    "text": "So it's like when she wants to get the word, she gets stuck.",
+    "start_ms": 3071696,
+    "end_ms": 3074503,
+    "duration_ms": 2807,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3074.503,
+    "text": "You can also tell she's from Oregon. I don't know how many of you...",
+    "start_ms": 3074503,
+    "end_ms": 3077451,
+    "duration_ms": 2948,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3077.451,
+    "text": "She said, whenever you go into the woods, you take one of these with you.",
+    "start_ms": 3077451,
+    "end_ms": 3080608,
+    "duration_ms": 3157,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3080.608,
+    "text": "I mean, I don't think that's what most people do up in Oregon.",
+    "start_ms": 3080608,
+    "end_ms": 3084172,
+    "duration_ms": 3564,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3084.172,
+    "text": "Maybe they do. All right. So, again, everything about her language and her comprehension and her conversational speech is really intact, but she has this really severe, subtle problem with naming things.",
+    "start_ms": 3084172,
+    "end_ms": 3095405,
+    "duration_ms": 11233,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3095.405,
+    "text": "And actually, if you look for the lesion overlap, this is the last point for the day, this is basically making the point that you can get anomic disorders basically with damage in almost any part of the left hemisphere.",
+    "start_ms": 3095405,
+    "end_ms": 3110363,
+    "duration_ms": 14958,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3110.363,
+    "text": "So basically what they're just showing here is that there's essentially no overlap in taking this case study of 37 people who are showing some problems with anomia, and yet there's no commonality.",
+    "start_ms": 3110363,
+    "end_ms": 3123172,
+    "duration_ms": 12809,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3123.172,
+    "text": "So whatever underlies anomia can actually be disrupted across damage in any part of the left hemisphere.",
+    "start_ms": 3123172,
+    "end_ms": 3130030,
+    "duration_ms": 6858,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3130.03,
+    "text": "So we'll pick it up again there. Yeah. I was a bit curious about kind of like a stroke structure we've seen in brains.",
+    "start_ms": 3130030,
+    "end_ms": 3146364,
+    "duration_ms": 16334,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3146.364,
+    "text": "What causes like that massive gash that happens like a lot of lesions?",
+    "start_ms": 3146364,
+    "end_ms": 3150266,
+    "duration_ms": 3902,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3150.266,
+    "text": "Like the brain we saw earlier has a massive hole in the front left area.",
+    "start_ms": 3150266,
+    "end_ms": 3154031,
+    "duration_ms": 3765,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3154.031,
+    "text": "Yeah, yeah, yeah. So that's what I mean that if you have a stroke, right?",
+    "start_ms": 3154031,
+    "end_ms": 3158197,
+    "duration_ms": 4166,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3158.197,
+    "text": "So you've got a big, giant carotid artery. It's going to branch to a posterior artery, an anterior artery, a middle cerebral artery.",
+    "start_ms": 3158197,
+    "end_ms": 3166593,
+    "duration_ms": 8396,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3166.593,
+    "text": "Then each of those is going to branch again, and then they're going to branch and branch again, and then a capillary.",
+    "start_ms": 3166593,
+    "end_ms": 3172781,
+    "duration_ms": 6188,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3172.781,
+    "text": "Right? So first we got a big chunk of fat coming off of my heart, and it's pouring the blood that's broken off of it.",
+    "start_ms": 3172781,
+    "end_ms": 3193586,
+    "duration_ms": 20805,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3193.586,
+    "text": "It's going to get stuck in one of these intersections, depending on the size of that substance.",
+    "start_ms": 3193586,
+    "end_ms": 3199325,
+    "duration_ms": 5739,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3199.325,
+    "text": "Wherever it gets stuck, all of the damage to it is going to be derived from of oxygen.",
+    "start_ms": 3199325,
+    "end_ms": 3204790,
+    "duration_ms": 5465,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3204.79,
+    "text": "That tissue is going to die. There's processes that are coming in to clean it up, and basically it's going to be filled up with cerebrospinal fluid.",
+    "start_ms": 3204790,
+    "end_ms": 3213790,
+    "duration_ms": 9000,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3213.79,
+    "text": "So that hole is now going to be filled with cerebrospinal fluid.",
+    "start_ms": 3213790,
+    "end_ms": 3216790,
+    "duration_ms": 3000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3216.79,
+    "text": "That tissue has been cleared away in that brain. So everything that's downstream is deprived of oxygen for eight minutes or whatever it is, and the tissue is going to die.",
+    "start_ms": 3216790,
+    "end_ms": 3227790,
+    "duration_ms": 11000,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3227.79,
+    "text": "It's not coming back.",
+    "start_ms": 3227790,
+    "end_ms": 3230790,
+    "duration_ms": 3000,
+    "word_count": 4,
+    "avg_confidence": 90
+  }
+]

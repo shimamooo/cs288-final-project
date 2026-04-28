@@ -1,0 +1,3503 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "Right. OK, so this is the review session. I'm doing a recording.",
+    "start_ms": 0,
+    "end_ms": 8199,
+    "duration_ms": 8199,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 8.199,
+    "text": "And if we end up using the blackboard, you'll remind me to turn the camera towards the blackboard.",
+    "start_ms": 8199,
+    "end_ms": 15520,
+    "duration_ms": 7321,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 15.52,
+    "text": "So I'm not going to draw on the computer for sure.",
+    "start_ms": 15520,
+    "end_ms": 18200,
+    "duration_ms": 2680,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 18.2,
+    "text": "Let's pull up slides if we need to. OK, great.",
+    "start_ms": 18200,
+    "end_ms": 23239,
+    "duration_ms": 5039,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 23.239,
+    "text": "Question one. Oh, OK, thank you. Why don't members hear the news?",
+    "start_ms": 23239,
+    "end_ms": 31159,
+    "duration_ms": 7920,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 31.159,
+    "text": "Love to. All right, so let me share the screen for the folks at home.",
+    "start_ms": 31159,
+    "end_ms": 37799,
+    "duration_ms": 6640,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 37.799,
+    "text": "Share. A little rusty on recording things. Hide floating controls.",
+    "start_ms": 37799,
+    "end_ms": 45599,
+    "duration_ms": 7800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 45.599,
+    "text": "Get rid of myself. And many of you are on the Zoom, right, to tell me if this is actually visible to the recording, which it's believe it is, OK?",
+    "start_ms": 45599,
+    "end_ms": 90720,
+    "duration_ms": 45121,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 90.72,
+    "text": "OK, so we can all agree that this is a really important question for cognitive psychology, right?",
+    "start_ms": 90720,
+    "end_ms": 98919,
+    "duration_ms": 8199,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 98.919,
+    "text": "We all experience lots of memory failures. And so we want to know, what does it mean to have memory failure?",
+    "start_ms": 98919,
+    "end_ms": 106360,
+    "duration_ms": 7441,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 106.36,
+    "text": "And I said that if you ask someone off the street why you can't remember, they always say, oh, I just can't retrieve the information.",
+    "start_ms": 106360,
+    "end_ms": 113440,
+    "duration_ms": 7080,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 113.44,
+    "text": "That's everyone's gut feeling. I'm getting older. I can't recall what your name was, and so forth, OK?",
+    "start_ms": 113440,
+    "end_ms": 119559,
+    "duration_ms": 6119,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 119.559,
+    "text": "And obviously, these both can be true. But there, I think, was a really clever use of what I call an event-related design.",
+    "start_ms": 119559,
+    "end_ms": 128639,
+    "duration_ms": 9080,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 128.639,
+    "text": "OK, and so the key was that they have people study this list of words, OK?",
+    "start_ms": 128639,
+    "end_ms": 137039,
+    "duration_ms": 8400,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 137.039,
+    "text": "And I have six words here, but it might have been 50 words.",
+    "start_ms": 137039,
+    "end_ms": 140080,
+    "duration_ms": 3041,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 140.08,
+    "text": "I can't remember how many words it was. And they know that they gave a big enough list of words that even if they gave a recognition memory down the road, sometimes the person's going to get them right, sometimes they're going to get them wrong, OK?",
+    "start_ms": 140080,
+    "end_ms": 152479,
+    "duration_ms": 12399,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 152.479,
+    "text": "So they set up the experiment to make sure that they'd have some memory failures and some memory successes, all right?",
+    "start_ms": 152479,
+    "end_ms": 160039,
+    "duration_ms": 7560,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 160.039,
+    "text": "And what they did, they used this event-related scanning. And again, the bold response is pretty slow.",
+    "start_ms": 160039,
+    "end_ms": 167600,
+    "duration_ms": 7561,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 167.639,
+    "text": "Peaks after about six seconds, and lasts up to about 10 seconds, or so forth.",
+    "start_ms": 167639,
+    "end_ms": 173759,
+    "duration_ms": 6120,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 173.759,
+    "text": "So every time you get a new stimulus, the bold response rises.",
+    "start_ms": 173759,
+    "end_ms": 178639,
+    "duration_ms": 4880,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 178.639,
+    "text": "It's already in an elevated state. It will rise a little bit more.",
+    "start_ms": 178639,
+    "end_ms": 182199,
+    "duration_ms": 3560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 182.199,
+    "text": "We'll call it, we'll say, pretend it's additive, meaning each signal makes its own independent contribution to the bold response.",
+    "start_ms": 182199,
+    "end_ms": 190320,
+    "duration_ms": 8121,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 190.32,
+    "text": "So I'll draw that. So here's time. Here's our first event.",
+    "start_ms": 190320,
+    "end_ms": 202839,
+    "duration_ms": 12519,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 202.839,
+    "text": "A brain area that responds to it. It's going to show this bold response.",
+    "start_ms": 202839,
+    "end_ms": 207520,
+    "duration_ms": 4681,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 207.52,
+    "text": "If we did nothing, it's going to drop off. So that's after about six seconds, if this is when we have the stimulus come on.",
+    "start_ms": 207520,
+    "end_ms": 214919,
+    "duration_ms": 7399,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 214.919,
+    "text": "If I had another stimulus come on here, though, that would trigger another bold response.",
+    "start_ms": 214919,
+    "end_ms": 220440,
+    "duration_ms": 5521,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 223.24,
+    "text": "But again, these things add up together. So really, I have to just sort of say, this one now is going to go up and dry off like that.",
+    "start_ms": 223240,
+    "end_ms": 231320,
+    "duration_ms": 8080,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 231.32,
+    "text": "You see how the event-related response is going to sum up, and I'm going to get this big, giant response that's tied to all the different events.",
+    "start_ms": 231320,
+    "end_ms": 239559,
+    "duration_ms": 8239,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 239.559,
+    "text": "I do another event here. It has its own basic response, but that gets summed on top of here.",
+    "start_ms": 239559,
+    "end_ms": 245600,
+    "duration_ms": 6041,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 245.6,
+    "text": "So that's why I have this complex bold response, but the algorithms I'm going to use are going to allow me to extract what's the bold response to the word table, what's the bold response to the response equal, et cetera.",
+    "start_ms": 245600,
+    "end_ms": 257720,
+    "duration_ms": 12120,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 257.72,
+    "text": "So that's all stored away. So then the question is, now I do a week later, whatever, person comes back, and I give them the memory test, and they're going to fail on some things and they'll succeed on others.",
+    "start_ms": 257720,
+    "end_ms": 272359,
+    "duration_ms": 14639,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 272.359,
+    "text": "We know that's the behavior. That's the way we set up the experiment.",
+    "start_ms": 272359,
+    "end_ms": 275760,
+    "duration_ms": 3401,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 275.76,
+    "text": "So R here are just all the items I'm saying they remembered.",
+    "start_ms": 275760,
+    "end_ms": 280119,
+    "duration_ms": 4359,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 280.119,
+    "text": "Blue here are all the things they forgot. And I can extract, right?",
+    "start_ms": 280119,
+    "end_ms": 285760,
+    "duration_ms": 5641,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 285.76,
+    "text": "I can now take my complex bold response, extract the response to each of these different events, and I'll just add up the bold response to the red items and compare it to the bold response to the blue items.",
+    "start_ms": 285760,
+    "end_ms": 301040,
+    "duration_ms": 15280,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 301.04,
+    "text": "So I'm going to have an essence. Let's say this time 0.",
+    "start_ms": 301040,
+    "end_ms": 305519,
+    "duration_ms": 4479,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 305.519,
+    "text": "Once I've extracted it and refined everything with respect to stimulus onset, I have one bold response to the remembered things.",
+    "start_ms": 305519,
+    "end_ms": 313920,
+    "duration_ms": 8401,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 313.92,
+    "text": "I have another bold response to the forgotten things. And that's what I'm going to basically compare.",
+    "start_ms": 313920,
+    "end_ms": 321720,
+    "duration_ms": 7800,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 321.72,
+    "text": "That's what's going to test my hypotheses, is the comparison between these two.",
+    "start_ms": 321720,
+    "end_ms": 326160,
+    "duration_ms": 4440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 326.16,
+    "text": "It might look like they might look like this. They might look radically different.",
+    "start_ms": 326160,
+    "end_ms": 331838,
+    "duration_ms": 5678,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 331.838,
+    "text": "Two possible outcomes. Could be remembered's greater than forgotten. Could be forgotten's greater than remembered.",
+    "start_ms": 331838,
+    "end_ms": 337599,
+    "duration_ms": 5761,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 337.599,
+    "text": "Or it could be that they're equal. Those are basically the only three options.",
+    "start_ms": 337599,
+    "end_ms": 340959,
+    "duration_ms": 3360,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 343.519,
+    "text": "So this is the critical question that you might be asked.",
+    "start_ms": 343519,
+    "end_ms": 348879,
+    "duration_ms": 5360,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 348.879,
+    "text": "In areas that are critical for memory failure, we know some part of the brain is probably behaving differently when memory fails, which statement is true?",
+    "start_ms": 348879,
+    "end_ms": 358719,
+    "duration_ms": 9840,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 358.719,
+    "text": "So let's go through each statement one at a time here.",
+    "start_ms": 358719,
+    "end_ms": 361919,
+    "duration_ms": 3200,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 361.919,
+    "text": "So one is the remembered bold is greater than remembered forgotten.",
+    "start_ms": 361919,
+    "end_ms": 366359,
+    "duration_ms": 4440,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 366.359,
+    "text": "So again, let's draw our two outcomes. One outcome is this is remembered, and this is forgotten.",
+    "start_ms": 366359,
+    "end_ms": 376798,
+    "duration_ms": 10439,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 376.798,
+    "text": "And the other outcome we're going to be concerned with is this is remembered and, oh, sorry, dotted lines.",
+    "start_ms": 376798,
+    "end_ms": 383359,
+    "duration_ms": 6561,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 386.518,
+    "text": "This is forgotten. So no difference or a big difference.",
+    "start_ms": 386518,
+    "end_ms": 390159,
+    "duration_ms": 3641,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 390.159,
+    "text": "Those are the two outcomes I'm not even going to consider that forgotten might be greater than remembered.",
+    "start_ms": 390159,
+    "end_ms": 395839,
+    "duration_ms": 5680,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 395.839,
+    "text": "So it says, if bold, so we're worried about this one here, this would support the retrieval hypothesis.",
+    "start_ms": 395839,
+    "end_ms": 402518,
+    "duration_ms": 6679,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 407.799,
+    "text": "Well, I was going to walk through each one and say why it doesn't work.",
+    "start_ms": 407799,
+    "end_ms": 412238,
+    "duration_ms": 4439,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 412.238,
+    "text": "This one doesn't work in the sense, right? Because it says, at the time, well, OK, we could just go right to what it does say.",
+    "start_ms": 412238,
+    "end_ms": 419119,
+    "duration_ms": 6881,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 419.119,
+    "text": "What does this one say? It says, at the time I studied the list, for whatever reason, there was more brain activity for the words I subsequently remembered than the words I subsequently had forgotten.",
+    "start_ms": 419119,
+    "end_ms": 430878,
+    "duration_ms": 11759,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 430.878,
+    "text": "So that says, at the time of encoding, there was something happening in the brain that allowed me to predict.",
+    "start_ms": 430878,
+    "end_ms": 437278,
+    "duration_ms": 6400,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 437.278,
+    "text": "And I could look at the bold response on a single trial and say, if it's weak, I'm probably going to forget that item.",
+    "start_ms": 437278,
+    "end_ms": 443238,
+    "duration_ms": 5960,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 443.238,
+    "text": "If it's strong, I'm probably going to remember that item.",
+    "start_ms": 443238,
+    "end_ms": 446079,
+    "duration_ms": 2841,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 446.079,
+    "text": "So this is what the encoding hypothesis would predict, that at the time of encoding, I should be able to discriminate items I subsequently remember from items I subsequently forget.",
+    "start_ms": 446079,
+    "end_ms": 458358,
+    "duration_ms": 12279,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 458.358,
+    "text": "So that's what this one would do. So this supports, again, the encoding failure idea.",
+    "start_ms": 458358,
+    "end_ms": 465358,
+    "duration_ms": 7000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 465.358,
+    "text": "This one here says, again, at the time I studied the items, the forgotten and the remembered items were identical.",
+    "start_ms": 465358,
+    "end_ms": 475119,
+    "duration_ms": 9761,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 475.119,
+    "text": "And then the inference is that, look, we know you did forget some of these items, but nothing happened during encoding that explained it.",
+    "start_ms": 475119,
+    "end_ms": 482958,
+    "duration_ms": 7839,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 482.958,
+    "text": "So therefore, this would support, this is the prediction of the retrieval hypothesis.",
+    "start_ms": 482958,
+    "end_ms": 490479,
+    "duration_ms": 7521,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 490.479,
+    "text": "That says, hey, everything got into the brain with the same amount of neural activity or proxy of neural activity.",
+    "start_ms": 490479,
+    "end_ms": 499759,
+    "duration_ms": 9280,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 499.759,
+    "text": "Something happened subsequent to that that separated these two items.",
+    "start_ms": 499759,
+    "end_ms": 504358,
+    "duration_ms": 4599,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 504.358,
+    "text": "But this is at least consistent with the idea that the problem wasn't with encoding.",
+    "start_ms": 504358,
+    "end_ms": 509598,
+    "duration_ms": 5240,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 509.598,
+    "text": "Things were equally well encoded. And this is the picture we saw in the visual cortex, which was also important.",
+    "start_ms": 509598,
+    "end_ms": 516318,
+    "duration_ms": 6720,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 516.318,
+    "text": "It said that, look, at least the visual processing of the signals was the same.",
+    "start_ms": 516318,
+    "end_ms": 520639,
+    "duration_ms": 4321,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 520.639,
+    "text": "It wasn't like the person was looking away when the forgotten items came about or something like that.",
+    "start_ms": 520639,
+    "end_ms": 526158,
+    "duration_ms": 5519,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 526.158,
+    "text": "So that's basically what that experiment was. And that's the results right there, that they had these two areas, areas that have since.",
+    "start_ms": 526158,
+    "end_ms": 534559,
+    "duration_ms": 8401,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 534.559,
+    "text": "This is kind of a classic study, but there's lots of work saying that these two areas, especially for remembering verbal items, are very important.",
+    "start_ms": 534559,
+    "end_ms": 543798,
+    "duration_ms": 9239,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 543.798,
+    "text": "And we see that these two areas show that difference between the items that are remembered and the items that are forgotten.",
+    "start_ms": 543798,
+    "end_ms": 551199,
+    "duration_ms": 7401,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 551.199,
+    "text": "And again, when you're doing your graphs on the exam, you always want to think about what's a good control.",
+    "start_ms": 551199,
+    "end_ms": 556878,
+    "duration_ms": 5679,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 556.878,
+    "text": "What's a dissociation of some sort? Because it might have been that we might have found that, let's suppose we saw that everywhere we looked in the brain.",
+    "start_ms": 556878,
+    "end_ms": 567199,
+    "duration_ms": 10321,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 567.199,
+    "text": "Left frontal, it looked like that. Visual cortex, it looked like that.",
+    "start_ms": 567199,
+    "end_ms": 571279,
+    "duration_ms": 4080,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 571.279,
+    "text": "Anywhere we looked in the brain, it looked like that.",
+    "start_ms": 571279,
+    "end_ms": 574559,
+    "duration_ms": 3280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 574.559,
+    "text": "Well, then we wouldn't be able to say that there were some areas that seemed to be critically important for this memory encoding.",
+    "start_ms": 574559,
+    "end_ms": 580279,
+    "duration_ms": 5720,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 580.319,
+    "text": "It might have just been that for whatever reason, the brain was in a more reactive state for some items than a less reactive state for other things.",
+    "start_ms": 580319,
+    "end_ms": 588198,
+    "duration_ms": 7879,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 588.198,
+    "text": "So it's always nice, again, when you draw your graphs on the exam, think about what do you rule out?",
+    "start_ms": 588198,
+    "end_ms": 594238,
+    "duration_ms": 6040,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 594.238,
+    "text": "What's a kind of a control? And I'd say in this experiment, the visual cortex and the motor cortex kind of serve as two control areas to say, look, this left frontal and this left temporal really probably are associated critically with memory or memory encoding.",
+    "start_ms": 594238,
+    "end_ms": 609238,
+    "duration_ms": 15000,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 611.279,
+    "text": "Yeah. Let's pull up the sample exam. How do I get out of here now?",
+    "start_ms": 611279,
+    "end_ms": 632798,
+    "duration_ms": 21519,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 640.279,
+    "text": "Okay, so I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 640279,
+    "end_ms": 644439,
+    "duration_ms": 4160,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 644.439,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 644439,
+    "end_ms": 646638,
+    "duration_ms": 2199,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 646.638,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 646638,
+    "end_ms": 648679,
+    "duration_ms": 2041,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 648.679,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 648679,
+    "end_ms": 650478,
+    "duration_ms": 1799,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 650.478,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 650478,
+    "end_ms": 652279,
+    "duration_ms": 1801,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 652.279,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 652279,
+    "end_ms": 653758,
+    "duration_ms": 1479,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 653.758,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 653758,
+    "end_ms": 655119,
+    "duration_ms": 1361,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 655.119,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 655119,
+    "end_ms": 656478,
+    "duration_ms": 1359,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 656.478,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 656478,
+    "end_ms": 657798,
+    "duration_ms": 1320,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 657.798,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 657798,
+    "end_ms": 659119,
+    "duration_ms": 1321,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 659.119,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 659119,
+    "end_ms": 660439,
+    "duration_ms": 1320,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 660.439,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 660439,
+    "end_ms": 661758,
+    "duration_ms": 1319,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 661.758,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 661758,
+    "end_ms": 663078,
+    "duration_ms": 1320,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 663.078,
+    "text": "I'm going to go ahead and pull up the sample exam.",
+    "start_ms": 663078,
+    "end_ms": 664399,
+    "duration_ms": 1321,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 663.658,
+    "text": "yeah. Okay, so like, for instance, if you were doing option A, yeah, okay, so now tell me your question.",
+    "start_ms": 663658,
+    "end_ms": 691677,
+    "duration_ms": 28019,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 691.677,
+    "text": "Okay, good, okay, so let's just walk through option A here, okay, so it has recently been shown that people who perform poorly on spatial reasoning tasks have reduced volume in the parietal lobe, so that's an observation that's going to start the problem here, what kind of observation is that?",
+    "start_ms": 691677,
+    "end_ms": 722478,
+    "duration_ms": 30801,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 722.478,
+    "text": "Come on, someone say the word, magic word, say it loud, be brave, it's a correlation, okay, this is a correlation, correlations are useful, they're good, okay, and then from this correlation, one might make the inference, which is, what's the inference?",
+    "start_ms": 722478,
+    "end_ms": 745038,
+    "duration_ms": 22560,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 745.038,
+    "text": "Well, let's phrase it more in the causal way that we're all seduced into doing with correlations, gee, if I have a big parietal lobe, I'm going to be good at spatial reasoning tasks, and if I have a small parietal lobe, I'm going to be bad at spatial reasoning tasks, right, that's the kind of thing we do all the time with correlations, right, we assume that there's probably some causal relationship, and very often, I don't want to say it isn't true, very often there is a causal relationship, but there's many cases we can fool ourselves, I went over this one in office hours yesterday, you'd be amazed to know that there's a very positive correlation between height and vocabulary, that seems crazy, right, and that's the kind of nuts, but it could be like, for instance, Oscar, he's 24 inches tall, and I'm more like a 68 inches tall, and I have a much bigger vocabulary than Oscar does, so I have to think Francis has got the wrong grandkid there, okay, so clearly now, if you see it this way, you say, well, of course there's correlation, very, very positive correlation, but it's a silly experiment, right, correlation has this secondary factor, which is age, which is mediating the correlation, okay, so we're always cautious, you always hear the phrase over and over again, correlation does not equal causation, despite the fact that we're always trying to read into causation from it, politicians love this all the time, okay, so then it goes on to say, discuss why we should be cautious, okay, so we already talked about that, there could be other reasons, the correlation, we don't know the direction, it may be that, you know, people are bad at spatial reasoning, always pull out their phone and never try to use their own sense of direction, and their parietal lobe shrivels up, whereas others who really love to, like, you know, think they have a good sense of direction, never pull out their phone, their parietal lobe gets bigger, okay, so we don't know the direction, we don't know if they're really one's causing the other, so then it goes on, say, describe two experiments, so this is your question, and basically, we have a hypothesis in a sense, right, a hypothesis that the larger parietal lobe is good for spatial reasoning, or that there's this positive correlation, and so now the question is saying, move beyond correlation, propose two experiments that are going to actually test that hypothesis, so that's what you're going to be doing for your essay answer, is you're going to be proposing two different experiments, and it says describe two experiments, one that involves a lesion method, human or animal, okay, so let's just think of human, what are our possibilities there?",
+    "start_ms": 745038,
+    "end_ms": 920243,
+    "duration_ms": 175205,
+    "word_count": 474,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 920.243,
+    "text": "Yeah? Yeah, speak up. Okay, great, that's what I was hoping someone would say.",
+    "start_ms": 920243,
+    "end_ms": 927318,
+    "duration_ms": 7075,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 927.318,
+    "text": "My thing about lesions means, oh, I got to test people with brain injury, and could do that, test people with parietal lobe lesions, for instance, or I could do like a reversible lesion by doing something like TMS with healthy college students and, you know, make it, so you got different choices to go here, you could do an animal study too, but that's right, so you have different ways of doing it, you can do optogenetics, okay, but you've got to decide what experiment you're going to do, and then you've got to make sure that then you're going to describe the tools that you use, not in any detail, you're going to say I'm going to use TMS because it's going to allow me to, well, then you'll do your experiment, so let's pretend you're going to do TMS, okay, that's going to be one of your experiments.",
+    "start_ms": 927318,
+    "end_ms": 967317,
+    "duration_ms": 39999,
+    "word_count": 151,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 967.028,
+    "text": "of your experiments. And then afterwards, we have to do one with a six month training program.",
+    "start_ms": 967028,
+    "end_ms": 972993,
+    "duration_ms": 5965,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 972.993,
+    "text": "So let's do the TMS experiment. Do you want to keep going?",
+    "start_ms": 972993,
+    "end_ms": 975443,
+    "duration_ms": 2450,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 975.443,
+    "text": "You want others to help out? Keep going. All right.",
+    "start_ms": 975443,
+    "end_ms": 978996,
+    "duration_ms": 3553,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 978.996,
+    "text": "So let's get for our camera people here. Let's work on this blackboard section.",
+    "start_ms": 978996,
+    "end_ms": 986477,
+    "duration_ms": 7481,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 989.037,
+    "text": "All right. What do we do? Okay, so do you want me to draw an axis?",
+    "start_ms": 989037,
+    "end_ms": 1009583,
+    "duration_ms": 20546,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1009.583,
+    "text": "Shall I draw an axis first to work backwards from an axis to what we do?",
+    "start_ms": 1009583,
+    "end_ms": 1018481,
+    "duration_ms": 8898,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1018.481,
+    "text": "Or how do you want to do it? Let's do an axis, put a graph, because you have to draw a graph.",
+    "start_ms": 1018481,
+    "end_ms": 1025982,
+    "duration_ms": 7501,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1025.982,
+    "text": "And I'll give you a hint. I think if you draw the graph, and then you construct your graph, and it doesn't make sense, you know, you got to start over again.",
+    "start_ms": 1025982,
+    "end_ms": 1034109,
+    "duration_ms": 8127,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1034.109,
+    "text": "So go to the graph as quickly as you can.",
+    "start_ms": 1034109,
+    "end_ms": 1036476,
+    "duration_ms": 2367,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1036.476,
+    "text": "Okay, so what do I do next? Okay, so you want me to have a point here for sham?",
+    "start_ms": 1036476,
+    "end_ms": 1059521,
+    "duration_ms": 23045,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1059.521,
+    "text": "Okay, we'll call it active. And, okay, and this is going to be TMS parietal.",
+    "start_ms": 1059521,
+    "end_ms": 1071013,
+    "duration_ms": 11492,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1071.013,
+    "text": "That right? Yeah. Okay. activity, I guess, that would allow you to actually test like spatial reasoning.",
+    "start_ms": 1071013,
+    "end_ms": 1083917,
+    "duration_ms": 12904,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1083.917,
+    "text": "So I guess like something that would be like relatively simple or something like Pacman or something where you have some point A point B and it's like a line.",
+    "start_ms": 1083917,
+    "end_ms": 1093540,
+    "duration_ms": 9623,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1093.54,
+    "text": "Okay, so I have a spatial reasoning game. And you can measure like anything from the time, whatever.",
+    "start_ms": 1093540,
+    "end_ms": 1102044,
+    "duration_ms": 8504,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1102.044,
+    "text": "Okay, what do you like? You like time so fast and slow.",
+    "start_ms": 1102044,
+    "end_ms": 1110488,
+    "duration_ms": 8444,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1110.488,
+    "text": "That good? Are you about to slow on the bottom?",
+    "start_ms": 1110488,
+    "end_ms": 1119611,
+    "duration_ms": 9123,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1119.611,
+    "text": "What's that? Oh, okay. There you go. Okay. All right.",
+    "start_ms": 1119611,
+    "end_ms": 1127657,
+    "duration_ms": 8046,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1127.657,
+    "text": "So you're gonna put a zero, five and 10. Now you got to do something.",
+    "start_ms": 1127657,
+    "end_ms": 1135858,
+    "duration_ms": 8201,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1135.858,
+    "text": "Seconds. Okay, now you're gonna have this in seconds. Great.",
+    "start_ms": 1135858,
+    "end_ms": 1138844,
+    "duration_ms": 2986,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1138.844,
+    "text": "You labeled your axis. Perfect. You're on a roll. What do you do next?",
+    "start_ms": 1138844,
+    "end_ms": 1142516,
+    "duration_ms": 3672,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1144.037,
+    "text": "You would consider like, I mean, that you want to grab something that's like, consistent with hypothesis, right?",
+    "start_ms": 1144037,
+    "end_ms": 1153604,
+    "duration_ms": 9567,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1153.604,
+    "text": "Do you want to stick to or do you want to?",
+    "start_ms": 1153604,
+    "end_ms": 1157796,
+    "duration_ms": 4192,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1158.917,
+    "text": "This one said one graph for each result. Sometimes there are going to be questions that might be one experiment with two different outcomes.",
+    "start_ms": 1158917,
+    "end_ms": 1164535,
+    "duration_ms": 5618,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1164.535,
+    "text": "But this one says one graph for each thing. It's just being the people who perform poorly on spatial reasoning tasks and have a reduced volume.",
+    "start_ms": 1164535,
+    "end_ms": 1177414,
+    "duration_ms": 12879,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1177.414,
+    "text": "And it's incorrect. I'm sorry. In which case, then if you want to be consistent with the sham, it shouldn't really change anything.",
+    "start_ms": 1177414,
+    "end_ms": 1186605,
+    "duration_ms": 9191,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1186.605,
+    "text": "So you'll probably need a recording of the spatial reasoning tasks like in general, without putting any kind of ah, you want three groups here.",
+    "start_ms": 1186605,
+    "end_ms": 1199312,
+    "duration_ms": 12707,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1199.312,
+    "text": "You want a baseline performance and a sham and an active?",
+    "start_ms": 1199312,
+    "end_ms": 1206922,
+    "duration_ms": 7610,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1206.922,
+    "text": "Yes. Okay. So then you can just like do their baseline, whatever that may be.",
+    "start_ms": 1206922,
+    "end_ms": 1213576,
+    "duration_ms": 6654,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1213.576,
+    "text": "Make a guess of it. Sure. And then you can do the sham and realistically, the sham shouldn't change anything by much.",
+    "start_ms": 1213576,
+    "end_ms": 1221656,
+    "duration_ms": 8080,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1221.656,
+    "text": "And on your graphs, don't worry about that. There's variability.",
+    "start_ms": 1221656,
+    "end_ms": 1225901,
+    "duration_ms": 4245,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1225.901,
+    "text": "Make them exactly the same if you want. Okay. And if you want to make a difference, make a big difference.",
+    "start_ms": 1225901,
+    "end_ms": 1231269,
+    "duration_ms": 5368,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1231.269,
+    "text": "Okay. And then with the active, if we want it to align with our purposes, then it should be a lot more, should take a lot more time to get through.",
+    "start_ms": 1231269,
+    "end_ms": 1239037,
+    "duration_ms": 7768,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1241.276,
+    "text": "Okay. Are you done? This is your arrest or the defense arrest, prosecution, whatever it is.",
+    "start_ms": 1241276,
+    "end_ms": 1251492,
+    "duration_ms": 10216,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1251.492,
+    "text": "Yes. No, no, no. I want to tell you, you're done with this graph.",
+    "start_ms": 1251492,
+    "end_ms": 1259757,
+    "duration_ms": 8265,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1260.077,
+    "text": "You're done with this graph. Okay. Let's think about the graph.",
+    "start_ms": 1260077,
+    "end_ms": 1262889,
+    "duration_ms": 2812,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1262.889,
+    "text": "So, um, uh, this seems like a perfectly reasonable solid B, high B plus, borderline A minus answer.",
+    "start_ms": 1262889,
+    "end_ms": 1274176,
+    "duration_ms": 11287,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1274.176,
+    "text": "Okay. So we're going to look to see how we can make it a full on A answer.",
+    "start_ms": 1274176,
+    "end_ms": 1278917,
+    "duration_ms": 4741,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1279.116,
+    "text": "Okay. Um, a few things coming on, um, you know, you might have been tempted to, this is a subtle one.",
+    "start_ms": 1279116,
+    "end_ms": 1285966,
+    "duration_ms": 6850,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1285.966,
+    "text": "I'm going to I'm going to probably pick on you.",
+    "start_ms": 1285966,
+    "end_ms": 1288615,
+    "duration_ms": 2649,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1288.615,
+    "text": "People frequently draw a graph like that. Just keep in mind, when you draw a line, usually you're applying that there's some continuity in the variable.",
+    "start_ms": 1288615,
+    "end_ms": 1297615,
+    "duration_ms": 9000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1297.615,
+    "text": "And these are really discrete categories. So probably the bar graph was the way to go.",
+    "start_ms": 1297615,
+    "end_ms": 1303695,
+    "duration_ms": 6080,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1304.675,
+    "text": "OK. Again, another subtle point is, yeah? But if you use a bar graph, some of your examples from the slide just had a little dot, and then the range.",
+    "start_ms": 1304675,
+    "end_ms": 1317556,
+    "duration_ms": 12881,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1317.556,
+    "text": "You don't have to worry about it. We don't care about showing anything about variability or individual differences, unless you're doing an experiment about that.",
+    "start_ms": 1317556,
+    "end_ms": 1325835,
+    "duration_ms": 8279,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1325.835,
+    "text": "Make your results as clean as possible. If you want to say no difference, make them be the same.",
+    "start_ms": 1325835,
+    "end_ms": 1330695,
+    "duration_ms": 4860,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1330.695,
+    "text": "If you want to say they're different, don't get a big whopping difference.",
+    "start_ms": 1330695,
+    "end_ms": 1334296,
+    "duration_ms": 3601,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1334.296,
+    "text": "Don't get yourself in trouble and say, well, this will produce a little difference in this, a bigger.",
+    "start_ms": 1334296,
+    "end_ms": 1338776,
+    "duration_ms": 4480,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1338.776,
+    "text": "I mean, you can if there's a reason to think that.",
+    "start_ms": 1338776,
+    "end_ms": 1341175,
+    "duration_ms": 2399,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1341.175,
+    "text": "But don't have to worry about error bars or anything like that.",
+    "start_ms": 1341175,
+    "end_ms": 1346696,
+    "duration_ms": 5521,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1346.696,
+    "text": "So first of all, you don't get knocked down. But you want to say why you thought you had to do a baseline.",
+    "start_ms": 1346696,
+    "end_ms": 1353095,
+    "duration_ms": 6399,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1353.095,
+    "text": "Why isn't the SHAM sufficient? And you don't have to.",
+    "start_ms": 1353095,
+    "end_ms": 1360576,
+    "duration_ms": 7481,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1360.576,
+    "text": "You want to rest. We can turn it over to someone else in the class to pick up.",
+    "start_ms": 1360576,
+    "end_ms": 1365156,
+    "duration_ms": 4580,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1365.156,
+    "text": "What's that? If someone else wants to take over. OK.",
+    "start_ms": 1365156,
+    "end_ms": 1367616,
+    "duration_ms": 2460,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1367.616,
+    "text": "Someone else take over. So is there a reason for the baseline here?",
+    "start_ms": 1367616,
+    "end_ms": 1372035,
+    "duration_ms": 4419,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1376.595,
+    "text": "What do you think? My first assumption is that maybe the SHAM could be predicted to have some sort of placebo effect.",
+    "start_ms": 1376595,
+    "end_ms": 1386355,
+    "duration_ms": 9760,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1386.355,
+    "text": "So by having a baseline condition where they don't even think they're getting some sort of manipulation, it'll just be their regular performance.",
+    "start_ms": 1386355,
+    "end_ms": 1394216,
+    "duration_ms": 7861,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1394.216,
+    "text": "OK. Well, that's actually a good reason to maybe include a baseline, because then you can see what the placebo effect is.",
+    "start_ms": 1394216,
+    "end_ms": 1401495,
+    "duration_ms": 7279,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1401.495,
+    "text": "That might actually, if you wrote that in part of your answer about why you included it, that might get you another point or two.",
+    "start_ms": 1401495,
+    "end_ms": 1406956,
+    "duration_ms": 5461,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1406.956,
+    "text": "That could get you towards that solid A thing. One thing, you said these are different groups.",
+    "start_ms": 1406956,
+    "end_ms": 1412576,
+    "duration_ms": 5620,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1412.576,
+    "text": "But with TMS, the beauty is that I could test the person one day where they get the SHAM and one day where they don't get the SHAM.",
+    "start_ms": 1412576,
+    "end_ms": 1420495,
+    "duration_ms": 7919,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1420.516,
+    "text": "So the same people can be in the experiment, right?",
+    "start_ms": 1420516,
+    "end_ms": 1423316,
+    "duration_ms": 2800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1423.316,
+    "text": "If I'm doing a study with people with brain injury, then I got no choice, right?",
+    "start_ms": 1423316,
+    "end_ms": 1428036,
+    "duration_ms": 4720,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1428.036,
+    "text": "I got to test the primal people against another sample.",
+    "start_ms": 1428036,
+    "end_ms": 1431236,
+    "duration_ms": 3200,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1431.236,
+    "text": "Or the TMS, I could actually say I'm going to test the same people.",
+    "start_ms": 1431236,
+    "end_ms": 1434635,
+    "duration_ms": 3399,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1434.635,
+    "text": "And in many cases, it's better to do what they call within-subject study.",
+    "start_ms": 1434635,
+    "end_ms": 1439995,
+    "duration_ms": 5360,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1439.995,
+    "text": "But that's subtle. What's missing here that could make this an A-plus answer?",
+    "start_ms": 1439995,
+    "end_ms": 1444995,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1451.495,
+    "text": "OK. I'll give you the secret word again, controls. What controls?",
+    "start_ms": 1451495,
+    "end_ms": 1456676,
+    "duration_ms": 5181,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1456.676,
+    "text": "You have one control here. You have the SHAM. That's the most important control.",
+    "start_ms": 1456676,
+    "end_ms": 1460475,
+    "duration_ms": 3799,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1460.475,
+    "text": "But what other controls don't you have? Yeah? Maybe one thing that has the smaller parietal lobe and one thing that has a larger parietal lobe, maybe two sets of grafts.",
+    "start_ms": 1460475,
+    "end_ms": 1471475,
+    "duration_ms": 11000,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1471.475,
+    "text": "Ah. OK. Well, that's an interesting point. So now, she kind of turned the hypothesis around a little bit.",
+    "start_ms": 1471475,
+    "end_ms": 1480456,
+    "duration_ms": 8981,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1480.456,
+    "text": "She wasn't really testing this argument about larger parietal lobe.",
+    "start_ms": 1480456,
+    "end_ms": 1484456,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1484.456,
+    "text": "She was testing the hypothesis, is the parietal lobe important for spatial reasoning?",
+    "start_ms": 1484456,
+    "end_ms": 1489456,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1489.456,
+    "text": "And that would be fair game. She's still experimentally assessing the relative role of the parietal lobe.",
+    "start_ms": 1489456,
+    "end_ms": 1496456,
+    "duration_ms": 7000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1496.456,
+    "text": "But you have the control. You have the control. You have the control.",
+    "start_ms": 1496456,
+    "end_ms": 1499456,
+    "duration_ms": 3000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1499.456,
+    "text": "You have the control. You have the control. You have the control.",
+    "start_ms": 1499456,
+    "end_ms": 1502456,
+    "duration_ms": 3000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1503.436,
+    "text": "But you actually said, oh, another twist is that if I really want to look at the larger parietal lobe, I might want to compare that.",
+    "start_ms": 1503436,
+    "end_ms": 1510436,
+    "duration_ms": 7000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1510.436,
+    "text": "So let's just see where that goes. I don't know where it's going to go.",
+    "start_ms": 1510436,
+    "end_ms": 1514436,
+    "duration_ms": 4000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1514.436,
+    "text": "Well, let's try it out. OK? So you're going to have this SHAM, again, in parietal stimulation.",
+    "start_ms": 1514436,
+    "end_ms": 1529436,
+    "duration_ms": 15000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1529.436,
+    "text": "OK? And now what are you going to do? Give me my graphs.",
+    "start_ms": 1529436,
+    "end_ms": 1536416,
+    "duration_ms": 6980,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1536.416,
+    "text": "Me? Yeah. You're in deep now. Just tell me what to draw on the blackboard.",
+    "start_ms": 1536416,
+    "end_ms": 1548416,
+    "duration_ms": 12000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1548.416,
+    "text": "Just a bar for people with a small parietal lobe and a bar for people with large parietal lobe.",
+    "start_ms": 1548416,
+    "end_ms": 1556416,
+    "duration_ms": 8000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1556.416,
+    "text": "For the SHAM and for the parietal lobe. OK, so what do you want it to be?",
+    "start_ms": 1556416,
+    "end_ms": 1561395,
+    "duration_ms": 4979,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1561.395,
+    "text": "Probably, I guess. I will draw the first one for you.",
+    "start_ms": 1561395,
+    "end_ms": 1565395,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1565.395,
+    "text": "Here's the SHAM. An empty bar will be small parietal.",
+    "start_ms": 1565395,
+    "end_ms": 1571395,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1571.395,
+    "text": "Yeah. And flash will be large parietal. Now what do I do for my SHAM large parietal?",
+    "start_ms": 1571395,
+    "end_ms": 1583395,
+    "duration_ms": 12000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1583.395,
+    "text": "Should it be even? The same? Yeah, maybe. Oh, someone's objecting.",
+    "start_ms": 1583395,
+    "end_ms": 1591376,
+    "duration_ms": 7981,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1595.376,
+    "text": "Uh-huh. Now what do you want to say? What do I do next?",
+    "start_ms": 1595376,
+    "end_ms": 1606376,
+    "duration_ms": 11000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1606.235,
+    "text": "now here it's pointing out that, hey, if big parietal lobe is better at spatial reasoning, they should be faster at doing the task.",
+    "start_ms": 1606235,
+    "end_ms": 1619661,
+    "duration_ms": 13426,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1619.661,
+    "text": "Better is down. Okay, now what happens here? Well presumably we said, generally we think about that TMS is going to disrupt neural activity.",
+    "start_ms": 1619661,
+    "end_ms": 1639011,
+    "duration_ms": 19350,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1639.011,
+    "text": "It's going to add noise. It's going to make that part of the brain not function as well as it typically does.",
+    "start_ms": 1639011,
+    "end_ms": 1645100,
+    "duration_ms": 6089,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1645.1,
+    "text": "Yeah. If TMS disrupts the brain, the size of the lobe shouldn't matter, so it should be two larger bars of the vacuum.",
+    "start_ms": 1645100,
+    "end_ms": 1659994,
+    "duration_ms": 14894,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1659.994,
+    "text": "Okay. You know, I wasn't thinking about this, but this would definitely get into the A plus range here, to have added that variable, because now you're answering two questions in this one experiment, right?",
+    "start_ms": 1659994,
+    "end_ms": 1674217,
+    "duration_ms": 14223,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1674.217,
+    "text": "You're actually addressing the question about the size of the parietal lobe being better for spatial reasoning tasks, and you're kind of manipulating the parietal lobe to see its effect on spatial reasoning tasks.",
+    "start_ms": 1674217,
+    "end_ms": 1686938,
+    "duration_ms": 12721,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1686.938,
+    "text": "So that would definitely have gotten you probably up into the A plus range, and now you have to say, right, because I think you even asked it in this question, describe the key variables for the experiment.",
+    "start_ms": 1686938,
+    "end_ms": 1699805,
+    "duration_ms": 12867,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1699.805,
+    "text": "So this is our experiment. Who wants to describe the variables?",
+    "start_ms": 1699805,
+    "end_ms": 1702770,
+    "duration_ms": 2965,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1702.77,
+    "text": "This is what you're going to put in your bullets.",
+    "start_ms": 1702770,
+    "end_ms": 1706459,
+    "duration_ms": 3689,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1706.459,
+    "text": "Someone has taken, we're going to try to get the new face here.",
+    "start_ms": 1706459,
+    "end_ms": 1714714,
+    "duration_ms": 8255,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1715.354,
+    "text": "Someone, remember back to your statistics class or any class, why do we want to write out in our bullets, you know?",
+    "start_ms": 1715354,
+    "end_ms": 1727457,
+    "duration_ms": 12103,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1727.457,
+    "text": "Okay. Blank variable. Is that probably many words? Zebra variable.",
+    "start_ms": 1727457,
+    "end_ms": 1737395,
+    "duration_ms": 9938,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1737.395,
+    "text": "I'll tell you, you shout out when I hit the right word.",
+    "start_ms": 1737395,
+    "end_ms": 1741955,
+    "duration_ms": 4560,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1741.955,
+    "text": "Zebra variable, neuron variable, dependent variable. Ah, got a few nods.",
+    "start_ms": 1741955,
+    "end_ms": 1747085,
+    "duration_ms": 5130,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1747.085,
+    "text": "Okay. All right. Something about dependent variable. What's the other part?",
+    "start_ms": 1747085,
+    "end_ms": 1752314,
+    "duration_ms": 5229,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1752.314,
+    "text": "Independent variable. That is what you're going to have to write out here.",
+    "start_ms": 1752314,
+    "end_ms": 1757178,
+    "duration_ms": 4864,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1757.178,
+    "text": "I just want to try to stay in view of the camera.",
+    "start_ms": 1757178,
+    "end_ms": 1760715,
+    "duration_ms": 3537,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1762.794,
+    "text": "I wrote too big. Independent variable, dependent variable. What are they here?",
+    "start_ms": 1762794,
+    "end_ms": 1771275,
+    "duration_ms": 8481,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1774.635,
+    "text": "Okay. Let's start with the independent variable. These are the sizes of the varietal size.",
+    "start_ms": 1774635,
+    "end_ms": 1788234,
+    "duration_ms": 13599,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1791.594,
+    "text": "And you said, what else? Anything else? Also, whether we're doing a sham or actually it's the TMS.",
+    "start_ms": 1791594,
+    "end_ms": 1801883,
+    "duration_ms": 10289,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1801.883,
+    "text": "And there's two levels of this variable, small and large.",
+    "start_ms": 1801883,
+    "end_ms": 1807115,
+    "duration_ms": 5232,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1807.755,
+    "text": "And there's two variables of this one, sham or no sham.",
+    "start_ms": 1807755,
+    "end_ms": 1812555,
+    "duration_ms": 4800,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1813.514,
+    "text": "Now I know if I have four independent variables, four conditions, multiplying two by two, I should have four graphs there.",
+    "start_ms": 1813514,
+    "end_ms": 1822326,
+    "duration_ms": 8812,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1822.326,
+    "text": "Okay. So that's how you're going to know, are you on the right track?",
+    "start_ms": 1822326,
+    "end_ms": 1828282,
+    "duration_ms": 5956,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1828.282,
+    "text": "Multiply up your independent variables or create your conditions and know, does your graph in any way match what you actually think you are?",
+    "start_ms": 1828282,
+    "end_ms": 1836954,
+    "duration_ms": 8672,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1837.594,
+    "text": "What's the dependent variable? The reaction time. Okay. So there, that's probably an A plus on that exam.",
+    "start_ms": 1837594,
+    "end_ms": 1849475,
+    "duration_ms": 11881,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1849.475,
+    "text": "Okay. That's why I'm saying that if you just did the most basic one, the sham versus the TMS, it's a solid answer, but it doesn't have that extra kind of control.",
+    "start_ms": 1849475,
+    "end_ms": 1863371,
+    "duration_ms": 13896,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1863.371,
+    "text": "Okay. Now there's many other ways you could have gone.",
+    "start_ms": 1863371,
+    "end_ms": 1866080,
+    "duration_ms": 2709,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1866.08,
+    "text": "You could have said, nothing's been said here about, is this an effect in general, or is this something specific to the parietal lobe?",
+    "start_ms": 1866080,
+    "end_ms": 1878144,
+    "duration_ms": 12064,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1878.144,
+    "text": "So instead of doing parietal size, I could have said, I'm going to stimulate either the parietal lobe or the frontal lobe.",
+    "start_ms": 1878144,
+    "end_ms": 1887425,
+    "duration_ms": 9281,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1887.425,
+    "text": "And if I do that, let's quickly just do that.",
+    "start_ms": 1887425,
+    "end_ms": 1890715,
+    "duration_ms": 3290,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1891.595,
+    "text": "Now I'm going to change my graph. I'm still going to do sham.",
+    "start_ms": 1891595,
+    "end_ms": 1894829,
+    "duration_ms": 3234,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1894.829,
+    "text": "I'm going to do parietal. No, I'm going to do sham and I'm going to do active.",
+    "start_ms": 1894829,
+    "end_ms": 1899115,
+    "duration_ms": 4286,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1903.035,
+    "text": "And one of these is going to be parietal. And one of these is going to be frontal.",
+    "start_ms": 1903035,
+    "end_ms": 1910875,
+    "duration_ms": 7840,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1915.035,
+    "text": "Okay. Quickly, let's fill in the graphs. What should I get?",
+    "start_ms": 1915035,
+    "end_ms": 1919764,
+    "duration_ms": 4729,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1919.764,
+    "text": "I'll do the first one. I'll do parietal sham. What should I get for frontal sham?",
+    "start_ms": 1919764,
+    "end_ms": 1925674,
+    "duration_ms": 5910,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1925.674,
+    "text": "can all shout it out together. Doing TMS, I've randomly recruited a bunch of people.",
+    "start_ms": 1925674,
+    "end_ms": 1934473,
+    "duration_ms": 8799,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1934.473,
+    "text": "I've assigned them to either get parietal TMS, sham TMS, or frontal sham TMS.",
+    "start_ms": 1934473,
+    "end_ms": 1940534,
+    "duration_ms": 6061,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1940.534,
+    "text": "What would their performance be like? Should be the exact same, because I randomly chose a bunch of people and I'm giving them sham stimulation, so I have no reason to think they'd be any different.",
+    "start_ms": 1940534,
+    "end_ms": 1955139,
+    "duration_ms": 14605,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1955.139,
+    "text": "Okay, now I do parietal TMS, active TMS. What should I get?",
+    "start_ms": 1955139,
+    "end_ms": 1961673,
+    "duration_ms": 6534,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1964.393,
+    "text": "Right, that's what we've been seeing over and over again.",
+    "start_ms": 1964393,
+    "end_ms": 1966713,
+    "duration_ms": 2320,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1968.393,
+    "text": "And what do I expect to get from the frontal?",
+    "start_ms": 1968393,
+    "end_ms": 1971635,
+    "duration_ms": 3242,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1971.635,
+    "text": "No change. And I didn't draw that right, sorry. Okay, and that probably would also get you an A plus on the essay or something like that, because now you've gone beyond talking about the parietal lobe, but you've actually said, it really seems to be something specific about the parietal lobe, not a general thing about TMSing the brain.",
+    "start_ms": 1971635,
+    "end_ms": 1997625,
+    "duration_ms": 25990,
+    "word_count": 60,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1997.625,
+    "text": "I could have done it a different way. I could have said, now instead of comparing parietal and frontal, I'm going to compare spatial reasoning task and a verbal reasoning task.",
+    "start_ms": 1997625,
+    "end_ms": 2012313,
+    "duration_ms": 14688,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2012.313,
+    "text": "And if I've drawn it right, it's the exact same result.",
+    "start_ms": 2012313,
+    "end_ms": 2017593,
+    "duration_ms": 5280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2017.593,
+    "text": "Now I'm showing that it's really spatial reasoning that's disrupted by the parietal stimulation, and not everything in general, I have a control task.",
+    "start_ms": 2017593,
+    "end_ms": 2025833,
+    "duration_ms": 8240,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2025.833,
+    "text": "So I could have control tasks, I could have control groups, I could embellish it by, you know, having this, bringing in the parietal size in there too.",
+    "start_ms": 2025833,
+    "end_ms": 2033615,
+    "duration_ms": 7782,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2033.615,
+    "text": "So lots of different ways you can improve on the experiment from that simple vanilla one that is consistent with the hypothesis.",
+    "start_ms": 2033615,
+    "end_ms": 2041097,
+    "duration_ms": 7482,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2041.097,
+    "text": "And that's sort of, you know, something to always keep in mind with the experiments.",
+    "start_ms": 2041097,
+    "end_ms": 2046153,
+    "duration_ms": 5056,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2046.153,
+    "text": "People tend to focus on, is our hypothesis supported? But a good experiment is usually also ruling out alternative accounts.",
+    "start_ms": 2046153,
+    "end_ms": 2055193,
+    "duration_ms": 9040,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2055.193,
+    "text": "And so as soon as we start adding in these other conditions here, making our experiment just a little more complex, now we can rule out things.",
+    "start_ms": 2055193,
+    "end_ms": 2063381,
+    "duration_ms": 8188,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2063.381,
+    "text": "We can rule out that the parietal lobe TMS screws you up on everything.",
+    "start_ms": 2063381,
+    "end_ms": 2067800,
+    "duration_ms": 4419,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2067.8,
+    "text": "Okay? So that's why I mean that becomes a much better experiment and gets you the A plus for the assay.",
+    "start_ms": 2067800,
+    "end_ms": 2078399,
+    "duration_ms": 10599,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2078.399,
+    "text": "All right. Questions? Yeah. It's like the first time. I think I've said early on, I'm pretty sure you could get a B plus in this class if you just studied, if you just came to lecture.",
+    "start_ms": 2078399,
+    "end_ms": 2097259,
+    "duration_ms": 18860,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2097.259,
+    "text": "So it depends on your bar. But there'll be some things that are from the reading.",
+    "start_ms": 2097259,
+    "end_ms": 2104734,
+    "duration_ms": 7475,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2104.734,
+    "text": "Some of the things from the reading will probably overlap with the lecture, but some of the things from the reading might be purely from the reading.",
+    "start_ms": 2104734,
+    "end_ms": 2111905,
+    "duration_ms": 7171,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2111.905,
+    "text": "But again, I've sort of outlined the kinds of things I think are fair game.",
+    "start_ms": 2111905,
+    "end_ms": 2120062,
+    "duration_ms": 8157,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2120.062,
+    "text": "Yeah. Thank you for saying that. That's a great reminder.",
+    "start_ms": 2120062,
+    "end_ms": 2134633,
+    "duration_ms": 14571,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2135.113,
+    "text": "You are welcome to give me this result. Okay? And of course, if you gave me that result, then you would want to clearly state the results do not support the hypothesis.",
+    "start_ms": 2135113,
+    "end_ms": 2150633,
+    "duration_ms": 15520,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2151.753,
+    "text": "That's why we do experiments. We don't know if they're going to.",
+    "start_ms": 2151753,
+    "end_ms": 2154633,
+    "duration_ms": 2880,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2154.633,
+    "text": "I will guarantee almost all of you are going to show me results that confirm the hypothesis.",
+    "start_ms": 2154633,
+    "end_ms": 2159273,
+    "duration_ms": 4640,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2159.674,
+    "text": "That's perfectly fine, but you are welcome to also do a result and say that, you know, this does not support the hypothesis, or at least what it shows is that TMS over the parietal lobe seems to affect everything.",
+    "start_ms": 2159674,
+    "end_ms": 2174327,
+    "duration_ms": 14653,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2174.327,
+    "text": "So it may be that the parietal lobe is both important for both spatial reasoning and verbal reasoning, but we don't know that.",
+    "start_ms": 2174327,
+    "end_ms": 2181553,
+    "duration_ms": 7226,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2181.553,
+    "text": "It may also be that TMS just screws you up on the task.",
+    "start_ms": 2181553,
+    "end_ms": 2186837,
+    "duration_ms": 5284,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2186.837,
+    "text": "Now, all tasks. Yeah. If you got the time and you got it, go for it.",
+    "start_ms": 2186837,
+    "end_ms": 2207984,
+    "duration_ms": 21147,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2207.984,
+    "text": "And we do, in my grading instructions, it does say, you know, reserve a couple points for creativity.",
+    "start_ms": 2207984,
+    "end_ms": 2216595,
+    "duration_ms": 8611,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2216.595,
+    "text": "So, you know, just doing everything the basic doesn't guarantee you get all 50 points.",
+    "start_ms": 2216595,
+    "end_ms": 2222793,
+    "duration_ms": 6198,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2222.793,
+    "text": "Having some flair is required to get the full 50 points.",
+    "start_ms": 2222793,
+    "end_ms": 2227177,
+    "duration_ms": 4384,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2227.177,
+    "text": "You know, A pluses, you got to earn. Yeah. Yeah, and you got to remember to keep moving, right?",
+    "start_ms": 2227177,
+    "end_ms": 2234393,
+    "duration_ms": 7216,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2234.393,
+    "text": "I mean, there's only, I reduced the number of multiple choices because I felt people were too much under time pressure last time.",
+    "start_ms": 2234393,
+    "end_ms": 2241492,
+    "duration_ms": 7099,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2241.492,
+    "text": "So I'm guessing 20, will take you 25 minutes to do 20 multiple choices.",
+    "start_ms": 2241492,
+    "end_ms": 2245593,
+    "duration_ms": 4101,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2245.417,
+    "text": "choices. And then you'll have 25 minutes for your essay.",
+    "start_ms": 2245417,
+    "end_ms": 2248952,
+    "duration_ms": 3535,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2248.952,
+    "text": "Should be able to do the essay in 20 minutes.",
+    "start_ms": 2248952,
+    "end_ms": 2250832,
+    "duration_ms": 1880,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2250.832,
+    "text": "So you need 30 minutes in multiple choice to get to.",
+    "start_ms": 2250832,
+    "end_ms": 2254912,
+    "duration_ms": 4080,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2254.912,
+    "text": "Yeah. You're asking, did you practice the test and find it to be a lot longer than same?",
+    "start_ms": 2254912,
+    "end_ms": 2262632,
+    "duration_ms": 7720,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2262.632,
+    "text": "No, I was just finding that the class, this class is a lot more fun than what's it called?",
+    "start_ms": 2262632,
+    "end_ms": 2269833,
+    "duration_ms": 7201,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2269.833,
+    "text": "I was expecting when I enrolled into it like two weeks ago.",
+    "start_ms": 2269833,
+    "end_ms": 2272352,
+    "duration_ms": 2519,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2272.352,
+    "text": "Excellent. I'm just blowing it all off. You guys didn't look that way yesterday.",
+    "start_ms": 2272352,
+    "end_ms": 2276172,
+    "duration_ms": 3820,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2276.172,
+    "text": "I saw a lot of really bored looking faces yesterday.",
+    "start_ms": 2276172,
+    "end_ms": 2278993,
+    "duration_ms": 2821,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2278.993,
+    "text": "I wrote something in a self-annotation and I got home like, I'm grabbing lunch here.",
+    "start_ms": 2278993,
+    "end_ms": 2284192,
+    "duration_ms": 5199,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2284.192,
+    "text": "Yeah. But you don't have a lot of them. You have three of them.",
+    "start_ms": 2284192,
+    "end_ms": 2293433,
+    "duration_ms": 9241,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2293.433,
+    "text": "You spent an hour talking about them. So hopefully that hour stuck with you.",
+    "start_ms": 2293433,
+    "end_ms": 2298313,
+    "duration_ms": 4880,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2298.313,
+    "text": "We're not going to pick on the details and you read them in much greater detail than a question.",
+    "start_ms": 2298313,
+    "end_ms": 2302913,
+    "duration_ms": 4600,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2302.913,
+    "text": "So if you came out of those sections and you felt like you understood the reader articles, then you probably just need a quick refresher on them.",
+    "start_ms": 2302913,
+    "end_ms": 2311072,
+    "duration_ms": 8159,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2311.072,
+    "text": "But I did tell you my hint here that really those are the hardest ones to write because I want to write them so that you have to do more than just read the abstract.",
+    "start_ms": 2311072,
+    "end_ms": 2322392,
+    "duration_ms": 11320,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2322.392,
+    "text": "So I have to try to think about something to ask you about in the reader article questions.",
+    "start_ms": 2322392,
+    "end_ms": 2327672,
+    "duration_ms": 5280,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2327.672,
+    "text": "That's still a big, broad, conceptual question and not a picky detail, but isn't something you just get from the abstract.",
+    "start_ms": 2327672,
+    "end_ms": 2334992,
+    "duration_ms": 7320,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2338.032,
+    "text": "And yes, I'm sure there will be at least two of the reader articles.",
+    "start_ms": 2338032,
+    "end_ms": 2342693,
+    "duration_ms": 4661,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2342.693,
+    "text": "There'll be a multiple choice question, not all three. Yeah.",
+    "start_ms": 2342693,
+    "end_ms": 2346712,
+    "duration_ms": 4019,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2346.712,
+    "text": "Yep. I used to draw graphs for the essay portion.",
+    "start_ms": 2346712,
+    "end_ms": 2353272,
+    "duration_ms": 6560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2353.312,
+    "text": "Oh, you have to draw graphs for the essay questions?",
+    "start_ms": 2353312,
+    "end_ms": 2356153,
+    "duration_ms": 2841,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2356.153,
+    "text": "Yeah, we won't provide any. You will draw the graphs.",
+    "start_ms": 2356153,
+    "end_ms": 2359113,
+    "duration_ms": 2960,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2359.113,
+    "text": "You'll end up with something that looks like this. And again, as I said, I didn't read the full thing here, but it says the variables, bullets are going to be perfectly fine.",
+    "start_ms": 2359113,
+    "end_ms": 2368833,
+    "duration_ms": 9720,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2368.833,
+    "text": "As long as it's clear you don't need to write, as I wrote last night to you, you don't need to write long sentences.",
+    "start_ms": 2368833,
+    "end_ms": 2374312,
+    "duration_ms": 5479,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2374.312,
+    "text": "We're not grading anything for grammar, as long as we understand what you're saying.",
+    "start_ms": 2374312,
+    "end_ms": 2377993,
+    "duration_ms": 3681,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2377.993,
+    "text": "Again, you're going to offer that alternative hypothesis. You probably are going to have to slap on a few sentences.",
+    "start_ms": 2377993,
+    "end_ms": 2383152,
+    "duration_ms": 5159,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2383.152,
+    "text": "Yeah. Six more questions. Oh, we can use that if you want.",
+    "start_ms": 2383152,
+    "end_ms": 2391432,
+    "duration_ms": 8280,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2391.432,
+    "text": "I was going to say, my only question is, how would you?",
+    "start_ms": 2391432,
+    "end_ms": 2394193,
+    "duration_ms": 2761,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2394.193,
+    "text": "Because I think when I practiced and did it, I still, once again, only considered the control versus a small vial of situation.",
+    "start_ms": 2394193,
+    "end_ms": 2404392,
+    "duration_ms": 10199,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2404.392,
+    "text": "And I was curious how you would consider incorporating something this time.",
+    "start_ms": 2404392,
+    "end_ms": 2409792,
+    "duration_ms": 5400,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2409.792,
+    "text": "Like, would you include this? OK. Let's do it in a second.",
+    "start_ms": 2409792,
+    "end_ms": 2414753,
+    "duration_ms": 4961,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2414.753,
+    "text": "Let me just answer other questions. People have other questions first, and then we can come back to doing more essay stuff.",
+    "start_ms": 2414753,
+    "end_ms": 2420792,
+    "duration_ms": 6039,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2420.792,
+    "text": "Yeah, I just wanted to know how much detail we need to add to our responses for this.",
+    "start_ms": 2420792,
+    "end_ms": 2424952,
+    "duration_ms": 4160,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2424.952,
+    "text": "Especially, is there kind of a checklist to help to keep in our responses?",
+    "start_ms": 2424952,
+    "end_ms": 2430073,
+    "duration_ms": 5121,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2430.073,
+    "text": "You just have to answer the question. And like I say, you could answer the question by just doing the first experiment we had.",
+    "start_ms": 2430073,
+    "end_ms": 2441753,
+    "duration_ms": 11680,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2441.753,
+    "text": "Sham, active over the parietal lobe. And it answers the question, but it doesn't answer the question in a powerful way.",
+    "start_ms": 2441753,
+    "end_ms": 2451872,
+    "duration_ms": 10119,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2451.872,
+    "text": "And so that's why I said, that's going to get you like a B or B plus.",
+    "start_ms": 2451872,
+    "end_ms": 2456273,
+    "duration_ms": 4401,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2456.273,
+    "text": "But to really get into an A, you have to have a stronger experiment.",
+    "start_ms": 2456273,
+    "end_ms": 2460672,
+    "duration_ms": 4399,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2460.672,
+    "text": "I mean, we've tried to give lots of examples to point that out in the lectures about why this is a good experiment.",
+    "start_ms": 2460672,
+    "end_ms": 2466833,
+    "duration_ms": 6161,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2466.833,
+    "text": "It compares, B's hypothesis supports this one, rules out that one, controls for this or that.",
+    "start_ms": 2466833,
+    "end_ms": 2473113,
+    "duration_ms": 6280,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2473.113,
+    "text": "No, yeah, go ahead. Oh, again, you don't have to say anything about, I'm going to use a TMS coil that's a figure eight coil and deliver three pulses per second.",
+    "start_ms": 2473113,
+    "end_ms": 2487353,
+    "duration_ms": 14240,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2487.353,
+    "text": "I mean, if you are familiar with TMS, you could say I'm going to win the, while the person is playing the game, I'm going to be applying TMS.",
+    "start_ms": 2487353,
+    "end_ms": 2497393,
+    "duration_ms": 10040,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2497.393,
+    "text": "You could have a simple sentence, but you can also, again, if you say the method, we're going to assume you know what you're talking about.",
+    "start_ms": 2497393,
+    "end_ms": 2504272,
+    "duration_ms": 6879,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2504.272,
+    "text": "What you want to make sure is the dependent variable is one that's appropriate for your method.",
+    "start_ms": 2504272,
+    "end_ms": 2510193,
+    "duration_ms": 5921,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2510.193,
+    "text": "Okay, so if you're describing an fMRI experiment, you want to make sure you're not, you're showing me something like a bold response as your dependent variable.",
+    "start_ms": 2510193,
+    "end_ms": 2517633,
+    "duration_ms": 7440,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2519.872,
+    "text": "I just want to talk a little on, what I found were the components to the essay question.",
+    "start_ms": 2519872,
+    "end_ms": 2527633,
+    "duration_ms": 7761,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2527.673,
+    "text": "So the hypothesis and the method. I will give you the hypothesis probably.",
+    "start_ms": 2527673,
+    "end_ms": 2533393,
+    "duration_ms": 5720,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2533.393,
+    "text": "Okay, so. I'm not going to ask you to create hypotheses.",
+    "start_ms": 2533393,
+    "end_ms": 2536073,
+    "duration_ms": 2680,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2536.073,
+    "text": "That's, it'd be really hard in a short time. Something relevant to solve and then a method and why you chose that method and your independent, dependent and control variables and.",
+    "start_ms": 2536073,
+    "end_ms": 2548112,
+    "duration_ms": 12039,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2548.112,
+    "text": "Actually, you don't need to probably tell me why you chose that method.",
+    "start_ms": 2548112,
+    "end_ms": 2551353,
+    "duration_ms": 3241,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2552.552,
+    "text": "You know, it tells you choose a method and if you choose the method and you show me, the graph shows me that it's relevant.",
+    "start_ms": 2552552,
+    "end_ms": 2558793,
+    "duration_ms": 6241,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2558.793,
+    "text": "You don't have to spend the time on the text about why you chose the method.",
+    "start_ms": 2558793,
+    "end_ms": 2562633,
+    "duration_ms": 3840,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2562.633,
+    "text": "It's clear from the choice. If the question asks that, yes, it asks you to interpret your results, yep, great.",
+    "start_ms": 2562633,
+    "end_ms": 2578151,
+    "duration_ms": 15518,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2581.032,
+    "text": "I just wanted to make sure one thing, what if in the options, in like both of the options, let's like describe two experiments and say choose one of the two or is it?",
+    "start_ms": 2581032,
+    "end_ms": 2588712,
+    "duration_ms": 7680,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2588.712,
+    "text": "Oh yeah, you either answer A or you answer B, just don't answer both.",
+    "start_ms": 2588712,
+    "end_ms": 2594071,
+    "duration_ms": 5359,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2595.432,
+    "text": "When it says at the top here, it says answer one of the two options below, you either give a complete answer to option A or a complete answer to option B.",
+    "start_ms": 2595432,
+    "end_ms": 2605351,
+    "duration_ms": 9919,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2606.312,
+    "text": "If I've done my job right, half of you answer A and half of you answer B, and you only answer one of those.",
+    "start_ms": 2606312,
+    "end_ms": 2612482,
+    "duration_ms": 6170,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2612.482,
+    "text": "No extra credit for doing a second one, we'll just only regrade the first one.",
+    "start_ms": 2612482,
+    "end_ms": 2617751,
+    "duration_ms": 5269,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2625.112,
+    "text": "Bingo, yeah, I'm sorry, yeah. If it's at all ambiguous during the exam on Monday, ask me that question.",
+    "start_ms": 2625112,
+    "end_ms": 2633342,
+    "duration_ms": 8230,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2633.342,
+    "text": "I hope it's not ambiguous. All right, so should we talk about six-month training program?",
+    "start_ms": 2633342,
+    "end_ms": 2640232,
+    "duration_ms": 6890,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2643.991,
+    "text": "All right, so we're back to the drawing board. All right, let's jump right into the graph.",
+    "start_ms": 2643991,
+    "end_ms": 2653911,
+    "duration_ms": 9920,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2653.911,
+    "text": "Who wants to be our guide? You want to be our guide, excellent.",
+    "start_ms": 2653911,
+    "end_ms": 2659363,
+    "duration_ms": 5452,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2659.363,
+    "text": "I'll give you a head start, not always going to be a graph, probably is always going to be a graph.",
+    "start_ms": 2659363,
+    "end_ms": 2664711,
+    "duration_ms": 5348,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2672.232,
+    "text": "I've also used TMS and then sham and we have like groups of the independent variables would be whether or not the participants participated in six months.",
+    "start_ms": 2672232,
+    "end_ms": 2687351,
+    "duration_ms": 15119,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2688.312,
+    "text": "Okay, so I got, so why am I putting on my x-axis here?",
+    "start_ms": 2688312,
+    "end_ms": 2692312,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2693.432,
+    "text": "So the x-axis would be also the sham data. The sham, TMS.",
+    "start_ms": 2693432,
+    "end_ms": 2705191,
+    "duration_ms": 11759,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2708.312,
+    "text": "And then the y-axis would also be the time used to complete the station.",
+    "start_ms": 2708312,
+    "end_ms": 2714711,
+    "duration_ms": 6399,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2715.672,
+    "text": "So my, what do we call it? We'll call it RT, complete my spatial reasoning tasks.",
+    "start_ms": 2715672,
+    "end_ms": 2721592,
+    "duration_ms": 5920,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2725.752,
+    "text": "Okay. And then it would be, there would be two groups of like two different parts.",
+    "start_ms": 2725752,
+    "end_ms": 2733432,
+    "duration_ms": 7680,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2735.672,
+    "text": "Over here you mean? And then another one, one would be participants who did the training program and the people who did it would be, and then to graph the results, there would be participants who did the training and the sham.",
+    "start_ms": 2735672,
+    "end_ms": 2758551,
+    "duration_ms": 22879,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2760.152,
+    "text": "Okay, so I'll give you my training here. I'll give you my training here.",
+    "start_ms": 2760152,
+    "end_ms": 2763592,
+    "duration_ms": 3440,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2765.911,
+    "text": "Participants who did it. Where did they go? And then participants who did the training under TMS would be, take more time.",
+    "start_ms": 2765911,
+    "end_ms": 2781512,
+    "duration_ms": 15601,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2783.111,
+    "text": "Okay, so training with TMS, where does the graph go, up or down or same?",
+    "start_ms": 2783111,
+    "end_ms": 2788711,
+    "duration_ms": 5600,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2793.111,
+    "text": "Actually, no, it would go down. No little bits here.",
+    "start_ms": 2793111,
+    "end_ms": 2798035,
+    "duration_ms": 4924,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2798.035,
+    "text": "You're all in or you're all out. You're going to get yourself in trouble if you're little bits.",
+    "start_ms": 2798035,
+    "end_ms": 2802471,
+    "duration_ms": 4436,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2803.111,
+    "text": "No, you can be a little bit. It's your graph.",
+    "start_ms": 2803111,
+    "end_ms": 2805556,
+    "duration_ms": 2445,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2805.556,
+    "text": "There you go. Where's the other one go? Did it go higher than?",
+    "start_ms": 2805556,
+    "end_ms": 2810312,
+    "duration_ms": 4756,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2812.551,
+    "text": "Okay, you got your experiment, you got your results here.",
+    "start_ms": 2812551,
+    "end_ms": 2816062,
+    "duration_ms": 3511,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2816.062,
+    "text": "And if I read this result, it says, if I got training, TMS made me go faster.",
+    "start_ms": 2816062,
+    "end_ms": 2824883,
+    "duration_ms": 8821,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2824.883,
+    "text": "And if I didn't get training, TMS made me go slower.",
+    "start_ms": 2824883,
+    "end_ms": 2832231,
+    "duration_ms": 7348,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2835.511,
+    "text": "Okay, so I'm just out of sake of time. I'm going to say, this is what's going to happen to some of you.",
+    "start_ms": 2835511,
+    "end_ms": 2841040,
+    "duration_ms": 5529,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2841.04,
+    "text": "You're going to start down this path, and then you're going to realize, wait, how do I interpret this?",
+    "start_ms": 2841040,
+    "end_ms": 2844481,
+    "duration_ms": 3441,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2844.481,
+    "text": "And you're going to say, maybe I got to restart, okay?",
+    "start_ms": 2844481,
+    "end_ms": 2848672,
+    "duration_ms": 4191,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2848.672,
+    "text": "So, and I think we do have to restart here.",
+    "start_ms": 2848672,
+    "end_ms": 2852872,
+    "duration_ms": 4200,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2852.872,
+    "text": "You could salvage this some way, but I'm going to flip it around a little bit, okay?",
+    "start_ms": 2852872,
+    "end_ms": 2857752,
+    "duration_ms": 4880,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2864.072,
+    "text": "So, we want to get training in here somehow. So, we're doing a training study.",
+    "start_ms": 2864072,
+    "end_ms": 2869901,
+    "duration_ms": 5829,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2869.901,
+    "text": "So, one thing we could do is we could save time in months, right?",
+    "start_ms": 2869901,
+    "end_ms": 2878031,
+    "duration_ms": 8130,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2878.031,
+    "text": "It's in six weeks, it's weeks. Why? Because we're doing a training study, and we're trying to figure out how to get training in six weeks.",
+    "start_ms": 2878031,
+    "end_ms": 2890231,
+    "duration_ms": 12200,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2890.08,
+    "text": "one way. Okay, we could also have drafted more categorical, said pre-training, post-training, but we could do it either way.",
+    "start_ms": 2890080,
+    "end_ms": 2899511,
+    "duration_ms": 9431,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2899.511,
+    "text": "We'll pretend we took measurements six times. Now, what are we going to measure?",
+    "start_ms": 2899511,
+    "end_ms": 2903111,
+    "duration_ms": 3600,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2903.111,
+    "text": "Yeah. Okay, you could measure that. Well, let's not. Okay, what's a different measure we could have?",
+    "start_ms": 2903111,
+    "end_ms": 2916613,
+    "duration_ms": 13502,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2916.613,
+    "text": "Yeah. If we do that, do we use fMRI? Someone help him out.",
+    "start_ms": 2916613,
+    "end_ms": 2927834,
+    "duration_ms": 11221,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2927.834,
+    "text": "We want to measure the volume of the brain, volume of the parietal lobe.",
+    "start_ms": 2927834,
+    "end_ms": 2936951,
+    "duration_ms": 9117,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2936.951,
+    "text": "Trick question, not trick question. You got to get it right.",
+    "start_ms": 2936951,
+    "end_ms": 2941610,
+    "duration_ms": 4659,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2941.61,
+    "text": "We would use MRI. So, you're spot on, but you put fMRI.",
+    "start_ms": 2941610,
+    "end_ms": 2945114,
+    "duration_ms": 3504,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2945.114,
+    "text": "fMRI is measuring metabolic processes like the bold response. MRI is measuring structure anatomy.",
+    "start_ms": 2945114,
+    "end_ms": 2952857,
+    "duration_ms": 7743,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2952.857,
+    "text": "So, yeah, that's what we would put over here. We're going to measure the volume of the parietal lobe.",
+    "start_ms": 2952857,
+    "end_ms": 2959204,
+    "duration_ms": 6347,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2959.204,
+    "text": "We're going to measure the volume of the parietal lobe.",
+    "start_ms": 2959204,
+    "end_ms": 2963300,
+    "duration_ms": 4096,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2963.3,
+    "text": "This is large, small, I don't know what the right units are, cubic centimeters or something like that.",
+    "start_ms": 2963300,
+    "end_ms": 2971436,
+    "duration_ms": 8136,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2971.436,
+    "text": "Okay. Now, right, that's what we're testing, right? We're seeing, does the training program change the volume, size of the parietal lobe?",
+    "start_ms": 2971436,
+    "end_ms": 2980390,
+    "duration_ms": 8954,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2980.39,
+    "text": "So, now what do you want to put? What else do we want there?",
+    "start_ms": 2980390,
+    "end_ms": 2984870,
+    "duration_ms": 4480,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2984.87,
+    "text": "What do we need now? Yeah. Still have our training group?",
+    "start_ms": 2984870,
+    "end_ms": 2992808,
+    "duration_ms": 7938,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2992.808,
+    "text": "Training? No training? What do our functions look like? Yeah.",
+    "start_ms": 2992808,
+    "end_ms": 3007231,
+    "duration_ms": 14423,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3007.231,
+    "text": "There's no training. It's training? Bingo. Okay. There we go.",
+    "start_ms": 3007231,
+    "end_ms": 3027670,
+    "duration_ms": 20439,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3027.67,
+    "text": "Now, we have our two experiments, right? The first experiment looked at disruption of the parietal lobe.",
+    "start_ms": 3027670,
+    "end_ms": 3033708,
+    "duration_ms": 6038,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3033.708,
+    "text": "The second one said, I'm going to actually see if I can grow a parietal lobe by giving you spatial reasoning.",
+    "start_ms": 3033708,
+    "end_ms": 3040731,
+    "duration_ms": 7023,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3040.731,
+    "text": "Very experimental approach, right? Nothing correlational about it. I gave you this training program, and I watched your parietal lobe grow, and I used the tools of cognitive neuroscience by doing MRIs every week, once a week.",
+    "start_ms": 3040731,
+    "end_ms": 3053911,
+    "duration_ms": 13180,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3054.471,
+    "text": "I drew these as functions because, obviously, I'm not doing it every day, but, you know, six weeks, it's a continuous variable, and I am plotting the function of how the parietal lobe changes as a function of that.",
+    "start_ms": 3054471,
+    "end_ms": 3065590,
+    "duration_ms": 11119,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3065.59,
+    "text": "All right. Now, you want that A plus? What do you need to do?",
+    "start_ms": 3065590,
+    "end_ms": 3069431,
+    "duration_ms": 3841,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3072.79,
+    "text": "Who wants to get the A plus? Controls, controls, controls.",
+    "start_ms": 3072790,
+    "end_ms": 3080310,
+    "duration_ms": 7520,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3086.071,
+    "text": "Took an MRI. It gives me the whole brain. So, maybe I'm going to actually measure the temporal lobe and see what it happens, and here's where you'd hope you'd have two colors.",
+    "start_ms": 3086071,
+    "end_ms": 3095855,
+    "duration_ms": 9784,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3095.855,
+    "text": "I'll just put them up here. I'll pretend we have very big temporal lobes compared to parietal lobes.",
+    "start_ms": 3095855,
+    "end_ms": 3102071,
+    "duration_ms": 6216,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3107.111,
+    "text": "That's the temporal lobe. That's the parietal lobe. Now, I've really tested my hypothesis.",
+    "start_ms": 3107111,
+    "end_ms": 3114862,
+    "duration_ms": 7751,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3114.862,
+    "text": "It's not that I do six weeks of training, and I grow the whole brain, but I do six weeks of training, and I just grow the parietal lobe, and I've shown I've been able to go beyond by showing that not changing everything, it's something very specific to the parietal lobe, then you get your A plus.",
+    "start_ms": 3114862,
+    "end_ms": 3137892,
+    "duration_ms": 23030,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3137.892,
+    "text": "Yeah. Yeah. Yep. Like, key was I put volume. I made clear that I'm measuring something about the size, okay?",
+    "start_ms": 3137892,
+    "end_ms": 3152032,
+    "duration_ms": 14140,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3152.032,
+    "text": "So, that's what I mean by you want to make sure your dependent variable is the appropriate one for your thing.",
+    "start_ms": 3152032,
+    "end_ms": 3158182,
+    "duration_ms": 6150,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3158.182,
+    "text": "So, if you said I'm doing fMRI and putting volume, you know, you would lose a couple points.",
+    "start_ms": 3158182,
+    "end_ms": 3163358,
+    "duration_ms": 5176,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3163.358,
+    "text": "I'm not going to cream you for that, but, you know, it would be a mismatch.",
+    "start_ms": 3163358,
+    "end_ms": 3167514,
+    "duration_ms": 4156,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3167.514,
+    "text": "Yeah. For a question like this, would you need to detail what six-month training program will be, or can you just say I gave them a training program?",
+    "start_ms": 3167514,
+    "end_ms": 3175190,
+    "duration_ms": 7676,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3177.831,
+    "text": "You probably want to say I gave them a training program for spatial reasoning.",
+    "start_ms": 3177831,
+    "end_ms": 3181439,
+    "duration_ms": 3608,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3181.439,
+    "text": "I mean, if you can think quickly on your feet, you could say I dropped the subjects in San Francisco every day at a random location, find how far it took them to get to go and gain quality.",
+    "start_ms": 3181439,
+    "end_ms": 3192405,
+    "duration_ms": 10966,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3192.405,
+    "text": "I mean, you can, you know, you can do whatever you want there.",
+    "start_ms": 3192405,
+    "end_ms": 3196267,
+    "duration_ms": 3862,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3196.267,
+    "text": "But, yeah, you have to say I'm training on spatial reasoning tests because, well, you see it right now.",
+    "start_ms": 3196267,
+    "end_ms": 3201501,
+    "duration_ms": 5234,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3201.501,
+    "text": "Instead, I could have had a different group that said...",
+    "start_ms": 3201501,
+    "end_ms": 3204630,
+    "duration_ms": 3129,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3204.449,
+    "text": "instead of doing no training, because again, you guys might be thinking, hey, some of these people, they get six weeks of personalized attention from an experimenter every day.",
+    "start_ms": 3204449,
+    "end_ms": 3214710,
+    "duration_ms": 10261,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3214.71,
+    "text": "The other people are doing nothing. Maybe I should have actually had one group that did a spatial reasoning training group, another group that did a verbal reasoning training group or something else.",
+    "start_ms": 3214710,
+    "end_ms": 3224230,
+    "duration_ms": 9520,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3224.23,
+    "text": "So that instead of doing nothing versus the experimental manipulation, I had one that was specific for spatial reasoning and one that wasn't.",
+    "start_ms": 3224230,
+    "end_ms": 3231150,
+    "duration_ms": 6920,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3233.03,
+    "text": "All right, got one more minute. Last questions? You talked about the goal for, like, how are we illustrating the goal for us?",
+    "start_ms": 3233030,
+    "end_ms": 3241670,
+    "duration_ms": 8640,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3241.67,
+    "text": "Ah, because I measured, I had a whole brain MRI.",
+    "start_ms": 3241670,
+    "end_ms": 3245510,
+    "duration_ms": 3840,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3245.51,
+    "text": "I get the whole brain, so I took advantage of my data.",
+    "start_ms": 3245510,
+    "end_ms": 3247830,
+    "duration_ms": 2320,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3247.83,
+    "text": "I said, I looked at the changes in volume, both in the parietal lobe and in the temporal lobe, and I found that my effect was specific to the parietal lobe.",
+    "start_ms": 3247830,
+    "end_ms": 3258150,
+    "duration_ms": 10320,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3258.15,
+    "text": "So I got that dissociation, that single dissociation there. All good?",
+    "start_ms": 3258150,
+    "end_ms": 3265550,
+    "duration_ms": 7400,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3265.55,
+    "text": "All right. Excellent. Stop share.",
+    "start_ms": 3265550,
+    "end_ms": 3271669,
+    "duration_ms": 6119,
+    "word_count": 5,
+    "avg_confidence": 90
+  }
+]

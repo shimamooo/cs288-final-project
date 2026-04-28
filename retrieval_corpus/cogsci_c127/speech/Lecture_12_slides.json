@@ -1,0 +1,3062 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "you you you you you you And then I give them back to me after the class if you give them back to me after the class I'll put them all together If some of the updates that you have, can you think you can send me an updated version of the Excel sheet?",
+    "start_ms": 0,
+    "end_ms": 183679,
+    "duration_ms": 183679,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 183.679,
+    "text": "Just so you can calibrate it? Just so I can see it, because I didn't change everything on the courses that we were talking about.",
+    "start_ms": 183679,
+    "end_ms": 189679,
+    "duration_ms": 6000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 189.679,
+    "text": "Okay, got a lot to do today, so I'm going to plunge in, remind you that basically we're going not live until after spring break now.",
+    "start_ms": 189679,
+    "end_ms": 205679,
+    "duration_ms": 16000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 205.679,
+    "text": "So I said maybe I'd be doing live Zoom next week, but I decided I thought that would be kind of clunky.",
+    "start_ms": 205679,
+    "end_ms": 214679,
+    "duration_ms": 9000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 214.679,
+    "text": "So instead what I'll do is post the lecture in advance and I'll be on a Zoom line that I'll share with you if you want to chat about anything in the lecture.",
+    "start_ms": 214679,
+    "end_ms": 222679,
+    "duration_ms": 8000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 222.679,
+    "text": "It'll be like extended office hours or if you need to talk about anything we can do it then.",
+    "start_ms": 222679,
+    "end_ms": 227679,
+    "duration_ms": 5000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 227.679,
+    "text": "So that's one thing. Two is we're going to give you back the exam one scores will be posted this evening.",
+    "start_ms": 227679,
+    "end_ms": 235679,
+    "duration_ms": 8000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 235.679,
+    "text": "And the cost average was 68. So that was I like it to be more like between 78 and 80.",
+    "start_ms": 235679,
+    "end_ms": 241679,
+    "duration_ms": 6000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 241.679,
+    "text": "So that meant either a combination of I wrote too hard of an exam, we graded too hard, or you guys weren't as well prepared as I was expecting.",
+    "start_ms": 241679,
+    "end_ms": 252679,
+    "duration_ms": 11000,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 252.679,
+    "text": "I don't know what it is. I mean it's always very hard to get the multiple choice well calibrated.",
+    "start_ms": 252679,
+    "end_ms": 258679,
+    "duration_ms": 6000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 258.679,
+    "text": "I was kind of hoping that would be around 15, 16 out of 20.",
+    "start_ms": 258679,
+    "end_ms": 262679,
+    "duration_ms": 4000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 262.679,
+    "text": "So it came out harder than I expected. And the essay I was expecting the average there to be between 40, 41 or something like that.",
+    "start_ms": 262679,
+    "end_ms": 269679,
+    "duration_ms": 7000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 269.679,
+    "text": "And that was a little bit lower. So between the two of them we end up low.",
+    "start_ms": 269679,
+    "end_ms": 274679,
+    "duration_ms": 5000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 274.679,
+    "text": "I don't really do any curving on any single assignment.",
+    "start_ms": 274679,
+    "end_ms": 278679,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 278.679,
+    "text": "It just gets too confusing. I'd have to Z score everything, every assignment.",
+    "start_ms": 278679,
+    "end_ms": 282679,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 282.679,
+    "text": "And it's always worked out much better to just do it at the end of the semester to see if grades are lower than I expect.",
+    "start_ms": 282679,
+    "end_ms": 290679,
+    "duration_ms": 8000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 290.679,
+    "text": "I would just basically adjust where we do the cutoffs.",
+    "start_ms": 290679,
+    "end_ms": 294679,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 294.679,
+    "text": "If you want to look at your scores here, and I'm just looking at and counting up how many scores were above a certain number where I expect the final grade distribution to be.",
+    "start_ms": 294679,
+    "end_ms": 303679,
+    "duration_ms": 9000,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 303.679,
+    "text": "If you got on the exam and see your scores between 80 and 100, that probably falls in the distribution of what would be an A overall.",
+    "start_ms": 303679,
+    "end_ms": 310679,
+    "duration_ms": 7000,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 310.679,
+    "text": "If that was reflective of the whole semester, 55 to 79 would end up in the B range.",
+    "start_ms": 310679,
+    "end_ms": 316679,
+    "duration_ms": 6000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 316.679,
+    "text": "Less than 55 would be in the C range. Again, I've said that if you basically do all the assignments, you're going to pass the class.",
+    "start_ms": 316679,
+    "end_ms": 326679,
+    "duration_ms": 10000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 326.438,
+    "text": "class. So there are a few people, though, on the exam who didn't answer the essay at all.",
+    "start_ms": 326438,
+    "end_ms": 331958,
+    "duration_ms": 5520,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 331.958,
+    "text": "So they got a zero on the essay. So again, that would certainly put someone in D or F range if they didn't do half the exam.",
+    "start_ms": 331958,
+    "end_ms": 340558,
+    "duration_ms": 8600,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 340.558,
+    "text": "So yeah. So anyhow, you'll see your exams posted. The key will be posted and so forth.",
+    "start_ms": 340558,
+    "end_ms": 348758,
+    "duration_ms": 8200,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 349.439,
+    "text": "All right. Any questions about that? Okay. Great. Oh, yeah.",
+    "start_ms": 349439,
+    "end_ms": 357438,
+    "duration_ms": 7999,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 357.438,
+    "text": "So again, there were things that, again, and the multiple choice especially, where I thought I saw from the distribution that the question that I had anticipated was going to be straightforward wasn't straightforward.",
+    "start_ms": 357438,
+    "end_ms": 370759,
+    "duration_ms": 13321,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 370.759,
+    "text": "And like I say, it's always hard to calibrate on the multiple choice.",
+    "start_ms": 370759,
+    "end_ms": 375338,
+    "duration_ms": 4579,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 375.338,
+    "text": "But it did remind me to think that definitely it means that if you say anything in the class and you didn't understand it or you want more clarification, just raise your hand.",
+    "start_ms": 375338,
+    "end_ms": 386939,
+    "duration_ms": 11601,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 386.939,
+    "text": "You don't have to have a well-thought-out question. You could just say, could you go over that again, and I'll be happy to.",
+    "start_ms": 386939,
+    "end_ms": 392859,
+    "duration_ms": 5920,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 392.859,
+    "text": "And 50% of your classmates are going to be so psyched that you did it.",
+    "start_ms": 392859,
+    "end_ms": 395818,
+    "duration_ms": 2959,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 395.818,
+    "text": "So just please ask questions. There have definitely been fewer questions this year than in the past.",
+    "start_ms": 395818,
+    "end_ms": 401619,
+    "duration_ms": 5801,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 401.619,
+    "text": "But the class is about 50% larger, and that may be a factor that kind of intimidates people from asking questions.",
+    "start_ms": 401619,
+    "end_ms": 408778,
+    "duration_ms": 7159,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 408.778,
+    "text": "All right. So today we're going to continue talking about the motor system, and actually we'll talk about what we call translational work a little bit here about how we can take basic insights from neuroscience studies, cognitive neuroscience studies, and actually use them to translate into something that might be clinically useful.",
+    "start_ms": 408778,
+    "end_ms": 430138,
+    "duration_ms": 21360,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 430.138,
+    "text": "So of course we're interested in basic research just to understand the brain and how different parts of the brain come together to support skilled movement, but we also know that there's many different neurological disorders out there that affect people's motor control, okay, like strokes can affect motor control, spinal cord injury, et cetera.",
+    "start_ms": 430138,
+    "end_ms": 450378,
+    "duration_ms": 20240,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 450.378,
+    "text": "And so translational work refers to the idea of taking the basic research concepts and using them in a translational intervention to help individuals.",
+    "start_ms": 450378,
+    "end_ms": 460018,
+    "duration_ms": 9640,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 460.018,
+    "text": "And of course ultimately that is the goal of much of the basic research is to reap benefits to improve health.",
+    "start_ms": 460018,
+    "end_ms": 467699,
+    "duration_ms": 7681,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 467.699,
+    "text": "And this kind of a story that goes back to asking physiological questions about, talked about last week about how much of the brain the motor chauvinists will claim as part of the motor control system, right?",
+    "start_ms": 467699,
+    "end_ms": 480218,
+    "duration_ms": 12519,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 480.218,
+    "text": "Obviously the primary motor cortex, much of the subcortex like the cerebellum and basal ganglia, the spinal cord clearly involved in movement, and then much of the parietal and frontal lobes also contributing to skilled movement.",
+    "start_ms": 480218,
+    "end_ms": 493779,
+    "duration_ms": 13561,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 493.779,
+    "text": "And so we can ask again, one thing we can ask is, well, how is movement represented in cells in the motor cortex?",
+    "start_ms": 493779,
+    "end_ms": 501259,
+    "duration_ms": 7480,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 501.259,
+    "text": "Like we talked last time about perception about how visual properties of the external world were represented in visual areas of the brain, we talked about receptive fields and so forth.",
+    "start_ms": 501259,
+    "end_ms": 511139,
+    "duration_ms": 9880,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 511.179,
+    "text": "We're going to do the same thing with cells in the primary motor cortex, and this is a classic sort of result that's been observed.",
+    "start_ms": 511179,
+    "end_ms": 518458,
+    "duration_ms": 7279,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 518.458,
+    "text": "So the monkey here is going to be holding a lever, a light is going to come on at any one of these eight locations, and the animals trained just move wherever the light is.",
+    "start_ms": 518458,
+    "end_ms": 528738,
+    "duration_ms": 10280,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 528.738,
+    "text": "So for again, it's a fairly relatively easy task to train a primate to be able to do.",
+    "start_ms": 528738,
+    "end_ms": 535979,
+    "duration_ms": 7241,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 535.979,
+    "text": "And what they're doing here then is they're going to implant a recording device so that they can record the activity of neurons in primary motor cortex while the animal is doing this task.",
+    "start_ms": 535979,
+    "end_ms": 547059,
+    "duration_ms": 11080,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 547.059,
+    "text": "And here's the kind of data we get. So this is just showing an aerial view.",
+    "start_ms": 547059,
+    "end_ms": 551098,
+    "duration_ms": 4039,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 551.098,
+    "text": "This would be a movement to the right, a movement to the left, a movement forward, a movement back towards the animal, all planar 2D movements.",
+    "start_ms": 551098,
+    "end_ms": 559018,
+    "duration_ms": 7920,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 559.018,
+    "text": "Each row here is the activity as a single trial.",
+    "start_ms": 559018,
+    "end_ms": 563578,
+    "duration_ms": 4560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 563.578,
+    "text": "So the animal's making maybe about 10 or so trials to the left.",
+    "start_ms": 563578,
+    "end_ms": 567298,
+    "duration_ms": 3720,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 567.298,
+    "text": "Each little dot represents an action potential. So this is all data obtained from one neuron.",
+    "start_ms": 567298,
+    "end_ms": 574018,
+    "duration_ms": 6720,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 574.018,
+    "text": "It's basically showing that this neuron responds strongly when there's a leftward component to the movement, and it responds very weakly when there's a rightward movement there.",
+    "start_ms": 574018,
+    "end_ms": 585099,
+    "duration_ms": 11081,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 585.099,
+    "text": "So you can see lots of action potentials for movements up here, lots of action potentials for movements here and here, some for movements down, but now very little activity down here.",
+    "start_ms": 585099,
+    "end_ms": 595899,
+    "duration_ms": 10800,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 595.899,
+    "text": "And we can plot that. We can plot the response rate as a function of the movement direction, and have kind of smooth things in this idealized function, but we can see the cell fires strongly for movements in the 180 direction, that's what I showed you over here, and files very weakly for the zero degree motion.",
+    "start_ms": 595899,
+    "end_ms": 615138,
+    "duration_ms": 19239,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 615.138,
+    "text": "And so now I've plotted in a sense that motor receptive field of that one neuron, and basically if I listen to the activity of that neuron, I can make a best guess as to what direction the animal's moving.",
+    "start_ms": 615138,
+    "end_ms": 627298,
+    "duration_ms": 12160,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 627.298,
+    "text": "Now, of course, that's just one neuron, and so one neuron's not controlling the animal's behavior overall, but I can repeat that experiment and record from many different neurons and ask are they all coding something like direction?",
+    "start_ms": 627298,
+    "end_ms": 641578,
+    "duration_ms": 14280,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 641.578,
+    "text": "It could be coding something else. Remember, the monkey's sitting here like this to move in this direction.",
+    "start_ms": 641578,
+    "end_ms": 647339,
+    "duration_ms": 5761,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 647.166,
+    "text": "this direction means he's kind of, in a sense, flexing his arm.",
+    "start_ms": 647166,
+    "end_ms": 650878,
+    "duration_ms": 3712,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 650.878,
+    "text": "So maybe it's not really coding the direction. Maybe it's coding activation of the biceps muscle, right?",
+    "start_ms": 650878,
+    "end_ms": 656937,
+    "duration_ms": 6059,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 656.937,
+    "text": "So there's different properties of a movement that might be captured by the activity of that primary, that neuron in the primary motor cortex.",
+    "start_ms": 656937,
+    "end_ms": 666597,
+    "duration_ms": 9660,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 666.597,
+    "text": "So here's the kind of experiment we now do to try to test different hypotheses.",
+    "start_ms": 666597,
+    "end_ms": 671157,
+    "duration_ms": 4560,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 671.157,
+    "text": "They're going to have the same task, reaching to one of eight different locations.",
+    "start_ms": 671157,
+    "end_ms": 677398,
+    "duration_ms": 6241,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 677.398,
+    "text": "The animal's now holding a little handle here, and they basically are going to take three different postures.",
+    "start_ms": 677398,
+    "end_ms": 682997,
+    "duration_ms": 5599,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 682.997,
+    "text": "The animal's going to either hold its hand like this and make the movements, or it's going to hold its hand like this and make the movements, or it's going to rotate the arm and hold the device like this to make the movement.",
+    "start_ms": 682997,
+    "end_ms": 693837,
+    "duration_ms": 10840,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 693.837,
+    "text": "You can see what I've done. When I'm holding it like this, it's one set of muscles to go left.",
+    "start_ms": 693837,
+    "end_ms": 698957,
+    "duration_ms": 5120,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 698.957,
+    "text": "If I do it like this, it's a different set of muscles.",
+    "start_ms": 698957,
+    "end_ms": 701718,
+    "duration_ms": 2761,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 701.718,
+    "text": "It's actually the opposing muscles. And so now I can ask, is that neuron really coding the movement direction, or is it coding something about the muscles?",
+    "start_ms": 701718,
+    "end_ms": 712518,
+    "duration_ms": 10800,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 712.518,
+    "text": "So I'm going to do the experiment with three different postures in eight different movements, right?",
+    "start_ms": 712518,
+    "end_ms": 718317,
+    "duration_ms": 5799,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 718.317,
+    "text": "So it's a three by eight experimental design. And you can try this eye clicker here.",
+    "start_ms": 718317,
+    "end_ms": 724118,
+    "duration_ms": 5801,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 730.637,
+    "text": "So here's a single neuron. This is, again, the direction of the movement.",
+    "start_ms": 730637,
+    "end_ms": 735637,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 735.637,
+    "text": "It's only coding for four different directions, up to the right, down or to the left.",
+    "start_ms": 735637,
+    "end_ms": 741997,
+    "duration_ms": 6360,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 741.997,
+    "text": "And here, again, it's throwing for three different postures, okay?",
+    "start_ms": 741997,
+    "end_ms": 746557,
+    "duration_ms": 4560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 747.438,
+    "text": "E, R, and F are referring to the different postures that the animal's adopting.",
+    "start_ms": 747438,
+    "end_ms": 753158,
+    "duration_ms": 5720,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 753.158,
+    "text": "Extension, radius, or flexion posture here, okay? So just think of E, R, and F are the three different postures.",
+    "start_ms": 753158,
+    "end_ms": 761317,
+    "duration_ms": 8159,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 761.317,
+    "text": "And here's the different directions of motion. So there's those three by four conditions here, 12 conditions.",
+    "start_ms": 761317,
+    "end_ms": 767718,
+    "duration_ms": 6401,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 767.718,
+    "text": "Here's the cell's activity. Remember, each row is a single trial.",
+    "start_ms": 767718,
+    "end_ms": 771958,
+    "duration_ms": 4240,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 771.958,
+    "text": "Dots are action potentials. And the question is, what is this neuron coding?",
+    "start_ms": 771958,
+    "end_ms": 776477,
+    "duration_ms": 4519,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 776.477,
+    "text": "Is it coding something about the muscles, something about the direction, or both?",
+    "start_ms": 776477,
+    "end_ms": 781318,
+    "duration_ms": 4841,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 781.318,
+    "text": "Yeah? That, I don't know what to say about. I mean, obviously, it's working for 111 folks now.",
+    "start_ms": 781318,
+    "end_ms": 799997,
+    "duration_ms": 18679,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 799.997,
+    "text": "Not to worry. Okay? Remember, you got all those free passes.",
+    "start_ms": 799997,
+    "end_ms": 803757,
+    "duration_ms": 3760,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 803.757,
+    "text": "You can try to log on later on. And if ever, at the end of the semester, you discover that these mix-ups with iClick are a problem, you'll come chat with me, and we'll fix it.",
+    "start_ms": 803757,
+    "end_ms": 812718,
+    "duration_ms": 8961,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 812.718,
+    "text": "Okay? So let's take a look at the results here.",
+    "start_ms": 812718,
+    "end_ms": 816158,
+    "duration_ms": 3440,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 816.158,
+    "text": "All right. So people are saying, actually, it seems to code both direction and muscle activity.",
+    "start_ms": 816158,
+    "end_ms": 822438,
+    "duration_ms": 6280,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 822.438,
+    "text": "All right. So let's take a look at that. So certainly, we can see that the cell, okay, if I look here, whenever you're going in the upward direction, the cell's never firing.",
+    "start_ms": 822438,
+    "end_ms": 836037,
+    "duration_ms": 13599,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 836.037,
+    "text": "Doesn't matter which muscle groups are used to make you go in the outward direction.",
+    "start_ms": 836037,
+    "end_ms": 840518,
+    "duration_ms": 4481,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 840.518,
+    "text": "The cell never fires. Down direction, well, there seems to be a good bit of activity.",
+    "start_ms": 840518,
+    "end_ms": 846037,
+    "duration_ms": 5519,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 846.037,
+    "text": "When I go down, I mean, when I go, I'm sorry, that was going up.",
+    "start_ms": 846037,
+    "end_ms": 849078,
+    "duration_ms": 3041,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 849.078,
+    "text": "Yeah. When I go to the right, and it doesn't matter which posture I choose, similarly, going down, so going to the right or going down, I get a lot of activity.",
+    "start_ms": 849078,
+    "end_ms": 860318,
+    "duration_ms": 11240,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 860.318,
+    "text": "When actually going to the left, I get essentially no activity.",
+    "start_ms": 860318,
+    "end_ms": 862598,
+    "duration_ms": 2280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 862.598,
+    "text": "So this neuron actually is really only coding direction because it's firing similarly independent of which postural response I'm using.",
+    "start_ms": 862598,
+    "end_ms": 872197,
+    "duration_ms": 9599,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 872.197,
+    "text": "So it's actually making the same response when I'm moving down by extending my wrist or flexing my wrist.",
+    "start_ms": 872197,
+    "end_ms": 879218,
+    "duration_ms": 7021,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 879.218,
+    "text": "So this would be a neuron that's really purely coding the direction and doesn't seem to care about the muscles.",
+    "start_ms": 879218,
+    "end_ms": 886318,
+    "duration_ms": 7100,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 890.318,
+    "text": "But I can contrast that with another one here. That's this neuron up here.",
+    "start_ms": 890318,
+    "end_ms": 896877,
+    "duration_ms": 6559,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 896.877,
+    "text": "And notice its activity can actually vary. It's always active whenever I have this E posture, this particular posture here, the extensor posture.",
+    "start_ms": 896877,
+    "end_ms": 907477,
+    "duration_ms": 10600,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 907.477,
+    "text": "Whenever it's doing an extensor movement, so moving the wrist up, its activity level is high independent of what the direction is.",
+    "start_ms": 907477,
+    "end_ms": 915197,
+    "duration_ms": 7720,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 915.197,
+    "text": "So actually, that's what they found in the primary motor cortex, that you get some neurons that are coding direction.",
+    "start_ms": 915197,
+    "end_ms": 920757,
+    "duration_ms": 5560,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 920.757,
+    "text": "You get some neurons that are coding the muscles. It's a mixed bag.",
+    "start_ms": 920757,
+    "end_ms": 925757,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 925.757,
+    "text": "If I actually now do the same experiment in the premotor cortex, the parietal, I can do it down in the spinal level, what you'll see is that there's a difference in terms of the distribution of what's being coded.",
+    "start_ms": 925757,
+    "end_ms": 937877,
+    "duration_ms": 12120,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 937.877,
+    "text": "When I'm down in the spinal cord, everything seems to be about coding the muscles.",
+    "start_ms": 937877,
+    "end_ms": 942238,
+    "duration_ms": 4361,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 942.238,
+    "text": "And that's because, again, those spinal motor neurons or those cortical motor neurons are projecting onto particular muscles.",
+    "start_ms": 942238,
+    "end_ms": 948937,
+    "duration_ms": 6699,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 948.937,
+    "text": "They're actually activating the muscles. Up in the primary motor cortex, I told you we get this mixture of direction coding and muscle coding.",
+    "start_ms": 948937,
+    "end_ms": 957738,
+    "duration_ms": 8801,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 957.738,
+    "text": "We actually go to the secondary motor area, it becomes directional still, but it might be context dependent.",
+    "start_ms": 957738,
+    "end_ms": 962417,
+    "duration_ms": 4679,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 962.417,
+    "text": "It might mean, is it moving in a particular direction when it's part of a large...",
+    "start_ms": 962417,
+    "end_ms": 967058,
+    "duration_ms": 4641,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 966.743,
+    "text": "a larger movement, a sequential movement pattern? And actually, if we go to the parietal lobe, it doesn't seem to be anything about the direction of the movement per se, but where is that goal that I want to reach relative to where my body currently is?",
+    "start_ms": 966743,
+    "end_ms": 980797,
+    "duration_ms": 14054,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 980.797,
+    "text": "So a parietal neuron, if I want my water bottle, it might fire strongly if the water bottle is over there, it might still fire strongly if the water bottle is over, well, it doesn't matter how I orient my body, it keeps track of where that bottle is.",
+    "start_ms": 980797,
+    "end_ms": 994717,
+    "duration_ms": 13920,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 994.717,
+    "text": "And so you can see that there's sort of then a cascade here for goal-directed reaching, where I can think about that the parietal lobe sort of specifying where something is located in space, and we talked about perception for action being that dorsal parietal system, that's specifying where's my goal, where do I want to actually end up with my movement?",
+    "start_ms": 994717,
+    "end_ms": 1015636,
+    "duration_ms": 20919,
+    "word_count": 62,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1015.636,
+    "text": "And then premotor regions, we get more of a complex representation about the overall skill, but it's coding the direction of the movement.",
+    "start_ms": 1015636,
+    "end_ms": 1023717,
+    "duration_ms": 8081,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1023.717,
+    "text": "Once we get to the motor cortex, we get the sort of mixture, and eventually cascading into the muscles to actually produce activation of a particular muscle pattern, which is going to be required to actually produce that movement.",
+    "start_ms": 1023717,
+    "end_ms": 1035316,
+    "duration_ms": 11599,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1035.316,
+    "text": "So you can think about that as a way to think about this hierarchical, or this going from abstract location in space I want to get to, to turning it into a muscle pattern that actually propels a limb to that location.",
+    "start_ms": 1035316,
+    "end_ms": 1048397,
+    "duration_ms": 13081,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1048.397,
+    "text": "So that's a picture you have there, but in terms of the translational question we can ask is, what if we wanted to do the same thing, but we didn't have an arm, right?",
+    "start_ms": 1048397,
+    "end_ms": 1057876,
+    "duration_ms": 9479,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1057.876,
+    "text": "We'd had some sort of damage, we might have had a stroke that caused hemiplegia, we can't use our arm anymore, we might have had a degenerative disease like ALS, what's called Lou Gehrig disease, where basically the cortex stays intact, but those motor neurons all atrophy and the person becomes eventually paralyzed, even though again their cognition's intact, or we might talk about people with trauma, like the spinal injury or the amputees, if we wanted to actually allow them to use their brain in some way to control a robotic device.",
+    "start_ms": 1057876,
+    "end_ms": 1090576,
+    "duration_ms": 32700,
+    "word_count": 93,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1090.576,
+    "text": "And that's what's called the world of the brain machine or something.",
+    "start_ms": 1090576,
+    "end_ms": 1094456,
+    "duration_ms": 3880,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1094.456,
+    "text": "Brain machine interfaces, BMI, some people call it BCI, brain computer interface.",
+    "start_ms": 1094456,
+    "end_ms": 1100417,
+    "duration_ms": 5961,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1100.417,
+    "text": "The idea is, can we actually take the knowledge we have from the basic research about how information's coded and use it to control these devices, okay?",
+    "start_ms": 1100417,
+    "end_ms": 1108137,
+    "duration_ms": 7720,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1108.137,
+    "text": "So it's going to be the idea of, I'm going to have visual input, I'm going to have some sort of artificial limb here, but can I take that pattern of neural activity, right?",
+    "start_ms": 1108137,
+    "end_ms": 1118376,
+    "duration_ms": 10239,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1118.376,
+    "text": "If I could record some, some get some physiological signal, it might be invasive by recording neurons, it might be non-invasive by recording, say, EEG.",
+    "start_ms": 1118376,
+    "end_ms": 1128497,
+    "duration_ms": 10121,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1128.497,
+    "text": "Can I take that pattern of neural activity and basically use some sort of computer algorithm to actually use that to control the robotic device or the prosthetic device?",
+    "start_ms": 1128497,
+    "end_ms": 1138897,
+    "duration_ms": 10400,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1138.897,
+    "text": "And I'll just now talk you through kind of about 25 years of research to the current state we're at.",
+    "start_ms": 1138897,
+    "end_ms": 1144537,
+    "duration_ms": 5640,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1144.537,
+    "text": "And a really important concept that came out of, you know, basic research, fundamental neuroscience, was the idea of how do we represent a population of neurons?",
+    "start_ms": 1144537,
+    "end_ms": 1155736,
+    "duration_ms": 11199,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1155.736,
+    "text": "So I've been talking about how we can represent a single neuron, right?",
+    "start_ms": 1155736,
+    "end_ms": 1158477,
+    "duration_ms": 2741,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1158.477,
+    "text": "Does it code the muscle? Does it code the direction?",
+    "start_ms": 1158477,
+    "end_ms": 1161417,
+    "duration_ms": 2940,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1161.417,
+    "text": "Does it code a location? Again though, our behavior is not driven by individual neurons, it's driven by hundreds of thousands or millions of neurons.",
+    "start_ms": 1161417,
+    "end_ms": 1170216,
+    "duration_ms": 8799,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1170.216,
+    "text": "So how do we actually figure out how to interpret the code of a population of neurons rather than an individual one?",
+    "start_ms": 1170216,
+    "end_ms": 1176897,
+    "duration_ms": 6681,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1176.897,
+    "text": "And a key idea is what's called vector representation. And basically it's a fairly simple mathematical operation.",
+    "start_ms": 1176897,
+    "end_ms": 1186936,
+    "duration_ms": 10039,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1186.936,
+    "text": "We're basically going to take, if we know the coding of an individual neuron, and then we have a collection of those neurons, we can just sum up all their activity to get a sense of what's the population of neurons pointing, what's its representation over the population rather than the representation from a single neuron.",
+    "start_ms": 1186936,
+    "end_ms": 1208037,
+    "duration_ms": 21101,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1208.037,
+    "text": "So the idea is we can figure out the tuning curve for each cell individually.",
+    "start_ms": 1208037,
+    "end_ms": 1213436,
+    "duration_ms": 5399,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1213.436,
+    "text": "That was the experiment I already described. I showed you a cell that had a preferred tuning at 180 degrees, but if I record it from other neurons, I'd find that their tuning is quite different.",
+    "start_ms": 1213436,
+    "end_ms": 1223757,
+    "duration_ms": 10321,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1223.757,
+    "text": "For instance, this is a cell that its preferred direction is at 45 degrees.",
+    "start_ms": 1223757,
+    "end_ms": 1229436,
+    "duration_ms": 5679,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1229.436,
+    "text": "So every cell we could characterize if we did our recordings, right?",
+    "start_ms": 1229436,
+    "end_ms": 1233316,
+    "duration_ms": 3880,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1233.316,
+    "text": "Record from the neurons, have the animal move in different directions.",
+    "start_ms": 1233316,
+    "end_ms": 1237037,
+    "duration_ms": 3721,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1237.037,
+    "text": "We could build up the tuning curve for each of the individual neurons.",
+    "start_ms": 1237037,
+    "end_ms": 1241316,
+    "duration_ms": 4279,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1241.316,
+    "text": "And then when you make a movement, we can measure the level of activity for each of those neurons.",
+    "start_ms": 1241316,
+    "end_ms": 1251477,
+    "duration_ms": 10161,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1251.477,
+    "text": "We can think of it that each cell is basically voting for how likely is the current movement in its preferred direction.",
+    "start_ms": 1251477,
+    "end_ms": 1260197,
+    "duration_ms": 8720,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1260.197,
+    "text": "So for instance, consider this trial here where the person's moving to the left.",
+    "start_ms": 1260197,
+    "end_ms": 1264517,
+    "duration_ms": 4320,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1264.517,
+    "text": "This red cell that was 180 was to the left.",
+    "start_ms": 1264517,
+    "end_ms": 1267316,
+    "duration_ms": 2799,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1267.316,
+    "text": "It's very strongly activated. So the length of this vector, the vectors pointing in the direction of that cell's tuning function, the length of that vector indicates how intensely that cell's firing.",
+    "start_ms": 1267316,
+    "end_ms": 1279716,
+    "duration_ms": 12400,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1279.716,
+    "text": "So when I go to the left, this cell's firing at its maximal rate.",
+    "start_ms": 1279716,
+    "end_ms": 1283037,
+    "duration_ms": 3321,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1283.037,
+    "text": "This cell's firing just a little bit here at that level.",
+    "start_ms": 1283037,
+    "end_ms": 1286556,
+    "duration_ms": 3519,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1286.422,
+    "text": "level. If I just sum them up, this would be kind of then what the population activity is.",
+    "start_ms": 1286422,
+    "end_ms": 1291710,
+    "duration_ms": 5288,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1291.71,
+    "text": "It says that this is the direction the animal is going to move if its movement was controlled just by those two cells.",
+    "start_ms": 1291710,
+    "end_ms": 1298226,
+    "duration_ms": 6516,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1298.226,
+    "text": "Here would be another condition. Let's say I'm making the upward movement.",
+    "start_ms": 1298226,
+    "end_ms": 1302334,
+    "duration_ms": 4108,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1302.334,
+    "text": "Now this cell fires very weakly. That's at 90 degrees.",
+    "start_ms": 1302334,
+    "end_ms": 1306520,
+    "duration_ms": 4186,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1306.52,
+    "text": "And this cell is firing very strongly. So now if I combine those two vectors, I get this population vector pointing to the direction of the predicted movement given that I have just two cells.",
+    "start_ms": 1306520,
+    "end_ms": 1320138,
+    "duration_ms": 13618,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1320.138,
+    "text": "But of course, again, now we just have two cells.",
+    "start_ms": 1320138,
+    "end_ms": 1322845,
+    "duration_ms": 2707,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1322.845,
+    "text": "And the question is, how many cells do we have to repeat in order to get a good match between what the animal is doing, what the population vector shows?",
+    "start_ms": 1322845,
+    "end_ms": 1331423,
+    "duration_ms": 8578,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1331.423,
+    "text": "And you might have thought a priori this might be a number of hundreds of thousands, something that'd be really impossible to do.",
+    "start_ms": 1331423,
+    "end_ms": 1337238,
+    "duration_ms": 5815,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1337.238,
+    "text": "But it turns out that if we just record from 30 to 80 randomly selected cells in the primary motor cortex, we actually get a very good match between the population vector across those, say, 80 cells and the actual movement.",
+    "start_ms": 1337238,
+    "end_ms": 1352693,
+    "duration_ms": 15455,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1352.693,
+    "text": "And that's what's shown here. For every different movement direction, these little lines represent the individual votes of each of the 80 neurons.",
+    "start_ms": 1352693,
+    "end_ms": 1362509,
+    "duration_ms": 9816,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1362.509,
+    "text": "Okay? So cells that are pointing, tuned in this direction, they're firing very strongly.",
+    "start_ms": 1362509,
+    "end_ms": 1367395,
+    "duration_ms": 4886,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1367.395,
+    "text": "A cell pointed this direction is firing very weakly. It's a very small vector.",
+    "start_ms": 1367395,
+    "end_ms": 1372242,
+    "duration_ms": 4847,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1372.242,
+    "text": "But when I add up all 80 cells, the prediction is that this is the direction of the animal's movement.",
+    "start_ms": 1372242,
+    "end_ms": 1378667,
+    "duration_ms": 6425,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1378.667,
+    "text": "If I added up all these, this is the direction.",
+    "start_ms": 1378667,
+    "end_ms": 1381715,
+    "duration_ms": 3048,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1381.715,
+    "text": "And you can see that the prediction, the sum of those 80 individual vectors matches almost perfectly the direction that the animal's moving.",
+    "start_ms": 1381715,
+    "end_ms": 1390498,
+    "duration_ms": 8783,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1390.498,
+    "text": "So again, just from a random sample of 80 neurons in the primary motor cortex, I can listen to their activity, make a prediction of what the animal's behavior actually was, and I find that I had almost a perfect prediction just from this very small sample of all the different neurons out there.",
+    "start_ms": 1390498,
+    "end_ms": 1409519,
+    "duration_ms": 19021,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1409.519,
+    "text": "Moreover, I can actually look at this activity while the animal's moving, but as interesting as I can give a signal to the animal, move in this direction here at time zero, but I can train the animal to say, but wait, you can't start that movement until maybe a half second later, maybe one second later, maybe two seconds later.",
+    "start_ms": 1409519,
+    "end_ms": 1435136,
+    "duration_ms": 25617,
+    "word_count": 61,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1435.136,
+    "text": "So the animal gets the cue about where to move.",
+    "start_ms": 1435136,
+    "end_ms": 1438390,
+    "duration_ms": 3254,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1438.39,
+    "text": "It's got to be ready to make that movement because I'm going to reward it from going fast, but it can't start the movement until I give it this go signal.",
+    "start_ms": 1438390,
+    "end_ms": 1446164,
+    "duration_ms": 7774,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1446.164,
+    "text": "So now I can ask, what happens during that delay period?",
+    "start_ms": 1446164,
+    "end_ms": 1450024,
+    "duration_ms": 3860,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1450.024,
+    "text": "And this is what's showing. This is showing the population vector when I point here.",
+    "start_ms": 1450024,
+    "end_ms": 1454923,
+    "duration_ms": 4899,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1454.923,
+    "text": "Of course, when the cue comes on, it's basically not pointing any direction.",
+    "start_ms": 1454923,
+    "end_ms": 1458691,
+    "duration_ms": 3768,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1458.691,
+    "text": "All the cells are kind of randomly firing, but you can see very quickly the population vector starts to orient in the direction of the forthcoming movement.",
+    "start_ms": 1458691,
+    "end_ms": 1468915,
+    "duration_ms": 10224,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1468.915,
+    "text": "So now I'm actually in a better position even. I can tell you before the animal's even started to move exactly where it's going to move, right?",
+    "start_ms": 1468915,
+    "end_ms": 1477245,
+    "duration_ms": 8330,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1477.245,
+    "text": "It's a form of mind reading. I can decode the upcoming movement by reading the population vector before the go signal comes on.",
+    "start_ms": 1477245,
+    "end_ms": 1485669,
+    "duration_ms": 8424,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1485.669,
+    "text": "And this turns out to be a really potent signal for using brain machine interface systems, right?",
+    "start_ms": 1485669,
+    "end_ms": 1493606,
+    "duration_ms": 7937,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1493.606,
+    "text": "Because I want to be able to control a device, say a robotic device, to pick up this bottle here.",
+    "start_ms": 1493606,
+    "end_ms": 1499968,
+    "duration_ms": 6362,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1499.968,
+    "text": "Person can't use their limb, but if I can read their population vector and know what they want to do, I can use the population vector to control the robotic device to pick up the limb.",
+    "start_ms": 1499968,
+    "end_ms": 1510036,
+    "duration_ms": 10068,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1511.156,
+    "text": "Well, sounds easy. Turned out to be a hard problem, but it's basically one that the first sort of effort at this was about in 1999, so 25 years ago, 27 years ago.",
+    "start_ms": 1511156,
+    "end_ms": 1522599,
+    "duration_ms": 11443,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1522.599,
+    "text": "Not starting with any complicated movement and so forth, starting with a very simple task.",
+    "start_ms": 1522599,
+    "end_ms": 1528267,
+    "duration_ms": 5668,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1528.267,
+    "text": "This rat here is trained to press this lever. Whenever it presses the lever, it makes this robot arm go from the water dispenser to the animal so that he gets a drink of water.",
+    "start_ms": 1528267,
+    "end_ms": 1540908,
+    "duration_ms": 12641,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1540.908,
+    "text": "So it presses hard, gets a drink of water, relaxes, the arm goes back, fills up with another drop of water.",
+    "start_ms": 1540908,
+    "end_ms": 1547369,
+    "duration_ms": 6461,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1547.369,
+    "text": "So the animal's just trained, press with some force to produce, to make that lever arm move back and forth, okay?",
+    "start_ms": 1547369,
+    "end_ms": 1554715,
+    "duration_ms": 7346,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1554.715,
+    "text": "What they're going to do is they're going to record from cells in the primary motor cortex.",
+    "start_ms": 1554715,
+    "end_ms": 1560055,
+    "duration_ms": 5340,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1560.055,
+    "text": "Yes, they code for both muscle, they code for force, direction.",
+    "start_ms": 1560055,
+    "end_ms": 1563565,
+    "duration_ms": 3510,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1563.565,
+    "text": "They also are, in a sense, coding for the force.",
+    "start_ms": 1563565,
+    "end_ms": 1567192,
+    "duration_ms": 3627,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1567.192,
+    "text": "So they're going to find out which cells are most active when the animal's pressing down, which ones aren't.",
+    "start_ms": 1567192,
+    "end_ms": 1572198,
+    "duration_ms": 5006,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1572.198,
+    "text": "And from that, they're going to create this population vector, not for direction, so much here as for force.",
+    "start_ms": 1572198,
+    "end_ms": 1579160,
+    "duration_ms": 6962,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1579.16,
+    "text": "So what the animal's doing is it's sitting there, they've decoded the activity of say 35, 50 to 50 neurons.",
+    "start_ms": 1579160,
+    "end_ms": 1586937,
+    "duration_ms": 7777,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1586.937,
+    "text": "They now have identified, they've identified the characteristics of each of the neurons.",
+    "start_ms": 1586937,
+    "end_ms": 1592692,
+    "duration_ms": 5755,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1592.692,
+    "text": "And at some point, they switch over from brain control to computer control.",
+    "start_ms": 1592692,
+    "end_ms": 1597749,
+    "duration_ms": 5057,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1597.749,
+    "text": "The computer is simply looking at the level of activity in those 50 neurons, and it's producing a position of the robot arm.",
+    "start_ms": 1597749,
+    "end_ms": 1606115,
+    "duration_ms": 8366,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1606.066,
+    "text": "based on the level of activity. So, it's not based on what the animal is doing.",
+    "start_ms": 1606066,
+    "end_ms": 1610995,
+    "duration_ms": 4929,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1610.995,
+    "text": "That robot device now is just going wherever the brain tells it to go.",
+    "start_ms": 1610995,
+    "end_ms": 1615315,
+    "duration_ms": 4320,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1615.315,
+    "text": "And lo and behold, the water is going back and forth, back and forth there.",
+    "start_ms": 1615315,
+    "end_ms": 1619395,
+    "duration_ms": 4080,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1619.395,
+    "text": "Oh, I thought I had an eye click on that one.",
+    "start_ms": 1619395,
+    "end_ms": 1622235,
+    "duration_ms": 2840,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1622.235,
+    "text": "I don't. Okay. Now, what's especially interesting here is now you got two different things going on.",
+    "start_ms": 1622235,
+    "end_ms": 1628075,
+    "duration_ms": 5840,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1628.075,
+    "text": "You got the rat sitting there pressing on the lever and the rat thinks it's in control of the lever arm, but actually it's no longer in control of it.",
+    "start_ms": 1628075,
+    "end_ms": 1635595,
+    "duration_ms": 7520,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1635.595,
+    "text": "It's the brain signals. Now, the two are sort of correlated, but they're not perfectly correlated because neurons are noisy and so forth.",
+    "start_ms": 1635595,
+    "end_ms": 1644154,
+    "duration_ms": 8559,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1644.154,
+    "text": "What's really amazing in this first experiment is that pretty quickly on, the rat's figured out, hey, that lever arm is no longer going where my arm movement is, and so the rat's just sort of chill.",
+    "start_ms": 1644154,
+    "end_ms": 1654435,
+    "duration_ms": 10281,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1654.435,
+    "text": "It just sat there and had the lever arm going back and forth just by thinking or just by imagining the device coming back and forth to them.",
+    "start_ms": 1654435,
+    "end_ms": 1662115,
+    "duration_ms": 7680,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1662.115,
+    "text": "So again, two different things happening here. One, they can actually do this brain control interface here.",
+    "start_ms": 1662115,
+    "end_ms": 1668435,
+    "duration_ms": 6320,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1668.435,
+    "text": "The brain could control what the lever arm position was.",
+    "start_ms": 1668435,
+    "end_ms": 1671435,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1671.435,
+    "text": "The second was that the rats actually inferred that they were no longer causing the lever arm to move over and to be nice and efficient and lazy, they actually stopped pressing on the lever.",
+    "start_ms": 1671435,
+    "end_ms": 1682674,
+    "duration_ms": 11239,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1683.674,
+    "text": "Now, that was a simple one-dimensional problem, just what's the force level.",
+    "start_ms": 1683674,
+    "end_ms": 1688435,
+    "duration_ms": 4761,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1688.435,
+    "text": "A few years later, people came along and basically said, well, let's make it a more challenging task.",
+    "start_ms": 1688435,
+    "end_ms": 1694234,
+    "duration_ms": 5799,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1694.234,
+    "text": "Let's make it a two-dimensional control task. So they're going to now record, again, from cells in M1.",
+    "start_ms": 1694234,
+    "end_ms": 1701195,
+    "duration_ms": 6961,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1701.195,
+    "text": "For a while, the monkey's going to actually move a cursor to control the position of the green dot, and they're trained to get the green dot onto the red dot.",
+    "start_ms": 1701195,
+    "end_ms": 1710475,
+    "duration_ms": 9280,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1710.475,
+    "text": "So the red dot's going to jump to a new location.",
+    "start_ms": 1710475,
+    "end_ms": 1713075,
+    "duration_ms": 2600,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1713.075,
+    "text": "They use their arm to move the cursor over to that location.",
+    "start_ms": 1713075,
+    "end_ms": 1717115,
+    "duration_ms": 4040,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1717.115,
+    "text": "They do that for a while, while they record from the neurons, they characterize the property of, say, 50 to 80 neurons, and then they actually prevent the animal from making the arm movements and make it do the brain commuter interface control, and this is what you get, this sort of online control.",
+    "start_ms": 1717115,
+    "end_ms": 1734195,
+    "duration_ms": 17080,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1734.915,
+    "text": "Now, you can see it's not nearly as good as when the animal could actually make the movement.",
+    "start_ms": 1734915,
+    "end_ms": 1741555,
+    "duration_ms": 6640,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1741.555,
+    "text": "Every time they successfully get the green dot to the red dot, it immediately jumps to a new location.",
+    "start_ms": 1741555,
+    "end_ms": 1746915,
+    "duration_ms": 5360,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1746.915,
+    "text": "Obviously, if the animal is moving, he would actually move very smoothly from one location to another, but here they're just using a sample of 50 neurons to actually control that cursor position, because, again, these things have coded direction, so they can look at the neural activity to figure out what's the population vector, so the position of the green dot is always dictated.",
+    "start_ms": 1746915,
+    "end_ms": 1768995,
+    "duration_ms": 22080,
+    "word_count": 65,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1768.995,
+    "text": "It's always a function of what the population vector is, nothing to do with the animal's movement.",
+    "start_ms": 1768995,
+    "end_ms": 1774715,
+    "duration_ms": 5720,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1774.715,
+    "text": "You can see there's pretty good control, very noisy, but nonetheless, you know, here they're already achieving 2D control.",
+    "start_ms": 1774715,
+    "end_ms": 1783195,
+    "duration_ms": 8480,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1783.195,
+    "text": "A few years later, then, people moved into the 3D world, so again, it's the exact same thing, now they're just operating in 3D space.",
+    "start_ms": 1783195,
+    "end_ms": 1792475,
+    "duration_ms": 9280,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1792.475,
+    "text": "So here's the 2004 version of that, oh, it's already playing.",
+    "start_ms": 1792475,
+    "end_ms": 1797555,
+    "duration_ms": 5080,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1797.555,
+    "text": "So here's the monkey, again, this is a, not the monkey's limb, this is a robotic device.",
+    "start_ms": 1797555,
+    "end_ms": 1805115,
+    "duration_ms": 7560,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1805.115,
+    "text": "Monkey's arm is actually strapped down, so it can't move its arm there, but again, what you see is the experimenter holds out a piece, I think it's a little marshmallows or peanuts, and the animal can control that robotic device just through the population vector that's being taken from its primary motor cortex.",
+    "start_ms": 1805115,
+    "end_ms": 1821794,
+    "duration_ms": 16679,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1821.794,
+    "text": "Now, you might say, this looks really impressive, like not only does it reach out there, it then grasps.",
+    "start_ms": 1821794,
+    "end_ms": 1828174,
+    "duration_ms": 6380,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1828.174,
+    "text": "The grasping actually turns out to be a much harder problem, and so what the code was doing here is it just basically was looking at, in a binary way, if this flexion movement crossed some threshold, the thing closed, and then it opened up again.",
+    "start_ms": 1828174,
+    "end_ms": 1842055,
+    "duration_ms": 13881,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1842.055,
+    "text": "They weren't doing the very precise kind of gripping that we all do so exquisitely all the time.",
+    "start_ms": 1842055,
+    "end_ms": 1847335,
+    "duration_ms": 5280,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1847.335,
+    "text": "Here you can see, again, a more refined system, just four years later, the same group, same experiment pretty much, and the algorithm's just much stronger at this point, and the grip control is also no longer binary, but it's much smoother movements.",
+    "start_ms": 1847335,
+    "end_ms": 1862335,
+    "duration_ms": 15000,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1862.335,
+    "text": "And again, the improvements from 2004 to 2008, the same way from 1999 to 2008, was always in terms of the learning algorithms that were being used to train these decoders.",
+    "start_ms": 1862335,
+    "end_ms": 1875134,
+    "duration_ms": 12799,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1875.134,
+    "text": "It's always the same sort of idea, record from a bunch of neurons, because these are animals with the intact brain, while they made movements, characterize the directional tuning of all the neurons, and then switch to brain control by looking at the output level of the population vector over all the neurons that had been identified.",
+    "start_ms": 1875134,
+    "end_ms": 1896055,
+    "duration_ms": 20921,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1896.055,
+    "text": "Okay, so now, though, we want to go to human applications, right?",
+    "start_ms": 1896055,
+    "end_ms": 1903014,
+    "duration_ms": 6959,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1903.014,
+    "text": "I mean, this is, you know, monkeys and rats and all, but, of course, the real translational goal is to help people with neurological conditions, so here's another question for you, multiple choice.",
+    "start_ms": 1903014,
+    "end_ms": 1914375,
+    "duration_ms": 11361,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1914.375,
+    "text": "I hope it works for folks here, are you back online?",
+    "start_ms": 1914375,
+    "end_ms": 1917815,
+    "duration_ms": 3440,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1917.815,
+    "text": "Okay. Okay, we want to extend this work to humans, but, of course, the people we're trying to help have lost their...",
+    "start_ms": 1917815,
+    "end_ms": 1926215,
+    "duration_ms": 8400,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1925.882,
+    "text": "lost a limb, okay? So why is it going to be a really challenging problem to actually make this leap from the laboratory to human clinical trials?",
+    "start_ms": 1925882,
+    "end_ms": 1942793,
+    "duration_ms": 16911,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1942.793,
+    "text": "All right, so let's take a look at your results there.",
+    "start_ms": 1942793,
+    "end_ms": 1962314,
+    "duration_ms": 19521,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1962.314,
+    "text": "You can keep on voting. I know you guys even like to switch your voting.",
+    "start_ms": 1962314,
+    "end_ms": 1965833,
+    "duration_ms": 3519,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1965.833,
+    "text": "Okay, so you guys certainly see this as a bit of a puzzle, like what is the real technological challenge here?",
+    "start_ms": 1965833,
+    "end_ms": 1974373,
+    "duration_ms": 8540,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1974.373,
+    "text": "And B, C, and D all got a strong number of votes.",
+    "start_ms": 1974373,
+    "end_ms": 1979634,
+    "duration_ms": 5261,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1979.634,
+    "text": "So no one's saying A, because you guys know, obviously we've already seen some examples where they've implanted people with electrodes.",
+    "start_ms": 1979634,
+    "end_ms": 1986474,
+    "duration_ms": 6840,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1986.474,
+    "text": "So it's a very costly procedure, probably one that's not going to have wide applicability, but nonetheless we can do some invasive recordings.",
+    "start_ms": 1986474,
+    "end_ms": 1995334,
+    "duration_ms": 8860,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1995.334,
+    "text": "B is that the patients can't move their affected limb, and that really is a problem, right?",
+    "start_ms": 1995334,
+    "end_ms": 1999533,
+    "duration_ms": 4199,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1999.533,
+    "text": "If I'm paralyzed, or if I don't have that limb, I can't do the thing I've been doing with the monkeys.",
+    "start_ms": 1999533,
+    "end_ms": 2004533,
+    "duration_ms": 5000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2004.533,
+    "text": "The monkeys, I have them move their arm to get the tuning vector of those neurons.",
+    "start_ms": 2004533,
+    "end_ms": 2009213,
+    "duration_ms": 4680,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2009.213,
+    "text": "Well, I can't do that with a person if they don't have their limb, so how am I going to characterize the different neurons in order to train my machine thing?",
+    "start_ms": 2009213,
+    "end_ms": 2017993,
+    "duration_ms": 8780,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2017.993,
+    "text": "And then C is the large size, well, that could be a problem, but again, that just means that might need more electrodes to actually cover the homunculus, even if it's big.",
+    "start_ms": 2017993,
+    "end_ms": 2027154,
+    "duration_ms": 9161,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2027.154,
+    "text": "So B is the right answer to this one here.",
+    "start_ms": 2027154,
+    "end_ms": 2030074,
+    "duration_ms": 2920,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2030.074,
+    "text": "If that was the real challenge, how do you actually train one of these decoders if I don't have that earlier phase where I can actually observe the activity of the neurons?",
+    "start_ms": 2030074,
+    "end_ms": 2040754,
+    "duration_ms": 10680,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2040.754,
+    "text": "All right, so let's look at a few ways people have thought about that problem.",
+    "start_ms": 2040754,
+    "end_ms": 2044754,
+    "duration_ms": 4000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2045.514,
+    "text": "Okay, right, so how do you train it if you can't have that movement phase?",
+    "start_ms": 2045514,
+    "end_ms": 2049713,
+    "duration_ms": 4199,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2049.713,
+    "text": "Well, the first solution, one that's still widely used, is what I'll call an adaptive decoder.",
+    "start_ms": 2049713,
+    "end_ms": 2055553,
+    "duration_ms": 5840,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2055.553,
+    "text": "So, again, the way we typically do it is, right, we read the signals, and then we actually use that to sort of form a weight, that is a neuron that says, go to the right.",
+    "start_ms": 2055553,
+    "end_ms": 2065734,
+    "duration_ms": 10181,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2065.734,
+    "text": "When you want to go to the right, it's strongly weighted in that calculation, the population vector.",
+    "start_ms": 2065734,
+    "end_ms": 2071913,
+    "duration_ms": 6179,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2071.913,
+    "text": "This is actually showing when you actually take that neural activity from a monkey, okay, so we've recorded this as they still have an intact limb, and this is just showing what's here.",
+    "start_ms": 2071913,
+    "end_ms": 2082314,
+    "duration_ms": 10401,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2082.314,
+    "text": "Here they're showing us how good is that decoder at predicting the movement.",
+    "start_ms": 2082314,
+    "end_ms": 2086713,
+    "duration_ms": 4399,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2086.713,
+    "text": "So blue is the prediction, black is the actual for either the shoulder angle or the elbow angle.",
+    "start_ms": 2086713,
+    "end_ms": 2094154,
+    "duration_ms": 7441,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2094.154,
+    "text": "You could see, as we've seen in these examples here, those decoders work really well.",
+    "start_ms": 2094154,
+    "end_ms": 2098514,
+    "duration_ms": 4360,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2098.514,
+    "text": "We have a very good prediction, or alignment, between our prediction and the actual angle of these two different joints.",
+    "start_ms": 2098514,
+    "end_ms": 2106553,
+    "duration_ms": 8039,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2106.553,
+    "text": "What these researchers said, okay, so if I know the direction, it works really well, what happens if I actually now randomly shuffle things up?",
+    "start_ms": 2106553,
+    "end_ms": 2115913,
+    "duration_ms": 9360,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2115.913,
+    "text": "So a neuron that I know had actually coded for rightward movement, I'm now randomly going to assign it to any of the 360 degrees, I'm going to shuffle the decoder entirely.",
+    "start_ms": 2115913,
+    "end_ms": 2125713,
+    "duration_ms": 9800,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2125.713,
+    "text": "What was amazing is that, immediately, performance actually goes to about zero, okay?",
+    "start_ms": 2125713,
+    "end_ms": 2133353,
+    "duration_ms": 7640,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2133.353,
+    "text": "But very quickly over the next days, what's showing here is this is as a function of days, how often is the animal correct at reaching a target under the brain-machine interface?",
+    "start_ms": 2133353,
+    "end_ms": 2144833,
+    "duration_ms": 11480,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2144.833,
+    "text": "What they see is when you shuffle it up, performance goes to crap, but then very quickly, the animal somehow is able to retrain that network through the feedback that they're getting, so that they, in a sense, are training the tuning properties of those neurons.",
+    "start_ms": 2144833,
+    "end_ms": 2160594,
+    "duration_ms": 15761,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2160.594,
+    "text": "That's why I'm calling this an adaptive decoder, because again, performance initially fails, but somehow using these error-based learning algorithms, they're actually able to retrain the computer network, the network that's going between the neural activity and the arm position, that it's actually just about as good as the natural one at the beginning.",
+    "start_ms": 2160594,
+    "end_ms": 2180954,
+    "duration_ms": 20360,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2180.954,
+    "text": "So what does that tell us? That says that we actually don't need to characterize the neurons to actually train our brain-machine interface system, we can use computer learning algorithms as a way to achieve that level of control.",
+    "start_ms": 2180954,
+    "end_ms": 2194153,
+    "duration_ms": 13199,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2194.153,
+    "text": "And it really means that, hey, we can now ask the question, what do I need for a control signal?",
+    "start_ms": 2194153,
+    "end_ms": 2201234,
+    "duration_ms": 7081,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2201.234,
+    "text": "And we have all sorts of options that could take EEG signals, scalp recordings, non-invasive scalp recordings, and try to build, again, an algorithm that goes from the EEG signal to controlling the robotic limb.",
+    "start_ms": 2201234,
+    "end_ms": 2214433,
+    "duration_ms": 13199,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2214.433,
+    "text": "I could take EMG signals from the stump. These are all different signals that people have used.",
+    "start_ms": 2214433,
+    "end_ms": 2219794,
+    "duration_ms": 5361,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2219.794,
+    "text": "So with amputees, they might take little neural activity they can record from the stump and use that to build their decoder.",
+    "start_ms": 2219794,
+    "end_ms": 2228193,
+    "duration_ms": 8399,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2228.193,
+    "text": "Or I can do it from any arbitrary muscles. There's a guy at Davis who said, I don't know if any of you can do this, we have a little muscle here that people use to wiggle their ears.",
+    "start_ms": 2228193,
+    "end_ms": 2236593,
+    "duration_ms": 8400,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2236.593,
+    "text": "I can't do it, but maybe some of you are capable.",
+    "start_ms": 2236593,
+    "end_ms": 2238994,
+    "duration_ms": 2401,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2238.994,
+    "text": "And he said, well, no one uses that muscle. It's kind of vestigial now.",
+    "start_ms": 2238994,
+    "end_ms": 2243514,
+    "duration_ms": 4520,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2243.514,
+    "text": "Let's use that to actually control the cursor. cursor on a computer display, because it's not gonna interfere with any other activity they're doing, because it's a muscle none of us use.",
+    "start_ms": 2243514,
+    "end_ms": 2253593,
+    "duration_ms": 10079,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2253.593,
+    "text": "Anyhow, you can take any of these sorts of options, and the idea is that if you have a good enough algorithm, I'll actually be able to use this as a control signal.",
+    "start_ms": 2253593,
+    "end_ms": 2261873,
+    "duration_ms": 8280,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2261.873,
+    "text": "Now, of course, it might be better if I'm taking something closer to the motor cortex, where perhaps those neurons are actually dedicated, or have evolved, or been used for controlling movement, and that's what a lot of the work has been done, especially with the invasive methods.",
+    "start_ms": 2261873,
+    "end_ms": 2276153,
+    "duration_ms": 14280,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2279.433,
+    "text": "So this is really the first clinical trial that was ever done with people.",
+    "start_ms": 2279433,
+    "end_ms": 2283232,
+    "duration_ms": 3799,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2283.232,
+    "text": "This is a guy who had a spinal cord resection, he got into a fight, he had a knife sliced through his spinal cord just above the neck, okay, he survived it, but he was permanently paralyzed, he's actually being, I'm not quite sure what the criteria was for why he was selected, this is quite a few years after he's been a quadriplegic, okay, in his case, they then implanted this band of this set of electrodes, this grid of electrodes, and this is just showing, here's the electrode grid relative to the size of a penny, so it's a really minuscule device here.",
+    "start_ms": 2283232,
+    "end_ms": 2317592,
+    "duration_ms": 34360,
+    "word_count": 105,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2317.592,
+    "text": "They implanted it on his primary motor cortex in what they expected was the arm area, he can't control, make arm movement, so they can't know that for sure, but they know that from people to people, this is probably clearly the arm area, and then what they did in his case, and this just shows the recording device, where again, they have to have some wires back then, it wasn't a wireless system, so this would be where all the leads come out of the brain, onto the scalp so that they can feed it into the computer, and what they could do with him though is they could say, well, because this is the advantage of working with humans, you could say, imagine the movements, and there's a big literature showing that when you make a real movement, or when you imagine a movement, there's a great deal of overlap in the brain between those two different conditions, so here the guy's just simply told, imagine the movements, this is showing the activity of again, a neuron for four different directions, so it's one neuron, again, each row is a trial, down here is just a histogram summarizing that activity across, you know, for the upward direction, so you can see, here's when they're told, start imagining, this particular cell doesn't show real, any change in activity from pre-imagination to post-imagination for upward, nor for downward, nor for a little bit for leftward, but really pretty strong activity when the person imagined moving to the right.",
+    "start_ms": 2317592,
+    "end_ms": 2396853,
+    "duration_ms": 79261,
+    "word_count": 258,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2396.853,
+    "text": "You can see that there should be a good correspondence between imagined and real movements because we already saw in the monkey that we could look at the population during that delay period and know what the animal's planning to doing, so basically now they're gonna do the exact experiment they did with the monkeys, they actually characterize the neurons based on their imagined preferred direction, this is before people had really started developing these adaptive algorithms and this is this guy's performance.",
+    "start_ms": 2396853,
+    "end_ms": 2424193,
+    "duration_ms": 27340,
+    "word_count": 83,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2426.312,
+    "text": "So this is an ancient computer video game called Pong, all right, so he is with his brain computer interface, he's just trying to control the position of this thing here to prevent the ball from going through, so there's a successful trial, there's another successful trial, I think it speeds up over time, he just missed it on that one, so that's again just the guy sitting there basically just in a sense imagining where he wants that cursor to be positioned, they've only recorded from about 50 or so neurons out of all the millions there, but they achieved that control, what's the most important thing to be able to do?",
+    "start_ms": 2426312,
+    "end_ms": 2468973,
+    "duration_ms": 42661,
+    "word_count": 113,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2469.012,
+    "text": "Control your TV remote, so this is the guy now having to control in 2D space because basically, you can't see it very well, but one of these is like the on-off switch, one is that's the change channel, so every time he wants to change the channel, he has to use the two-dimensional control.",
+    "start_ms": 2469012,
+    "end_ms": 2487913,
+    "duration_ms": 18901,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2489.973,
+    "text": "Whoa, what happened there? Let me just show that one again here.",
+    "start_ms": 2489973,
+    "end_ms": 2493292,
+    "duration_ms": 3319,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2493.292,
+    "text": "So, he's gone from the 1D test to the 2D test, but here he's actually again, changing the channel each time and then at some point he goes over and turns off the TV.",
+    "start_ms": 2493292,
+    "end_ms": 2506293,
+    "duration_ms": 13001,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2510.212,
+    "text": "Do you want to do power? There's the power switch.",
+    "start_ms": 2510212,
+    "end_ms": 2515212,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2515.212,
+    "text": "All right, so that was the first patient, there aren't that many in the world, but here's really one that's been widely described.",
+    "start_ms": 2515212,
+    "end_ms": 2527253,
+    "duration_ms": 12041,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2527.253,
+    "text": "So, it's a 42-year-old woman, she had a stroke in the brainstem, which also left her pretty much almost like a quadriplegic person.",
+    "start_ms": 2527253,
+    "end_ms": 2535812,
+    "duration_ms": 8559,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2535.812,
+    "text": "Again, she's had it in 1996, so they're testing her 20 years after the stroke.",
+    "start_ms": 2535812,
+    "end_ms": 2540332,
+    "duration_ms": 4520,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2541.253,
+    "text": "At first, they almost thought she was comatose, but then they realized she had eye movements and so forth, so that she was communicated, so it's kind of what's called locked-in syndrome, and this happens with ALS.",
+    "start_ms": 2541253,
+    "end_ms": 2552932,
+    "duration_ms": 11679,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2552.932,
+    "text": "The base guy said their cognition's intact because all they really lose is control over the muscle system itself, and over the speech system in ALS, so they can't communicate.",
+    "start_ms": 2552932,
+    "end_ms": 2563372,
+    "duration_ms": 10440,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2563.372,
+    "text": "So, locked-in is, the base guy are living with basically are living with their own thoughts without a way to communicate.",
+    "start_ms": 2563372,
+    "end_ms": 2569871,
+    "duration_ms": 6499,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2569.871,
+    "text": "So here is her doing, this is basically the first day that she's actually now controlling a 3D robotic device.",
+    "start_ms": 2569871,
+    "end_ms": 2578712,
+    "duration_ms": 8841,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2578.712,
+    "text": "So here's the experimenter, here she is. Here's the robotic device, it's actually not aligned with her body, but she's just going to basically be thinking about it.",
+    "start_ms": 2578712,
+    "end_ms": 2587472,
+    "duration_ms": 8760,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2587.472,
+    "text": "They present a target for her, so one of these balls comes up.",
+    "start_ms": 2587472,
+    "end_ms": 2591312,
+    "duration_ms": 3840,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2591.312,
+    "text": "She now, her job is to just go over and pick up the ball by controlling the robotic device through again this brain machine interface that they've hooked her up with.",
+    "start_ms": 2591312,
+    "end_ms": 2600312,
+    "duration_ms": 9000,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2600.312,
+    "text": "So she has the implant, this is all being done through recordings of activity in her primary motor cortex.",
+    "start_ms": 2600312,
+    "end_ms": 2605632,
+    "duration_ms": 5320,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2605.632,
+    "text": "They give her a new trial here, she has to move the device around.",
+    "start_ms": 2605632,
+    "end_ms": 2611191,
+    "duration_ms": 5559,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2611.191,
+    "text": "You can see it's a slow, laborious process, but this is again really the first effort at trying to do 3D control of a robotic system, and I think I can keep going while I show you this one at the same time.",
+    "start_ms": 2611191,
+    "end_ms": 2627472,
+    "duration_ms": 16281,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2627.472,
+    "text": "Now of course, grabbing things you could imagine that could be quite useful, and here again is a real demonstration.",
+    "start_ms": 2627472,
+    "end_ms": 2634951,
+    "duration_ms": 7479,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2634.951,
+    "text": "So she's reaching over, she's going to try to drink the water bottle.",
+    "start_ms": 2634951,
+    "end_ms": 2637792,
+    "duration_ms": 2841,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2638.192,
+    "text": "I can't remember if it was water or coffee. What's really cool about this video is this is the first time they've really tested her at it.",
+    "start_ms": 2638192,
+    "end_ms": 2648592,
+    "duration_ms": 10400,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2648.592,
+    "text": "So this is a woman who for 20 some years has never fed herself.",
+    "start_ms": 2648592,
+    "end_ms": 2653592,
+    "duration_ms": 5000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2667.792,
+    "text": "She's getting there. If you look at both the experimenter, I think finally cracks a smile too, and she certainly does there.",
+    "start_ms": 2667792,
+    "end_ms": 2700991,
+    "duration_ms": 33199,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2700.991,
+    "text": "So that was really kind of a real breakthrough thing there to show with a person who hadn't made any movement for 20 plus years was actually able to control this device.",
+    "start_ms": 2700991,
+    "end_ms": 2709711,
+    "duration_ms": 8720,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2709.711,
+    "text": "Obviously she's not going to, she's going to get very thin if she has to rely on that sort of level of control to feed herself, but this is early days and now the question's been really, the basic method's been there, and now it's a matter of like improving these algorithms.",
+    "start_ms": 2709711,
+    "end_ms": 2723872,
+    "duration_ms": 14161,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2723.872,
+    "text": "So, you know, it's widely recognized that, you know, the potential is really important.",
+    "start_ms": 2723872,
+    "end_ms": 2729152,
+    "duration_ms": 5280,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2729.152,
+    "text": "I mean, it says here 5 million people have some form of paralysis just in the US.",
+    "start_ms": 2729152,
+    "end_ms": 2735711,
+    "duration_ms": 6559,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2735.711,
+    "text": "It's been about this 25 year period and we've really made, people have made great progress going from these very simple 1D movements with rats to having these sorts of 3D complex movements there.",
+    "start_ms": 2735711,
+    "end_ms": 2749271,
+    "duration_ms": 13560,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2749.271,
+    "text": "Just mention that again, what are really the challenges or how do you really develop this to really make it useful, because very few people would be willing to sit there in the chair and take 20 minutes, you know, whatever it is, one minute to take one sip of water.",
+    "start_ms": 2749271,
+    "end_ms": 2763152,
+    "duration_ms": 13881,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2763.152,
+    "text": "So the biggest changes really are on the AI and neural network front.",
+    "start_ms": 2763152,
+    "end_ms": 2767432,
+    "duration_ms": 4280,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2767.432,
+    "text": "So again, the early work was being done before the new wave of the AI revolution, and so now we have definitely developed much more powerful learning algorithms.",
+    "start_ms": 2767432,
+    "end_ms": 2777211,
+    "duration_ms": 9779,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2777.211,
+    "text": "As we saw in that one monkey study, knowing the tuning of neurons isn't that important.",
+    "start_ms": 2777211,
+    "end_ms": 2782012,
+    "duration_ms": 4801,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2782.012,
+    "text": "You can use simple error-based learning algorithms to train up these deep networks and achieve amazing efficiency.",
+    "start_ms": 2782012,
+    "end_ms": 2789491,
+    "duration_ms": 7479,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2789.491,
+    "text": "So certainly that's improving the decoding, both the quality, the accuracy of the decoders, but also the rapidity about how quickly they can make updates to actually change the limits there.",
+    "start_ms": 2789491,
+    "end_ms": 2804932,
+    "duration_ms": 15441,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2804.932,
+    "text": "Invasive methods. Now, some people think the future isn't invasive methods.",
+    "start_ms": 2804932,
+    "end_ms": 2808292,
+    "duration_ms": 3360,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2808.292,
+    "text": "You may have heard Elon Musk, one of his companies called Neuralink, is basically a company that's devoted to building brain machine interfaces.",
+    "start_ms": 2808292,
+    "end_ms": 2817572,
+    "duration_ms": 9280,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2817.572,
+    "text": "Again, their first goal is to have these clinical populations like people with paralysis.",
+    "start_ms": 2817572,
+    "end_ms": 2823171,
+    "duration_ms": 5599,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2823.171,
+    "text": "He also was describing last week that he kind of envisions a future where everyone would have some sort of implant to actually control robotic devices and so forth.",
+    "start_ms": 2823171,
+    "end_ms": 2833872,
+    "duration_ms": 10701,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2833.872,
+    "text": "But invasive procedures, you know, super expensive, right? You need to do neurosurgery, higher level of risk there.",
+    "start_ms": 2833872,
+    "end_ms": 2840711,
+    "duration_ms": 6839,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2840.711,
+    "text": "Not something that's going to probably be widely distributed, so people are looking for non-invasive methods, and this is a group at Carnegie Mellon that are just saying, how much can we get out of EEG signals, okay?",
+    "start_ms": 2840711,
+    "end_ms": 2853551,
+    "duration_ms": 12840,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2853.551,
+    "text": "So this is just going to be an EEG signal, so they're just doing scalp recordings, not recordings of any simple, you know, single neurons, but very crude signals that are aggregating information across thousands or millions of neurons.",
+    "start_ms": 2853551,
+    "end_ms": 2868231,
+    "duration_ms": 14680,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2868.231,
+    "text": "And moreover, these aren't people, these are just college students coming in for a one-hour experiment.",
+    "start_ms": 2868231,
+    "end_ms": 2872752,
+    "duration_ms": 4521,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2872.752,
+    "text": "And basically, they're going to read the EEG, the person gets feedback, they can see how well they're doing, and the person's task is told, just learn, just whatever you need to do, control the robotic device.",
+    "start_ms": 2872752,
+    "end_ms": 2884752,
+    "duration_ms": 12000,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2884.75,
+    "text": "to pick up these blocks here. And again, I'll just play that once more.",
+    "start_ms": 2884750,
+    "end_ms": 2889571,
+    "duration_ms": 4821,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2893.35,
+    "text": "That'd be a fun experiment to be in. You know, they've got some algorithm, it might be, you know, look at the power in the alpha band to control the X position, another one for the Y, another one for the Z, or much more complicated algorithms.",
+    "start_ms": 2893350,
+    "end_ms": 2908551,
+    "duration_ms": 15201,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2908.551,
+    "text": "But basically, again, he's learned in basically 50 minutes to be able to pick up that block, and now you can see kind of the competition between four different individuals trying to pick up the blocks, only using their EEG signals in a fairly short training period with a sophisticated algorithm.",
+    "start_ms": 2908551,
+    "end_ms": 2925230,
+    "duration_ms": 16679,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2931.831,
+    "text": "But again, there is certainly lots of research going on about how can we improve invasive methods under the belief that, oh, someday, that might not be so expensive, might not be so hard, you know, like in the matrix, we'll just like zap you and insert a chip of some sort.",
+    "start_ms": 2931831,
+    "end_ms": 2948511,
+    "duration_ms": 16680,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2949.43,
+    "text": "And certainly, a big of the question is, you know, let's get more data.",
+    "start_ms": 2949430,
+    "end_ms": 2953871,
+    "duration_ms": 4441,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2953.871,
+    "text": "So I already mentioned that there's this revolution in neuroscience called neuropixels, which has allowed people from getting, usually in a typical old school neurophysiology experiment, you might record from four or five, maybe 10 neurons in a single day.",
+    "start_ms": 2953871,
+    "end_ms": 2969310,
+    "duration_ms": 15439,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2969.31,
+    "text": "Now with these neuropixels, people are recording from hundreds of neurons in a single day, and not just hundreds of neurons from one brain area, but it might be hundreds from the premotor cortex, another few hundred from the motor cortex, others from the parietal cortex.",
+    "start_ms": 2969310,
+    "end_ms": 2983231,
+    "duration_ms": 13921,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2983.231,
+    "text": "So getting reams of data in a very short time period under the belief that if we have more data information, we'll be able to control more things in a more efficient way.",
+    "start_ms": 2983231,
+    "end_ms": 2994030,
+    "duration_ms": 10799,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2994.03,
+    "text": "We have seen that, excuse me, that you can really achieve lots of control with just 70 or 80 neurons.",
+    "start_ms": 2994030,
+    "end_ms": 3005551,
+    "duration_ms": 11521,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3005.551,
+    "text": "So there is some function where getting more information is maybe gonna saturate, reach its upper bound in terms of how much information you can get.",
+    "start_ms": 3005551,
+    "end_ms": 3015111,
+    "duration_ms": 9560,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3015.111,
+    "text": "But again, those earlier tasks were very simple, right? Just controlling a cursor in 2D or reaching and picking up a single object.",
+    "start_ms": 3015111,
+    "end_ms": 3022310,
+    "duration_ms": 7199,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3022.31,
+    "text": "If we wanna have robotic devices where people are making movements in a fluid world, you know, with lots of objects that require lots of manipulation, we may need much more data there.",
+    "start_ms": 3022310,
+    "end_ms": 3032831,
+    "duration_ms": 10521,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3034.071,
+    "text": "This is actually, you can go to this YouTube site.",
+    "start_ms": 3034071,
+    "end_ms": 3036750,
+    "duration_ms": 2679,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3036.75,
+    "text": "I'll just post it in the lecture notes here. And I'll show you a Musk company latest algorithm.",
+    "start_ms": 3036750,
+    "end_ms": 3042271,
+    "duration_ms": 5521,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3042.271,
+    "text": "He's got kind of this technology is to insert lots of strips.",
+    "start_ms": 3042271,
+    "end_ms": 3046230,
+    "duration_ms": 3959,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3046.23,
+    "text": "It's almost, they call it like a sewing machine of strips of electrodes to actually cover the cortical surface.",
+    "start_ms": 3046230,
+    "end_ms": 3052111,
+    "duration_ms": 5881,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3052.87,
+    "text": "There's many different technologies that people are using for how they can actually get in more electrodes and get them in multiple regions.",
+    "start_ms": 3052870,
+    "end_ms": 3060950,
+    "duration_ms": 8080,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3061.911,
+    "text": "And again, this is actually another link that I'll post that you can go and you can see.",
+    "start_ms": 3061911,
+    "end_ms": 3065711,
+    "duration_ms": 3800,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3065.711,
+    "text": "It's just a short tutorial from a few years back describing some of the different technologies that are out there.",
+    "start_ms": 3065711,
+    "end_ms": 3072351,
+    "duration_ms": 6640,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3072.351,
+    "text": "One big question that hasn't been addressed very deeply, but people are only turning to now is to say, all of the systems I've shown you so far are what we call open loop, meaning I take the output from the motor cortex to control the position of the limb, but I'm not using feedback.",
+    "start_ms": 3072351,
+    "end_ms": 3088310,
+    "duration_ms": 15959,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3088.31,
+    "text": "That's what's called closing the loop. Clearly, the feedback we get from our somatosensory system is exquisitely important for making very skilled movements like twisting a bottle cap there.",
+    "start_ms": 3088310,
+    "end_ms": 3100150,
+    "duration_ms": 11840,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3100.15,
+    "text": "And so again, the latest generation of BMI systems, people are asking, how do we actually now start to provide feedback of the limb?",
+    "start_ms": 3100150,
+    "end_ms": 3107590,
+    "duration_ms": 7440,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3107.59,
+    "text": "And so they're putting chips, say, into the somatosensory cortex, and when the robotic limb touches the bottle, they stimulate across the somatosensory cortex so that the individual has that sensation that they're gripping the limb, asking, is this gonna be another way that we get to the next generation of devices?",
+    "start_ms": 3107590,
+    "end_ms": 3126471,
+    "duration_ms": 18881,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3126.471,
+    "text": "And I think that's where I'll leave. So again, I won't see you in person till after spring break, but I'll see you online.",
+    "start_ms": 3126471,
+    "end_ms": 3133991,
+    "duration_ms": 7520,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3139.271,
+    "text": "Thank you. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3139271,
+    "end_ms": 3146831,
+    "duration_ms": 7560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3146.831,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3146831,
+    "end_ms": 3155230,
+    "duration_ms": 8399,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3155.23,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3155230,
+    "end_ms": 3163630,
+    "duration_ms": 8400,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3163.63,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3163630,
+    "end_ms": 3172190,
+    "duration_ms": 8560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3172.19,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3172190,
+    "end_ms": 3180591,
+    "duration_ms": 8401,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3180.591,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3180591,
+    "end_ms": 3188991,
+    "duration_ms": 8400,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3188.991,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3188991,
+    "end_ms": 3197390,
+    "duration_ms": 8399,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3197.39,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3197390,
+    "end_ms": 3205470,
+    "duration_ms": 8080,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3205.47,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3205470,
+    "end_ms": 3213470,
+    "duration_ms": 8000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3213.47,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks.",
+    "start_ms": 3213470,
+    "end_ms": 3221470,
+    "duration_ms": 8000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3221.47,
+    "text": "Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. Thanks. . .",
+    "start_ms": 3221470,
+    "end_ms": 3236749,
+    "duration_ms": 15279,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3236.79,
+    "text": ".",
+    "start_ms": 3236790,
+    "end_ms": 3239470,
+    "duration_ms": 2680,
+    "word_count": 1,
+    "avg_confidence": 90
+  }
+]

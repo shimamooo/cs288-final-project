@@ -1,0 +1,1172 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "Well, it's good to see you and fitting that we're going to start the transit, we're transitioning from the motor control section to the memory section today because I just went through my procedure to improve my motor control by getting a new hip prosthetic, not a neuro prosthetic or at least the neuro is going to come from my brain, but also a transition to the memory because I tell you what, they said, you know, right before they were going to give me my spinal anesthetic, they said, shall we give you something to relax you through an IV?",
+    "start_ms": 0,
+    "end_ms": 37700,
+    "duration_ms": 37700,
+    "word_count": 101,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 37.7,
+    "text": "And I said, sure. And the next thing I know, two and a half hours later, I'm in some post-surgery recovery room and I have no memory of anything that went on, but things are going well.",
+    "start_ms": 37700,
+    "end_ms": 48340,
+    "duration_ms": 10640,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 48.34,
+    "text": "Anyhow, let me share the screen and jump into the memory lecture here, just hide these floating controls, put myself up in the corner and let's take it away.",
+    "start_ms": 48340,
+    "end_ms": 62340,
+    "duration_ms": 14000,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 62.34,
+    "text": "All right. So yeah, so today we're going to actually start talking about memory with two lectures on this topic.",
+    "start_ms": 62340,
+    "end_ms": 70459,
+    "duration_ms": 8119,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 70.459,
+    "text": "It's a vast topic, but I'm going to condense it into two topics.",
+    "start_ms": 70459,
+    "end_ms": 73779,
+    "duration_ms": 3320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 73.779,
+    "text": "Today we'll focus on disorders of memory. But just as an overview, of course, memory and learning are, you know, essential for any adaptive behavior.",
+    "start_ms": 73779,
+    "end_ms": 84540,
+    "duration_ms": 10761,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 85.099,
+    "text": "I mean, all species learn. Much of the great work in neuroscience on memory systems was actually done in the sea slug or what's called the aplesia.",
+    "start_ms": 85099,
+    "end_ms": 96699,
+    "duration_ms": 11600,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 96.699,
+    "text": "You know, creatures that you look at them, they look like they aren't capable of any control of their life, but people have shown that they're very capable of kind of fairly complex forms of what we call classical conditioning to attract towards positive reinforcers, avoid negative things.",
+    "start_ms": 96699,
+    "end_ms": 112459,
+    "duration_ms": 15760,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 112.459,
+    "text": "It even led to a Nobel Prize. You know, that's at the one end of the spectrum, these simple memories.",
+    "start_ms": 112459,
+    "end_ms": 119819,
+    "duration_ms": 7360,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 119.819,
+    "text": "On the other end, we know that, you know, lots of species are capable of incredible memory feats.",
+    "start_ms": 119819,
+    "end_ms": 126860,
+    "duration_ms": 7041,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 126.86,
+    "text": "We talk about things like migratory birds and how they can find targets thousands of miles away or blue jays up in the Sierra that hide seeds or nuts and can retrieve them over the course of a winter to survive.",
+    "start_ms": 126860,
+    "end_ms": 143259,
+    "duration_ms": 16399,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 143.259,
+    "text": "On the human end, you know, they actually have world memory championships.",
+    "start_ms": 143259,
+    "end_ms": 147539,
+    "duration_ms": 4280,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 147.539,
+    "text": "Some of the things are featuring capacity limits. For instance, how long of a two digit, you know, number like one, one, two, two, one, two, one, one, one.",
+    "start_ms": 147539,
+    "end_ms": 156660,
+    "duration_ms": 9121,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 156.66,
+    "text": "How long can that binary string be and the person can remember it in the world record for that.",
+    "start_ms": 156660,
+    "end_ms": 162240,
+    "duration_ms": 5580,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 162.24,
+    "text": "At least the last time I checked was 795 digit long string of just ones and twos that someone is capable of remembering or showing them simple faces, you know, pictures of people they haven't seen before, give them an arbitrary name associated with the face and the record there is 76 of these face name pairs with one presentation.",
+    "start_ms": 162240,
+    "end_ms": 182380,
+    "duration_ms": 20140,
+    "word_count": 60,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 182.38,
+    "text": "I've already told you about my horrible face recognition capabilities, so I don't think my number would be six or seven.",
+    "start_ms": 182380,
+    "end_ms": 190500,
+    "duration_ms": 8120,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 190.5,
+    "text": "I like this YouTube video I want to show you here of how well someone could encode memory.",
+    "start_ms": 190500,
+    "end_ms": 197179,
+    "duration_ms": 6679,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 197.339,
+    "text": "This is from a championship competition. So this fellow here is going to go through a deck of cards, he's going to set the world record as it says, and he's going to go through the deck one time, or he can go through as much as he wants, but he's trying to see how short can he spend on his encoding period and then get tested.",
+    "start_ms": 197339,
+    "end_ms": 215220,
+    "duration_ms": 17881,
+    "word_count": 67,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 215.22,
+    "text": "And of course, he's only going to advance to the next round if he gets all 52 correct.",
+    "start_ms": 215220,
+    "end_ms": 219699,
+    "duration_ms": 4479,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 219.699,
+    "text": "So let's see how this goes. There'll be some videotape later on, but again, now he just started.",
+    "start_ms": 219699,
+    "end_ms": 226940,
+    "duration_ms": 7241,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 226.94,
+    "text": "Okay, that's the timer up here. So three seconds, four seconds, five seconds, so forth.",
+    "start_ms": 226940,
+    "end_ms": 232500,
+    "duration_ms": 5560,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 232.5,
+    "text": "He's just scanning through the deck of cards here, trying to memorize it, it was a randomly shuffled deck of cards.",
+    "start_ms": 232500,
+    "end_ms": 238539,
+    "duration_ms": 6039,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 238.539,
+    "text": "In fact, this competition is going on with everyone in the room here, but each person's got their own camera, and I don't know, I guess this guy is probably known to be a star.",
+    "start_ms": 238539,
+    "end_ms": 247660,
+    "duration_ms": 9121,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 247.66,
+    "text": "So I don't know if you saw that, but he basically hit the timer at 20.438 seconds.",
+    "start_ms": 247660,
+    "end_ms": 254300,
+    "duration_ms": 6640,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 254.3,
+    "text": "So that's how long he said he needed to study to encode the information.",
+    "start_ms": 254300,
+    "end_ms": 258779,
+    "duration_ms": 4479,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 258.779,
+    "text": "Now they're doing a fast forward through the film, because he's basically going through the 52 cards of another deck of cards, and he's trying to arrange them in the same order as the randomly shuffled deck that he'd studied.",
+    "start_ms": 258779,
+    "end_ms": 270459,
+    "duration_ms": 11680,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 270.459,
+    "text": "So we don't need to, you know, it takes him a little bit of time to reconstruct it, he's checking his work here, and now here comes the real payoff, did he actually memorize the things in the proper order?",
+    "start_ms": 270459,
+    "end_ms": 280019,
+    "duration_ms": 9560,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 280.019,
+    "text": "And, you know, the judge is on the left showing the original deck that the guy studied, on the right is the one he reproduced, and I will be showing you this videotape if he actually didn't have a perfect match.",
+    "start_ms": 280019,
+    "end_ms": 293339,
+    "duration_ms": 13320,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 293.339,
+    "text": "All 52 cards in the right order after studying the deck.",
+    "start_ms": 293339,
+    "end_ms": 296820,
+    "duration_ms": 3481,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 296.82,
+    "text": "He's got the world record! Yes, he got the world record.",
+    "start_ms": 296820,
+    "end_ms": 301820,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 301.82,
+    "text": "Incredible. Okay, I want you all to go home, practice that, and see how long you can do that after a few rounds of practice.",
+    "start_ms": 301820,
+    "end_ms": 312899,
+    "duration_ms": 11079,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 312.899,
+    "text": "So memory learning is, if you go through the cog neuro literature, or even the neuroscience literature, it's the most popular topic, it's going to dominate, you know, 50% of all the articles.",
+    "start_ms": 312899,
+    "end_ms": 322700,
+    "duration_ms": 9801,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 322.7,
+    "text": "Behaviorally, of course, it has huge implications for education. one end of the developmental spectrum about how we acquire information, how do we facilitate what's the best way to teach our kids.",
+    "start_ms": 322700,
+    "end_ms": 334825,
+    "duration_ms": 12125,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 334.825,
+    "text": "On the other end, we know that with age, you know, a loss of memory function is perhaps the most marked thing that people are aware of, at least that impacts their life and that troubles them.",
+    "start_ms": 334825,
+    "end_ms": 345865,
+    "duration_ms": 11040,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 345.865,
+    "text": "And so clear interest in studying processes underlying memory and learning.",
+    "start_ms": 345865,
+    "end_ms": 350332,
+    "duration_ms": 4467,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 350.332,
+    "text": "And again, throughout the whole spectrum, whether we're talking at the molecular, the cellular, the genetic, the systems level, the cognitive level, much, much work going on in the neurosciences, trying to understand the mechanisms that underlie memory and learning.",
+    "start_ms": 350332,
+    "end_ms": 364910,
+    "duration_ms": 14578,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 364.91,
+    "text": "Now, what are some of the basic questions you'd ask?",
+    "start_ms": 364910,
+    "end_ms": 368391,
+    "duration_ms": 3481,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 368.391,
+    "text": "Well, of course, question that really was central to many, many studies for, you know, really, for lots of years of memory research is where is memory, right?",
+    "start_ms": 368391,
+    "end_ms": 376687,
+    "duration_ms": 8296,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 376.687,
+    "text": "We knew that, you know, if we looked at the brain, we could see that back of the brain was clearly important for vision, you could tell that from people had brain injury, round here was important for motor control that made people think that, you know, memory is probably stored in a particular place in the brain.",
+    "start_ms": 376687,
+    "end_ms": 391309,
+    "duration_ms": 14622,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 391.309,
+    "text": "And that was sort of the notion that there was an engram, engram is kind of a word for like, here's this consolidated, like sort of storage of memory that somehow is packed away in our brain, kind of the way you might think about with a computer that we might file away the information or maybe in a desk drawer.",
+    "start_ms": 391309,
+    "end_ms": 407558,
+    "duration_ms": 16249,
+    "word_count": 61,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 407.558,
+    "text": "And there's been actually, you know, that search for the memory.",
+    "start_ms": 407558,
+    "end_ms": 411079,
+    "duration_ms": 3521,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 411.079,
+    "text": "There's actually a very long history in neuroscience where the idea was, let's do lesion studies, can we actually destroy parts of the brain and wipe out selective memories?",
+    "start_ms": 411079,
+    "end_ms": 420562,
+    "duration_ms": 9483,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 420.562,
+    "text": "We knew we could destroy parts of the brain and you know, people would have trouble retrieving information or not people, different species, but could we really show that it was really a problem with memory per se, rather than say, performance and so forth.",
+    "start_ms": 420562,
+    "end_ms": 433568,
+    "duration_ms": 13006,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 433.568,
+    "text": "There's been work done in fruit flies and rabbits, all sorts of species here developed optogenetics or genetic knockouts there.",
+    "start_ms": 433568,
+    "end_ms": 442739,
+    "duration_ms": 9171,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 442.739,
+    "text": "And there has been progress made in understanding where our memories, but much of that work has really, you know, come to the idea that, you know, memory isn't probably in a single location, but rather is actually a network of information.",
+    "start_ms": 442739,
+    "end_ms": 456786,
+    "duration_ms": 14047,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 456.786,
+    "text": "We'll get to that later on. There is, of course, though, you know, we talk about memory, but really, when we talk about memory, half the time we're really interested in learning about the acquisition of new information.",
+    "start_ms": 456786,
+    "end_ms": 468180,
+    "duration_ms": 11394,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 468.18,
+    "text": "That's what I define as learning. Maybe more important, actually, than either the ability to store and retrieve knowledge that we have before.",
+    "start_ms": 468180,
+    "end_ms": 477919,
+    "duration_ms": 9739,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 477.919,
+    "text": "So again, here we have questions about, you know, how are new memories created?",
+    "start_ms": 477919,
+    "end_ms": 481870,
+    "duration_ms": 3951,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 481.87,
+    "text": "And that is the act of learning. And then, of course, the other side, we've talked about this before is how are memories retrieved.",
+    "start_ms": 481870,
+    "end_ms": 488856,
+    "duration_ms": 6986,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 488.856,
+    "text": "And as we'll see, there's going to be distinct mechanisms involved in the creation and the retrieval of memories.",
+    "start_ms": 488856,
+    "end_ms": 495779,
+    "duration_ms": 6923,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 495.779,
+    "text": "As I've said repeatedly throughout this class in cognitive psychology, much of the focus is really on the constraints on behavior or the constraints on learning and memory.",
+    "start_ms": 495779,
+    "end_ms": 507612,
+    "duration_ms": 11833,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 507.612,
+    "text": "And here we can think about within the learning and memory domains, you know, what are the factors that promote or disrupt both the encoding and the retrieval of information?",
+    "start_ms": 507612,
+    "end_ms": 518238,
+    "duration_ms": 10626,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 518.798,
+    "text": "And again, there's a host of things that have been studied here.",
+    "start_ms": 518798,
+    "end_ms": 522026,
+    "duration_ms": 3228,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 522.026,
+    "text": "There's lots of work on what we call context-dependent memory.",
+    "start_ms": 522026,
+    "end_ms": 525481,
+    "duration_ms": 3455,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 525.481,
+    "text": "I'm sure you've heard at some point that it's better to take an exam in the same room that you studied the information.",
+    "start_ms": 525481,
+    "end_ms": 532086,
+    "duration_ms": 6605,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 532.086,
+    "text": "Again, why would that be if you're asked in this class to recall information about, you know, the anatomy of the visual system?",
+    "start_ms": 532086,
+    "end_ms": 539958,
+    "duration_ms": 7872,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 539.958,
+    "text": "Why is it going to be easier to retrieve that information if you take that test in this room, as opposed to a different room?",
+    "start_ms": 539958,
+    "end_ms": 546703,
+    "duration_ms": 6745,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 546.703,
+    "text": "Lots of work asking about, you know, affect in memory, can emotion actually boost up memory?",
+    "start_ms": 546703,
+    "end_ms": 551948,
+    "duration_ms": 5245,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 551.948,
+    "text": "People think like to think that, you know, if you're in a heightened emotional state, that can be good for memory.",
+    "start_ms": 551948,
+    "end_ms": 557175,
+    "duration_ms": 5227,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 557.175,
+    "text": "But we also know that a heightened emotional state can actually be bad for memory, traumatic memories, for instance, seem to be something that are very susceptible to forgetting.",
+    "start_ms": 557175,
+    "end_ms": 565985,
+    "duration_ms": 8810,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 565.985,
+    "text": "And of course, there's an intimate connection between attention and memory acquisition, right?",
+    "start_ms": 565985,
+    "end_ms": 571179,
+    "duration_ms": 5194,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 571.179,
+    "text": "We're much better at remembering things when we attend to them.",
+    "start_ms": 571179,
+    "end_ms": 574871,
+    "duration_ms": 3692,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 574.871,
+    "text": "And we've talked about that earlier, we asked about, you know, when people forget things, is it really about a problem of encoding or retrieval?",
+    "start_ms": 574871,
+    "end_ms": 584185,
+    "duration_ms": 9314,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 584.185,
+    "text": "Um, other questions are like, you know, why is memory limited?",
+    "start_ms": 584185,
+    "end_ms": 587906,
+    "duration_ms": 3721,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 587.906,
+    "text": "Actually, you know, that's interesting question, right? We know we have phenomenal memories, we can recall things from our distant past, we can recall in incredible detail, all sorts of information.",
+    "start_ms": 587906,
+    "end_ms": 598894,
+    "duration_ms": 10988,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 598.894,
+    "text": "And at the other hand, you know, there's a lot of things we don't remember.",
+    "start_ms": 598894,
+    "end_ms": 602824,
+    "duration_ms": 3930,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 602.824,
+    "text": "So you know, obvious question is, you know, a question of considers, you know, why do we have limitations on our memory, maybe we don't have any limitations, maybe, once something gets encoded, maybe we never forget it.",
+    "start_ms": 602824,
+    "end_ms": 615663,
+    "duration_ms": 12839,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 615.663,
+    "text": "Um, well, there has been interesting ideas that have gone about about asking, you know, what might be the functional benefits of having a limited memory.",
+    "start_ms": 615663,
+    "end_ms": 626078,
+    "duration_ms": 10415,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 626.078,
+    "text": "And there was a wonderful book written by a Russian neuropsychologist named Gloria back in 1968, where he basically described this individual who was what he called a memory savant, so like a memory genius.",
+    "start_ms": 626078,
+    "end_ms": 639458,
+    "duration_ms": 13380,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 639.458,
+    "text": "And this guy, again, he actually made a career out of this, he had this incredible memory, kind of like the characters in those world memory chess.",
+    "start_ms": 639458,
+    "end_ms": 647439,
+    "duration_ms": 7981,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 647.274,
+    "text": "World Memory Championships. He would give performances where he would, you know, some people would just make up nonsense syllables.",
+    "start_ms": 647274,
+    "end_ms": 653509,
+    "duration_ms": 6235,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 653.509,
+    "text": "He'd make these long things about it. So he had this incredible memory.",
+    "start_ms": 653509,
+    "end_ms": 657655,
+    "duration_ms": 4146,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 657.655,
+    "text": "But at the other hand, oh, that's Josie in the background there.",
+    "start_ms": 657655,
+    "end_ms": 661753,
+    "duration_ms": 4098,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 661.753,
+    "text": "And my wife, Annie, I think is probably getting ready to take Josie for a walk.",
+    "start_ms": 661753,
+    "end_ms": 665558,
+    "duration_ms": 3805,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 665.558,
+    "text": "Not sure Josie's ready for the walk. I think she's fascinated by the lecture.",
+    "start_ms": 665558,
+    "end_ms": 670268,
+    "duration_ms": 4710,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 670.268,
+    "text": "But I think it's going to be a losing battle there.",
+    "start_ms": 670268,
+    "end_ms": 674578,
+    "duration_ms": 4310,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 674.578,
+    "text": "Okay. Anyhow, getting back to our mnemonicist. The guy, though, really actually talked about, you know, yes, you can make a living off his atypical skill.",
+    "start_ms": 674578,
+    "end_ms": 683022,
+    "duration_ms": 8444,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 683.022,
+    "text": "But it actually tortured him. Okay, he talked about that.",
+    "start_ms": 683022,
+    "end_ms": 686472,
+    "duration_ms": 3450,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 686.472,
+    "text": "It just tortured him that he never could forget anything.",
+    "start_ms": 686472,
+    "end_ms": 689719,
+    "duration_ms": 3247,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 689.719,
+    "text": "And he describes in the book, you know, kind of the extremes he went to to try to forget memories.",
+    "start_ms": 689719,
+    "end_ms": 695385,
+    "duration_ms": 5666,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 695.385,
+    "text": "I mean, one of my favorite ones is that he would write down something that he learned that he didn't want to forget.",
+    "start_ms": 695385,
+    "end_ms": 700824,
+    "duration_ms": 5439,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 700.824,
+    "text": "The idea was somehow this was going to transfer the information from his brain onto a piece of paper.",
+    "start_ms": 700824,
+    "end_ms": 705522,
+    "duration_ms": 4698,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 705.522,
+    "text": "He would then burn up the pieces of paper. It didn't work.",
+    "start_ms": 705522,
+    "end_ms": 709402,
+    "duration_ms": 3880,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 709.402,
+    "text": "So again, here's the yin yang of having a fantastic memory about maybe it was too much information overload.",
+    "start_ms": 709402,
+    "end_ms": 717651,
+    "duration_ms": 8249,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 717.651,
+    "text": "On the other hand, here's kind of maybe a different take on the functional benefits of a limited memory.",
+    "start_ms": 717651,
+    "end_ms": 725291,
+    "duration_ms": 7640,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 725.291,
+    "text": "Now we're going to go back to fruit flies. So about as basic a creature as you can get.",
+    "start_ms": 725291,
+    "end_ms": 730530,
+    "duration_ms": 5239,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 730.53,
+    "text": "All right, and they're going to look at learning capabilities, and they're going to use a simple Pavlovian conditioning task here.",
+    "start_ms": 730530,
+    "end_ms": 737352,
+    "duration_ms": 6822,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 737.352,
+    "text": "So they're going to have fruit flies. And some of the fruit flies are going to get a shock, or all the fruit flies are going to get a shock.",
+    "start_ms": 737352,
+    "end_ms": 744819,
+    "duration_ms": 7467,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 744.819,
+    "text": "Okay. At least the ones in the experimental groups. So the baseline group's just going to get shocks.",
+    "start_ms": 744819,
+    "end_ms": 750590,
+    "duration_ms": 5771,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 750.59,
+    "text": "Okay. Then there's going to be a group that they call non-associative.",
+    "start_ms": 750590,
+    "end_ms": 754317,
+    "duration_ms": 3727,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 754.317,
+    "text": "And what's going to happen is they're going to actually get a shock.",
+    "start_ms": 754317,
+    "end_ms": 757193,
+    "duration_ms": 2876,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 757.193,
+    "text": "Sometimes they're going to get an odor. It's actually an odor that fruit flies are attracted to.",
+    "start_ms": 757193,
+    "end_ms": 762727,
+    "duration_ms": 5534,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 762.727,
+    "text": "The two events though are going to occur randomly. So we call it non-associative because there's no predictability.",
+    "start_ms": 762727,
+    "end_ms": 769037,
+    "duration_ms": 6310,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 769.037,
+    "text": "That is the shock doesn't predict the odor. The odor doesn't predict the shock.",
+    "start_ms": 769037,
+    "end_ms": 773455,
+    "duration_ms": 4418,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 773.455,
+    "text": "Okay. But the key group is the associative group. Here we're actually going to present the odor, but it's always going to be followed by the shock.",
+    "start_ms": 773455,
+    "end_ms": 781345,
+    "duration_ms": 7890,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 781.345,
+    "text": "And it's been shown in other studies that fruit flies, this is again one of the demonstrations that a very simple nervous system can learn associations.",
+    "start_ms": 781345,
+    "end_ms": 790238,
+    "duration_ms": 8893,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 790.238,
+    "text": "The fruit flies, if they get this paired odor, positive odor associated with the shock, they avoid that odor.",
+    "start_ms": 790238,
+    "end_ms": 796740,
+    "duration_ms": 6502,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 796.74,
+    "text": "Okay. They will avoid that odor. So that shows that they've acquired that memory.",
+    "start_ms": 796740,
+    "end_ms": 800958,
+    "duration_ms": 4218,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 801.757,
+    "text": "And here they just actually, they weren't looking at that ability to learn.",
+    "start_ms": 801757,
+    "end_ms": 804617,
+    "duration_ms": 2860,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 804.617,
+    "text": "That's been well established. What they wanted, here is their dependent variable.",
+    "start_ms": 804617,
+    "end_ms": 807965,
+    "duration_ms": 3348,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 807.965,
+    "text": "I really like the way they phrased it. This is a quote from their paper.",
+    "start_ms": 807965,
+    "end_ms": 813693,
+    "duration_ms": 5728,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 813.693,
+    "text": "They assay their starvation resistance measured as the time to death in the absence of food and water.",
+    "start_ms": 813693,
+    "end_ms": 819551,
+    "duration_ms": 5858,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 819.551,
+    "text": "So basically the fruit flies are assigned to one of these three conditions.",
+    "start_ms": 819551,
+    "end_ms": 823508,
+    "duration_ms": 3957,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 823.508,
+    "text": "They're going to do the pairings here, either shock alone, random association, paired association, and they're just going to measure how long till the fruit flies die.",
+    "start_ms": 823508,
+    "end_ms": 833619,
+    "duration_ms": 10111,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 833.619,
+    "text": "Okay. Assay their starvation resistance. Well, here's the data from the study.",
+    "start_ms": 833619,
+    "end_ms": 838717,
+    "duration_ms": 5098,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 838.717,
+    "text": "This is the time to death. So this is dying slowly.",
+    "start_ms": 838717,
+    "end_ms": 841943,
+    "duration_ms": 3226,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 841.943,
+    "text": "This is dying quickly. They have both females and males.",
+    "start_ms": 841943,
+    "end_ms": 845341,
+    "duration_ms": 3398,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 845.341,
+    "text": "There's actually a baseline group I didn't show you. They're untreated.",
+    "start_ms": 845341,
+    "end_ms": 848359,
+    "duration_ms": 3018,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 848.359,
+    "text": "They don't get the shock at all. So as you can see, you know, getting a shock is going to be bad for your health.",
+    "start_ms": 848359,
+    "end_ms": 855037,
+    "duration_ms": 6678,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 855.037,
+    "text": "Okay. You're going to die faster. If again, you want to test yourself here, keeping, you know, self fit for the next exam.",
+    "start_ms": 855037,
+    "end_ms": 861672,
+    "duration_ms": 6635,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 861.672,
+    "text": "I'll give you a few seconds. Take a look at the eye clicker.",
+    "start_ms": 861672,
+    "end_ms": 866325,
+    "duration_ms": 4653,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 866.325,
+    "text": "Stop the video here and you can give your answer.",
+    "start_ms": 866325,
+    "end_ms": 870605,
+    "duration_ms": 4280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 870.605,
+    "text": "And I'm just asking how well you can interpret this graph here.",
+    "start_ms": 870605,
+    "end_ms": 876232,
+    "duration_ms": 5627,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 876.232,
+    "text": "All right. So hopefully when you resume, you'll see that actually if we look at this data, and again, you just have to eyeball, we certainly have an effect of gender.",
+    "start_ms": 876232,
+    "end_ms": 886007,
+    "duration_ms": 9775,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 886.007,
+    "text": "Okay. Male fruit flies die faster than females, but we also have a main effect of condition.",
+    "start_ms": 886007,
+    "end_ms": 892290,
+    "duration_ms": 6283,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 892.29,
+    "text": "That is, if you're untreated, you live longer than if you get the shock alone.",
+    "start_ms": 892290,
+    "end_ms": 897358,
+    "duration_ms": 5068,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 897.358,
+    "text": "And if you're in the non-associative condition, maybe there's no difference between those groups.",
+    "start_ms": 897358,
+    "end_ms": 901678,
+    "duration_ms": 4320,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 901.678,
+    "text": "But actually, if you're in the associative group, if you have the pairing, now you die even faster.",
+    "start_ms": 901678,
+    "end_ms": 907437,
+    "duration_ms": 5759,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 908.317,
+    "text": "Okay. So why might this be? Well, I can't tell you why there's an effect of gender.",
+    "start_ms": 908317,
+    "end_ms": 913757,
+    "duration_ms": 5440,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 913.757,
+    "text": "I guess male fruit flies just are, you know, less robust, less resilient than female fruit flies.",
+    "start_ms": 913757,
+    "end_ms": 920327,
+    "duration_ms": 6570,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 920.327,
+    "text": "So if you're going to be a fruit fly, be a female.",
+    "start_ms": 920327,
+    "end_ms": 923686,
+    "duration_ms": 3359,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 923.686,
+    "text": "But notice really there's this biggest effect in the paired condition.",
+    "start_ms": 923686,
+    "end_ms": 926826,
+    "duration_ms": 3140,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 926.826,
+    "text": "Why might that be? And again, the argument is here to learn anything is going to entail some sort of metabolic cost, because we're going to have to reshape the nervous system to record that information, to retain that information.",
+    "start_ms": 926826,
+    "end_ms": 941405,
+    "duration_ms": 14579,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 941.405,
+    "text": "So there's going to be some sort of reshaping at the receptors and the dendritic branches of these things, or maybe in the production of the neurotransmitters, and that's all going to require energy.",
+    "start_ms": 941405,
+    "end_ms": 955037,
+    "duration_ms": 13632,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 955.037,
+    "text": "And presumably that energy is going to take away from energy that might have been used for survival.",
+    "start_ms": 955037,
+    "end_ms": 960825,
+    "duration_ms": 5788,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 960.825,
+    "text": "And thus, learning here is actually accelerating the rate of death in the fruit flies.",
+    "start_ms": 960825,
+    "end_ms": 966877,
+    "duration_ms": 6052,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 966.528,
+    "text": "then another question we might ask about in the study of memory is about different types of memory.",
+    "start_ms": 966528,
+    "end_ms": 973596,
+    "duration_ms": 7068,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 973.596,
+    "text": "And this has become a huge topic. That is the idea that not only might there be different systems involved in the encoding and retrieval of information, but actually, there may be many different types of memory systems.",
+    "start_ms": 973596,
+    "end_ms": 987016,
+    "duration_ms": 13420,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 987.016,
+    "text": "And that these different types of memory systems might differ in terms of the computations they perform, or they might differ in terms of the neural systems that they're involved in.",
+    "start_ms": 987016,
+    "end_ms": 998872,
+    "duration_ms": 11856,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 998.872,
+    "text": "So let me stop the recording here, and we'll pick up again in a minute.",
+    "start_ms": 998872,
+    "end_ms": 1007676,
+    "duration_ms": 8804,
+    "word_count": 15,
+    "avg_confidence": 90
+  }
+]

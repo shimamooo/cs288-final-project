@@ -1,0 +1,2828 @@
+[
+  {
+    "timestamp": 339.358,
+    "text": "yeah. And Sebastian, what does it mean? Built-in display or Extron?",
+    "start_ms": 339358,
+    "end_ms": 346903,
+    "duration_ms": 7545,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 346.903,
+    "text": "I'll just do this one, we'll see what it comes up with.",
+    "start_ms": 346903,
+    "end_ms": 351043,
+    "duration_ms": 4140,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 351.043,
+    "text": "Okay, the poll should be working, is that right? Yep, got some responses coming.",
+    "start_ms": 351043,
+    "end_ms": 355275,
+    "duration_ms": 4232,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 355.275,
+    "text": "I just don't know if they're display or not. So I'm just trying to figure out where things stand.",
+    "start_ms": 355275,
+    "end_ms": 361399,
+    "duration_ms": 6124,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 361.399,
+    "text": "Actually it's a fun way for me to count how many people are actually here today relative to the 329 that are enrolled in the class.",
+    "start_ms": 361399,
+    "end_ms": 370851,
+    "duration_ms": 9452,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 370.851,
+    "text": "I can't gauge this room size here. So it's a very easy iClicker, it shouldn't take you more than three seconds, so I'll go for another ten seconds.",
+    "start_ms": 370851,
+    "end_ms": 384743,
+    "duration_ms": 13892,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 384.743,
+    "text": "You will have another opportunity today, but not too many of these iClicker opportunities, so do make sure you get registered each day through at least one of them.",
+    "start_ms": 384743,
+    "end_ms": 398161,
+    "duration_ms": 13418,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 398.161,
+    "text": "Okay, let's see the results. A few just trickling in, okay, good enough.",
+    "start_ms": 398161,
+    "end_ms": 405890,
+    "duration_ms": 7729,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 405.89,
+    "text": "So now show the results. Which way do I slide?",
+    "start_ms": 405890,
+    "end_ms": 412309,
+    "duration_ms": 6419,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 412.309,
+    "text": "Or the other way? Did it go? All right, we're gonna have to work out the mechanics of that.",
+    "start_ms": 412309,
+    "end_ms": 427738,
+    "duration_ms": 15429,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 427.738,
+    "text": "Anyhow, I'll go on while we, well, that's just for how we get them both on the same screen.",
+    "start_ms": 427738,
+    "end_ms": 433838,
+    "duration_ms": 6100,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 433.838,
+    "text": "How about we do it at the next poll? Okay, we didn't lose anything, did we?",
+    "start_ms": 433838,
+    "end_ms": 445476,
+    "duration_ms": 11638,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 445.476,
+    "text": "Okay, I have a clicker's not working here. Ah, there's the results.",
+    "start_ms": 445476,
+    "end_ms": 454535,
+    "duration_ms": 9059,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 454.535,
+    "text": "Okay, well, we do have eight people who have enrolled in the class.",
+    "start_ms": 454535,
+    "end_ms": 461888,
+    "duration_ms": 7353,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 461.888,
+    "text": "Eight of you on the waitlist, and okay, that matches up pretty well, the numbers, just that there's about, what does that mean, about 120 of you to make it to class today, okay, or wandering in light.",
+    "start_ms": 461888,
+    "end_ms": 478022,
+    "duration_ms": 16134,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 478.022,
+    "text": "All right, well, that's probably, you know, I've never taught at 5 p.m.",
+    "start_ms": 478022,
+    "end_ms": 481772,
+    "duration_ms": 3750,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 481.772,
+    "text": "before, so I don't know whether that's a good time for people.",
+    "start_ms": 481772,
+    "end_ms": 485031,
+    "duration_ms": 3259,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 485.031,
+    "text": "I did see one person yawning as soon as I walked into the room, so maybe it's a bad sign.",
+    "start_ms": 485031,
+    "end_ms": 490348,
+    "duration_ms": 5317,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 490.348,
+    "text": "End of the day, but we'll see. Now, how do I get rid of that?",
+    "start_ms": 490348,
+    "end_ms": 495090,
+    "duration_ms": 4742,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 495.09,
+    "text": "Okay, so the lecture slides, right, you saw they're posted.",
+    "start_ms": 495090,
+    "end_ms": 498820,
+    "duration_ms": 3730,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 498.82,
+    "text": "There's a preview one, and then a post one after the class.",
+    "start_ms": 498820,
+    "end_ms": 502915,
+    "duration_ms": 4095,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 502.915,
+    "text": "Sections are starting this week, so you want to prepare reader number one, and I went over this quickly.",
+    "start_ms": 502915,
+    "end_ms": 521923,
+    "duration_ms": 19008,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 521.923,
+    "text": "I decided I better go over it again, so just all know, so again, here's all the assignments that they'll be over, they will be graded on over the course of the semester, so you can see there's the three exams, there's these online experiments, and then there's some things in section, the qual MR 1 and 2, and the anatomy quiz, and again, everything's just going to be graded on a straight hundred points there, and at the end, we weigh them by the numbers that are shown on the right, and I add that up, and then we just do a straight curve for the most part, unless the scores are really low, and then we would curve up.",
+    "start_ms": 521923,
+    "end_ms": 557403,
+    "duration_ms": 35480,
+    "word_count": 121,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 557.403,
+    "text": "Okay, and these are the dates, and you'll see that it's kind of spread out that every two weeks or so, you have some sort of assignment.",
+    "start_ms": 557403,
+    "end_ms": 564653,
+    "duration_ms": 7250,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 564.653,
+    "text": "You'll see in the syllabus that the QAL MRI, there are, there's always one that you'll do as a group and practice in the section, and then the two weeks later, you'll come in and you'll actually do one that's going to be written, that's what I'm showing up as the assessment up here.",
+    "start_ms": 564653,
+    "end_ms": 581249,
+    "duration_ms": 16596,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 581.249,
+    "text": "So again, just to repeat, because this is just to try to like set the ground rule so we don't have a lot of questions at the end, I will round things again, I'll have that, everything will be weighted, so you'll have a score, final tally, that'll be somewhere between 0 and 100, and I will round it to two decimal points, and again, the point I'm just making here is that once we have the cutoffs, I pretty much stick with the cutoff, so if you have an 89.97 or something, that is in the B plus range, okay, I'm not gonna round the 89.7 up to a 90.",
+    "start_ms": 581249,
+    "end_ms": 612537,
+    "duration_ms": 31288,
+    "word_count": 111,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 612.537,
+    "text": "If there's breaks and things, I might make adjustments, but basically it's a straight curve, that's what I mean by that, it's just the way that I think it keeps everything nice and fair for everyone, there's no extra credit option for the class, and this one I want to really emphasize, that if you don't like the grade on assignment, you know, we do make mistakes, or we don't interpret things right, or we don't read things right, so we're happy to regrade things, but if you think something's got to be regraded, you got to do it within one week of getting the assignment back, so you got to make sure you look at things now, find the mistakes, and come see us.",
+    "start_ms": 612537,
+    "end_ms": 649399,
+    "duration_ms": 36862,
+    "word_count": 125,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 649.368,
+    "text": "the end of the semester people coming and saying, could you regrade my first paper because if I can get three more points on that, I'll make it into the next grade ranking and stuff like that.",
+    "start_ms": 649368,
+    "end_ms": 658997,
+    "duration_ms": 9629,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 658.997,
+    "text": "So really, it's within one week of us returning it, come see us, we're happy to regrade whatever needs to be regraded.",
+    "start_ms": 658997,
+    "end_ms": 665358,
+    "duration_ms": 6361,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 666.198,
+    "text": "Class attendance, I have been getting blasted with emails from people with things that are on the syllabus, with 300 people, it's not so easy to respond to all emails.",
+    "start_ms": 666198,
+    "end_ms": 677238,
+    "duration_ms": 11040,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 677.238,
+    "text": "So please, do not tell me if you're gonna miss a class.",
+    "start_ms": 677238,
+    "end_ms": 680957,
+    "duration_ms": 3719,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 680.957,
+    "text": "Okay, it's built into the syllabus that, right, you get five points per lecture, there are 24 lectures starting today.",
+    "start_ms": 680957,
+    "end_ms": 688797,
+    "duration_ms": 7840,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 688.797,
+    "text": "If you came to 20 of the lectures, if you skipped four of them, or you were sick or missed four of them, you still get all 100 points.",
+    "start_ms": 688797,
+    "end_ms": 695558,
+    "duration_ms": 6761,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 695.558,
+    "text": "So there's room in there for everyone to miss four lectures.",
+    "start_ms": 695558,
+    "end_ms": 698358,
+    "duration_ms": 2800,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 698.358,
+    "text": "So if you miss one, it's not a big deal.",
+    "start_ms": 698358,
+    "end_ms": 700358,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 700.358,
+    "text": "If you missed five, it's not gonna be a big deal if you do the waiting and stuff.",
+    "start_ms": 700358,
+    "end_ms": 704118,
+    "duration_ms": 3760,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 704.118,
+    "text": "But do not tell me if you're missing class, just miss class and again, it'll be all recorded and there's plenty of leeway in there for you to miss classes because everyone has, things come up.",
+    "start_ms": 704118,
+    "end_ms": 715038,
+    "duration_ms": 10920,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 716.158,
+    "text": "The same thing with section participation, this is the guidelines, they're a bit loose, it doesn't say you have to go to 10 of the 11 weeks, it just says, you know, show up most weeks and be prepared, participate, and you get all the credits, you get all the 70 possible points.",
+    "start_ms": 716158,
+    "end_ms": 731478,
+    "duration_ms": 15320,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 731.478,
+    "text": "So again, on these assessments, many of them are really designed to be pretty easy to qualify for all the points.",
+    "start_ms": 731478,
+    "end_ms": 740478,
+    "duration_ms": 9000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 740.478,
+    "text": "I mean, obviously the section participation, the class attendance, you'll see the anatomy quiz isn't that difficult, the ZAP certainly, you get all those points.",
+    "start_ms": 740478,
+    "end_ms": 748957,
+    "duration_ms": 8479,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 748.957,
+    "text": "So there's quite a few points there that should be quite easy if you're just participating and doing the things and showing up to class in section.",
+    "start_ms": 748957,
+    "end_ms": 756677,
+    "duration_ms": 7720,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 756.677,
+    "text": "And of course the exams are really where that differentiates the, you know, the A pluses and the A minuses and the B minuses and so forth.",
+    "start_ms": 756677,
+    "end_ms": 765957,
+    "duration_ms": 9280,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 765.957,
+    "text": "Okay, so I just wanted to go over that again, that clear?",
+    "start_ms": 765957,
+    "end_ms": 770037,
+    "duration_ms": 4080,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 770.037,
+    "text": "No questions? Okay, but please do think twice about your emails, I got one today saying, I just wanted to check that there was no ZAPs due for this week's section.",
+    "start_ms": 770037,
+    "end_ms": 781837,
+    "duration_ms": 11800,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 781.837,
+    "text": "That says that in the syllabus, I'm a little compulsive and I do respond to all emails pretty much, but you know, try to temper them down to the things that are clearly in the syllabus, okay?",
+    "start_ms": 781837,
+    "end_ms": 793798,
+    "duration_ms": 11961,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 793.798,
+    "text": "All right, so today in one hour, or 50 minutes or 45 minutes now, 40 minutes, we're gonna go over the basics of neurophysiology, how neurons communicate.",
+    "start_ms": 793798,
+    "end_ms": 804318,
+    "duration_ms": 10520,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 804.318,
+    "text": "So again, there are whole year long or semester long classes in MCV and in neuroscience that go over what I'm going to condense down into just 40 minutes here.",
+    "start_ms": 804318,
+    "end_ms": 815757,
+    "duration_ms": 11439,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 815.757,
+    "text": "And I'm really just gonna hit on the big features, the things that I think are relevant to know when you think about cognitive neuroscience.",
+    "start_ms": 815757,
+    "end_ms": 823078,
+    "duration_ms": 7321,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 823.078,
+    "text": "But knowing how channels operate isn't gonna be essential for understanding, say, how people think and use language and so forth.",
+    "start_ms": 823078,
+    "end_ms": 830358,
+    "duration_ms": 7280,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 830.358,
+    "text": "So I'm really just distilling it into what I see as the key principles.",
+    "start_ms": 830358,
+    "end_ms": 834557,
+    "duration_ms": 4199,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 834.557,
+    "text": "Now, of course, an important key principle is that the central cell that allows neural communication or allows us to think or that brains operate on is the neuron, so the neuron is a cell of the body, it's the cell of the nervous system, and it's basically composed of three physical parts and then a space.",
+    "start_ms": 834557,
+    "end_ms": 856078,
+    "duration_ms": 21521,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 856.078,
+    "text": "So the soma, and forgive me, this pointer has this habit today that it comes on briefly and then it goes away, okay?",
+    "start_ms": 856078,
+    "end_ms": 864318,
+    "duration_ms": 8240,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 865.078,
+    "text": "So here's a schematic of a, just capturing a cartoon of a neuron.",
+    "start_ms": 865078,
+    "end_ms": 871598,
+    "duration_ms": 6520,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 871.598,
+    "text": "It's emphasizing that there's a cell body or what's called the soma, and then there are all these processes.",
+    "start_ms": 871598,
+    "end_ms": 876958,
+    "duration_ms": 5360,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 876.958,
+    "text": "It's the processes that allow communication to take place, they're the inputs to the cell, and they're coming through the dendrites, the so-called dendrites, that's up here, and then the output goes through the axon, and that's this long process.",
+    "start_ms": 876958,
+    "end_ms": 891997,
+    "duration_ms": 15039,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 891.997,
+    "text": "By process, I just mean an extension from the cell body, and that's the axon.",
+    "start_ms": 891997,
+    "end_ms": 896518,
+    "duration_ms": 4521,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 896.518,
+    "text": "We usually think of the axon as sort of one long extending process, but it might have branches, but certainly the dendrites are gonna have lots of little branches, or what we might call the dendritic arbor, like a tree, all its branches there, and the space is the synapse.",
+    "start_ms": 896518,
+    "end_ms": 912597,
+    "duration_ms": 16079,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 912.597,
+    "text": "The space is the fourth part there. It's not a physical entity, it's just the gap between any pair of neurons, but it's gonna be across that gap, across the synapse, is how neurons are gonna communicate with one another through what we'd call synaptic transmission, and that's where neurotransmitters come into play, and this is the basic physiology, just the real basics about what activates the neurons, right, and the basic idea is that all neurons are sitting there in a so-called resting state, meaning they're not active.",
+    "start_ms": 912597,
+    "end_ms": 944998,
+    "duration_ms": 32401,
+    "word_count": 89,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 944.998,
+    "text": "Of course, all these neurons are spontaneously coming on all the time, but in their basic, in sort of their state, they'd be at rest, and they're negatively charged, and that just means that the inside of the cell is negatively charged relative to the outside of the cell, and that's because there are a bunch of negatively charged ions that can't penetrate.",
+    "start_ms": 944998,
+    "end_ms": 967037,
+    "duration_ms": 22039,
+    "word_count": 63,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 966.703,
+    "text": "penetrate through the membrane. So that's what maintains this negative charge within the cell with respect to the outside of the cell.",
+    "start_ms": 966703,
+    "end_ms": 975436,
+    "duration_ms": 8733,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 975.436,
+    "text": "But there's going to be gradual changes, and we'll talk about how the gradual changes come about in the next cell, but there's constant changes that are either making the cell more positively charged, so moving it towards zero from negative 70, or making it more negatively charged, making it go from negative 70 to even lower.",
+    "start_ms": 975436,
+    "end_ms": 994037,
+    "duration_ms": 18601,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 994.037,
+    "text": "And that's what we mean by depolarization. Depolarization is going to be going towards the excitatory side.",
+    "start_ms": 994037,
+    "end_ms": 1000437,
+    "duration_ms": 6400,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1000.437,
+    "text": "It's going up from negative 70. Or hyperpolarization. Polarization's like it's negative charge, so hyper is going to make it more negatively charged.",
+    "start_ms": 1000437,
+    "end_ms": 1009437,
+    "duration_ms": 9000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1009.437,
+    "text": "Depolarization, less negatively charged. That's constantly happening, and if, because of these gradual changes, you actually reach around negative 40 millivolts, so you go from negative 70 up to negative 40, then some radical changes occur at the axon, or right below the cell body where the axon starts.",
+    "start_ms": 1009437,
+    "end_ms": 1031717,
+    "duration_ms": 22280,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1031.717,
+    "text": "There's radical changes where suddenly there's a transformation of the membrane that's going to actually allow a rapid inflow of positively charged ions, and that's going to actually then cause a massive reaction to what we call the action potential.",
+    "start_ms": 1031717,
+    "end_ms": 1048517,
+    "duration_ms": 16800,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1048.517,
+    "text": "And that's again what's shown right here. Here's the resting potential, here's the depolarization.",
+    "start_ms": 1048517,
+    "end_ms": 1054037,
+    "duration_ms": 5520,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1054.037,
+    "text": "If you hit this threshold right here, you get this rapid change in the permeability of the membrane towards positively charged ions, and that's what we call an action potential.",
+    "start_ms": 1054037,
+    "end_ms": 1065316,
+    "duration_ms": 11279,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1065.316,
+    "text": "What happens when you get, and then quickly the system resets.",
+    "start_ms": 1065316,
+    "end_ms": 1070077,
+    "duration_ms": 4761,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1070.077,
+    "text": "Alright, so what happens when you get this action potential is that that change in the membrane potential propagates along the axon, and then at the axon terminal up here, where the synapse is, you get the sequence of events which is going to allow neural transmission to take place.",
+    "start_ms": 1070077,
+    "end_ms": 1088676,
+    "duration_ms": 18599,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1088.676,
+    "text": "And the basic thing that's going to happen here is that these calcium ions that are down here are going to cause a change in these little circles.",
+    "start_ms": 1088676,
+    "end_ms": 1098596,
+    "duration_ms": 9920,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1098.596,
+    "text": "This is really irritating to flash on and off, okay?",
+    "start_ms": 1098596,
+    "end_ms": 1102076,
+    "duration_ms": 3480,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1102.076,
+    "text": "But those are channels that are going to open up.",
+    "start_ms": 1102076,
+    "end_ms": 1105997,
+    "duration_ms": 3921,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1105.997,
+    "text": "And what's going to happen is that the transmitter that's contained in all these packets, the neural transmitter is going to bind to those channels and they're basically going to dump their chemical into the synapse.",
+    "start_ms": 1105997,
+    "end_ms": 1117796,
+    "duration_ms": 11799,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1117.796,
+    "text": "So it's just going to be this mechanical process of a vesicle that contains the transmitter, binds to the membrane, and then it leaks out the neural transmitter that it contains.",
+    "start_ms": 1117796,
+    "end_ms": 1129757,
+    "duration_ms": 11961,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1129.917,
+    "text": "That falls into the synaptic cleft and it's going to then be absorbed.",
+    "start_ms": 1129917,
+    "end_ms": 1134236,
+    "duration_ms": 4319,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1134.236,
+    "text": "Some of it's going to just float about, but some of it's going to be absorbed by receptors that are on the dendrites of the post-synaptic neuron.",
+    "start_ms": 1134236,
+    "end_ms": 1143596,
+    "duration_ms": 9360,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1143.596,
+    "text": "So presynaptic means before the synapse, meaning the axon. Post-synaptic means after the synapse, referring to the dendrite.",
+    "start_ms": 1143596,
+    "end_ms": 1153156,
+    "duration_ms": 9560,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1153.156,
+    "text": "So again, it's the release of the neural transmitter, there's many different types of neurotransmitters, into the synapse.",
+    "start_ms": 1153156,
+    "end_ms": 1159956,
+    "duration_ms": 6800,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1159.956,
+    "text": "Some of the transmitters will find a receptor to bind to and they will attach to the post-synaptic dendritic terminal or receptor and they will cause a slight increase, a slight hyperpolarization or a slight depolarization, depending on the type of transmitter it is.",
+    "start_ms": 1159956,
+    "end_ms": 1179117,
+    "duration_ms": 19161,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1179.117,
+    "text": "And so that's how we get those gradual changes at the dendrites.",
+    "start_ms": 1179117,
+    "end_ms": 1184477,
+    "duration_ms": 5360,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1184.557,
+    "text": "Whatever's happening at the dendrites, we have lots and lots of little receptors there.",
+    "start_ms": 1184557,
+    "end_ms": 1189197,
+    "duration_ms": 4640,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1189.197,
+    "text": "That's all going to get summed together over time and over space.",
+    "start_ms": 1189197,
+    "end_ms": 1194236,
+    "duration_ms": 5039,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1194.236,
+    "text": "And if there's enough excitation occurring, then it's going to cause an action potential and the process is going to be repeated over and over again.",
+    "start_ms": 1194236,
+    "end_ms": 1205117,
+    "duration_ms": 10881,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1205.117,
+    "text": "The last point here is just that, remember, we got this vesicle, binds to the terminal, dumps some of its neurotransmitter into it, some of it's going to be absorbed by the post-synaptic dendrite, but some of it's also going to be re-uptake or taken back up by the presynaptic axon and it's going to get repackaged and reused.",
+    "start_ms": 1205117,
+    "end_ms": 1228637,
+    "duration_ms": 23520,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1228.637,
+    "text": "It's a very efficient system that's going to try to be as efficient as it can be with the transmitter material that it has.",
+    "start_ms": 1228637,
+    "end_ms": 1236477,
+    "duration_ms": 7840,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1236.477,
+    "text": "So that's the basic of how one neuron is going to cause another neuron to fire.",
+    "start_ms": 1236477,
+    "end_ms": 1240757,
+    "duration_ms": 4280,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1240.757,
+    "text": "And this process is going to be repeated over and over again.",
+    "start_ms": 1240757,
+    "end_ms": 1244596,
+    "duration_ms": 3839,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1244.596,
+    "text": "Again, post-synaptically, so post-synaptically is always referring to what's happening within the dendrites.",
+    "start_ms": 1244596,
+    "end_ms": 1251917,
+    "duration_ms": 7321,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1251.917,
+    "text": "And again, there's going to be that passive spread along the dendrites where we get that spatial and temporal summation.",
+    "start_ms": 1251917,
+    "end_ms": 1259037,
+    "duration_ms": 7120,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1259.037,
+    "text": "Lots of excitatory signals will cause that cell's membrane to rise up to the threshold.",
+    "start_ms": 1259037,
+    "end_ms": 1264797,
+    "duration_ms": 5760,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1264.797,
+    "text": "And then again, the process just repeats. If we hit that negative 40, we trigger the whole process.",
+    "start_ms": 1264797,
+    "end_ms": 1270197,
+    "duration_ms": 5400,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1270.197,
+    "text": "Causes an action potential, the X neuron fires, and so forth on and on down the chain of events here.",
+    "start_ms": 1270197,
+    "end_ms": 1277797,
+    "duration_ms": 7600,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1277.797,
+    "text": "And again, this is just sort of showing just to show you another scale here.",
+    "start_ms": 1277797,
+    "end_ms": 1282637,
+    "duration_ms": 4840,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1282.637,
+    "text": "This is one neuron, so really high magnification. beautiful visualization.",
+    "start_ms": 1282637,
+    "end_ms": 1288415,
+    "duration_ms": 5778,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1288.415,
+    "text": "These are all the wonderful tools neuroscientists have invented to be able to visualize different parts of a neuron or individual neurons.",
+    "start_ms": 1288415,
+    "end_ms": 1296576,
+    "duration_ms": 8161,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1296.576,
+    "text": "Here we see again the cell body here. The red here are the dendritic arbors or the branches out for that neuron there.",
+    "start_ms": 1296576,
+    "end_ms": 1307295,
+    "duration_ms": 10719,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1307.816,
+    "text": "And all the little green dots are actually other cells, axons, that are passing in the vicinity of this one particular neuron.",
+    "start_ms": 1307816,
+    "end_ms": 1317535,
+    "duration_ms": 9719,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1317.535,
+    "text": "Again, some of these dots might come from the same axon.",
+    "start_ms": 1317535,
+    "end_ms": 1321296,
+    "duration_ms": 3761,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1321.296,
+    "text": "The axon might move about and have many different places where it's contacting that neuron.",
+    "start_ms": 1321296,
+    "end_ms": 1326175,
+    "duration_ms": 4879,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1326.175,
+    "text": "But it could be many, many different axons from different neurons that are all coming close and are capable of forming a synaptic connection with this one neuron here.",
+    "start_ms": 1326175,
+    "end_ms": 1336535,
+    "duration_ms": 10360,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1336.576,
+    "text": "So now you can see why we're talking about lots and lots of little IPSPs or IPSPs are gonna regulate that membrane potential.",
+    "start_ms": 1336576,
+    "end_ms": 1345576,
+    "duration_ms": 9000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1345.576,
+    "text": "You're getting inputs from many, many different neurons and this process is happening.",
+    "start_ms": 1345576,
+    "end_ms": 1350016,
+    "duration_ms": 4440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1352.296,
+    "text": "Yeah, so again, I think when I started teaching this class, they talked about 20 or so transmitters were known.",
+    "start_ms": 1352296,
+    "end_ms": 1360095,
+    "duration_ms": 7799,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1360.095,
+    "text": "That number has grown at a fast rate over the years.",
+    "start_ms": 1360095,
+    "end_ms": 1363235,
+    "duration_ms": 3140,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1363.235,
+    "text": "There's over 100 different neurotransmitters that have been identified in the mammalian brain.",
+    "start_ms": 1363235,
+    "end_ms": 1369656,
+    "duration_ms": 6421,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1370.696,
+    "text": "Most neurons contain just one type of neurotransmitter. So we might talk about a dopamine neuron.",
+    "start_ms": 1370696,
+    "end_ms": 1377296,
+    "duration_ms": 6600,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1377.296,
+    "text": "It means it's a neuron that when it releases its transmitter, its transmitter is dopamine.",
+    "start_ms": 1377296,
+    "end_ms": 1383135,
+    "duration_ms": 5839,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1383.135,
+    "text": "Another neuron might release serotonin. There are some neurons that actually have multiple types of transmitters.",
+    "start_ms": 1383135,
+    "end_ms": 1389976,
+    "duration_ms": 6841,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1391.055,
+    "text": "Other ones, glutamate is the most common one in the brain.",
+    "start_ms": 1391055,
+    "end_ms": 1394175,
+    "duration_ms": 3120,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1394.175,
+    "text": "It's a excitatory neurotransmitter. GABA is the other major one.",
+    "start_ms": 1394175,
+    "end_ms": 1399296,
+    "duration_ms": 5121,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1399.296,
+    "text": "It's an inhibitory neurotransmitter. But again, there's all sorts of different transmitters.",
+    "start_ms": 1399296,
+    "end_ms": 1404016,
+    "duration_ms": 4720,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1404.016,
+    "text": "There's the opioids. There's a whole class that's just been sort of identified and described and understood over the last 25 years or so.",
+    "start_ms": 1404016,
+    "end_ms": 1411975,
+    "duration_ms": 7959,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1411.975,
+    "text": "That we have receptors, endogenous receptors that are sensitive to opioids and, you know, to advance our understanding of drug abuse and so forth.",
+    "start_ms": 1411975,
+    "end_ms": 1419895,
+    "duration_ms": 7920,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1419.895,
+    "text": "To recognize that there are these receptors that are sensitive to opioid-like substances.",
+    "start_ms": 1419895,
+    "end_ms": 1425495,
+    "duration_ms": 5600,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1425.495,
+    "text": "That means that there's a natural substance in the brain that's activating these receptors.",
+    "start_ms": 1425495,
+    "end_ms": 1430055,
+    "duration_ms": 4560,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1430.055,
+    "text": "That's why we've evolved them and so forth. So the drugs people take or abuse are basically exploiting neurotransmitters that are in there for some functional purpose.",
+    "start_ms": 1430055,
+    "end_ms": 1439615,
+    "duration_ms": 9560,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1440.516,
+    "text": "This picture here is just showing, again, the distribution pattern of two neurotransmitters that are in the news quite a bit.",
+    "start_ms": 1440516,
+    "end_ms": 1448415,
+    "duration_ms": 7899,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1448.415,
+    "text": "Dopamine thought about as the reward sort of neuron or the love neuron.",
+    "start_ms": 1448415,
+    "end_ms": 1452656,
+    "duration_ms": 4241,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1452.656,
+    "text": "High-end transmitter. Serotonin thought about in terms of aggression. These two are rather unusual because the cell bodies for them all lie way down in the primitive brainstem regions.",
+    "start_ms": 1452656,
+    "end_ms": 1464495,
+    "duration_ms": 11839,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1464.495,
+    "text": "Like all the dopamine neurons are coming from very tiny clusters of neurons located in the brainstem but their axons spread across the whole cortex there.",
+    "start_ms": 1464495,
+    "end_ms": 1475415,
+    "duration_ms": 10920,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1475.415,
+    "text": "So from those brainstem, these cell bodies, they're somewhere down here but the axons then are distributed throughout the cerebral cortex or through most of the cerebral cortex and up into the basal ganglia, all sorts of different subcortical structures.",
+    "start_ms": 1475415,
+    "end_ms": 1490576,
+    "duration_ms": 15161,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1490.576,
+    "text": "The same for serotonin. Its cell bodies are all down here in the raphe nucleus but again, this broad distribution.",
+    "start_ms": 1490576,
+    "end_ms": 1497736,
+    "duration_ms": 7160,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1497.736,
+    "text": "So we sometimes talk about some neurotransmitters like dopamine as being neuromodulators.",
+    "start_ms": 1497736,
+    "end_ms": 1502656,
+    "duration_ms": 4920,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1502.656,
+    "text": "They kind of spread this widespread influence whereas others are more involved in, say, local communication and processing.",
+    "start_ms": 1502656,
+    "end_ms": 1509936,
+    "duration_ms": 7280,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1513.415,
+    "text": "So again, usually we talk about neurotransmission. We're talking about synaptic transmission, okay?",
+    "start_ms": 1513415,
+    "end_ms": 1521296,
+    "duration_ms": 7881,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1521.296,
+    "text": "This chemical transmission I just described. I've told you about this range of different neurotransmitters.",
+    "start_ms": 1521296,
+    "end_ms": 1527855,
+    "duration_ms": 6559,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1527.855,
+    "text": "There's a really cool paper just came out a few weeks ago and it said, you know, people always wonder, well, we have these excitatory.",
+    "start_ms": 1527855,
+    "end_ms": 1534816,
+    "duration_ms": 6961,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1534.816,
+    "text": "I said glutamate is the main excitatory neurotransmitter. GABA's the only or the real inhibitory neurotransmitter and they're kind of in balance with one another.",
+    "start_ms": 1534816,
+    "end_ms": 1545175,
+    "duration_ms": 10359,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1545.175,
+    "text": "If you look throughout the brain, you'll see, you know, most neurons are receiving both excitatory and inhibitory inputs.",
+    "start_ms": 1545175,
+    "end_ms": 1552376,
+    "duration_ms": 7201,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1552.376,
+    "text": "These people were making the point that that's not true in all species, that that actually seems to be something that's especially pronounced in mammalians, especially in primates.",
+    "start_ms": 1552376,
+    "end_ms": 1561656,
+    "duration_ms": 9280,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1561.656,
+    "text": "So for instance, they've identified that the GABA neurons all are born, they're all originating in one particular part of the cleft in the brain is just developing and that this isn't happening in most rodent species.",
+    "start_ms": 1561656,
+    "end_ms": 1577416,
+    "duration_ms": 15760,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1577.416,
+    "text": "And so they have speculations about what is it about GABAergic neurons, about having this inhibitory process there that actually allows for much more complex processing than if you had a system that was mostly driven by excitatory inputs.",
+    "start_ms": 1577416,
+    "end_ms": 1591416,
+    "duration_ms": 14000,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1591.416,
+    "text": "So again, these are all things that are just sort of really being uncovered here about this difference between excitatory and inhibitory neurons.",
+    "start_ms": 1591416,
+    "end_ms": 1598735,
+    "duration_ms": 7319,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1600.136,
+    "text": "Lots of work, and again, you can take your MCB classes to really understand this, or neuroscience classes about all sorts.",
+    "start_ms": 1600136,
+    "end_ms": 1606295,
+    "duration_ms": 6159,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1606.087,
+    "text": "sorts of different types of receptors. So here again, we're looking at the dendrite, the post-synaptic terminal again, presynaptic.",
+    "start_ms": 1606087,
+    "end_ms": 1616075,
+    "duration_ms": 9988,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1616.075,
+    "text": "So here, that's called dumping in the neurotransmitter. On a single neuron, you usually will maybe have one type of receptor.",
+    "start_ms": 1616075,
+    "end_ms": 1623075,
+    "duration_ms": 7000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1623.075,
+    "text": "Here's just schematizing two basic types. You don't need to learn these terms here, but again, some of them, it's basically the neurotransmitter itself causes this little channel to open up and lets the transmitter in, causes the membrane changes, whereas here, these more complicated ones, it's kind of an indirect process.",
+    "start_ms": 1623075,
+    "end_ms": 1642915,
+    "duration_ms": 19840,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1642.915,
+    "text": "The transmitter triggers the production of a particular protein, which will eventually open up this channel.",
+    "start_ms": 1642915,
+    "end_ms": 1650374,
+    "duration_ms": 7459,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1650.374,
+    "text": "There's other types of channels that actually operate on mechanical properties, might be things on the skin, for instance, that a pressure change might cause the neuron to fire, because it's actually the pressure itself that's going to open up the channel.",
+    "start_ms": 1650374,
+    "end_ms": 1663914,
+    "duration_ms": 13540,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1663.914,
+    "text": "But again, that's more than we really need to know for this class.",
+    "start_ms": 1663914,
+    "end_ms": 1667395,
+    "duration_ms": 3481,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1667.395,
+    "text": "Ah, look at that, I jumped ahead there. Yeah. In addition to the neurotransmission, there actually are a sort of second way neurons communicate with each other, which is through direct electrical communication.",
+    "start_ms": 1667395,
+    "end_ms": 1687255,
+    "duration_ms": 19860,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1687.255,
+    "text": "So again, so what I've been talking about is sort of a chemical change that's going to induce an electrical change, but there's actually these so-called electrical synapses.",
+    "start_ms": 1687255,
+    "end_ms": 1698414,
+    "duration_ms": 11159,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1698.414,
+    "text": "That's what's shown over here, and there you have what they call like a gap junction.",
+    "start_ms": 1698414,
+    "end_ms": 1702335,
+    "duration_ms": 3921,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1702.335,
+    "text": "These are neurons that are going to be very close together, and basically, they're in a sense basically attached to one another, and so that there's a direct communication of the direct flow of the potential from one state, from one neuron to the other.",
+    "start_ms": 1702335,
+    "end_ms": 1716774,
+    "duration_ms": 14439,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1716.774,
+    "text": "And again, these aren't found, they aren't widespread, they're in certain parts of the brain that allow for very fast communication.",
+    "start_ms": 1716774,
+    "end_ms": 1724094,
+    "duration_ms": 7320,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1724.094,
+    "text": "Basically, if I have a change in this neuron, the same change is going to be reflected in that neuron, and then it's going to come back.",
+    "start_ms": 1724094,
+    "end_ms": 1731534,
+    "duration_ms": 7440,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1731.534,
+    "text": "I'm almost going to have an oscillator, it's going to be a way to maybe sustain the activity in one neuron by having it electrically coupled to another neuron.",
+    "start_ms": 1731534,
+    "end_ms": 1739654,
+    "duration_ms": 8120,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1739.654,
+    "text": "So you get very fast communication, it's basically almost immediate.",
+    "start_ms": 1739654,
+    "end_ms": 1745534,
+    "duration_ms": 5880,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1745.534,
+    "text": "This kind of thing here might take five milliseconds, okay?",
+    "start_ms": 1745534,
+    "end_ms": 1749574,
+    "duration_ms": 4040,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1749.574,
+    "text": "Five milliseconds isn't a huge amount of time, but you know, we're talking about neural processing and you have to go through a lot of neurons, it can take quite a while.",
+    "start_ms": 1749574,
+    "end_ms": 1757294,
+    "duration_ms": 7720,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1757.294,
+    "text": "So these are very fast, they might be especially important for say, for like reflexes and systems that you need to have a very fast response, is where you find them, they are much less flexible.",
+    "start_ms": 1757294,
+    "end_ms": 1770094,
+    "duration_ms": 12800,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1770.094,
+    "text": "It may have been that, you know, these were a kind of more primitive way for neural communication to occur, and then we sort of evolved into having this sort of system.",
+    "start_ms": 1770094,
+    "end_ms": 1779734,
+    "duration_ms": 9640,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1779.734,
+    "text": "Here, these are much more flexible because as we'll see, you can rapidly reshape the dendritic distribution, the spread of channels on the dendrites is rapidly changing over time and I'll show you some slides of that in a minute, whereas these are much less plastic, they can't be shaped, they're more of a structurally fixed entity.",
+    "start_ms": 1779734,
+    "end_ms": 1802294,
+    "duration_ms": 22560,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1802.294,
+    "text": "Now we think about the brain, we say it's full of neurons, but you got to keep in mind that there's lots of other cell types in the brain.",
+    "start_ms": 1802294,
+    "end_ms": 1811255,
+    "duration_ms": 8961,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1811.255,
+    "text": "There's of course blood vessels, blood vessels have to be everywhere in the body, you got to constantly be supplying everything with oxygen, with all sorts of nutrients.",
+    "start_ms": 1811255,
+    "end_ms": 1820374,
+    "duration_ms": 9119,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1820.374,
+    "text": "So if you're looking at a brain image, you got to be aware that there's always going to be blood vessels, if you're doing brain surgery, you really got to worry about where the blood vessels are.",
+    "start_ms": 1820374,
+    "end_ms": 1829934,
+    "duration_ms": 9560,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1829.934,
+    "text": "The brain tissue itself, you can probably damage a lot of that without causing problems, but if you muck up with the blood supply system, then you're really going to cause trouble.",
+    "start_ms": 1829934,
+    "end_ms": 1839215,
+    "duration_ms": 9281,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1839.215,
+    "text": "But in addition to the blood vessels, there's also these glial cells, and these are cells that are basically involved in sort of the maintenance of the cells.",
+    "start_ms": 1839215,
+    "end_ms": 1848454,
+    "duration_ms": 9239,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1848.534,
+    "text": "They're going to be involved in the metabolic functions, they're going to be cleaning up when cells die, if there has to be some sort of repair work, they're going to be providing the material that's going to be required.",
+    "start_ms": 1848534,
+    "end_ms": 1860854,
+    "duration_ms": 12320,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1860.854,
+    "text": "And they also seem to be, what's gotten great interest in these cells is that they also seem to play some role in neural communication.",
+    "start_ms": 1860854,
+    "end_ms": 1868895,
+    "duration_ms": 8041,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1868.895,
+    "text": "Now we've long known that in the sense that glial cells can form what's called myelin, and myelin is just a fatty tissue, in a sense, that wraps itself around the axon of the neurons, and it allows for much better conduction of the signal.",
+    "start_ms": 1868895,
+    "end_ms": 1886454,
+    "duration_ms": 17559,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1886.454,
+    "text": "So remember I might have this long axon, it might be this long, some axons are very long, we've got to propagate that signal, that action potential down that whole axon, and what happens is that the myelin allows that to occur at a much faster rate.",
+    "start_ms": 1886454,
+    "end_ms": 1901974,
+    "duration_ms": 15520,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1902.095,
+    "text": "There's two types there, again, details I won't worry about today.",
+    "start_ms": 1902095,
+    "end_ms": 1905935,
+    "duration_ms": 3840,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1905.935,
+    "text": "The oleogodendrocytes are just the wrapping, it's the myelin that's around central axons, so say in the brain itself, whereas the Schwann cells are going to be the myelin that wraps around the peripheral axons, the ones that are, say, going from the spinal cord out to your arms and so forth, or down the spinal cord itself.",
+    "start_ms": 1905935,
+    "end_ms": 1925134,
+    "duration_ms": 19199,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1925.134,
+    "text": "But where there's been like... there's been a huge amount of research over the last 50 years is on the astrocytes.",
+    "start_ms": 1925134,
+    "end_ms": 1932754,
+    "duration_ms": 7620,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1932.754,
+    "text": "So these, again, are glia cells, and they are what really form the blood-brain barrier.",
+    "start_ms": 1932754,
+    "end_ms": 1939674,
+    "duration_ms": 6920,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1939.674,
+    "text": "So again, there isn't direct communication or direct contact between the blood and the neurons, but rather there's this barrier there.",
+    "start_ms": 1939674,
+    "end_ms": 1947313,
+    "duration_ms": 7639,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1947.313,
+    "text": "We always talk about the blood-brain barrier, and it's composed of these astrocytes.",
+    "start_ms": 1947313,
+    "end_ms": 1952513,
+    "duration_ms": 5200,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1952.513,
+    "text": "So the astrocytes are sitting between the blood and between the neuron, and you can then imagine that there's gonna be exchange, say, of oxygen into the astrocyte or other material that's needed, and then from the astrocyte can pass it on to the neuron.",
+    "start_ms": 1952513,
+    "end_ms": 1968074,
+    "duration_ms": 15561,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1968.074,
+    "text": "That's how we're gonna have our sort of maintenance of the metabolic state of the neurons.",
+    "start_ms": 1968074,
+    "end_ms": 1973233,
+    "duration_ms": 5159,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1973.233,
+    "text": "But there's been all this interest about, so how do astrocytes, yeah, we can think about them as just sort of a protective layer there or a way to regulate the delivery of materials to the neurons, but do they also have, then, a functional role in the actual activity of the neurons themselves?",
+    "start_ms": 1973233,
+    "end_ms": 1992353,
+    "duration_ms": 19120,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1992.353,
+    "text": "So here's a cool experiment where they basically, they have neurons.",
+    "start_ms": 1992353,
+    "end_ms": 1997474,
+    "duration_ms": 5121,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1997.474,
+    "text": "What we're gonna plot here on the y-axis, well, over the x-axis is time, and on the y-axis, we're gonna be doing some imaging that's gonna be indicating the activity level of a neuron or of an astrocyte.",
+    "start_ms": 1997474,
+    "end_ms": 2011953,
+    "duration_ms": 14479,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2011.953,
+    "text": "So we've got particular markers that allow us to monitor the activity level of a neuron or the activity level of the astrocyte, and what they're gonna do is they're gonna stimulate this neuron by turning on a light.",
+    "start_ms": 2011953,
+    "end_ms": 2024794,
+    "duration_ms": 12841,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2024.794,
+    "text": "They've used this sort of optogenetic technique that they can actually activate the neuron, and that's what's shown here is that they're doing this calcium imaging to look at the activity.",
+    "start_ms": 2024794,
+    "end_ms": 2034554,
+    "duration_ms": 9760,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2034.554,
+    "text": "This is in a rodent species in a ferret. Turn on the light, and the neuron becomes active.",
+    "start_ms": 2034554,
+    "end_ms": 2039913,
+    "duration_ms": 5359,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2039.913,
+    "text": "Okay, that's not surprising. They knew that that was the goal here, but what was interesting, then, is to see that, actually, the astrocyte also becomes activated.",
+    "start_ms": 2039913,
+    "end_ms": 2050353,
+    "duration_ms": 10440,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2050.353,
+    "text": "It starts, actually, absorbing more calcium afterwards, okay, and it actually closely follows that delay in the neural activity, and so that was a puzzle, like, you know, what's that for?",
+    "start_ms": 2050353,
+    "end_ms": 2061353,
+    "duration_ms": 11000,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2061.353,
+    "text": "And then what you can imagine is that, basically, if a neuron fires, that's metabolically a really demanding thing for a neuron, so it now is depleted of oxygen and other things, and so, basically, the astrocyte becomes more active as a way to replenish that neuron.",
+    "start_ms": 2061353,
+    "end_ms": 2078154,
+    "duration_ms": 16801,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2078.154,
+    "text": "Okay, so you have this beautiful kind of system, feedback system built in there where, when the neuron's active, locally, it basically tells its neighboring astrocyte, hey, give me something back.",
+    "start_ms": 2078154,
+    "end_ms": 2088273,
+    "duration_ms": 10119,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2088.273,
+    "text": "Give me some more oxygen so I can keep up my activity.",
+    "start_ms": 2088273,
+    "end_ms": 2091154,
+    "duration_ms": 2881,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2092.434,
+    "text": "Um, but what about the reverse, okay? That's showing that astrocyte activity is regulated by neural activity.",
+    "start_ms": 2092434,
+    "end_ms": 2100113,
+    "duration_ms": 7679,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2100.113,
+    "text": "We suspected that's true because the astrocytes are, again, regulating the metabolic inputs into the neuron, but what about, can the activity of the astrocyte actually modulate what's happening in the neurons?",
+    "start_ms": 2100113,
+    "end_ms": 2114674,
+    "duration_ms": 14561,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2114.674,
+    "text": "Okay, so now what they're gonna do is a similar experiment, but now they're actually gonna do three different conditions, and one, they're basically gonna activate the astrocyte, okay, turn on the light, and they know it's gonna activate this astrocyte.",
+    "start_ms": 2114674,
+    "end_ms": 2128674,
+    "duration_ms": 14000,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2128.674,
+    "text": "Another condition, they're gonna do the control condition. They're gonna do an injection of some chemical, but it's a placebo, it's a wash.",
+    "start_ms": 2128674,
+    "end_ms": 2135954,
+    "duration_ms": 7280,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2135.954,
+    "text": "It's got just saline, and you can see that, in both cases, you get this activation of the astrocyte.",
+    "start_ms": 2135954,
+    "end_ms": 2141794,
+    "duration_ms": 5840,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2141.794,
+    "text": "The critical condition is the green condition. They've now injected in that local area a chemical that's gonna silence the astrocyte, so the astrocyte can't come on, and that's what you see.",
+    "start_ms": 2141794,
+    "end_ms": 2153074,
+    "duration_ms": 11280,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2153.074,
+    "text": "You turn on the light, astrocyte doesn't come on, but the question is, what happens to the neuron then?",
+    "start_ms": 2153074,
+    "end_ms": 2159434,
+    "duration_ms": 6360,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2159.434,
+    "text": "Okay, so that's your eye clicker question here. If I can find my eye clicker.",
+    "start_ms": 2159434,
+    "end_ms": 2165633,
+    "duration_ms": 6199,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2165.633,
+    "text": "Sebastian, it's lost. Sebastian, you made my eye clicker disappear here.",
+    "start_ms": 2165633,
+    "end_ms": 2173034,
+    "duration_ms": 7401,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2181.433,
+    "text": "I'm gonna have to make myself more graceful in my eye clicker.",
+    "start_ms": 2181433,
+    "end_ms": 2186433,
+    "duration_ms": 5000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2187.514,
+    "text": "I can go out of the show. Or did we kill it?",
+    "start_ms": 2187514,
+    "end_ms": 2193473,
+    "duration_ms": 5959,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2200.473,
+    "text": "Okay. All right, so you got your quiz now, right?",
+    "start_ms": 2200473,
+    "end_ms": 2205593,
+    "duration_ms": 5120,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2205.593,
+    "text": "Here, slide show. Stay up here so we can do this.",
+    "start_ms": 2205593,
+    "end_ms": 2210834,
+    "duration_ms": 5241,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2210.834,
+    "text": "Poll, a multiple choice, go. All right, yeah. What do you think, screen?",
+    "start_ms": 2210834,
+    "end_ms": 2217714,
+    "duration_ms": 6880,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2217.714,
+    "text": "I should hit there now. Okay, it should be working, yeah?",
+    "start_ms": 2217714,
+    "end_ms": 2222114,
+    "duration_ms": 4400,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2222.114,
+    "text": "So that's your prediction you have to make now, is what's gonna happen to the neural activity if I shut off the astrocyte?",
+    "start_ms": 2222114,
+    "end_ms": 2230353,
+    "duration_ms": 8239,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2233.794,
+    "text": "You think that'll show up here? We're still testing our system.",
+    "start_ms": 2233794,
+    "end_ms": 2240074,
+    "duration_ms": 6280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2240.074,
+    "text": "Three choices, increase, decrease, no change. Covers all bases. bases.",
+    "start_ms": 2240074,
+    "end_ms": 2244753,
+    "duration_ms": 4679,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2244.753,
+    "text": "Let's go one more minute, because there are 210 people here today.",
+    "start_ms": 2244753,
+    "end_ms": 2252753,
+    "duration_ms": 8000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2252.753,
+    "text": "Let's make sure we get them all. Okay, good. Ah, we've got a lot more folks on this poll than the previous one.",
+    "start_ms": 2252753,
+    "end_ms": 2263753,
+    "duration_ms": 11000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2264.753,
+    "text": "Yeah, can you show it while they keep the poll open?",
+    "start_ms": 2264753,
+    "end_ms": 2269753,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2269.753,
+    "text": "Okay. Oh, I do have to move it, huh? We can't use the screen that we always show.",
+    "start_ms": 2269753,
+    "end_ms": 2277753,
+    "duration_ms": 8000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2277.753,
+    "text": "All right, so, most, we have a pretty good spread there.",
+    "start_ms": 2277753,
+    "end_ms": 2281753,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2281.753,
+    "text": "Some people say it's going to increase, some say it's going to decrease, and some say no change.",
+    "start_ms": 2281753,
+    "end_ms": 2288753,
+    "duration_ms": 7000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2288.753,
+    "text": "Who wants to be the spokesperson? Do we have time?",
+    "start_ms": 2288753,
+    "end_ms": 2291753,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2291.753,
+    "text": "The spokesperson for the increase hypothesis. Someone who said increase.",
+    "start_ms": 2291753,
+    "end_ms": 2298308,
+    "duration_ms": 6555,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2298.308,
+    "text": "Want to tell me why? No? Yeah, sure. In the graph you showed earlier, you had the astrocyte activation at the same time as the neural activity goes down.",
+    "start_ms": 2298308,
+    "end_ms": 2312753,
+    "duration_ms": 14445,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2312.753,
+    "text": "So I'm wondering if the astrocyte is having the same time as the actual causation of the non-correlation.",
+    "start_ms": 2312753,
+    "end_ms": 2318753,
+    "duration_ms": 6000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2318.753,
+    "text": "Okay, okay. And you think it'll increase? Okay, how about the decrease?",
+    "start_ms": 2318753,
+    "end_ms": 2328753,
+    "duration_ms": 10000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2328.753,
+    "text": "Spokesperson for the decrease hypothesis. No takers? Don't have enough information on this one?",
+    "start_ms": 2328753,
+    "end_ms": 2336753,
+    "duration_ms": 8000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2336.753,
+    "text": "All right, well, let me show you the results here.",
+    "start_ms": 2336753,
+    "end_ms": 2338753,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2338.753,
+    "text": "Now how do I stop the poll? Oh, I've got to go back over here.",
+    "start_ms": 2338753,
+    "end_ms": 2344753,
+    "duration_ms": 6000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2344.753,
+    "text": "Very clumsy, huh? I don't need my notes ever. No, no notes.",
+    "start_ms": 2344753,
+    "end_ms": 2357753,
+    "duration_ms": 13000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2357.753,
+    "text": "We can worry about the next one. Okay. I can drag that out of there?",
+    "start_ms": 2357753,
+    "end_ms": 2376003,
+    "duration_ms": 18250,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2376.003,
+    "text": "No. No way. Okay. All right, here's the result. Okay.",
+    "start_ms": 2376003,
+    "end_ms": 2385753,
+    "duration_ms": 9750,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2385.753,
+    "text": "What you actually see is, again, green is when we silence the astrocytes.",
+    "start_ms": 2385753,
+    "end_ms": 2391753,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2391.753,
+    "text": "And now we actually see that now the neurons become more active.",
+    "start_ms": 2391753,
+    "end_ms": 2394753,
+    "duration_ms": 3000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2394.753,
+    "text": "Remember before, the astrocyte activity was following the neural activity.",
+    "start_ms": 2394753,
+    "end_ms": 2399753,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2399.753,
+    "text": "So I would have actually predicted probably no change. It's downstream from the neural activity.",
+    "start_ms": 2399753,
+    "end_ms": 2404753,
+    "duration_ms": 5000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2404.753,
+    "text": "Why silencing the astrocyte actually causes more neural activity here?",
+    "start_ms": 2404753,
+    "end_ms": 2410753,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2410.753,
+    "text": "And the answer seems to be that actually astrocytes, not only are they delivering substances like oxygen from the blood-brain barrier, but they actually have receptors on them for the same neurotransmitters that are on the dendrites.",
+    "start_ms": 2410753,
+    "end_ms": 2429753,
+    "duration_ms": 19000,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2429.753,
+    "text": "So the astrocytes also have the ability to absorb the neurotransmitter.",
+    "start_ms": 2429753,
+    "end_ms": 2435753,
+    "duration_ms": 6000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2435.753,
+    "text": "And what they do is they suck up that neurotransmitter, they repackage it, and they put it back into the neuron.",
+    "start_ms": 2435753,
+    "end_ms": 2442753,
+    "duration_ms": 7000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2442.753,
+    "text": "Again, it's this very efficient system. Not only are the neurons at the axons reabsorbing the leftover transmitter, but the astrocytes are also scooping up some of that neurotransmitter and shuffling it back.",
+    "start_ms": 2442753,
+    "end_ms": 2455753,
+    "duration_ms": 13000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2455.753,
+    "text": "Well, if I shut down the astrocyte, it can't absorb any of the neurotransmitter, and so there's more neurotransmitter available in the synapse, and thus you get greater neural activity because there's more neurotransmitter available.",
+    "start_ms": 2455753,
+    "end_ms": 2470753,
+    "duration_ms": 15000,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2470.753,
+    "text": "So again, the whole story about neural communication seems to actually be this symbiotic relationship with the glial cells, with the astrocytes, in terms of regulating the activity there.",
+    "start_ms": 2470753,
+    "end_ms": 2482753,
+    "duration_ms": 12000,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2482.753,
+    "text": "Another really cool thing that came out recently about astrocytes is that they change their shape over time.",
+    "start_ms": 2482753,
+    "end_ms": 2488753,
+    "duration_ms": 6000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2488.753,
+    "text": "So this is, again, some high-scale imaging. This is just sort of a simple cartoon, but it's just showing that if you actually look over time, this is looking at cells in the hippocampus, the part of the brain that seems to be very important for learning, what you'll see is that active neurons early on, there might be modest coverage over a neuron or over its synapse, but as that synapse is used over and over again, you get this expansion of the coverage.",
+    "start_ms": 2488753,
+    "end_ms": 2518753,
+    "duration_ms": 30000,
+    "word_count": 85,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2519.753,
+    "text": "And it seems that when you have greater coverage, what's the result of that?",
+    "start_ms": 2519753,
+    "end_ms": 2524753,
+    "duration_ms": 5000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2524.753,
+    "text": "Well, again, if astrocytes are absorbing some of the neurotransmitter, if the area of the astrocyte is getting larger, more of the neurotransmitter is getting picked up by the astrocyte than by the neuron.",
+    "start_ms": 2524753,
+    "end_ms": 2538753,
+    "duration_ms": 14000,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2538.753,
+    "text": "So it's actually a way to reduce neural communication by increasing the coverage size of the astrocyte.",
+    "start_ms": 2538753,
+    "end_ms": 2546753,
+    "duration_ms": 8000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2546.753,
+    "text": "And there's some ideas about that. This might be a way in learning that initially you have a way to reshape that synapse, but at some point in time, it becomes stabilized, and it may be that the astrocytes, by increasing their coverage, is one way to stabilize the activity at a particular synapse.",
+    "start_ms": 2546753,
+    "end_ms": 2565753,
+    "duration_ms": 19000,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2565.375,
+    "text": "synapse. Now, of course, all these things are happening, you know, with billions and billions of neurons, but these are all changes happening all the time.",
+    "start_ms": 2565375,
+    "end_ms": 2573552,
+    "duration_ms": 8177,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2573.552,
+    "text": "Okay. A few general principles just to keep in mind, really simple ones.",
+    "start_ms": 2573552,
+    "end_ms": 2578511,
+    "duration_ms": 4959,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2578.511,
+    "text": "You know, the first one I already just said, there's lots and lots of neurons.",
+    "start_ms": 2578511,
+    "end_ms": 2582472,
+    "duration_ms": 3961,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2582.472,
+    "text": "So we can't really ever think about, you know, any function coming about from a single neuron.",
+    "start_ms": 2582472,
+    "end_ms": 2586552,
+    "duration_ms": 4080,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2586.552,
+    "text": "It's always the integrated activity of many, many neurons. There's estimates of 100 billion neurons in the central nervous system.",
+    "start_ms": 2586552,
+    "end_ms": 2596551,
+    "duration_ms": 9999,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2596.551,
+    "text": "That includes both the cerebral cortex and the subcortex, what we'll talk about on Wednesday.",
+    "start_ms": 2596551,
+    "end_ms": 2602992,
+    "duration_ms": 6441,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2602.992,
+    "text": "And again, there's probably a similar number of glial cells up there.",
+    "start_ms": 2602992,
+    "end_ms": 2607152,
+    "duration_ms": 4160,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2607.152,
+    "text": "This is just a simple schematic to show that there is not any one single size or shape of a neuron.",
+    "start_ms": 2607152,
+    "end_ms": 2615231,
+    "duration_ms": 8079,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2615.231,
+    "text": "This is actually a very tiny cell. This is the biggest cells in the brain here.",
+    "start_ms": 2615231,
+    "end_ms": 2620112,
+    "duration_ms": 4881,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2620.112,
+    "text": "These are axons. These pyramidal cells, they're the axons that can go from, directly from the cerebral cortex all the way down the spinal cord.",
+    "start_ms": 2620112,
+    "end_ms": 2628071,
+    "duration_ms": 7959,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2628.071,
+    "text": "So some of them are going to be, you know, over three feet long, a meter long, and so forth.",
+    "start_ms": 2628071,
+    "end_ms": 2634031,
+    "duration_ms": 5960,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2634.031,
+    "text": "Notice that they not only vary in size, which isn't captured well by the slides, but they also really vary in terms of the density of their dendritic arbor.",
+    "start_ms": 2634031,
+    "end_ms": 2642711,
+    "duration_ms": 8680,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2642.711,
+    "text": "The pyramidal cells are relatively sparse, few dendrites, but an association cell in the thalamus, lots and lots of things, lots of them.",
+    "start_ms": 2642711,
+    "end_ms": 2651432,
+    "duration_ms": 8721,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2651.432,
+    "text": "Get out to the skin cell, though, here, very, very sparse dendrites.",
+    "start_ms": 2651432,
+    "end_ms": 2655271,
+    "duration_ms": 3839,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2655.271,
+    "text": "They really are looking for one particular signal at one particular place.",
+    "start_ms": 2655271,
+    "end_ms": 2659592,
+    "duration_ms": 4321,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2659.592,
+    "text": "Again, I've already said this, there's going to be lots of synapses per neuron.",
+    "start_ms": 2659592,
+    "end_ms": 2665391,
+    "duration_ms": 5799,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2665.391,
+    "text": "So it's nothing like a one-to-one communication. The number of synapses on a given neuron can range from 1,000 up to 200,000.",
+    "start_ms": 2665391,
+    "end_ms": 2676912,
+    "duration_ms": 11521,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2676.912,
+    "text": "So every neuron is really just a few synapses away from every other neuron.",
+    "start_ms": 2676912,
+    "end_ms": 2681192,
+    "duration_ms": 4280,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2681.192,
+    "text": "This is my favorite neuron in the brain, it's the Purkinje cell in the cerebellum.",
+    "start_ms": 2681192,
+    "end_ms": 2686752,
+    "duration_ms": 5560,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2686.752,
+    "text": "It's got this beautiful dendrite, and what's really cool about this dendrite is that it's completely flat.",
+    "start_ms": 2686752,
+    "end_ms": 2693752,
+    "duration_ms": 7000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2693.752,
+    "text": "Usually they're kind of 3D structures, but for whatever reason, within the cerebellum, the dendrites are all completely flat, and all the axons come in and just make one single synapse.",
+    "start_ms": 2693752,
+    "end_ms": 2704512,
+    "duration_ms": 10760,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2704.512,
+    "text": "Again, lots of people have ideas we won't actually talk about in this class about why you might have this very unique arrangement, but there's clearly places where the structure dictates much about the function.",
+    "start_ms": 2704512,
+    "end_ms": 2717752,
+    "duration_ms": 13240,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2717.752,
+    "text": "And then, really, what is of great interest, maybe also for this class, is what the term plasticity.",
+    "start_ms": 2717752,
+    "end_ms": 2723191,
+    "duration_ms": 5439,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2724.111,
+    "text": "And it's a really funny word, I think, because plasticity means changeable, and usually thinking about change might come from learning, but we use the more general term plasticity because, of course, much of what's happening in the nervous system, especially as we grow, is developmental changes or maturation changes, so we wouldn't really call that learning per se.",
+    "start_ms": 2724111,
+    "end_ms": 2744752,
+    "duration_ms": 20641,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2744.752,
+    "text": "But, again, the nervous system is a very plastic device, and I say plastic is a funny word because I think of plastic as kind of rigid structures and so forth, but here we're really talking about that it's something that can be malleable, that can be reshaped, and we can see these changes, these structural changes, at many different levels, and I want to show you some pictures of that.",
+    "start_ms": 2744752,
+    "end_ms": 2764872,
+    "duration_ms": 20120,
+    "word_count": 71,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2764.872,
+    "text": "You can see it both in the dendritic arbor that's constantly being reshaped, both in terms of the thickness of the dendritic branches or the number of terminals, the number of receptors.",
+    "start_ms": 2764872,
+    "end_ms": 2776392,
+    "duration_ms": 11520,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2776.392,
+    "text": "You also can see changes in the glial cells, that the myelin becomes thicker over time and so forth, or becomes thinner in some disease states.",
+    "start_ms": 2776392,
+    "end_ms": 2786032,
+    "duration_ms": 9640,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2786.032,
+    "text": "So here's just an example here, just showing how with these fluorescent dyes we can actually visualize the development of new receptor sites on a particular dendrite.",
+    "start_ms": 2786032,
+    "end_ms": 2797792,
+    "duration_ms": 11760,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2797.792,
+    "text": "So again, this is shown the first day, and then they have a tracer that they can visualize the same dendrite 24 hours later, or visualize the same dendrite 48 hours later.",
+    "start_ms": 2797792,
+    "end_ms": 2808471,
+    "duration_ms": 10679,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2808.471,
+    "text": "So this is just over the space of two days, and what you can see here, what the arrows are highlighting that becomes really visible here, is that this branch, this tiny little knob of the dendrite, has actually grown 48 hours, a whole new branch there, so that now it has three different receptor sites, whereas originally it only had this one receptor site.",
+    "start_ms": 2808471,
+    "end_ms": 2830791,
+    "duration_ms": 22320,
+    "word_count": 65,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2830.791,
+    "text": "This is constantly happening, that the nervous system is constantly adding and deleting receptor sites, and of course those changes are going to regulate neural efficiency.",
+    "start_ms": 2830791,
+    "end_ms": 2841951,
+    "duration_ms": 11160,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2841.951,
+    "text": "You got to have receptor sites for two neurons to communicate, so if I increase my receptor sites, I can enhance communication.",
+    "start_ms": 2841951,
+    "end_ms": 2849831,
+    "duration_ms": 7880,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2849.831,
+    "text": "If I decrease receptor sites, I decrease communication, and it can be advantageous to both.",
+    "start_ms": 2849831,
+    "end_ms": 2856072,
+    "duration_ms": 6241,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2856.111,
+    "text": "Now here's a much longer time scale, but this captures sort of one of the ideas we always hear about with the nervous system, right?",
+    "start_ms": 2856111,
+    "end_ms": 2864352,
+    "duration_ms": 8241,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2864.352,
+    "text": "Most neurons, we'll talk about it a little bit maybe today or on Wednesday, is that basically you're born with all your neurons and then it's a big slow decline, okay?",
+    "start_ms": 2864352,
+    "end_ms": 2873111,
+    "duration_ms": 8759,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2873.111,
+    "text": "I'm ahead of you on the race, but you're going to catch up with me someday.",
+    "start_ms": 2873111,
+    "end_ms": 2877072,
+    "duration_ms": 3961,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2877.072,
+    "text": "And this really captures it beautifully in a cat. This is just in the nervous cell in the cat's retina.",
+    "start_ms": 2877072,
+    "end_ms": 2883231,
+    "duration_ms": 6159,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2883.231,
+    "text": "This is just before it's born, okay? born. So this is looking at it.",
+    "start_ms": 2883231,
+    "end_ms": 2886791,
+    "duration_ms": 3560,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2886.791,
+    "text": "You can see amazing dendritic arbor. This is just one neuron being visualized with a stain that allows us to see it.",
+    "start_ms": 2886791,
+    "end_ms": 2893631,
+    "duration_ms": 6840,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2893.631,
+    "text": "You can see it's got this massive dendritic arbor. Now you look at the typical.",
+    "start_ms": 2893631,
+    "end_ms": 2897951,
+    "duration_ms": 4320,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2897.951,
+    "text": "It's not the same neuron. We can't track this thing over a year's time.",
+    "start_ms": 2897951,
+    "end_ms": 2901350,
+    "duration_ms": 3399,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2901.35,
+    "text": "But it's represented. You got to believe they're giving you a representative sample here.",
+    "start_ms": 2901350,
+    "end_ms": 2905111,
+    "duration_ms": 3761,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2905.111,
+    "text": "In the same part of the retina, this is what it looks like in the adult.",
+    "start_ms": 2905111,
+    "end_ms": 2908250,
+    "duration_ms": 3139,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2908.25,
+    "text": "You can see that basically, most of the dendrites have been pruned away.",
+    "start_ms": 2908250,
+    "end_ms": 2914370,
+    "duration_ms": 6120,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2914.37,
+    "text": "But the ones that have persisted, they're much thicker. And that probably means that they have many more receptor sites on there.",
+    "start_ms": 2914370,
+    "end_ms": 2921250,
+    "duration_ms": 6880,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2921.25,
+    "text": "So development is kind of the shaping process where you've got this basic massive capability when you're born.",
+    "start_ms": 2921250,
+    "end_ms": 2927890,
+    "duration_ms": 6640,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2927.89,
+    "text": "All sorts of connections are possible. But presumably, experience shapes things so that those that are most useful or most helpful, say, for vision, are the ones that are preserved.",
+    "start_ms": 2927890,
+    "end_ms": 2940050,
+    "duration_ms": 12160,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2940.05,
+    "text": "And that's sort of that maturation process, probably through the experience that that dendritic arbor's been shaped, which has led to the adult capability of vision in an adult cat.",
+    "start_ms": 2940050,
+    "end_ms": 2952490,
+    "duration_ms": 12440,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2952.49,
+    "text": "This is actually another comparison, just similar to what I showed you earlier, just a different technique.",
+    "start_ms": 2952490,
+    "end_ms": 2958411,
+    "duration_ms": 5921,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2958.411,
+    "text": "It also shows how brutal it can be to be a graduate student in some of these labs where you have to hand-label.",
+    "start_ms": 2958411,
+    "end_ms": 2964810,
+    "duration_ms": 6399,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2964.81,
+    "text": "You take these photographs, hand-label all the axons in one particular neuron here.",
+    "start_ms": 2964810,
+    "end_ms": 2970890,
+    "duration_ms": 6080,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2970.89,
+    "text": "And they're just showing, again, at different time points. This is one week later.",
+    "start_ms": 2970890,
+    "end_ms": 2975011,
+    "duration_ms": 4121,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2975.011,
+    "text": "And then it's just here in high manifestation. You can just see that a bunch of dendrites in this one week's period of time have been deleted, and a bunch of new ones have been added.",
+    "start_ms": 2975011,
+    "end_ms": 2985450,
+    "duration_ms": 10439,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2985.45,
+    "text": "So it's this very plastic process that's constantly being reshaped.",
+    "start_ms": 2985450,
+    "end_ms": 2989930,
+    "duration_ms": 4480,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2989.93,
+    "text": "It could just be a random process, but it doesn't look to be that way.",
+    "start_ms": 2989930,
+    "end_ms": 2992971,
+    "duration_ms": 3041,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2992.971,
+    "text": "I mean, there's lots of work showing that basically there's something about the functionality, that neurons that, say, are active near each other is going to be likely to promote the growth of more dendrites or improve the size of a particular channel, whereas ones that are not firing synchronously are going to be deleted.",
+    "start_ms": 2992971,
+    "end_ms": 3010691,
+    "duration_ms": 17720,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3010.691,
+    "text": "Yeah? Yeah, so in the pruning process, as well, when you're reducing all the connections, is that really combined?",
+    "start_ms": 3010691,
+    "end_ms": 3016810,
+    "duration_ms": 6119,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3016.81,
+    "text": "And if you can make it more acceptable and determine the damage, is it going to happen after?",
+    "start_ms": 3016810,
+    "end_ms": 3025611,
+    "duration_ms": 8801,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3025.611,
+    "text": "Yes, I guess so. I mean, I should say that probably if we counted up the number of neurons in the adult cat retina compared to the eight days before birth, there's probably quite a bit fewer neurons in the adult.",
+    "start_ms": 3025611,
+    "end_ms": 3038290,
+    "duration_ms": 12679,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3038.31,
+    "text": "Like I said, it's a big, steady decline there. These are probably much more efficient.",
+    "start_ms": 3038310,
+    "end_ms": 3044230,
+    "duration_ms": 5920,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3044.23,
+    "text": "We know that the adult cat sees much better than eight days before you're born, where you're probably a blind cat.",
+    "start_ms": 3044230,
+    "end_ms": 3051431,
+    "duration_ms": 7201,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3051.431,
+    "text": "But it probably does, in a sense, mean that, yes, you'd be more susceptible, A, because you've lost your plasticity in some sense.",
+    "start_ms": 3051431,
+    "end_ms": 3059631,
+    "duration_ms": 8200,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3059.631,
+    "text": "You have much greater plasticity possibilities early on. Yes? Yeah?",
+    "start_ms": 3059631,
+    "end_ms": 3065211,
+    "duration_ms": 5580,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3065.211,
+    "text": "I'm assuming, correct me if I'm wrong, I don't know the exact mechanism.",
+    "start_ms": 3065211,
+    "end_ms": 3068670,
+    "duration_ms": 3459,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3068.67,
+    "text": "But is it meant to be a way that it's conserving resources or whatever, the cell itself?",
+    "start_ms": 3068670,
+    "end_ms": 3075111,
+    "duration_ms": 6441,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3075.111,
+    "text": "About why you would have this pruning going on. So the question is, what's advantageous about the pruning?",
+    "start_ms": 3075111,
+    "end_ms": 3081150,
+    "duration_ms": 6039,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3081.15,
+    "text": "Is it a way to, in a sense, conserve energy?",
+    "start_ms": 3081150,
+    "end_ms": 3084030,
+    "duration_ms": 2880,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3084.03,
+    "text": "Because if I have all the receptors that I have here, I have lots of neural communication going on.",
+    "start_ms": 3084030,
+    "end_ms": 3091590,
+    "duration_ms": 7560,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3091.59,
+    "text": "And that's really an energy-demanding process. So if I have fewer synapses, in a sense I'm saving energy.",
+    "start_ms": 3091590,
+    "end_ms": 3098131,
+    "duration_ms": 6541,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3098.131,
+    "text": "That could be one reason. But it also probably is that it's much more efficient.",
+    "start_ms": 3098131,
+    "end_ms": 3103010,
+    "duration_ms": 4879,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3103.01,
+    "text": "Most of those communications probably were things that turned out to not be functionally useful for the cat, in a sense.",
+    "start_ms": 3103010,
+    "end_ms": 3109530,
+    "duration_ms": 6520,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3109.53,
+    "text": "Through the experience of actually being experiencing the world and different neurons being fired in patterns and so forth, there were probably certain mechanisms that, in a sense, rewarded those that provided information to the cat.",
+    "start_ms": 3109530,
+    "end_ms": 3123370,
+    "duration_ms": 13840,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3123.37,
+    "text": "Do we have an understanding of those mechanisms? There is amazing work done in neural development in this whole plasticity.",
+    "start_ms": 3123370,
+    "end_ms": 3132831,
+    "duration_ms": 9461,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3132.831,
+    "text": "Again, Hippocampal work got the Nobel Prize four years ago.",
+    "start_ms": 3132831,
+    "end_ms": 3138431,
+    "duration_ms": 5600,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3138.431,
+    "text": "When I go each year to upgrade my lectures, the number of articles that have appeared in the journals relative to learning and memory is always like three times any other topic.",
+    "start_ms": 3138431,
+    "end_ms": 3149190,
+    "duration_ms": 10759,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3149.19,
+    "text": "It's definitely where the heart of action is in neuroscience.",
+    "start_ms": 3149190,
+    "end_ms": 3153711,
+    "duration_ms": 4521,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3153.73,
+    "text": "I should repeat that at any time in the class, you can ask questions, even though it's a large class.",
+    "start_ms": 3153730,
+    "end_ms": 3158531,
+    "duration_ms": 4801,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3158.531,
+    "text": "And if I give an answer, but you didn't hear the question, shout at me, could you repeat the question.",
+    "start_ms": 3158531,
+    "end_ms": 3163211,
+    "duration_ms": 4680,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3163.211,
+    "text": "I actually do that all the time, and you should do that, too.",
+    "start_ms": 3163211,
+    "end_ms": 3166931,
+    "duration_ms": 3720,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3166.931,
+    "text": "All right. We'll pick up on Wednesday. Let's see if we can do this right.",
+    "start_ms": 3166931,
+    "end_ms": 3178410,
+    "duration_ms": 11479,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3178.41,
+    "text": "One thing I noticed the other day, I'm going to shut this off.",
+    "start_ms": 3178410,
+    "end_ms": 3182531,
+    "duration_ms": 4121,
+    "word_count": 13,
+    "avg_confidence": 90
+  }
+]

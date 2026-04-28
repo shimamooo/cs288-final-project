@@ -1,0 +1,1397 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "Hello there. I'm a little bit rusty at posting recorded lectures.",
+    "start_ms": 0,
+    "end_ms": 6625,
+    "duration_ms": 6625,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 6.625,
+    "text": "I thought that was a thing of the past. But here goes for today's lecture and probably next week's lectures too.",
+    "start_ms": 6625,
+    "end_ms": 18489,
+    "duration_ms": 11864,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 18.489,
+    "text": "Bear with me as I make sure I go through all the steps and record things.",
+    "start_ms": 18489,
+    "end_ms": 23745,
+    "duration_ms": 5256,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 23.745,
+    "text": "And I'm going to try to do it in segments, like three-part segments, maybe each one about 15 minutes.",
+    "start_ms": 23745,
+    "end_ms": 32200,
+    "duration_ms": 8455,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 32.2,
+    "text": "Won't have the timing down perfectly, but we'll see how everything goes here.",
+    "start_ms": 32200,
+    "end_ms": 35666,
+    "duration_ms": 3466,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 35.666,
+    "text": "So the first thing I have to do is share my screen with you.",
+    "start_ms": 35666,
+    "end_ms": 40135,
+    "duration_ms": 4469,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 40.135,
+    "text": "So let me get back to the PowerPoint. Going to this mode.",
+    "start_ms": 40135,
+    "end_ms": 44653,
+    "duration_ms": 4518,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 44.653,
+    "text": "Oh no, I forgot to share. Okay, let's get back to Zoom.",
+    "start_ms": 44653,
+    "end_ms": 50337,
+    "duration_ms": 5684,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 50.337,
+    "text": "Share the screen. Okay, let's share this screen. Yes, hide the floating controls.",
+    "start_ms": 50337,
+    "end_ms": 58399,
+    "duration_ms": 8062,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 58.399,
+    "text": "Now go to the PowerPoint, flip it on, move myself into the upper right hand corner.",
+    "start_ms": 58399,
+    "end_ms": 66404,
+    "duration_ms": 8005,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 66.404,
+    "text": "Well, I don't want to go there. Let's try that again.",
+    "start_ms": 66404,
+    "end_ms": 70362,
+    "duration_ms": 3958,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 70.362,
+    "text": "Okay. All right. So today we're going to finish up our lecture on motor control, on how we produce actions.",
+    "start_ms": 70362,
+    "end_ms": 78835,
+    "duration_ms": 8473,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 78.835,
+    "text": "And we're really going to focus here on the notion of how do we actually select an action and initiate a movement.",
+    "start_ms": 78835,
+    "end_ms": 86160,
+    "duration_ms": 7325,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 89.519,
+    "text": "And that was my reminder to record things, but I am doing that, so let's try to see.",
+    "start_ms": 89519,
+    "end_ms": 93764,
+    "duration_ms": 4245,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 93.764,
+    "text": "So we ended our discussion the other day talking about neuroprosthetics, and I was sketching out some of the challenges for the future.",
+    "start_ms": 93764,
+    "end_ms": 102037,
+    "duration_ms": 8273,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 102.037,
+    "text": "And I listed these first three, and they were really more about technology, right?",
+    "start_ms": 102037,
+    "end_ms": 106516,
+    "duration_ms": 4479,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 106.516,
+    "text": "About improving our software, our learning algorithms, or also about, yeah, a lot of it was maybe about how to increase the data we acquire, either invasively or non-invasively.",
+    "start_ms": 106516,
+    "end_ms": 116551,
+    "duration_ms": 10035,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 116.551,
+    "text": "But one thing I didn't really talk about is kind of what I call the psychological challenge, because imagine you have a person who's in a fully immersive kind of brain control interface system, interacting with the robot, and moving about in the world.",
+    "start_ms": 116551,
+    "end_ms": 131583,
+    "duration_ms": 15032,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 131.583,
+    "text": "They have a brain computer system that's controlling their wheelchair, and they're moving about a crowded environment.",
+    "start_ms": 131583,
+    "end_ms": 138418,
+    "duration_ms": 6835,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 138.418,
+    "text": "They're at the dinner table and so forth. And one thing that's a challenge is that, you know, there's many possible goals that we can achieve at any one time, right?",
+    "start_ms": 138418,
+    "end_ms": 148074,
+    "duration_ms": 9656,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 148.074,
+    "text": "If we're sitting at the table, we might reach for the dessert tray or the water glass, coffee cup, and so forth.",
+    "start_ms": 148074,
+    "end_ms": 155012,
+    "duration_ms": 6938,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 155.012,
+    "text": "If we're decoding from the brain, how do we actually choose one action from all those different alternatives?",
+    "start_ms": 155012,
+    "end_ms": 161559,
+    "duration_ms": 6547,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 161.559,
+    "text": "And so, for instance, how do we, a goal might be, we might talk about the action is, I desire to have a cup of coffee, to have a sip from my coffee cup.",
+    "start_ms": 161559,
+    "end_ms": 172043,
+    "duration_ms": 10484,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 172.043,
+    "text": "Well, I then have to take that selected action and turn it into a movement.",
+    "start_ms": 172043,
+    "end_ms": 176296,
+    "duration_ms": 4253,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 176.296,
+    "text": "And we're going to have to have our brain machine interface system be able to, like, figure out which of all the possible actions the person is interested in, and then turn that into a movement.",
+    "start_ms": 176296,
+    "end_ms": 187790,
+    "duration_ms": 11494,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 187.79,
+    "text": "And I'm catching, capturing this idea in this silly cartoon here, where we have this guy who's, wants to interact with this ball.",
+    "start_ms": 187790,
+    "end_ms": 195136,
+    "duration_ms": 7346,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 195.136,
+    "text": "And you might imagine that actually, even if he's chosen this action, you know, interact with the ball, well, there's lots of different ways you could do it.",
+    "start_ms": 195136,
+    "end_ms": 202346,
+    "duration_ms": 7210,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 202.346,
+    "text": "You could pick it up with one hand, you could pick it up with your right hand, pick it up with your left hand.",
+    "start_ms": 202346,
+    "end_ms": 206511,
+    "duration_ms": 4165,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 206.511,
+    "text": "You might want to kick the ball with the right foot or the left foot.",
+    "start_ms": 206511,
+    "end_ms": 210591,
+    "duration_ms": 4080,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 210.591,
+    "text": "We do this seamlessly, right? Soccer players aren't thinking, gee, should I use my right or left foot?",
+    "start_ms": 210591,
+    "end_ms": 215156,
+    "duration_ms": 4565,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 215.156,
+    "text": "It kind of comes to them naturally, and probably lots of it's specified by the context where their body is, where they want to direct the shot.",
+    "start_ms": 215156,
+    "end_ms": 223189,
+    "duration_ms": 8033,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 223.189,
+    "text": "But somehow, the brain is going through all that selection process to figure out, I now want to interact with this ball, maybe I want to pass it to a particular player, and then this is the movement I have to have.",
+    "start_ms": 223189,
+    "end_ms": 233578,
+    "duration_ms": 10389,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 233.578,
+    "text": "And so I'm just sort of sketching here that, remember, we talked about the parietal lobe might have kind of an idea about where's the ball with respect to the body, that kind of location information necessary for an action.",
+    "start_ms": 233578,
+    "end_ms": 244960,
+    "duration_ms": 11382,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 245.52,
+    "text": "And then there might be a competition about which foot.",
+    "start_ms": 245520,
+    "end_ms": 248484,
+    "duration_ms": 2964,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 248.484,
+    "text": "Eventually, I'm going to settle on one action, right? I'm not going to try to simultaneously pick up the ball and kick it.",
+    "start_ms": 248484,
+    "end_ms": 254541,
+    "duration_ms": 6057,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 254.541,
+    "text": "But in the end, there's going to be one action that's going to happen.",
+    "start_ms": 254541,
+    "end_ms": 257439,
+    "duration_ms": 2898,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 257.439,
+    "text": "And we might imagine that there's all sorts of competition going on in the brain between all these possible actions, and eventually it's going to settle on one choice.",
+    "start_ms": 257439,
+    "end_ms": 266243,
+    "duration_ms": 8804,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 266.243,
+    "text": "And that's what I capture here, that action selection is really one type of decision-making process.",
+    "start_ms": 266243,
+    "end_ms": 272485,
+    "duration_ms": 6242,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 272.485,
+    "text": "Now, we've seen that our perceptual systems and our memory systems are probably massively parallel.",
+    "start_ms": 272485,
+    "end_ms": 278576,
+    "duration_ms": 6091,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 278.576,
+    "text": "That is, we're taking in lots of information at the time.",
+    "start_ms": 278576,
+    "end_ms": 282298,
+    "duration_ms": 3722,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 282.298,
+    "text": "Some of that information is more salient than others. But again, our perceptual systems are really designed to actually take in lots of different information so that we get a full spectrum of the layout of the environment.",
+    "start_ms": 282298,
+    "end_ms": 294719,
+    "duration_ms": 12421,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 294.719,
+    "text": "But it's actually the action selection system that, at some point, we have to take in all those options and funnel them down into one particular choice.",
+    "start_ms": 294719,
+    "end_ms": 303049,
+    "duration_ms": 8330,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 303.049,
+    "text": "We need to have a coherent action. So even though we might be thinking, do I want to pick up the wine glass or the coffee cup?",
+    "start_ms": 303049,
+    "end_ms": 310453,
+    "duration_ms": 7404,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 310.453,
+    "text": "At some point, we have to settle on one action.",
+    "start_ms": 310453,
+    "end_ms": 312991,
+    "duration_ms": 2538,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 312.991,
+    "text": "We have to decide, I'm going to reach for the coffee cup.",
+    "start_ms": 312991,
+    "end_ms": 315679,
+    "duration_ms": 2688,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 315.679,
+    "text": "I'm not going to reach for the wine glass. And the idea is that this is sort of a competition for control.",
+    "start_ms": 315679,
+    "end_ms": 320951,
+    "duration_ms": 5272,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 320.951,
+    "text": "And the question for today is how do we resolve that competition?",
+    "start_ms": 320951,
+    "end_ms": 324404,
+    "duration_ms": 3453,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 324.404,
+    "text": "I have this picture here of the baby bottle just to remind to remind me that I really loved one time watching this scenario play out.",
+    "start_ms": 324404,
+    "end_ms": 331918,
+    "duration_ms": 7514,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 331.918,
+    "text": "I was in a room sitting at a party actually and this baby walked into the room and it was carrying its water bottle.",
+    "start_ms": 331918,
+    "end_ms": 338599,
+    "duration_ms": 6681,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 338.599,
+    "text": "It was clearly a baby that hadn't done a lot of walking before.",
+    "start_ms": 338599,
+    "end_ms": 341599,
+    "duration_ms": 3000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 341.599,
+    "text": "So it was kind of staggering. It got near the coffee table and put the bottle down and then grabbed the coffee table.",
+    "start_ms": 341599,
+    "end_ms": 347758,
+    "duration_ms": 6159,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 347.758,
+    "text": "Again, this is a new walker, it was really unstable.",
+    "start_ms": 347758,
+    "end_ms": 351318,
+    "duration_ms": 3560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 351.318,
+    "text": "And then the baby kind of looked around but at some point it looked back at the water bottle, the not water bottle, milk bottle and wanted to actually, you could see almost, you could sort of see its face.",
+    "start_ms": 351318,
+    "end_ms": 361478,
+    "duration_ms": 10160,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 361.478,
+    "text": "You could see that it wanted to take a sip of that milk bottle.",
+    "start_ms": 361478,
+    "end_ms": 365278,
+    "duration_ms": 3800,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 365.278,
+    "text": "But the baby also now had a competition for itself.",
+    "start_ms": 365278,
+    "end_ms": 368638,
+    "duration_ms": 3360,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 368.638,
+    "text": "Like does it pick up the bottle with one hand?",
+    "start_ms": 368638,
+    "end_ms": 371438,
+    "duration_ms": 2800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 371.438,
+    "text": "Does it pick it up with two hands the way it had been carrying it beforehand?",
+    "start_ms": 371438,
+    "end_ms": 374958,
+    "duration_ms": 3520,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 374.998,
+    "text": "But again, this baby's a new walker, very unstable about releasing its grip on the coffee table.",
+    "start_ms": 374998,
+    "end_ms": 380879,
+    "duration_ms": 5881,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 380.879,
+    "text": "And what did the baby do at one point? It just bent over with its mouth and picked up the water bottle, the milk bottle with its mouth.",
+    "start_ms": 380879,
+    "end_ms": 388399,
+    "duration_ms": 7520,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 388.399,
+    "text": "And again, here was a case of there were many different options for that baby.",
+    "start_ms": 388399,
+    "end_ms": 392719,
+    "duration_ms": 4320,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 392.719,
+    "text": "But some of the competition settled on, I want to keep my hands on this table.",
+    "start_ms": 392719,
+    "end_ms": 396799,
+    "duration_ms": 4080,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 396.799,
+    "text": "And so they came up with this alternative way to actually make the movement.",
+    "start_ms": 396799,
+    "end_ms": 400638,
+    "duration_ms": 3839,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 401.878,
+    "text": "So how is this choice made is the question. And when we think about that, we want to avoid what we call the homunculus problem.",
+    "start_ms": 401878,
+    "end_ms": 408998,
+    "duration_ms": 7120,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 408.998,
+    "text": "And the homunculus problem is the idea that is there a little man in the head, a little person in the head that's sorting through all the options in making that decision?",
+    "start_ms": 408998,
+    "end_ms": 417839,
+    "duration_ms": 8841,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 417.839,
+    "text": "And that wouldn't really provide us a satisfactory explanation to say, oh, the way we make that decision is there's a decision maker in the brain that chooses which action.",
+    "start_ms": 417839,
+    "end_ms": 429079,
+    "duration_ms": 11240,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 429.079,
+    "text": "Will the baby use its mouth to pick up the water bottle, the milk bottle, or will it use its hands?",
+    "start_ms": 429079,
+    "end_ms": 434039,
+    "duration_ms": 4960,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 434.039,
+    "text": "So we have to think about how might a nervous system solve this problem without, you know, conjecturing that there's some sort of homunculus in the mind.",
+    "start_ms": 434039,
+    "end_ms": 443079,
+    "duration_ms": 9040,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 444.039,
+    "text": "And this is going to take us to a discussion of the basal ganglia.",
+    "start_ms": 444039,
+    "end_ms": 448279,
+    "duration_ms": 4240,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 448.279,
+    "text": "So first I'm going to talk a little bit about the anatomy and then the physiology of the basal ganglia.",
+    "start_ms": 448279,
+    "end_ms": 453158,
+    "duration_ms": 4879,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 453.158,
+    "text": "So the basal ganglia, remember, is a collection of subcortical nuclei.",
+    "start_ms": 453158,
+    "end_ms": 459438,
+    "duration_ms": 6280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 459.438,
+    "text": "And remember, a subcortical nucleus, when we talk about the word nucleus within the subcortex, we aren't talking about the nucleus of a particular cell.",
+    "start_ms": 459438,
+    "end_ms": 468119,
+    "duration_ms": 8681,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 468.119,
+    "text": "Rather, we're talking about a collection of neurons that are anatomically close to each other, but also seem to have a common function.",
+    "start_ms": 468119,
+    "end_ms": 476759,
+    "duration_ms": 8640,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 476.759,
+    "text": "And the basal ganglia is composed of four primary nuclei.",
+    "start_ms": 476759,
+    "end_ms": 481238,
+    "duration_ms": 4479,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 481.238,
+    "text": "The striatum, there's actually a couple of different parts here, the gray matter that I'm highlighting, the globus pallidus down here, the subthalamic nucleus, and the substantia nigra, these dark cells down here.",
+    "start_ms": 481238,
+    "end_ms": 494158,
+    "duration_ms": 12920,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 494.158,
+    "text": "So again, the white matter we're seeing, that's all the axons and so forth, but the gray matter are neurons or cell bodies, and there's these four different nuclei that together constitute the basal ganglia.",
+    "start_ms": 494158,
+    "end_ms": 507878,
+    "duration_ms": 13720,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 507.878,
+    "text": "You can see that they're distributed broadly throughout the subcortex, but they're called one structure, the basal ganglia, because they form kind of a input and output loop.",
+    "start_ms": 507878,
+    "end_ms": 519639,
+    "duration_ms": 11761,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 519.639,
+    "text": "That is, there's a closed circuit here between the cortex and this collection of the nuclei, and that's what's sketched here.",
+    "start_ms": 519639,
+    "end_ms": 526798,
+    "duration_ms": 7159,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 526.798,
+    "text": "Then again, it's a complex picture, but I'm gonna walk you through it.",
+    "start_ms": 526798,
+    "end_ms": 531199,
+    "duration_ms": 4401,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 531.199,
+    "text": "The main thing to see here is here's the cerebral cortex.",
+    "start_ms": 531199,
+    "end_ms": 534639,
+    "duration_ms": 3440,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 534.639,
+    "text": "It sends a lot of input into the basal ganglia.",
+    "start_ms": 534639,
+    "end_ms": 538119,
+    "duration_ms": 3480,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 538.119,
+    "text": "All of that input, or almost all of that input, is coming in through the striatum.",
+    "start_ms": 538119,
+    "end_ms": 542878,
+    "duration_ms": 4759,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 542.878,
+    "text": "There's also what we call a hyperdirect pathway that's going directly to the subthalamic nucleus, but for the most part, what we wanna focus on is that the cortex basically sends a lot of input into the striatum.",
+    "start_ms": 542878,
+    "end_ms": 554919,
+    "duration_ms": 12041,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 554.919,
+    "text": "Here are different nuclei of the basal ganglia, and what you can see is that there's a lot of internal processing within the basal ganglia, but the output from the basal ganglia is gonna mostly come from the globus pallidus, and it's gonna project up to the thalamus, and then the thalamus is gonna go back to the cortex.",
+    "start_ms": 554919,
+    "end_ms": 574358,
+    "duration_ms": 19439,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 574.358,
+    "text": "That's what I mean by a closed circuit. We have the input coming into the striatum, a bunch of things happening within these basal ganglia nuclei, but the output now primarily comes out of the basal ganglia to the thalamus and up to the cortex.",
+    "start_ms": 574358,
+    "end_ms": 588719,
+    "duration_ms": 14361,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 588.719,
+    "text": "So that's basically the anatomy and why we consider the basal ganglia as a kind of component of the brain or component of the motor system, even though it's these distributed subcortical nuclei.",
+    "start_ms": 588719,
+    "end_ms": 599798,
+    "duration_ms": 11079,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 601.279,
+    "text": "All right, can't do eye clicker here, but this is a challenge you can take on your own.",
+    "start_ms": 601279,
+    "end_ms": 606279,
+    "duration_ms": 5000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 606.279,
+    "text": "So if you want, stop the recording and look at the question.",
+    "start_ms": 606279,
+    "end_ms": 610758,
+    "duration_ms": 4479,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 610.758,
+    "text": "What I've shown here is not only the connections within the basal ganglia and between the basal ganglia and the cortex, but I've also shown which connections are inhibitory, excitatory in green, and which ones are inhibitory in red.",
+    "start_ms": 610758,
+    "end_ms": 626478,
+    "duration_ms": 15720,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 626.478,
+    "text": "The direct pathway is this one here from the cortex to the striatum, down directly to the globus pallidus internal segment, then to the thalamus and back.",
+    "start_ms": 626478,
+    "end_ms": 637439,
+    "duration_ms": 10961,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 637.439,
+    "text": "So not a very complicated circuit. There's one synapse into the striatum, another one to the globus pallidus internal segment, another to the thalamus, and then back to the basal ganglia.",
+    "start_ms": 637439,
+    "end_ms": 649159,
+    "duration_ms": 11720,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 648.842,
+    "text": "cortex. So if you just focus on that pathway, the question here is if I increase the cortical input to the striatum, what's gonna be the consequences of that in terms of the physiology if you play out what's happening with these inhibitory and excitatory connections?",
+    "start_ms": 648842,
+    "end_ms": 665198,
+    "duration_ms": 16356,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 665.198,
+    "text": "So again, if you're interested in answering that, pause the video here.",
+    "start_ms": 665198,
+    "end_ms": 669118,
+    "duration_ms": 3920,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 669.118,
+    "text": "Think about your answer, because I'm gonna show it now.",
+    "start_ms": 669118,
+    "end_ms": 671918,
+    "duration_ms": 2800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 674.758,
+    "text": "And basically, the correct answer is that if I have input from the cortex to the striatum, this is actually gonna lead to excitation of the cortex from the thalamus.",
+    "start_ms": 674758,
+    "end_ms": 686277,
+    "duration_ms": 11519,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 686.277,
+    "text": "And let's play that out. The cortex is gonna excite the striatum, and then along the direct pathway, that's actually gonna increase because it's an excitatory input.",
+    "start_ms": 686277,
+    "end_ms": 696398,
+    "duration_ms": 10121,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 696.398,
+    "text": "It's gonna increase this pathway, which is inhibitory. So I'm now gonna inhibit the globus pallidus.",
+    "start_ms": 696398,
+    "end_ms": 703198,
+    "duration_ms": 6800,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 703.198,
+    "text": "If I inhibit that, then I'm gonna turn down the inhibition that goes from the basal ganglia to the thalamus.",
+    "start_ms": 703198,
+    "end_ms": 710118,
+    "duration_ms": 6920,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 710.118,
+    "text": "And so if I turn down this inhibition, then the thalamic projection to the cortex, which is excitatory, is gonna be increased.",
+    "start_ms": 710118,
+    "end_ms": 718677,
+    "duration_ms": 8559,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 718.677,
+    "text": "So increasing, sending an excitatory signal into the striatum has this complicated double negative here, but the end result is that I actually end up increasing the excitability into the cortex.",
+    "start_ms": 718677,
+    "end_ms": 732637,
+    "duration_ms": 13960,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 732.637,
+    "text": "So knowing that, let's think about what's really going on here.",
+    "start_ms": 732637,
+    "end_ms": 736718,
+    "duration_ms": 4081,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 736.718,
+    "text": "When I call it tonic, means what's the baseline effect of the basal ganglia on the cortex?",
+    "start_ms": 736718,
+    "end_ms": 744417,
+    "duration_ms": 7699,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 744.417,
+    "text": "So tonic means I'm gonna ignore any input coming from the cortex.",
+    "start_ms": 744417,
+    "end_ms": 748978,
+    "duration_ms": 4561,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 748.978,
+    "text": "I'm just gonna think the output from the basal ganglia, its baseline state is it's inhibiting the thalamus.",
+    "start_ms": 748978,
+    "end_ms": 756317,
+    "duration_ms": 7339,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 757.078,
+    "text": "If it inhibits the thalamus, it's decreasing the excitability of the cortex.",
+    "start_ms": 757078,
+    "end_ms": 761237,
+    "duration_ms": 4159,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 761.237,
+    "text": "So if I have strong output from the basal ganglia, I have inhibition of the cortex.",
+    "start_ms": 761237,
+    "end_ms": 768257,
+    "duration_ms": 7020,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 768.257,
+    "text": "But as I just showed you, if the cortex now sends an input to the striatum, that's actually gonna lead to a disinhibition of the thalamus, that was what I just walked through, and so I'm gonna increase the excitation of the cortex.",
+    "start_ms": 768257,
+    "end_ms": 782098,
+    "duration_ms": 13841,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 782.098,
+    "text": "We don't need to worry about the details here, but if you actually follow this indirect pathway, you'd see that you get the opposite effect.",
+    "start_ms": 782098,
+    "end_ms": 789598,
+    "duration_ms": 7500,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 789.598,
+    "text": "You actually, if you increase the signal from here, eventually it's gonna actually play out that you're gonna increase the inhibition of the thalamus.",
+    "start_ms": 789598,
+    "end_ms": 798037,
+    "duration_ms": 8439,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 798.037,
+    "text": "So the direct and indirect pathways are in a sense doing opposite things.",
+    "start_ms": 798037,
+    "end_ms": 803298,
+    "duration_ms": 5261,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 806.037,
+    "text": "A side story here is that we talk about this dopamine.",
+    "start_ms": 806037,
+    "end_ms": 809997,
+    "duration_ms": 3960,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 809.997,
+    "text": "This is very much intimately involved in the functionality of the basal ganglia.",
+    "start_ms": 809997,
+    "end_ms": 814997,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 814.997,
+    "text": "The dopamine neurons rely on the SNC, what's called here, or the substantia nigra.",
+    "start_ms": 814997,
+    "end_ms": 820798,
+    "duration_ms": 5801,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 820.798,
+    "text": "So these are the cells that are lost in Parkinson's disease.",
+    "start_ms": 820798,
+    "end_ms": 823738,
+    "duration_ms": 2940,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 823.738,
+    "text": "We'll talk about that later on. But these are where the dopamine pathways come into play.",
+    "start_ms": 823738,
+    "end_ms": 829158,
+    "duration_ms": 5420,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 829.158,
+    "text": "And dopamine actually has two different effects. There's one type of dopamine receptor that leads to excitation along this direct pathway.",
+    "start_ms": 829158,
+    "end_ms": 837337,
+    "duration_ms": 8179,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 837.337,
+    "text": "There's another type of dopamine receptor that leads to inhibition along the indirect pathway.",
+    "start_ms": 837337,
+    "end_ms": 843837,
+    "duration_ms": 6500,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 843.837,
+    "text": "Well, that's what's happening in general here as we send a cortical input.",
+    "start_ms": 843837,
+    "end_ms": 846958,
+    "duration_ms": 3121,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 846.958,
+    "text": "So dopamine is kind of like an amplifier of the effects of these cortical inputs.",
+    "start_ms": 846958,
+    "end_ms": 852557,
+    "duration_ms": 5599,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 854.117,
+    "text": "And just to make that clear, this is just actually showing firing patterns.",
+    "start_ms": 854117,
+    "end_ms": 859037,
+    "duration_ms": 4920,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 859.037,
+    "text": "This is with an optogenetic activation of dopamine receptors in the striatum.",
+    "start_ms": 859037,
+    "end_ms": 865197,
+    "duration_ms": 6160,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 865.197,
+    "text": "We have the direct pathway, the indirect pathway, the D1 receptors, the D2 receptors.",
+    "start_ms": 865197,
+    "end_ms": 871397,
+    "duration_ms": 6200,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 871.397,
+    "text": "And this is just showing that if I actually turn on, if I activate these dopamine receptors, what I see in the striatum is I'll see if I turn on the D1 receptors, I get an increase in activation in the striatum.",
+    "start_ms": 871397,
+    "end_ms": 886598,
+    "duration_ms": 15201,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 886.598,
+    "text": "But now if I look at the output from the basal ganglia, I see a big inhibition, right?",
+    "start_ms": 886598,
+    "end_ms": 892837,
+    "duration_ms": 6239,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 892.837,
+    "text": "So I'm turning down that inhibition coming out of the basal ganglia.",
+    "start_ms": 892837,
+    "end_ms": 896917,
+    "duration_ms": 4080,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 896.917,
+    "text": "If I do the D2 receptors, I also see an increase of firing in the striatum, but the output now coming out of the basal ganglia is actually an increase in firing.",
+    "start_ms": 896917,
+    "end_ms": 907558,
+    "duration_ms": 10641,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 907.558,
+    "text": "So this again is just amplifying that turning on either the D1 receptors and the D2 receptors increases the activation in the striatum.",
+    "start_ms": 907558,
+    "end_ms": 916377,
+    "duration_ms": 8819,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 916.377,
+    "text": "That's where the receptors are. But the consequences on the basal ganglia are either I reduce the output or I'm gonna increase the output.",
+    "start_ms": 916377,
+    "end_ms": 926238,
+    "duration_ms": 9861,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 926.238,
+    "text": "Remember, if I decrease the output, now I have greater excitation of the cortex, and this is actually the mouse's behavior.",
+    "start_ms": 926238,
+    "end_ms": 934877,
+    "duration_ms": 8639,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 934.877,
+    "text": "If I activate the D1 pathway, the direct pathway, the animal runs around the maze.",
+    "start_ms": 934877,
+    "end_ms": 940798,
+    "duration_ms": 5921,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 940.798,
+    "text": "If I activate the D2 pathway, now the animal barely is moving.",
+    "start_ms": 940798,
+    "end_ms": 945338,
+    "duration_ms": 4540,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 945.338,
+    "text": "So again, we see that basically the direct pathway is promoting movement, whereas the indirect pathway is inhibiting movement.",
+    "start_ms": 945338,
+    "end_ms": 954078,
+    "duration_ms": 8740,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 955.078,
+    "text": "Well, let's now step back and think about the functional consequences of this.",
+    "start_ms": 955078,
+    "end_ms": 961518,
+    "duration_ms": 6440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 961.518,
+    "text": "What I've said is that in the tonic state, the basal ganglia is inhibiting.",
+    "start_ms": 961518,
+    "end_ms": 967157,
+    "duration_ms": 5639,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 967.037,
+    "text": "activation of the cerebral cortex. It's inhibiting the thalamus and the thalamus, because it's excitatory on the cortex, if I have large inhibition on the thalamus, I decrease the activation in the cerebral cortex.",
+    "start_ms": 967037,
+    "end_ms": 980037,
+    "duration_ms": 13000,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 980.037,
+    "text": "So here's the metaphor I like to think about. The cerebral cortex has this massively parallel system, is generating all the possible actions you can take at one point in time.",
+    "start_ms": 980037,
+    "end_ms": 991037,
+    "duration_ms": 11000,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 991.037,
+    "text": "Go back to the soccer example. One of these options might be to kick the soccer ball with the left foot.",
+    "start_ms": 991037,
+    "end_ms": 997322,
+    "duration_ms": 6285,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 997.322,
+    "text": "Another one might be to kick the soccer ball with the right foot.",
+    "start_ms": 997322,
+    "end_ms": 1001037,
+    "duration_ms": 3715,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1001.037,
+    "text": "Another one might be to pick up the ball. Of course, a soccer player wouldn't want to do that.",
+    "start_ms": 1001037,
+    "end_ms": 1005037,
+    "duration_ms": 4000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1005.037,
+    "text": "Or if we think about it in the baby example, maybe one of these rivers represents the excitation or the information that's accruing for the baby to use its right hand to pick up the milk bottle.",
+    "start_ms": 1005037,
+    "end_ms": 1016037,
+    "duration_ms": 11000,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1016.037,
+    "text": "Another, the left hand. And another one, the possibility of using its head to pick up the bottle.",
+    "start_ms": 1016037,
+    "end_ms": 1021370,
+    "duration_ms": 5333,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1021.37,
+    "text": "And the idea is while all of these possible movements are accruing activation, they're held in check by the basal ganglia.",
+    "start_ms": 1021370,
+    "end_ms": 1031037,
+    "duration_ms": 9667,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1031.037,
+    "text": "Like right while we're sort of going through this decision process or this competition between different actions, the basal ganglia in a sense are allowing the cortex to play out that competition, but without movement occurring.",
+    "start_ms": 1031037,
+    "end_ms": 1044037,
+    "duration_ms": 13000,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1044.037,
+    "text": "It's inhibiting the cortex so that no movement's occurring. So we don't want to, as we're planning a movement, to be partially activating a right hand movement or left hand movement.",
+    "start_ms": 1044037,
+    "end_ms": 1053837,
+    "duration_ms": 9800,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1053.837,
+    "text": "And the idea is though that eventually one of these possible actions or movements is going to accrue enough strength that it's going to break through the dam.",
+    "start_ms": 1053837,
+    "end_ms": 1065037,
+    "duration_ms": 11200,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1065.037,
+    "text": "And so the idea here is that again, the cortical inputs trying to generate different possible movements, initially they're held in check while they're accruing activation by the basal ganglia, but now when one action becomes sufficiently excited, it's released from its inhibition and that movement's going to be implemented and the other ones are kept in check.",
+    "start_ms": 1065037,
+    "end_ms": 1087037,
+    "duration_ms": 22000,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1087.037,
+    "text": "So that's an idea about how the basal ganglia might serve a function to basically help us select one action and not be, you know, and what I would call it here is sort of what I call a dumb selection mechanism.",
+    "start_ms": 1087037,
+    "end_ms": 1101537,
+    "duration_ms": 14500,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1101.537,
+    "text": "And in neuroscience dumb is beautiful because it's again, it's this idea about smart selection mechanisms, one that says, hmm, let me evaluate all the choices and compare them.",
+    "start_ms": 1101537,
+    "end_ms": 1113037,
+    "duration_ms": 11500,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1113.037,
+    "text": "That might be a smart selection mechanism. It kind of evaluates or compares all the possible actions.",
+    "start_ms": 1113037,
+    "end_ms": 1119037,
+    "duration_ms": 6000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1119.037,
+    "text": "Here I'm suggesting that the basal ganglia are a dumb selection mechanism.",
+    "start_ms": 1119037,
+    "end_ms": 1123370,
+    "duration_ms": 4333,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1123.37,
+    "text": "It doesn't need to know about what's the contents of each of these possible movements.",
+    "start_ms": 1123370,
+    "end_ms": 1129037,
+    "duration_ms": 5667,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1129.037,
+    "text": "It just has to monitor what's the strength of their activation and when one of the possible actions reaches a sufficient strength, it gates it through.",
+    "start_ms": 1129037,
+    "end_ms": 1138179,
+    "duration_ms": 9142,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1138.179,
+    "text": "It opens up the dam for that one particular movement.",
+    "start_ms": 1138179,
+    "end_ms": 1141037,
+    "duration_ms": 2858,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1141.037,
+    "text": "And so now we have a system that could have this parallel activation of all these different possibilities, but the basal ganglia in a sense is selecting one possible action and ensuring that the resulting movement that we produce is coherent.",
+    "start_ms": 1141037,
+    "end_ms": 1155322,
+    "duration_ms": 14285,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1155.322,
+    "text": "We aren't doing five different things at one time, but rather we have this funneling of information down so that we're producing one coordinated movement.",
+    "start_ms": 1155322,
+    "end_ms": 1165037,
+    "duration_ms": 9715,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1165.037,
+    "text": "And I will stop the first segment here. Stop share.",
+    "start_ms": 1165037,
+    "end_ms": 1171037,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  }
+]

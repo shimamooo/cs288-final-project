@@ -1,0 +1,2351 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "Okay, so we'll continue with our memory lectures today. I hope you're all staying cool.",
+    "start_ms": 0,
+    "end_ms": 9399,
+    "duration_ms": 9399,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 9.399,
+    "text": "I had a few folks come by office hours yesterday, though, for the most part, they were there because they thought the class is going to be zoomed live.",
+    "start_ms": 9399,
+    "end_ms": 18883,
+    "duration_ms": 9484,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 18.883,
+    "text": "But no, I'm just going with the recordings. And, and then tomorrow, let's see, I'll be at my office hours from 130 to three, so drop in via zoom via the link I sent out.",
+    "start_ms": 18883,
+    "end_ms": 32532,
+    "duration_ms": 13649,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 32.532,
+    "text": "If you want to chat about the lectures, life, your exams, anything at all.",
+    "start_ms": 32532,
+    "end_ms": 38051,
+    "duration_ms": 5519,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 38.051,
+    "text": "And nothing planned at the five o'clock hour. So 130 to three tomorrow on Wednesday.",
+    "start_ms": 38051,
+    "end_ms": 44349,
+    "duration_ms": 6298,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 44.349,
+    "text": "All right, well, let me share my screen. Okay, hide the floating controls.",
+    "start_ms": 44349,
+    "end_ms": 52799,
+    "duration_ms": 8450,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 53.759,
+    "text": "Expand the picture here. All right, so it seems to be working pretty well.",
+    "start_ms": 53759,
+    "end_ms": 60355,
+    "duration_ms": 6596,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 60.355,
+    "text": "I've looked at the recordings. I always hate to look at the recordings, but, you know, they seem like tolerable.",
+    "start_ms": 60355,
+    "end_ms": 67834,
+    "duration_ms": 7479,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 67.834,
+    "text": "And what did I want to tell you? Oh, yeah, today, it just seems like, at least the way I planned it, it looks like the, I'll just do two recordings, and it doesn't really break up nicely into three recordings.",
+    "start_ms": 67834,
+    "end_ms": 78560,
+    "duration_ms": 10726,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 78.56,
+    "text": "So I think I'll do two longer segments, and hopefully that works out.",
+    "start_ms": 78560,
+    "end_ms": 82755,
+    "duration_ms": 4195,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 82.755,
+    "text": "All right. So where are we? We are, I don't know what that green pencil is, but we'll forget about that.",
+    "start_ms": 82755,
+    "end_ms": 89783,
+    "duration_ms": 7028,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 89.783,
+    "text": "Yeah, so again, so this is, again, the other day, we talked really about the disorders of memory.",
+    "start_ms": 89783,
+    "end_ms": 94290,
+    "duration_ms": 4507,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 94.29,
+    "text": "And today, we're going to take a look more at computational, or really physiological mechanisms of memory, that is, how are, and mainly focusing on memory formation, but also on, on memory retrieval.",
+    "start_ms": 94290,
+    "end_ms": 106132,
+    "duration_ms": 11842,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 106.132,
+    "text": "And as I said, memory formation is really the study of learning.",
+    "start_ms": 106132,
+    "end_ms": 111252,
+    "duration_ms": 5120,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 111.252,
+    "text": "And I ended last class with this sort of notion about that memory isn't a single thing, but really what we've learned from the patient work, and especially, you know, a breakthrough, a paradigm shift came about through the study of that patient, H.M., but it's been replicated in many, many other studies involving patients with different types of amnestic disorders, is that, you know, memory isn't a unitary thing, but it's really, there's different types of memory.",
+    "start_ms": 111252,
+    "end_ms": 139399,
+    "duration_ms": 28147,
+    "word_count": 78,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 139.399,
+    "text": "We have this sort of taxonomy of memory, where we make a broad distinction between declarative memory, the things, again, that we can talk about that are consciously available, and then all the sorts of learning or knowledge that we have that's much more implicit.",
+    "start_ms": 139399,
+    "end_ms": 156049,
+    "duration_ms": 16650,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 156.049,
+    "text": "And under implicit, we might think about our motor skills, that's really quite prominent when people think about, you know, I can't tell you, you know, exactly how to ski, but I can certainly do it.",
+    "start_ms": 156049,
+    "end_ms": 167399,
+    "duration_ms": 11350,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 167.399,
+    "text": "I mean, I can give you instruction, but it doesn't really capture everything that's going on.",
+    "start_ms": 167399,
+    "end_ms": 172570,
+    "duration_ms": 5171,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 172.57,
+    "text": "But we also have seen examples about how information can prime, we can see visual priming, even if we're unaware of it before, all sorts of simple associative types of learning.",
+    "start_ms": 172570,
+    "end_ms": 183157,
+    "duration_ms": 10587,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 183.157,
+    "text": "On the explicit side, we make this one broad distinction between facts, or what we call semantic knowledge, and episodic, where we talk about specific instances.",
+    "start_ms": 183157,
+    "end_ms": 193600,
+    "duration_ms": 10443,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 193.6,
+    "text": "And just to give you an example of that, let me tell you about my my first trip to San Francisco, it was back in 1978.",
+    "start_ms": 193600,
+    "end_ms": 201849,
+    "duration_ms": 8249,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 201.849,
+    "text": "Back in the day, when people felt comfortable hitchhiking across the country, I'd read Jack Kerouac's On the Road, I recommend that book and decided I should give that a shot.",
+    "start_ms": 201849,
+    "end_ms": 213520,
+    "duration_ms": 11671,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 213.52,
+    "text": "So I hitchhiked into San Francisco and ended up with a ride that dropped me off at Fisherman's Wharf and hung out there for a while and then wandered up from Fisherman's Wharf up Columbus Avenue until I got to Green Street.",
+    "start_ms": 213520,
+    "end_ms": 226840,
+    "duration_ms": 13320,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 226.84,
+    "text": "And it was, you know, mid afternoon, and I saw this neon sign that said Golden Boy Pizza.",
+    "start_ms": 226840,
+    "end_ms": 232867,
+    "duration_ms": 6027,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 232.867,
+    "text": "Okay, I don't know if any of you have been there.",
+    "start_ms": 232867,
+    "end_ms": 235830,
+    "duration_ms": 2963,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 235.83,
+    "text": "It's still present. So I was 1978. You go there 2026.",
+    "start_ms": 235830,
+    "end_ms": 239717,
+    "duration_ms": 3887,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 239.717,
+    "text": "And I believe the Golden Boy is still there. And I wandered in it's like this little pizzeria kind of in North Beach.",
+    "start_ms": 239717,
+    "end_ms": 248719,
+    "duration_ms": 9002,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 248.719,
+    "text": "And in the window, they'll have the current selections of pizza.",
+    "start_ms": 248719,
+    "end_ms": 252992,
+    "duration_ms": 4273,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 252.992,
+    "text": "And there's like just a crowd sitting at the bar.",
+    "start_ms": 252992,
+    "end_ms": 256572,
+    "duration_ms": 3580,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 256.572,
+    "text": "And there's a guy making the pizzas right in front of you.",
+    "start_ms": 256572,
+    "end_ms": 260640,
+    "duration_ms": 4068,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 260.64,
+    "text": "Okay. So and you know, it's got obviously, you know, like good pizzeria, incredible smells.",
+    "start_ms": 260640,
+    "end_ms": 265496,
+    "duration_ms": 4856,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 265.496,
+    "text": "And you know, I ordered up my piece. And it was it was right heavily that first piece I had there.",
+    "start_ms": 265496,
+    "end_ms": 272907,
+    "duration_ms": 7411,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 272.907,
+    "text": "So I'm so right. So I'm capturing many different features of that very specific memory that first trip to Golden Boy.",
+    "start_ms": 272907,
+    "end_ms": 280240,
+    "duration_ms": 7333,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 280.24,
+    "text": "Now, over the years, I actually went back. I've been back to Golden Boy many times.",
+    "start_ms": 280240,
+    "end_ms": 285439,
+    "duration_ms": 5199,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 285.439,
+    "text": "Some of them are quite memorable. There was a time I went with another professor, we both took our kids, we bought instead of the typical slice, we bought the whole box of pizza, and took it down to Washington Square Park and ate it and actually, my love for Golden Boy pizzeria, pizza really started to, you know, wane a little bit there because we need a whole, whole pizza.",
+    "start_ms": 285439,
+    "end_ms": 308879,
+    "duration_ms": 23440,
+    "word_count": 71,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 308.879,
+    "text": "It gets a little greasy. I remember feeding a good part of that pizza to the pigeons in the park.",
+    "start_ms": 308879,
+    "end_ms": 314290,
+    "duration_ms": 5411,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 314.29,
+    "text": "But nonetheless, I can, you know, I can't tell you about every time I've been there, Dave, about a few special occasions, but most I can't tell you about.",
+    "start_ms": 314290,
+    "end_ms": 321701,
+    "duration_ms": 7411,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 321.701,
+    "text": "So again, there's some episodic memory traces. But there's also some semantic memory, I know we're going by pizza is Pizza is and so forth, but I can't tell you about all the different episodes.",
+    "start_ms": 321701,
+    "end_ms": 330739,
+    "duration_ms": 9038,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 330.739,
+    "text": "Some of those have been sort of blended together. Now that's my memory.",
+    "start_ms": 330739,
+    "end_ms": 334699,
+    "duration_ms": 3960,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 334.699,
+    "text": "It turns out Golden Boy Pizza evokes strong memories in lots of people.",
+    "start_ms": 334699,
+    "end_ms": 339459,
+    "duration_ms": 4760,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 339.459,
+    "text": "This is from a blogger, just a website I found, a blog I found on the web, and the person's much more poetic than I am at describing Golden Boy Pizzeria.",
+    "start_ms": 339459,
+    "end_ms": 350638,
+    "duration_ms": 11179,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 350.638,
+    "text": "They say, \"'Golden Boy' is an unassuming, \"'by-the-slice' pizza place in North Beach, \"'perfect for late-night beer ballasting.",
+    "start_ms": 350638,
+    "end_ms": 358478,
+    "duration_ms": 7840,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 358.478,
+    "text": "\"'The decor brings to mind one of those 1950 mobile homes \"'turned inside out, long and narrow, \"'stainless steel all over.",
+    "start_ms": 358478,
+    "end_ms": 366298,
+    "duration_ms": 7820,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 366.298,
+    "text": "\"'In we go, past a couple of hate babies talking, \"'tongue studs, a rockadilly dude \"'monitoring over his Betty page.'\" I don't know what a Betty page is.",
+    "start_ms": 366298,
+    "end_ms": 375179,
+    "duration_ms": 8881,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 375.179,
+    "text": "\"'The counterman appears with two thick slices \"'steaming on the end of his spatula.",
+    "start_ms": 375179,
+    "end_ms": 379318,
+    "duration_ms": 4139,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 379.318,
+    "text": "\"'Same basket, he asks. \"'Knives and forks in red plastic baskets, \"'cutting the crust into bites.",
+    "start_ms": 379318,
+    "end_ms": 386159,
+    "duration_ms": 6841,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 386.159,
+    "text": "\"'The pizza's crispy and chewy and delicious. \"'She feeds herself a pepperoni off her slice, \"'looks at me and then sucks the tips of her fingers.",
+    "start_ms": 386159,
+    "end_ms": 395138,
+    "duration_ms": 8979,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 395.138,
+    "text": "\"'Her lips are red with pepperoni oil. \"'We're both breathing hard.'\" Well, again, like I say, much more poetic than my memory.",
+    "start_ms": 395138,
+    "end_ms": 405399,
+    "duration_ms": 10261,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 405.399,
+    "text": "But you can see, again, whether you're looking at the blogger or whether you're listening to my rendition, both of us are kind of capturing this notion of distributed memory, right?",
+    "start_ms": 405399,
+    "end_ms": 414579,
+    "duration_ms": 9180,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 414.579,
+    "text": "A semantic fact about it is on Green Street, Blogger North Beach.",
+    "start_ms": 414579,
+    "end_ms": 419058,
+    "duration_ms": 4479,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 419.058,
+    "text": "I gave you the episode of my first visit. The blogger's describing, I assume, one very memorable late night drop-in there with some woman, and again, blah, blah.",
+    "start_ms": 419058,
+    "end_ms": 429498,
+    "duration_ms": 10440,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 429.498,
+    "text": "You got all the other things about more of these implicit memories and so forth.",
+    "start_ms": 429498,
+    "end_ms": 433278,
+    "duration_ms": 3780,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 433.278,
+    "text": "So again, just making the point about that memory is this composite representation.",
+    "start_ms": 433278,
+    "end_ms": 438378,
+    "duration_ms": 5100,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 439.799,
+    "text": "And so again, this taxonomic view is really important about emphasizing that there isn't a unitary memory, but really, memory's a distributed process, okay?",
+    "start_ms": 439799,
+    "end_ms": 450279,
+    "duration_ms": 10480,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 450.279,
+    "text": "That there's multiple forms of memory, and presumably, if there's multiple forms, these are distributed representations, and if they're distributed representations, they're probably distributed or engaging different parts of the brain, different brain regions.",
+    "start_ms": 450279,
+    "end_ms": 465119,
+    "duration_ms": 14840,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 465.938,
+    "text": "And we've seen from our studies of amnesia that again, different brain regions seem to be associated with memory and learning, whether it's anterograde or retrograde amnesias, whether it's those domain-specific memories and so forth.",
+    "start_ms": 465938,
+    "end_ms": 478578,
+    "duration_ms": 12640,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 478.578,
+    "text": "So what I want to do for the rest of this section is kind of talk about some of the building blocks or the physiological processes involved in memory, and I'm really gonna focus, for a lot of this work today, on the medial temporal lobe region.",
+    "start_ms": 478578,
+    "end_ms": 492938,
+    "duration_ms": 14360,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 492.938,
+    "text": "And we know that this is really a critical hub for memory, but as we've seen, it was a critical hub, as we saw in the study with H.M., that it's really a critical hub for the acquisition of declarative memory, right?",
+    "start_ms": 492938,
+    "end_ms": 506559,
+    "duration_ms": 13621,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 506.559,
+    "text": "That was the classic thing, that H.M. with his bilateral lesions, complete, deep, anterograde amnesia, inability to form new memories was the basic observation, and then, quickly, it came out that, well, but nonetheless, he could still actually acquire lots of information implicitly, so making that striking dissociation.",
+    "start_ms": 506559,
+    "end_ms": 527919,
+    "duration_ms": 21360,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 527.919,
+    "text": "Again, subsequent to that, though, we've thought about this distinction between semantic, episodic, and so forth, but then, early on, we knew that the medial temporal lobe was really essential, at least for the acquisition of declarative memories, whereas, actually, the acquisition of these non-declarative memories appears to be independent of the medial temporal lobe.",
+    "start_ms": 527919,
+    "end_ms": 548098,
+    "duration_ms": 20179,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 548.098,
+    "text": "I can take out the medial temporal lobe on both sides of the brain, and I can still acquire these sorts of things, and so I really want to focus on much, much work has gone on about asking about what is the medial temporal lobe doing?",
+    "start_ms": 548098,
+    "end_ms": 561279,
+    "duration_ms": 13181,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 561.279,
+    "text": "How is it so important for the development and the learning and the acquisition of new memories?",
+    "start_ms": 561279,
+    "end_ms": 567158,
+    "duration_ms": 5879,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 567.158,
+    "text": "And for that, we're gonna take a deep dive into some physiological mechanisms, and first, I want to just start with questions about the input, and I actually showed you this picture before.",
+    "start_ms": 567158,
+    "end_ms": 579038,
+    "duration_ms": 11880,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 579.059,
+    "text": "If you remember, this is the visual hierarchy, and I said, you know, it's just a nightmare.",
+    "start_ms": 579059,
+    "end_ms": 584179,
+    "duration_ms": 5120,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 584.179,
+    "text": "It's emphasizing that there's multiple visual areas. Down here, we have the retina.",
+    "start_ms": 584179,
+    "end_ms": 589379,
+    "duration_ms": 5200,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 589.379,
+    "text": "Up here, if you look closely, you can see here's V1, primary visual cortex, V2, secondary visual cortex.",
+    "start_ms": 589379,
+    "end_ms": 596779,
+    "duration_ms": 7400,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 596.779,
+    "text": "Here's a V3, MTV4, some of the areas we talked about, inferior temporal, you can follow the dorsal and the ventral stream through here.",
+    "start_ms": 596779,
+    "end_ms": 605538,
+    "duration_ms": 8759,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 605.538,
+    "text": "Again, the point was emphasizing that there's lots of areas that are sensitive to lots of visual information, but the point that I had actually alluded to before, and I want to highlight today, is that kind of an interesting observation is that the hippocampus, so a critical part of the medial temporal lobe, when I talk about medial temporal lobe, sometimes people talk just about the hippocampus, but frequently, it seems like it's hippocampus plus, and that's why I'm using the more general term, medial temporal lobe complex, or so forth, but I use it interchangeably with the hippocampus.",
+    "start_ms": 605538,
+    "end_ms": 637279,
+    "duration_ms": 31741,
+    "word_count": 100,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 637.298,
+    "text": "Here, they're showing that the hippocampus is at the top of this visual hierarchy, and that's always kind of puzzling, because the hippocampus certainly is responsive to visual input, but it's also.",
+    "start_ms": 637298,
+    "end_ms": 647379,
+    "duration_ms": 10081,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 647.297,
+    "text": "to many other types of input. It's a multimodal region.",
+    "start_ms": 647297,
+    "end_ms": 650919,
+    "duration_ms": 3622,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 650.919,
+    "text": "But there's this basic idea that, well, maybe the way we should think about the way information goes through the visual cortex is that we get this elaboration as we move through the system, we have more complex representations at the cellular level and at the population level.",
+    "start_ms": 650919,
+    "end_ms": 668624,
+    "duration_ms": 17705,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 668.624,
+    "text": "But the idea is that maybe the brain is, in a sense, trying to resolve the input.",
+    "start_ms": 668624,
+    "end_ms": 674058,
+    "duration_ms": 5434,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 674.058,
+    "text": "It's trying to say, given this input, does it match something that I've experienced in the past?",
+    "start_ms": 674058,
+    "end_ms": 680468,
+    "duration_ms": 6410,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 680.468,
+    "text": "That is, can I account for it? That's this notion about that the brain is, in a sense, trying to predict what the input is.",
+    "start_ms": 680468,
+    "end_ms": 688548,
+    "duration_ms": 8080,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 688.548,
+    "text": "Or it's saying, given this input, do I recognize it?",
+    "start_ms": 688548,
+    "end_ms": 692078,
+    "duration_ms": 3530,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 692.078,
+    "text": "And if there's a mismatch, if I'm unable to account for it, then I'm going to pass it further along the hierarchy and say, well, maybe the next order of place can solve that mystery.",
+    "start_ms": 692078,
+    "end_ms": 701677,
+    "duration_ms": 9599,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 702.558,
+    "text": "And if you think about things this way, that, again, at each level of the visual hierarchy, we're trying to recognize the stimulus.",
+    "start_ms": 702558,
+    "end_ms": 709517,
+    "duration_ms": 6959,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 709.517,
+    "text": "If we don't, we pass it on. Well, then it makes sense that the hippocampus is at the top of the hierarchy because now the hippocampus would be activated whenever something hasn't been predicted or accounted for or recognized.",
+    "start_ms": 709517,
+    "end_ms": 723585,
+    "duration_ms": 14068,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 723.585,
+    "text": "And that would be a perfect signal for a learning system, right?",
+    "start_ms": 723585,
+    "end_ms": 728839,
+    "duration_ms": 5254,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 728.839,
+    "text": "If nothing has really recognized the stimulus, then it's something novel, and it's then something that needs to be learned, OK, something unexpected in the world.",
+    "start_ms": 728839,
+    "end_ms": 738797,
+    "duration_ms": 9958,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 738.797,
+    "text": "And here's a really great experiment using scalp EEG, but they're doing it on individuals who either are healthy, that's the control group here, or individuals who have lesions in the medial temporal lobe.",
+    "start_ms": 738797,
+    "end_ms": 751810,
+    "duration_ms": 13013,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 751.81,
+    "text": "And these aren't individuals like HM. They're bilateral lesions, so they don't have gross amnestic problems, but they do have subtle ones.",
+    "start_ms": 751810,
+    "end_ms": 760120,
+    "duration_ms": 8310,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 760.12,
+    "text": "But again, they actually, so that's going to be this group of patients with medial temporal lobe lesions.",
+    "start_ms": 760120,
+    "end_ms": 765677,
+    "duration_ms": 5557,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 765.677,
+    "text": "What they're going to do is a very simple auditory detection task.",
+    "start_ms": 765677,
+    "end_ms": 769837,
+    "duration_ms": 4160,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 770.958,
+    "text": "People are just going to sit there. They're going to listen to tones.",
+    "start_ms": 770958,
+    "end_ms": 773757,
+    "duration_ms": 2799,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 774.958,
+    "text": "10% of the tones are going to be a 1500 hertz tone, so kind of like a beep.",
+    "start_ms": 774958,
+    "end_ms": 780718,
+    "duration_ms": 5760,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 780.718,
+    "text": "Whenever you hear the beep, press the button. So that's to make sure people are engaged in the task.",
+    "start_ms": 780718,
+    "end_ms": 785438,
+    "duration_ms": 4720,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 786.238,
+    "text": "But that only occurs on one out of every 10 tones.",
+    "start_ms": 786238,
+    "end_ms": 789077,
+    "duration_ms": 2839,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 789.077,
+    "text": "Eight out of 10 tones are going to be a distracted tone, so it's going to be a lower pitch sound.",
+    "start_ms": 789077,
+    "end_ms": 794599,
+    "duration_ms": 5522,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 794.599,
+    "text": "So basically, usually you're hearing these pure tones, and you just press a button whenever you hear a high tone.",
+    "start_ms": 794599,
+    "end_ms": 800117,
+    "duration_ms": 5518,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 800.117,
+    "text": "But what they also did here is every now and then, one out of 10 trials, they played some weird sound, and they only played it once.",
+    "start_ms": 800117,
+    "end_ms": 806649,
+    "duration_ms": 6532,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 806.649,
+    "text": "Like it could be a dog bark, it could be a bell, it could be a crashing sound, whatever.",
+    "start_ms": 806649,
+    "end_ms": 811438,
+    "duration_ms": 4789,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 811.438,
+    "text": "It could be some novel sound, but it's going to be something that's unexpected.",
+    "start_ms": 811438,
+    "end_ms": 814958,
+    "duration_ms": 3520,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 816.238,
+    "text": "So let's first look at the ERPs to where the target is detected.",
+    "start_ms": 816238,
+    "end_ms": 819981,
+    "duration_ms": 3743,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 819.981,
+    "text": "And what you can see is that there's this, again, for whatever reason, classically in ERP literature, they plot positive changes in the potential.",
+    "start_ms": 819981,
+    "end_ms": 830769,
+    "duration_ms": 10788,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 830.769,
+    "text": "This is again recorded at the scalp, sort of over the temporal lobe, but that's not critical.",
+    "start_ms": 830769,
+    "end_ms": 836767,
+    "duration_ms": 5998,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 836.767,
+    "text": "What they're showing here is that for both the patients and the controls, they're equally facile at detecting the target.",
+    "start_ms": 836767,
+    "end_ms": 843613,
+    "duration_ms": 6846,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 843.613,
+    "text": "So you have these middle temporal lobe lesions, unilateral, you know, give them this task, and basically they can remember it, they can do quite well.",
+    "start_ms": 843613,
+    "end_ms": 851851,
+    "duration_ms": 8238,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 851.851,
+    "text": "And if we look at their physiology, their scalp physiology, we see that they're responding to the target in the same way.",
+    "start_ms": 851851,
+    "end_ms": 859484,
+    "duration_ms": 7633,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 859.484,
+    "text": "The interesting result, though, is what is the ERP to the novel stimulus?",
+    "start_ms": 859484,
+    "end_ms": 864477,
+    "duration_ms": 4993,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 864.477,
+    "text": "And what you can see here is that in the control subjects, they actually get a much stronger response.",
+    "start_ms": 864477,
+    "end_ms": 871501,
+    "duration_ms": 7024,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 871.501,
+    "text": "Remember I said, if it comes through here, hippocampus, right, this might be a really important signal that, hey, this is something unexpected, I should pay attention to it, I might need to learn about it.",
+    "start_ms": 871501,
+    "end_ms": 883100,
+    "duration_ms": 11599,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 883.1,
+    "text": "And that's what you're seeing in the control subjects, this very strong response to the novel stimulus.",
+    "start_ms": 883100,
+    "end_ms": 888563,
+    "duration_ms": 5463,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 888.563,
+    "text": "But the patients with the medial temporal lobe lesions, they don't actually show that exaggerated response.",
+    "start_ms": 888563,
+    "end_ms": 894722,
+    "duration_ms": 6159,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 894.722,
+    "text": "They still show a response, again, so it's not like they don't detect the novelty at all, but it's much weaker than you see in the control subjects, consistent with this idea that a building block, right, for the formation of a new memory would be something about, you know, being responsive to the input when it's something that's novel, something that needs to be learned.",
+    "start_ms": 894722,
+    "end_ms": 915838,
+    "duration_ms": 21116,
+    "word_count": 66,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 916.798,
+    "text": "All right, well, then let's move on, okay, and this is what I call the building blocks about, you know, what might be coded in the hippocampus that might also be relevant for learning about a new situation.",
+    "start_ms": 916798,
+    "end_ms": 930067,
+    "duration_ms": 13269,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 930.067,
+    "text": "And one of the great breakthroughs in physiology, and this was all work initially done in rodents, okay, it led to the Nobel Prize for three individuals, was the discovery that within the hippocampus, you have a kind of a very unique type of cell, what are called place cells.",
+    "start_ms": 930067,
+    "end_ms": 949944,
+    "duration_ms": 19877,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 949.944,
+    "text": "And by the name, as the name implies, these are cells that show tuning, so they show some sort of topography, but their tuning is in terms of space.",
+    "start_ms": 949944,
+    "end_ms": 961122,
+    "duration_ms": 11178,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 961.122,
+    "text": "Okay, now here's a very simple demonstration of a place cell.",
+    "start_ms": 961122,
+    "end_ms": 964867,
+    "duration_ms": 3745,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 964.867,
+    "text": "They put the rat into a rat into a circular maze and it can just run around the maze.",
+    "start_ms": 964867,
+    "end_ms": 970537,
+    "duration_ms": 5670,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 970.537,
+    "text": "They'll run around for a little bit, they'll pick it up, they'll put it at a new location.",
+    "start_ms": 970537,
+    "end_ms": 974436,
+    "duration_ms": 3899,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 974.436,
+    "text": "They vary the start and the stop location from trial to trial.",
+    "start_ms": 974436,
+    "end_ms": 979037,
+    "duration_ms": 4601,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 979.037,
+    "text": "Here they're just showing by color coding. So bright colors are strong activation, dark colors are weak activation.",
+    "start_ms": 979037,
+    "end_ms": 986756,
+    "duration_ms": 7719,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 986.756,
+    "text": "The activity of three different cells. And they're just showing again that the cells show differential tuning for different places within the maze.",
+    "start_ms": 986756,
+    "end_ms": 997316,
+    "duration_ms": 10560,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 997.316,
+    "text": "And it doesn't seem to matter what path the rat is taking.",
+    "start_ms": 997316,
+    "end_ms": 1000636,
+    "duration_ms": 3320,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1000.636,
+    "text": "So this is showing a trial where the rat starts on the left and runs around to here, runs the opposite direction, et cetera.",
+    "start_ms": 1000636,
+    "end_ms": 1008237,
+    "duration_ms": 7601,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1008.237,
+    "text": "And what you can see is no matter what direction the rat is running, this cell fires vigorously whenever the rat is at the bottom of the maze.",
+    "start_ms": 1008237,
+    "end_ms": 1017557,
+    "duration_ms": 9320,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1017.557,
+    "text": "Here's another cell that fires when the cell is off sort of in the seven o'clock location, but not all that consistent.",
+    "start_ms": 1017557,
+    "end_ms": 1024017,
+    "duration_ms": 6460,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1024.017,
+    "text": "There are certain trials where it doesn't fire. And here's another cell though that seems to fire when the rat's up towards the 11 o'clock direction.",
+    "start_ms": 1024017,
+    "end_ms": 1032676,
+    "duration_ms": 8659,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1032.676,
+    "text": "So, and this is a very well-established phenomena. And you can think about, you know, when we learn memories, okay, we learn them as episodes, at least the first time we learn the information.",
+    "start_ms": 1032676,
+    "end_ms": 1043876,
+    "duration_ms": 11200,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1044.276,
+    "text": "That is, we learn them in a particular context. That is a context that's gonna be defined by a place and maybe by a time.",
+    "start_ms": 1044276,
+    "end_ms": 1051916,
+    "duration_ms": 7640,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1051.916,
+    "text": "And indeed, other work has shown that hippocampal cells seem to have some sort of coding of temporal information as well as spatial information.",
+    "start_ms": 1051916,
+    "end_ms": 1060897,
+    "duration_ms": 8981,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1062.437,
+    "text": "This same sort of thing has actually been demonstrated in humans, both with fMRI, or here's a study with intracranial EEG.",
+    "start_ms": 1062437,
+    "end_ms": 1072176,
+    "duration_ms": 9739,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1072.176,
+    "text": "So again, these are patients with epilepsy. They're undergoing surgery.",
+    "start_ms": 1072176,
+    "end_ms": 1076617,
+    "duration_ms": 4441,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1076.617,
+    "text": "They've actually inserted electrodes in the hippocampal region, common site for epileptic tissue.",
+    "start_ms": 1076617,
+    "end_ms": 1082617,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1082.617,
+    "text": "They put the electrodes in so they can find where the epilepsy is because they're gonna resect, that is take out that tissue.",
+    "start_ms": 1082617,
+    "end_ms": 1089777,
+    "duration_ms": 7160,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1089.777,
+    "text": "But they leave the electrodes in place for about a week before they do the surgery, giving an opportunity to do recordings here.",
+    "start_ms": 1089777,
+    "end_ms": 1097257,
+    "duration_ms": 7480,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1097.257,
+    "text": "And here, they're actually using the technology to actually record in humans while they're doing tasks individual neurons.",
+    "start_ms": 1097257,
+    "end_ms": 1105137,
+    "duration_ms": 7880,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1105.137,
+    "text": "And here's a kind of place cell in the human.",
+    "start_ms": 1105137,
+    "end_ms": 1109296,
+    "duration_ms": 4159,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1109.296,
+    "text": "What they did is they made this video game where the person's kind of navigating through this virtual reality space.",
+    "start_ms": 1109296,
+    "end_ms": 1116417,
+    "duration_ms": 7121,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1116.417,
+    "text": "So again, it's kind of a grid-like space. And here, they're using sort of color coding scheme showing here's a cell that's very active when the person has navigated into this location.",
+    "start_ms": 1116417,
+    "end_ms": 1128816,
+    "duration_ms": 12399,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1128.816,
+    "text": "Here's another cell that becomes quite active when they're moving along the right side of the grid.",
+    "start_ms": 1128816,
+    "end_ms": 1134076,
+    "duration_ms": 5260,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1134.076,
+    "text": "And again, if you looked across lots of cells, you see the whole sort of space tessellated with these types of place cells.",
+    "start_ms": 1134076,
+    "end_ms": 1142117,
+    "duration_ms": 8041,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1142.117,
+    "text": "It actually turns out that cells can actually code more than just kind of your absolute location.",
+    "start_ms": 1142117,
+    "end_ms": 1150117,
+    "duration_ms": 8000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1150.117,
+    "text": "Other cells seem to be coding the heading that you're moving in.",
+    "start_ms": 1150117,
+    "end_ms": 1154117,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1154.117,
+    "text": "So right, so I could be moving from different locations.",
+    "start_ms": 1154117,
+    "end_ms": 1157076,
+    "duration_ms": 2959,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1157.076,
+    "text": "I could be moving forward. I could be back here moving forward.",
+    "start_ms": 1157076,
+    "end_ms": 1160397,
+    "duration_ms": 3321,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1160.397,
+    "text": "I could be way over to the side moving forward.",
+    "start_ms": 1160397,
+    "end_ms": 1163037,
+    "duration_ms": 2640,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1163.037,
+    "text": "Same thing for going from the left to the right.",
+    "start_ms": 1163037,
+    "end_ms": 1165837,
+    "duration_ms": 2800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1165.837,
+    "text": "And here, we're just seeing cells. Again, the angular direction is coded by this circular plot and the blue length of these sort of vectors, in a sense, are coding the strength of activity for particular directions.",
+    "start_ms": 1165837,
+    "end_ms": 1180676,
+    "duration_ms": 14839,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1180.676,
+    "text": "So this cell over here becomes very active whenever you're moving in the eastward direction towards the right.",
+    "start_ms": 1180676,
+    "end_ms": 1187037,
+    "duration_ms": 6361,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1187.037,
+    "text": "This one here, kind of when you're moving in a southeast direction, has a preferred tuning.",
+    "start_ms": 1187037,
+    "end_ms": 1191676,
+    "duration_ms": 4639,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1191.676,
+    "text": "Here's one that kind of tends to respond whether you're moving upward or downward much more strongly than left or right.",
+    "start_ms": 1191676,
+    "end_ms": 1199197,
+    "duration_ms": 7521,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1199.197,
+    "text": "And actually, again, in terms of that temporal coding, there were also cells that seemed to kind of code the serial position.",
+    "start_ms": 1199197,
+    "end_ms": 1206596,
+    "duration_ms": 7399,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1206.596,
+    "text": "So here's a case where the person's making four different moves or going to four different locations through this space.",
+    "start_ms": 1206596,
+    "end_ms": 1215316,
+    "duration_ms": 8720,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1215.316,
+    "text": "They were given like a task, moved to these four different locations, and they found that some cells became active whenever you're moving to the third location, independent of where that location was.",
+    "start_ms": 1215316,
+    "end_ms": 1228316,
+    "duration_ms": 13000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1228.316,
+    "text": "So in some trials, the third location was to the left.",
+    "start_ms": 1228316,
+    "end_ms": 1231037,
+    "duration_ms": 2721,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1231.037,
+    "text": "Some trials, it might be to the right. This particular cell always became active whenever you're making the movement towards the third location.",
+    "start_ms": 1231037,
+    "end_ms": 1238797,
+    "duration_ms": 7760,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1238.797,
+    "text": "Here's another cell that was always active when moving to the first location.",
+    "start_ms": 1238797,
+    "end_ms": 1242677,
+    "duration_ms": 3880,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1242.677,
+    "text": "So again, seeing this sort of complex representation of spatial and temporal information within the human hippocampus.",
+    "start_ms": 1242677,
+    "end_ms": 1250716,
+    "duration_ms": 8039,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1252.077,
+    "text": "Well, why might it be good to have this sort of representation of space and time?",
+    "start_ms": 1252077,
+    "end_ms": 1258996,
+    "duration_ms": 6919,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1258.996,
+    "text": "And what's been actually shown here is that we can actually then record as the animal moves through a path, we can identify these place cells.",
+    "start_ms": 1258996,
+    "end_ms": 1269716,
+    "duration_ms": 10720,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1269.716,
+    "text": "And of course, if I'm moving a particular direction, these place cells are gonna fire in a particular sequence.",
+    "start_ms": 1269716,
+    "end_ms": 1277357,
+    "duration_ms": 7641,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1277.357,
+    "text": "So for instance, consider a cell, a trial, where the animal starts on the left and runs around to the right.",
+    "start_ms": 1277357,
+    "end_ms": 1284237,
+    "duration_ms": 6880,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1285.116,
+    "text": "If I have a place cell, I might. going to be a place cell that might be tuned to the left side, then one towards the up, and then one towards the right, and we might observe during the encoding phase that there's going to be the successive activation of, say, these six different place cells, or five different, yeah, six different place cells.",
+    "start_ms": 1285116,
+    "end_ms": 1305275,
+    "duration_ms": 20159,
+    "word_count": 64,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1305.275,
+    "text": "So going from cell zero to cell five, plotted across time, so here's the rat running across the maze, and this is just a schematic.",
+    "start_ms": 1305275,
+    "end_ms": 1314556,
+    "duration_ms": 9281,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1314.556,
+    "text": "Here's the actual cell activity. So cell zero fires a couple bursts early on, midway through, cell four, three here, fires vigorously, and cell five fires vigorously at the end, and again, we've captured what's the place representation of each of these cells, and we see this nice progression, serial progression, because that rat has to travel in a consistent manner from one location to the next, and we get this nice encoding of the places it's visited.",
+    "start_ms": 1314556,
+    "end_ms": 1345915,
+    "duration_ms": 31359,
+    "word_count": 78,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1345.915,
+    "text": "Well, of course, that we'd expect by the encoding phase, but the really interesting result was that they observed that after the rat had finished the task, you would actually see a replay of that sequence.",
+    "start_ms": 1345915,
+    "end_ms": 1361035,
+    "duration_ms": 15120,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1361.756,
+    "text": "Now, again, it's much messier than what you saw during the encoding phase, but nonetheless, look here, you see that the blue comes on before the yellow, the pink tends to come on before the yellow becomes strongly activated, slightly, time of the red, of the yellow, there's this burst here.",
+    "start_ms": 1361756,
+    "end_ms": 1380476,
+    "duration_ms": 18720,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1380.476,
+    "text": "So again, this is just one single trial, but it's capturing, and this is sort of a summation there, that you still see that same sort of order being replayed in the brain.",
+    "start_ms": 1380476,
+    "end_ms": 1392555,
+    "duration_ms": 12079,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1392.555,
+    "text": "So now the rat's not moving, okay, it's recently run through the maze, this is a new experience for it, and then right afterwards, we see this replay of the physiological pattern of activity.",
+    "start_ms": 1392555,
+    "end_ms": 1405035,
+    "duration_ms": 12480,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1406.156,
+    "text": "What I want to actually really highlight here is that replay is compressed in time.",
+    "start_ms": 1406156,
+    "end_ms": 1411115,
+    "duration_ms": 4959,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1411.676,
+    "text": "Notice the time scale here was one second. Well, actually, during the replay, that sequence is actually being replayed in just a fifth of a second, and in fact, it might be replayed over and over again over the next 10 seconds while the rat is sitting there.",
+    "start_ms": 1411676,
+    "end_ms": 1428395,
+    "duration_ms": 16719,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1428.395,
+    "text": "But what do we have here? We have what looks like kind of a physiological mechanism that might look like consolidation.",
+    "start_ms": 1428395,
+    "end_ms": 1435835,
+    "duration_ms": 7440,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1435.835,
+    "text": "I've had a new experience, and now we're seeing at the cellular level that that new experience is being replayed, perhaps as a way to rebuild, to build up that memory in the brain.",
+    "start_ms": 1435835,
+    "end_ms": 1446475,
+    "duration_ms": 10640,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1448.395,
+    "text": "What got really cool is first people noticed the replay after the rat did the trial, and it was sitting quietly, so that's this post-exposure replay.",
+    "start_ms": 1448395,
+    "end_ms": 1457516,
+    "duration_ms": 9121,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1458.395,
+    "text": "But then what's been observed is that if you now put the rat back at that starting location, before the rat runs, you'll actually see a preplay.",
+    "start_ms": 1458395,
+    "end_ms": 1468395,
+    "duration_ms": 10000,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1468.395,
+    "text": "You'll see that replay occur while the rat's sitting there preparing to run in the maze.",
+    "start_ms": 1468395,
+    "end_ms": 1474796,
+    "duration_ms": 6401,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1474.796,
+    "text": "So you put it in the maze, but you put a little block so it can't run.",
+    "start_ms": 1474796,
+    "end_ms": 1477835,
+    "duration_ms": 3039,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1478.395,
+    "text": "You record the physiological activity still, and you see that that pattern that was experienced previously is replayed, open the maze, and now, of course, you're going to see that same pattern as before.",
+    "start_ms": 1478395,
+    "end_ms": 1490796,
+    "duration_ms": 12401,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1490.796,
+    "text": "So now it's like, again, putting the animal back into the context triggers the physiological response that had been experienced when the rat was originally placed in there.",
+    "start_ms": 1490796,
+    "end_ms": 1500876,
+    "duration_ms": 10080,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1501.676,
+    "text": "And where things have gotten extremely interesting is you see offline replay, especially during sleep.",
+    "start_ms": 1501676,
+    "end_ms": 1508475,
+    "duration_ms": 6799,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1508.475,
+    "text": "And I'm not going to talk much about that, but there's just a huge literature now that's emerged that amongst the many functions of sleep may be memory consolidation.",
+    "start_ms": 1508475,
+    "end_ms": 1518796,
+    "duration_ms": 10321,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1518.796,
+    "text": "That is, during sleep, we can observe replay for new experiences that have been learned through the day.",
+    "start_ms": 1518796,
+    "end_ms": 1525275,
+    "duration_ms": 6479,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1525.275,
+    "text": "Now, of course, there's the whole complicated story about during any single day, we're experiencing many, many different things.",
+    "start_ms": 1525275,
+    "end_ms": 1533115,
+    "duration_ms": 7840,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1533.115,
+    "text": "So which things get selected for replay and which things don't, or is our brain so capable that it's replaying 1,000 new experiences during the night?",
+    "start_ms": 1533115,
+    "end_ms": 1541995,
+    "duration_ms": 8880,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1541.995,
+    "text": "These sorts of questions are being asked, but there's clear evidence that during sleep, you can really observe replay.",
+    "start_ms": 1541995,
+    "end_ms": 1548636,
+    "duration_ms": 6641,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1548.636,
+    "text": "Again, here, they're typically doing studies where they can really try to limit the new experiences so that they know what to look for.",
+    "start_ms": 1548636,
+    "end_ms": 1555675,
+    "duration_ms": 7039,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1557.596,
+    "text": "Well, again, I said that replay seems to be a marker of, say, memory consolidation or what we might call memory rehearsal.",
+    "start_ms": 1557596,
+    "end_ms": 1567436,
+    "duration_ms": 9840,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1567.995,
+    "text": "We, of course, want to ask, is this functionally useful?",
+    "start_ms": 1567995,
+    "end_ms": 1570795,
+    "duration_ms": 2800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1571.675,
+    "text": "And what's been noticed is that if you're recording for the hippocampus, CA1 is one region within the hippocampus.",
+    "start_ms": 1571675,
+    "end_ms": 1577596,
+    "duration_ms": 5921,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1578.316,
+    "text": "So now, instead of looking at the activity of a single neuron, what we're looking at here is the activity of the population of neurons.",
+    "start_ms": 1578316,
+    "end_ms": 1586235,
+    "duration_ms": 7919,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1586.955,
+    "text": "And what's been noticed is that, you know, every now and then, you'll get these so-called ripples, and that's just sort of a burst of activity across the population.",
+    "start_ms": 1586955,
+    "end_ms": 1597036,
+    "duration_ms": 10081,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1597.596,
+    "text": "So that's what's shown here. So this is, again, a physiological record of the population of activity.",
+    "start_ms": 1597596,
+    "end_ms": 1603356,
+    "duration_ms": 5760,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1603.436,
+    "text": "So we get a change here. It just means that there's been some.",
+    "start_ms": 1603436,
+    "end_ms": 1605675,
+    "duration_ms": 2239,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1605.512,
+    "text": "here, it just means that there's been some synchronized population activity.",
+    "start_ms": 1605512,
+    "end_ms": 1609395,
+    "duration_ms": 3883,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1609.395,
+    "text": "And the duration of these ripples, okay, can either be short, as shown here.",
+    "start_ms": 1609395,
+    "end_ms": 1615395,
+    "duration_ms": 6000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1615.395,
+    "text": "You know, this is 40 milliseconds or so forth. Or what's noticed is that some of them can be long.",
+    "start_ms": 1615395,
+    "end_ms": 1620395,
+    "duration_ms": 5000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1620.395,
+    "text": "So they vary in duration. They occur, you know, I don't know if it's randomly, but they occur during different periods of brain activity.",
+    "start_ms": 1620395,
+    "end_ms": 1629395,
+    "duration_ms": 9000,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1629.395,
+    "text": "You'll see these ripples. A lot of work asking about when these ripples occur during sleep.",
+    "start_ms": 1629395,
+    "end_ms": 1634395,
+    "duration_ms": 5000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1634.395,
+    "text": "Is that periods when you see replay and so forth?",
+    "start_ms": 1634395,
+    "end_ms": 1637395,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1637.395,
+    "text": "So, again, the thought is that these ripples are kind of a population biomarker of replay.",
+    "start_ms": 1637395,
+    "end_ms": 1643395,
+    "duration_ms": 6000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1643.395,
+    "text": "That is, if I was looking at the replay at the single cell level, it was noticed that they tend to occur much more frequently during these ripples.",
+    "start_ms": 1643395,
+    "end_ms": 1652395,
+    "duration_ms": 9000,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1652.395,
+    "text": "And so the idea was that, well, maybe then these ripples are actually, you know, the long ripples, presumably there's going to be more replay.",
+    "start_ms": 1652395,
+    "end_ms": 1661395,
+    "duration_ms": 9000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1661.395,
+    "text": "If that's true, then we should see some sort of memory enhancement associated or some sort of memory behavioral correlates with long replays.",
+    "start_ms": 1661395,
+    "end_ms": 1671395,
+    "duration_ms": 10000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1671.395,
+    "text": "And that's what's shown in these two graphs here. So what they're doing is plotting what we call frequency histograms.",
+    "start_ms": 1671395,
+    "end_ms": 1679395,
+    "duration_ms": 8000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1679.395,
+    "text": "They're plotting the duration of the replay, so each duration of the ripple.",
+    "start_ms": 1679395,
+    "end_ms": 1685395,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1685.395,
+    "text": "So every ripple, we can measure its duration. Okay, that's what's plotted on the x-axis here, measured replay.",
+    "start_ms": 1685395,
+    "end_ms": 1692395,
+    "duration_ms": 7000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1692.395,
+    "text": "And they're just plotting the frequency. Okay, so in this case here, the yellow function, if we look at the, let's say we look at the green function, we see that, you know, there's a large proportion of replays that occur at this sort of duration here.",
+    "start_ms": 1692395,
+    "end_ms": 1706395,
+    "duration_ms": 14000,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1706.395,
+    "text": "And it's kind of normally distributed. But what they wanted to do is compare what's the frequency distribution when it's a familiar context versus a novel context.",
+    "start_ms": 1706395,
+    "end_ms": 1719395,
+    "duration_ms": 13000,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1719.395,
+    "text": "And the observation you see here, if you look at the yellow function, is it's got a very similar shape to the familiar context, but it's got this tail at the longer end.",
+    "start_ms": 1719395,
+    "end_ms": 1730395,
+    "duration_ms": 11000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1730.395,
+    "text": "That means when it's a novel context, we're more likely to get long ripples than when it's a familiar context.",
+    "start_ms": 1730395,
+    "end_ms": 1739395,
+    "duration_ms": 9000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1739.395,
+    "text": "And again, if replay, or actually the encoding of a new memory, is occurring when you're in a novel consequence, then we might expect to see longer ripples occurring during that time.",
+    "start_ms": 1739395,
+    "end_ms": 1752395,
+    "duration_ms": 13000,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1752.395,
+    "text": "And more important, we might expect to see longer replays on trials later on, recall trials later on, when the rat is required to actually recall a particular pattern.",
+    "start_ms": 1752395,
+    "end_ms": 1765395,
+    "duration_ms": 13000,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1765.395,
+    "text": "And that's what's shown here. This is again showing, in a non-memory condition, what's the duration, what's the frequency distribution of the duration of these ripples in terms of their duration.",
+    "start_ms": 1765395,
+    "end_ms": 1778395,
+    "duration_ms": 13000,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1778.395,
+    "text": "But here they're showing when the rat is successfully recalling a maze, now again you see this increase in the duration of the ripples.",
+    "start_ms": 1778395,
+    "end_ms": 1788395,
+    "duration_ms": 10000,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1788.395,
+    "text": "Now you have a tendency for longer replays when you're in either a novel environment or when you're on a successful memory trial.",
+    "start_ms": 1788395,
+    "end_ms": 1798395,
+    "duration_ms": 10000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1798.395,
+    "text": "Again, the same sort of thing has been observed in the human brain.",
+    "start_ms": 1798395,
+    "end_ms": 1805070,
+    "duration_ms": 6675,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1805.07,
+    "text": "Here they're not really measuring replays, they're measuring what they call high frequency oscillations in the human hippocampus, again with recording with intracranial EEG.",
+    "start_ms": 1805070,
+    "end_ms": 1817395,
+    "duration_ms": 12325,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1818.395,
+    "text": "And basically here what they're doing is they're actually having people watch a series of movies.",
+    "start_ms": 1818395,
+    "end_ms": 1823026,
+    "duration_ms": 4631,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1823.026,
+    "text": "As with any movie, right, you're going to have scenes and then you're going to cut from one scene to the next.",
+    "start_ms": 1823026,
+    "end_ms": 1829395,
+    "duration_ms": 6369,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1829.395,
+    "text": "So we'll talk about that as transitions from one event to the next.",
+    "start_ms": 1829395,
+    "end_ms": 1833969,
+    "duration_ms": 4574,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1833.969,
+    "text": "In each little arrow here indicates a scene transition. So this might be like a 30 second clip of a movie or maybe a minute segment of a movie and there's like, you know, maybe eight or nine different scene transitions.",
+    "start_ms": 1833969,
+    "end_ms": 1848395,
+    "duration_ms": 14426,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1848.395,
+    "text": "It's probably a little longer than one minute. But there'll be like nine transitions.",
+    "start_ms": 1848395,
+    "end_ms": 1853839,
+    "duration_ms": 5444,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1853.839,
+    "text": "And what they're doing here is they're plotting the activity of these high frequency oscillations and they're just aligning them on events.",
+    "start_ms": 1853839,
+    "end_ms": 1862395,
+    "duration_ms": 8556,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1862.395,
+    "text": "So they're taking each of these different events and aligning things so that they're going to look at the power of these high frequency oscillations as a function of the time with respect to the scene changes.",
+    "start_ms": 1862395,
+    "end_ms": 1876395,
+    "duration_ms": 14000,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1877.395,
+    "text": "And what you can see here, that's what's shown in the purple line, is that these high frequency oscillations are very likely to occur right around the time of the scene transitions.",
+    "start_ms": 1877395,
+    "end_ms": 1887299,
+    "duration_ms": 9904,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1887.299,
+    "text": "So you get this rise in the likelihood of them.",
+    "start_ms": 1887299,
+    "end_ms": 1890395,
+    "duration_ms": 3096,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1891.395,
+    "text": "And basically the gray line is showing if you just align things where there aren't any scene transitions.",
+    "start_ms": 1891395,
+    "end_ms": 1896447,
+    "duration_ms": 5052,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1896.447,
+    "text": "That's kind of your baseline or random shuffle of the data.",
+    "start_ms": 1896447,
+    "end_ms": 1899535,
+    "duration_ms": 3088,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1899.535,
+    "text": "So again, just saying that the kinds of things we see in the rat brain, we can see kind of analogous sorts of function in the human brain.",
+    "start_ms": 1899535,
+    "end_ms": 1907395,
+    "duration_ms": 7860,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1908.395,
+    "text": "Well, given those observations, you know, now we want to kind of try to look at can we actually causally manipulate memory function by boosting this rehearsal mechanism.",
+    "start_ms": 1908395,
+    "end_ms": 1921395,
+    "duration_ms": 13000,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1921.395,
+    "text": "If these ripples are indicative of, say, some sort of replay process.",
+    "start_ms": 1921395,
+    "end_ms": 1926395,
+    "duration_ms": 5000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1926.017,
+    "text": "replay process, and when you have longer ripples, you have greater sort of memory function taking place.",
+    "start_ms": 1926017,
+    "end_ms": 1933473,
+    "duration_ms": 7456,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1933.473,
+    "text": "Then the idea was, well, if we artificially extend the ripple duration, might that be a way to boost memory?",
+    "start_ms": 1933473,
+    "end_ms": 1942674,
+    "duration_ms": 9201,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1942.674,
+    "text": "So again, this is actually gonna be a study of the mouse.",
+    "start_ms": 1942674,
+    "end_ms": 1945754,
+    "duration_ms": 3080,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1945.754,
+    "text": "They're gonna do optogenetics. That is, they're gonna do an optogenetic manipulation so that they can, by turning on a light probe, activate the cells in the mouse hippocampus or medial temporal lobe region.",
+    "start_ms": 1945754,
+    "end_ms": 1960173,
+    "duration_ms": 14419,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1960.173,
+    "text": "They're gonna have the mouse learn a very simple task.",
+    "start_ms": 1960173,
+    "end_ms": 1963754,
+    "duration_ms": 3581,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1963.754,
+    "text": "Starts in the center. It's gonna then have to make a choice.",
+    "start_ms": 1963754,
+    "end_ms": 1967154,
+    "duration_ms": 3400,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1967.154,
+    "text": "They're gonna open this gate, and the mouse has to learn, do I go left to get food, or do I go to the right to get food?",
+    "start_ms": 1967154,
+    "end_ms": 1973873,
+    "duration_ms": 6719,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1973.873,
+    "text": "Simple task, but it takes mice some time to actually learn to do that.",
+    "start_ms": 1973873,
+    "end_ms": 1978993,
+    "duration_ms": 5120,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1978.993,
+    "text": "What they're gonna do is they're gonna do the task.",
+    "start_ms": 1978993,
+    "end_ms": 1981074,
+    "duration_ms": 2081,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1981.074,
+    "text": "They're either gonna do one condition where there's no stimulation, or they're gonna do a task that, whenever they detect a ripple in the mouse's brain while it's sitting at the center location, they're gonna turn on the stimulation so that they extend that ripple.",
+    "start_ms": 1981074,
+    "end_ms": 1996794,
+    "duration_ms": 15720,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1996.794,
+    "text": "They're gonna create a artificially long, a prolonged ripple duration.",
+    "start_ms": 1996794,
+    "end_ms": 2002234,
+    "duration_ms": 5440,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2002.234,
+    "text": "They're also gonna do a control condition where they're gonna turn on the stimulation, but they're gonna do it randomly.",
+    "start_ms": 2002234,
+    "end_ms": 2007393,
+    "duration_ms": 5159,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2007.393,
+    "text": "Might be during a ripple, it might not be during a ripple.",
+    "start_ms": 2007393,
+    "end_ms": 2010074,
+    "duration_ms": 2681,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2010.074,
+    "text": "It's just gonna be randomly predetermined. And what I'm showing over here is this is the trial number.",
+    "start_ms": 2010074,
+    "end_ms": 2016593,
+    "duration_ms": 6519,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2016.593,
+    "text": "So the mouse is getting better at the task over the course of 10 trials.",
+    "start_ms": 2016593,
+    "end_ms": 2021353,
+    "duration_ms": 4760,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2021.353,
+    "text": "Here's the average data over a bunch of mice. And the thing I wanna point out is the mice that got the prolongation of these ripples actually show a pretty impressive memory boost, right?",
+    "start_ms": 2021353,
+    "end_ms": 2032754,
+    "duration_ms": 11401,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2032.754,
+    "text": "They're right away showing like a 10% advantage in their ability to learn this task.",
+    "start_ms": 2032754,
+    "end_ms": 2037913,
+    "duration_ms": 5159,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2037.913,
+    "text": "Eventually they all asymptote at about 90%. But here they were actually able to boost the memory of these animals.",
+    "start_ms": 2037913,
+    "end_ms": 2044934,
+    "duration_ms": 7021,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2046.753,
+    "text": "And even more impressive is that people have actually been able to do the same thing in humans using a version of TMS, okay?",
+    "start_ms": 2046753,
+    "end_ms": 2055874,
+    "duration_ms": 9121,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2055.874,
+    "text": "Here's how the study goes. It's actually a combined TMS fMRI study, but I'll only talk about the TMS part.",
+    "start_ms": 2055874,
+    "end_ms": 2064713,
+    "duration_ms": 8839,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2064.794,
+    "text": "But basically they're sitting in the scanner, they're studying a bunch of pictures, a bunch of numbers, tell the people, you gotta remember these things, we're gonna test you for them later on.",
+    "start_ms": 2064794,
+    "end_ms": 2076954,
+    "duration_ms": 12160,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2076.954,
+    "text": "They want to have both nonverbal information and verbal information, so that's why they're doing both pictures and numbers and so forth.",
+    "start_ms": 2076954,
+    "end_ms": 2083934,
+    "duration_ms": 6980,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2084.973,
+    "text": "What they're gonna do though is while people are studying these things, they're gonna on some trials give them TMS pulses, a burst of TMS, and on other trials they're not gonna turn on the TMS pulses.",
+    "start_ms": 2084973,
+    "end_ms": 2099113,
+    "duration_ms": 14140,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2099.113,
+    "text": "When they do the TMS pulses, they're actually gonna have again, so one control is TMS on versus TMS off, but they actually do more sophisticated experiment.",
+    "start_ms": 2099113,
+    "end_ms": 2109753,
+    "duration_ms": 10640,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2109.753,
+    "text": "They actually do some trials where the TMS is gonna be applied in a ripple-like manner.",
+    "start_ms": 2109753,
+    "end_ms": 2115794,
+    "duration_ms": 6041,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2115.794,
+    "text": "And the way they do that is they just give boop, boop, boop, boop, boop, a burst of TMS pulses.",
+    "start_ms": 2115794,
+    "end_ms": 2121113,
+    "duration_ms": 5319,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2121.154,
+    "text": "And the control TMS is rather than give a burst, ripple-like TMS, they're just gonna give steady beep, beep, burp, boop, boop, boop.",
+    "start_ms": 2121154,
+    "end_ms": 2130833,
+    "duration_ms": 9679,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2130.833,
+    "text": "So again, two different types of stimulation, one that's thought to mimic TMS ripple-like pulses, one that isn't.",
+    "start_ms": 2130833,
+    "end_ms": 2140553,
+    "duration_ms": 9720,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2140.553,
+    "text": "And I should say, hippocampus is deep, we can't reach it with TMS, but what they've done is figured out a node, this is where the fMRI partly comes in, they figured out a location on the skull that seems to have strong connectivity with the hippocampus, so that's where they're directing the TMS.",
+    "start_ms": 2140553,
+    "end_ms": 2157314,
+    "duration_ms": 16761,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2157.314,
+    "text": "And again, here's the data, okay? Basically what they're showing is here's the memory gain for when they target the medial temporal lobe versus when they do targeting some other location.",
+    "start_ms": 2157314,
+    "end_ms": 2170773,
+    "duration_ms": 13459,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2170.773,
+    "text": "So they're only plotting what's the boost in memory, okay, when they do this sort of TMS.",
+    "start_ms": 2170773,
+    "end_ms": 2177473,
+    "duration_ms": 6700,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2177.473,
+    "text": "And what I wanna first point out is that basically, whenever they do this beta-like pattern, there's no boost in memory, okay?",
+    "start_ms": 2177473,
+    "end_ms": 2186774,
+    "duration_ms": 9301,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2186.774,
+    "text": "Moreover, if they're doing the TBS condition, but they're doing the off trials, again, no gain in performance, the only time you saw this like, you know, 13% boost in performance was when you gave the ripple-like TMS pattern on those trials.",
+    "start_ms": 2186774,
+    "end_ms": 2205794,
+    "duration_ms": 19020,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2206.033,
+    "text": "So these items here, if they got the TBS pattern, they were more likely, you know, 15% increase in their ability to recall.",
+    "start_ms": 2206033,
+    "end_ms": 2214433,
+    "duration_ms": 8400,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2214.433,
+    "text": "No, I mean, I think that's really amazing. You know, here's a simple manipulation, non-invasive brain stimulation in healthy individuals that's actually boosting their memory.",
+    "start_ms": 2214433,
+    "end_ms": 2224473,
+    "duration_ms": 10040,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2224.473,
+    "text": "Of course, kind of a tool you like to have when you're studying for an exam.",
+    "start_ms": 2224473,
+    "end_ms": 2228633,
+    "duration_ms": 4160,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2228.633,
+    "text": "All right, long section. Let me pause the recording here.",
+    "start_ms": 2228633,
+    "end_ms": 2233093,
+    "duration_ms": 4460,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2234.093,
+    "text": "Nah, how do I do it? Stop share and stop the recording.",
+    "start_ms": 2234093,
+    "end_ms": 2241014,
+    "duration_ms": 6921,
+    "word_count": 12,
+    "avg_confidence": 90
+  }
+]

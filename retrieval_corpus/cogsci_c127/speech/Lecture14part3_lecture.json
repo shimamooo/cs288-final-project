@@ -1,0 +1,2072 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "All right, part three of the memory disorders, share my screen, hide the controls again.",
+    "start_ms": 0,
+    "end_ms": 12279,
+    "duration_ms": 12279,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 12.279,
+    "text": "Okay, so we had been talking about different brain structures associated with amnesia, talked about the cerebral cortex.",
+    "start_ms": 12279,
+    "end_ms": 21559,
+    "duration_ms": 9280,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 21.559,
+    "text": "You can also develop fairly severe amnestic disorders from damage to the D-encephalon, and here we're talking about the thalamic bodies that are down here.",
+    "start_ms": 21559,
+    "end_ms": 33159,
+    "duration_ms": 11600,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 33.159,
+    "text": "Here's our cerebral cortex again, here's the thalamus sitting below it, and way down here we have the mammillary bodies, very small structures, but actually, if you get atrophy, and this is what's shown, this is atrophied mammillary bodies, you can develop a really pronounced amnesia, and actually one thing that leads to atrophy of the mammillary bodies is alcohol.",
+    "start_ms": 33159,
+    "end_ms": 58740,
+    "duration_ms": 25581,
+    "word_count": 60,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 58.74,
+    "text": "In severe cases, this is what's called Korsakoff's disease, and let me show you a videotape.",
+    "start_ms": 58740,
+    "end_ms": 65940,
+    "duration_ms": 7200,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 65.94,
+    "text": "I don't want to stop sharing, I just want to make a...",
+    "start_ms": 65940,
+    "end_ms": 70980,
+    "duration_ms": 5040,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 70.98,
+    "text": "How did we do that before? Go back over here.",
+    "start_ms": 70980,
+    "end_ms": 83139,
+    "duration_ms": 12159,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 83.139,
+    "text": "Oh, there we go, okay. So we're going to keep sharing, and I'm just going to show you this patient here with Korsakoff's disease.",
+    "start_ms": 83139,
+    "end_ms": 99080,
+    "duration_ms": 15941,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 99.08,
+    "text": "We're going to fast forward up to the two-minute mark.",
+    "start_ms": 99080,
+    "end_ms": 103120,
+    "duration_ms": 4040,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 103.12,
+    "text": "Tell us what year it is now, where we are right now, it's afternoon, what's the weather like?",
+    "start_ms": 103120,
+    "end_ms": 111800,
+    "duration_ms": 8680,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 111.879,
+    "text": "The weather, overcast as usual, no rain, a little bit damp, that's about it.",
+    "start_ms": 111879,
+    "end_ms": 117879,
+    "duration_ms": 6000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 117.879,
+    "text": "What city are we in now? Honolulu. No. Yes, yes we came to Honolulu, Hawaii.",
+    "start_ms": 117879,
+    "end_ms": 121879,
+    "duration_ms": 4000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 121.879,
+    "text": "Do you know me? Are you fine? Do you know me?",
+    "start_ms": 121879,
+    "end_ms": 124879,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 124.879,
+    "text": "I know you, Joe, I've known you for some time, by somebody introducing you to me, and I know something of you from the people within your organization, but I don't really know that many people within your organization.",
+    "start_ms": 124879,
+    "end_ms": 148600,
+    "duration_ms": 23721,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 148.6,
+    "text": "What is my organization? Well, I know that it has a definite name, like Honolulu Lumber Company, or some name like that.",
+    "start_ms": 148600,
+    "end_ms": 166520,
+    "duration_ms": 17920,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 166.52,
+    "text": "So I'm involved in the lumber business as well. Yes, certainly.",
+    "start_ms": 166520,
+    "end_ms": 168520,
+    "duration_ms": 2000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 168.52,
+    "text": "So how long have you known me? Two years, I suppose.",
+    "start_ms": 168520,
+    "end_ms": 170520,
+    "duration_ms": 2000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 170.52,
+    "text": "In those two years, how many times would you say that you'd seen me?",
+    "start_ms": 170520,
+    "end_ms": 171520,
+    "duration_ms": 1000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 171.52,
+    "text": "Ten. Why are we together right now? Because I think I have something that your people want.",
+    "start_ms": 171520,
+    "end_ms": 174520,
+    "duration_ms": 3000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 174.52,
+    "text": "Let me tell you something. It's true. I'm not going to lie.",
+    "start_ms": 174520,
+    "end_ms": 177520,
+    "duration_ms": 3000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 177.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 177520,
+    "end_ms": 179520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 179.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 179520,
+    "end_ms": 181520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 181.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 181520,
+    "end_ms": 183520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 183.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 183520,
+    "end_ms": 185520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 185.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 185520,
+    "end_ms": 187520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 187.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 187520,
+    "end_ms": 189520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 189.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 189520,
+    "end_ms": 191520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 191.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 191520,
+    "end_ms": 199520,
+    "duration_ms": 8000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 199.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 199520,
+    "end_ms": 201520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 201.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 201520,
+    "end_ms": 203520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 203.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 203520,
+    "end_ms": 205520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 205.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 205520,
+    "end_ms": 207520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 207.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 207520,
+    "end_ms": 209520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 209.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 209520,
+    "end_ms": 211520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 211.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 211520,
+    "end_ms": 213520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 213.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 213520,
+    "end_ms": 215520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 215.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 215520,
+    "end_ms": 217520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 217.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 217520,
+    "end_ms": 219520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 219.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 219520,
+    "end_ms": 221520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 221.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 221520,
+    "end_ms": 223520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 223.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 223520,
+    "end_ms": 225520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 225.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 225520,
+    "end_ms": 227520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 227.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 227520,
+    "end_ms": 229520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 229.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 229520,
+    "end_ms": 231520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 231.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 231520,
+    "end_ms": 233520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 233.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 233520,
+    "end_ms": 235520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 235.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 235520,
+    "end_ms": 237520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 237.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 237520,
+    "end_ms": 239520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 239.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 239520,
+    "end_ms": 241520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 241.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 241520,
+    "end_ms": 243520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 243.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 243520,
+    "end_ms": 245520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 245.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 245520,
+    "end_ms": 247520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 247.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 247520,
+    "end_ms": 249520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 249.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 249520,
+    "end_ms": 251520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 251.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 251520,
+    "end_ms": 253520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 253.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 253520,
+    "end_ms": 255520,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 255.52,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 255520,
+    "end_ms": 257519,
+    "duration_ms": 1999,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 257.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 257519,
+    "end_ms": 259519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 259.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 259519,
+    "end_ms": 261519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 261.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 261519,
+    "end_ms": 263519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 263.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 263519,
+    "end_ms": 265519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 265.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 265519,
+    "end_ms": 267519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 267.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 267519,
+    "end_ms": 269519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 269.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 269519,
+    "end_ms": 271519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 271.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 271519,
+    "end_ms": 273519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 273.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 273519,
+    "end_ms": 275519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 275.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 275519,
+    "end_ms": 277519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 277.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 277519,
+    "end_ms": 279519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 279.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 279519,
+    "end_ms": 281519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 281.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 281519,
+    "end_ms": 283519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 283.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 283519,
+    "end_ms": 285519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 285.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 285519,
+    "end_ms": 287519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 287.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 287519,
+    "end_ms": 289519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 289.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 289519,
+    "end_ms": 291519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 291.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 291519,
+    "end_ms": 293519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 293.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 293519,
+    "end_ms": 296519,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 296.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 296519,
+    "end_ms": 298519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 298.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 298519,
+    "end_ms": 300519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 300.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 300519,
+    "end_ms": 302519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 302.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 302519,
+    "end_ms": 304519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 304.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 304519,
+    "end_ms": 306519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 306.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 306519,
+    "end_ms": 308519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 308.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 308519,
+    "end_ms": 310519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 310.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 310519,
+    "end_ms": 312519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 312.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 312519,
+    "end_ms": 314519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 314.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 314519,
+    "end_ms": 316519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 316.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 316519,
+    "end_ms": 318519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 318.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 318519,
+    "end_ms": 321519,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 321.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 321519,
+    "end_ms": 323519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 323.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 323519,
+    "end_ms": 325519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 325.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 325519,
+    "end_ms": 327519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 327.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 327519,
+    "end_ms": 329519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 329.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 329519,
+    "end_ms": 331519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 331.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 331519,
+    "end_ms": 333519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 333.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 333519,
+    "end_ms": 335519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 335.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 335519,
+    "end_ms": 337519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 337.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 337519,
+    "end_ms": 339519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 339.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 339519,
+    "end_ms": 341519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 341.519,
+    "text": "I'm not going to lie. I'm not going to lie.",
+    "start_ms": 341519,
+    "end_ms": 343519,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 343.519,
+    "text": "I'm not going to lie. going down. Well, let's just look at the other videotape here when he asked him to recall things.",
+    "start_ms": 343519,
+    "end_ms": 349119,
+    "duration_ms": 5600,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 350.158,
+    "text": "And we'll jump ahead to one, four, five. Okay, another word that, what's my name?",
+    "start_ms": 350158,
+    "end_ms": 361113,
+    "duration_ms": 10955,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 361.113,
+    "text": "What did I tell you my name was? You told me your name was Peter Arbogast.",
+    "start_ms": 361113,
+    "end_ms": 366079,
+    "duration_ms": 4966,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 366.079,
+    "text": "And what did I tell you I did for a living?",
+    "start_ms": 366079,
+    "end_ms": 367838,
+    "duration_ms": 1759,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 367.838,
+    "text": "You told me that you, you sent orders. What? I told you about this white coat I'm wearing?",
+    "start_ms": 367838,
+    "end_ms": 383998,
+    "duration_ms": 16160,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 383.998,
+    "text": "Yes. What did I tell you about this coat? The white coat was some sort of business.",
+    "start_ms": 383998,
+    "end_ms": 389439,
+    "duration_ms": 5441,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 391.759,
+    "text": "What business? Well, it wouldn't be my guess if the guy told me a white coat in the business would be a doctor.",
+    "start_ms": 391759,
+    "end_ms": 400673,
+    "duration_ms": 8914,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 400.673,
+    "text": "Medicine would be the business. Did I tell you that's what I was?",
+    "start_ms": 400673,
+    "end_ms": 404799,
+    "duration_ms": 4126,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 404.799,
+    "text": "No, you didn't tell me that, but that would be my assumption.",
+    "start_ms": 404799,
+    "end_ms": 407518,
+    "duration_ms": 2719,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 409.119,
+    "text": "Do you think that's what I am? I don't have any idea.",
+    "start_ms": 409119,
+    "end_ms": 411753,
+    "duration_ms": 2634,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 411.753,
+    "text": "I never looked into it. I never cared. You have told me some things, but I never listened to them.",
+    "start_ms": 411753,
+    "end_ms": 417539,
+    "duration_ms": 5786,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 417.539,
+    "text": "It wasn't any of my business. If you had something that you wanted to tell me, tell me.",
+    "start_ms": 417539,
+    "end_ms": 422073,
+    "duration_ms": 4534,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 422.073,
+    "text": "If you didn't have anything you didn't want to tell me, don't tell me.",
+    "start_ms": 422073,
+    "end_ms": 425198,
+    "duration_ms": 3125,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 428.638,
+    "text": "All right. So again, a little bit of hostility there.",
+    "start_ms": 428638,
+    "end_ms": 431998,
+    "duration_ms": 3360,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 433.278,
+    "text": "Making up again, grasping for his inability to really recall information.",
+    "start_ms": 433278,
+    "end_ms": 437998,
+    "duration_ms": 4720,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 437.998,
+    "text": "Didn't have the knowledge though, knew that, hey, a white coat probably is a doctor, but, you know, when Dr.",
+    "start_ms": 437998,
+    "end_ms": 443465,
+    "duration_ms": 5467,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 443.465,
+    "text": "Margolin asked him about it, you know, again, this inability to really pick up that information.",
+    "start_ms": 443465,
+    "end_ms": 448798,
+    "duration_ms": 5333,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 451.679,
+    "text": "So that's with the deencephalon. Very, you know, again, rare that you'd have damage in the mammillary bodies except for their high toxicity or sensitivity to chronic alcohol exposure.",
+    "start_ms": 451679,
+    "end_ms": 462260,
+    "duration_ms": 10581,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 462.26,
+    "text": "So certainly a warning there because it's an irreversible condition.",
+    "start_ms": 462260,
+    "end_ms": 467279,
+    "duration_ms": 5019,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 468.479,
+    "text": "And then the last part I want to talk about, but we'll talk about extensively certainly next week, I can hide these controls now, is the medial temporal lobe.",
+    "start_ms": 468479,
+    "end_ms": 476827,
+    "duration_ms": 8348,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 476.827,
+    "text": "And of course, the temporal lobe is part of the cerebral cortex.",
+    "start_ms": 476827,
+    "end_ms": 480638,
+    "duration_ms": 3811,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 480.638,
+    "text": "But when we really talk about the medial temporal lobe, much of what we're talking about is what I call the hippocampus and the parahippocampus.",
+    "start_ms": 480638,
+    "end_ms": 489438,
+    "duration_ms": 8800,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 489.438,
+    "text": "Parahippocampus meaning the surrounding cortex or para nearby. And that might include the interrhinal cortex and the perirhinal cortex and the parahippocampal.",
+    "start_ms": 489438,
+    "end_ms": 500198,
+    "duration_ms": 10760,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 500.198,
+    "text": "So here's again, the cerebral cortex. The hippocampus is continuous.",
+    "start_ms": 500198,
+    "end_ms": 504199,
+    "duration_ms": 4001,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 504.199,
+    "text": "So you might say it's part of the cerebral cortex.",
+    "start_ms": 504199,
+    "end_ms": 507485,
+    "duration_ms": 3286,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 507.485,
+    "text": "But again, in terms of the cell layers, in terms of the cell structure, very atypical pattern.",
+    "start_ms": 507485,
+    "end_ms": 512911,
+    "duration_ms": 5426,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 512.911,
+    "text": "And so really, the hippocampus is kind of in that no man's land between is it really cerebral cortex?",
+    "start_ms": 512911,
+    "end_ms": 518643,
+    "duration_ms": 5732,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 518.643,
+    "text": "Is it really more of a should be more considered like a subcortical structure.",
+    "start_ms": 518643,
+    "end_ms": 522789,
+    "duration_ms": 4146,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 522.789,
+    "text": "So I'm just going to refer to it as the medial temporal lobe structure.",
+    "start_ms": 522789,
+    "end_ms": 526951,
+    "duration_ms": 4162,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 526.951,
+    "text": "That's referring to both the hippocampus and the surrounding cortex.",
+    "start_ms": 526951,
+    "end_ms": 530878,
+    "duration_ms": 3927,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 531.598,
+    "text": "And what's been widely known is that this tissue is very sensitive.",
+    "start_ms": 531598,
+    "end_ms": 536338,
+    "duration_ms": 4740,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 536.338,
+    "text": "And maybe because again, it has a high firing rate of neurons, but it's very sensitive to things like hypoxia.",
+    "start_ms": 536338,
+    "end_ms": 543919,
+    "duration_ms": 7581,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 543.919,
+    "text": "That is the deprivation of oxygen is a very likely to damage tissue first in the medial temporal lobe region.",
+    "start_ms": 543919,
+    "end_ms": 550658,
+    "duration_ms": 6739,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 550.658,
+    "text": "Herpes encephalitis swelling of the brain seems to specifically or predominantly target tissue in the medial temporal lobe.",
+    "start_ms": 550658,
+    "end_ms": 558655,
+    "duration_ms": 7997,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 558.655,
+    "text": "And then there's certain surgery cases that have shown that damage to the medial temporal lobe can produce incredibly severe and puzzling amnestic disorders.",
+    "start_ms": 558655,
+    "end_ms": 568658,
+    "duration_ms": 10003,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 568.658,
+    "text": "And I imagine maybe many of you have heard about the surgery case H.M.",
+    "start_ms": 568658,
+    "end_ms": 574200,
+    "duration_ms": 5542,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 574.2,
+    "text": "This is an individual who had severe epilepsy. Okay. But back in the 1950s, they were just started to do explorations with neurosurgical interventions as a way to treat neurological conditions.",
+    "start_ms": 574200,
+    "end_ms": 588777,
+    "duration_ms": 14577,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 588.777,
+    "text": "Of course, there'd been lots of work going on with the treatment of psychiatric conditions that led to things like lobotomies, but people were recognizing, look, if epilepsy tends to originate, right?",
+    "start_ms": 588777,
+    "end_ms": 601469,
+    "duration_ms": 12692,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 601.469,
+    "text": "EEG recordings were showing that epilepsy tended to start seizures, tended to start one place and then spread throughout the brain.",
+    "start_ms": 601469,
+    "end_ms": 608754,
+    "duration_ms": 7285,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 608.754,
+    "text": "And so the idea was, could we remove that tissue and control the epilepsy and people who didn't respond to medication turned out to be a highly successful operation in most individuals.",
+    "start_ms": 608754,
+    "end_ms": 620978,
+    "duration_ms": 12224,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 620.978,
+    "text": "They'd actually open up the brain, take out a part, usually in the temporal lobe and control the seizure activity.",
+    "start_ms": 620978,
+    "end_ms": 627960,
+    "duration_ms": 6982,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 627.96,
+    "text": "In H.M.'s case, that operation wasn't effective. And so they decided to do it bilaterally.",
+    "start_ms": 627960,
+    "end_ms": 633165,
+    "duration_ms": 5205,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 633.165,
+    "text": "It didn't work for one side, still had similar seizure activity originating in the other side, took it out.",
+    "start_ms": 633165,
+    "end_ms": 639433,
+    "duration_ms": 6268,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 639.433,
+    "text": "Now he'd had bilateral temporal lobectomy, we call it, removing part of the brain tissue there.",
+    "start_ms": 639433,
+    "end_ms": 645758,
+    "duration_ms": 6325,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 645.517,
+    "text": "there. And he has this striking amnestic condition that was completely unexpected.",
+    "start_ms": 645517,
+    "end_ms": 650878,
+    "duration_ms": 5361,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 651.517,
+    "text": "Now, this guy was a fairly young guy when the operation took place.",
+    "start_ms": 651517,
+    "end_ms": 655494,
+    "duration_ms": 3977,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 655.494,
+    "text": "And there were really, you know, on a general cognitive test, if you chatted with him, his language abilities were intact.",
+    "start_ms": 655494,
+    "end_ms": 662022,
+    "duration_ms": 6528,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 662.022,
+    "text": "No change in his personality. Cognitive status seems to be unaffected.",
+    "start_ms": 662022,
+    "end_ms": 666697,
+    "duration_ms": 4675,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 666.697,
+    "text": "It was very high pre and post-surgery. Still could talk about things from the past, so really no real evidence of a retrograde amnesia.",
+    "start_ms": 666697,
+    "end_ms": 676357,
+    "duration_ms": 9660,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 676.357,
+    "text": "But what's made HM famous is that he had this incredibly severe, dense, atrial grade amnesia.",
+    "start_ms": 676357,
+    "end_ms": 682597,
+    "duration_ms": 6240,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 682.597,
+    "text": "And there's lots of examples there. He ended up being studied for about 50 years of his life.",
+    "start_ms": 682597,
+    "end_ms": 689037,
+    "duration_ms": 6440,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 689.037,
+    "text": "Researchers who worked with him for 40 years would have to introduce themselves each and every time they interacted with him.",
+    "start_ms": 689037,
+    "end_ms": 695663,
+    "duration_ms": 6626,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 695.663,
+    "text": "You know, just a few other examples, his father died after the surgery.",
+    "start_ms": 695663,
+    "end_ms": 700318,
+    "duration_ms": 4655,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 700.318,
+    "text": "He never really was able to recall that his father had died.",
+    "start_ms": 700318,
+    "end_ms": 704798,
+    "duration_ms": 4480,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 704.798,
+    "text": "And even in the short term, you could see this.",
+    "start_ms": 704798,
+    "end_ms": 706679,
+    "duration_ms": 1881,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 706.679,
+    "text": "If you brought him in a meal, he ate the meal.",
+    "start_ms": 706679,
+    "end_ms": 709063,
+    "duration_ms": 2384,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 709.063,
+    "text": "Came in five minutes later, brought him another meal, he'd eat the meal again.",
+    "start_ms": 709063,
+    "end_ms": 712798,
+    "duration_ms": 3735,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 713.597,
+    "text": "We don't really eat because we're full or because we're hungry.",
+    "start_ms": 713597,
+    "end_ms": 716628,
+    "duration_ms": 3031,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 716.628,
+    "text": "We eat because food's in front of us. And if you presented the food in front of him two different times with a short time window, he'd eat.",
+    "start_ms": 716628,
+    "end_ms": 723478,
+    "duration_ms": 6850,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 723.478,
+    "text": "I don't know if he'd eat as much the second time, but, you know, that's sort of the compulsion we have with food.",
+    "start_ms": 723478,
+    "end_ms": 729357,
+    "duration_ms": 5879,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 729.357,
+    "text": "Well, H.M. provided this great research opportunity. So despite the tragic effects in his life, he became in some sense a professional research participant for most of his life, or a very willing participant.",
+    "start_ms": 729357,
+    "end_ms": 744641,
+    "duration_ms": 15284,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 744.641,
+    "text": "And there are many lessons learned from studying him. First of all, there was this striking dissociation, you know, the classic memory distinction between short and long-term memory.",
+    "start_ms": 744641,
+    "end_ms": 754787,
+    "duration_ms": 10146,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 754.787,
+    "text": "And, you know, you could give H.M. a number like 5, 9, 4.",
+    "start_ms": 754787,
+    "end_ms": 759209,
+    "duration_ms": 4422,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 759.209,
+    "text": "Give him 15 minutes and he'd recall it perfectly. Okay.",
+    "start_ms": 759209,
+    "end_ms": 762449,
+    "duration_ms": 3240,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 762.449,
+    "text": "So it looked like he had great short-term retention. That is, if they allowed him continuous rehearsal.",
+    "start_ms": 762449,
+    "end_ms": 768984,
+    "duration_ms": 6535,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 768.984,
+    "text": "In fact, if you asked him what he did, this is the explanation he gave.",
+    "start_ms": 768984,
+    "end_ms": 773877,
+    "duration_ms": 4893,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 773.877,
+    "text": "I mean, it makes no sense to me. He said, it's easy.",
+    "start_ms": 773877,
+    "end_ms": 777383,
+    "duration_ms": 3506,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 777.383,
+    "text": "You just remember 8. You see 5, 8, and 4 add up to 17, of course.",
+    "start_ms": 777383,
+    "end_ms": 783357,
+    "duration_ms": 5974,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 783.357,
+    "text": "Remember the 8, subtract it from 17. That leaves 9.",
+    "start_ms": 783357,
+    "end_ms": 786004,
+    "duration_ms": 2647,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 786.004,
+    "text": "Divide the 9 in half and you get 5 and 4.",
+    "start_ms": 786004,
+    "end_ms": 788404,
+    "duration_ms": 2400,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 788.404,
+    "text": "And there you are, 5, 9, 4. I mean, I don't know if that's what he thought about for those full 15 minutes.",
+    "start_ms": 788404,
+    "end_ms": 793997,
+    "duration_ms": 5593,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 794.637,
+    "text": "On the other hand, if you gave him those three numbers and then had a short conversation with him for just, you know, 10 seconds of those 15 minutes, the whole thing would be lost.",
+    "start_ms": 794637,
+    "end_ms": 803917,
+    "duration_ms": 9280,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 804.798,
+    "text": "All of these sorts of dissociations really, with H.M.'s case, made a real dissociation or shift away from thinking about short-versus-long-term memory to this dissociation between memory formation, which I've said is really about learning, and memory retention.",
+    "start_ms": 804798,
+    "end_ms": 821787,
+    "duration_ms": 16989,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 821.787,
+    "text": "So again, there was a shift away from the search for the location of memory and now a focus more on what are the processes involved in memory formation.",
+    "start_ms": 821787,
+    "end_ms": 833577,
+    "duration_ms": 11790,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 833.577,
+    "text": "H.M. really opened up the door on that. And this especially became clear because of some of the striking dissociations in memory formation that were observed with H.M.",
+    "start_ms": 833577,
+    "end_ms": 846158,
+    "duration_ms": 12581,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 846.798,
+    "text": "So again, if it was really a difference between encoding and retrieval, you might expect that H.M.",
+    "start_ms": 846798,
+    "end_ms": 852504,
+    "duration_ms": 5706,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 852.504,
+    "text": "couldn't remember any new information. But actually, very quickly on, well, it took actually a few years, where researchers discovered, look, he has no real explicit memory, doesn't remember who the researchers are that he's seen before, doesn't remember his father's death, doesn't remember current events that have happened after surgery.",
+    "start_ms": 852504,
+    "end_ms": 870883,
+    "duration_ms": 18379,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 870.883,
+    "text": "But when they actually started doing kind of more controlled experiments, initially say experiments of motor learning, they discovered that actually you could get the striking dissociations between what we'd call implicit or subconscious memory and explicit memory.",
+    "start_ms": 870883,
+    "end_ms": 889411,
+    "duration_ms": 18528,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 889.411,
+    "text": "Okay. And here's how the task worked. Okay. H.M.'s going to see this object here and he's going to give a pen.",
+    "start_ms": 889411,
+    "end_ms": 897910,
+    "duration_ms": 8499,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 897.91,
+    "text": "He's just going to be asked to draw up with a pen through the star.",
+    "start_ms": 897910,
+    "end_ms": 901838,
+    "duration_ms": 3928,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 902.637,
+    "text": "But to make it challenging, what they're going to do is mirror reverse things.",
+    "start_ms": 902637,
+    "end_ms": 906501,
+    "duration_ms": 3864,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 906.501,
+    "text": "So for him to go to the right, he has to actually move his hand to the left.",
+    "start_ms": 906501,
+    "end_ms": 910338,
+    "duration_ms": 3837,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 910.338,
+    "text": "To go to the left, he has to move his hand to the right.",
+    "start_ms": 910338,
+    "end_ms": 913508,
+    "duration_ms": 3170,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 913.508,
+    "text": "Up and down are maintained as they're supposed to be.",
+    "start_ms": 913508,
+    "end_ms": 916886,
+    "duration_ms": 3378,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 916.886,
+    "text": "And basically, let's plot it here. It's very crude, but this is plotting errors on the y-axis.",
+    "start_ms": 916886,
+    "end_ms": 922628,
+    "duration_ms": 5742,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 922.628,
+    "text": "This is the original data sheet from the paper. This is the number of trials.",
+    "start_ms": 922628,
+    "end_ms": 927397,
+    "duration_ms": 4769,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 927.397,
+    "text": "Every day he would come in and do a number of different trials, meaning one round around the star.",
+    "start_ms": 927397,
+    "end_ms": 933997,
+    "duration_ms": 6600,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 933.997,
+    "text": "An error was whenever the pen left the star. So here's day one, day two, day three, etc.",
+    "start_ms": 933997,
+    "end_ms": 940829,
+    "duration_ms": 6832,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 940.829,
+    "text": "Each day he'd do a few trials with his left hand, then some trials with his right hand, left hand, right hand, left hand, right hand, red and blue, distinguish between those.",
+    "start_ms": 940829,
+    "end_ms": 952087,
+    "duration_ms": 11258,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 952.087,
+    "text": "All you could see here is that H.M. clearly is showing very good learning.",
+    "start_ms": 952087,
+    "end_ms": 957786,
+    "duration_ms": 5699,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 957.786,
+    "text": "Okay. I don't, we don't have the control data here, but clearly his performance is getting much better over time.",
+    "start_ms": 957786,
+    "end_ms": 965134,
+    "duration_ms": 7348,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 965.134,
+    "text": "Many fewer errors. Okay. errors, okay? Now, given that, you also see that there are differences between the left and the right hand.",
+    "start_ms": 965134,
+    "end_ms": 973856,
+    "duration_ms": 8722,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 973.856,
+    "text": "So if you want an eye clicker challenge, shut off your computer or shut off the recording here and see how well you can answer this question.",
+    "start_ms": 973856,
+    "end_ms": 982457,
+    "duration_ms": 8601,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 982.457,
+    "text": "How do you count, what does this difference between the left and the right hand suggest?",
+    "start_ms": 982457,
+    "end_ms": 986897,
+    "duration_ms": 4440,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 990.037,
+    "text": "All right, once you start up again, what it shows is that this implicit learning really seems to be hand-specific, right?",
+    "start_ms": 990037,
+    "end_ms": 1000577,
+    "duration_ms": 10540,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1000.577,
+    "text": "Here he starts with the left hand, gets better, then goes over and does a lot more trials with the right hand, gets really good, comes back the next day.",
+    "start_ms": 1000577,
+    "end_ms": 1009796,
+    "duration_ms": 9219,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1009.796,
+    "text": "With the left hand, he's better, but he actually picks up right where he left off on day one, gets better again.",
+    "start_ms": 1009796,
+    "end_ms": 1016656,
+    "duration_ms": 6860,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1016.656,
+    "text": "Day two, three, again, or at the end of day three, they do the left hand.",
+    "start_ms": 1016656,
+    "end_ms": 1020816,
+    "duration_ms": 4160,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1020.816,
+    "text": "Day two, he picks up right where he left off, and that happens over and over again.",
+    "start_ms": 1020816,
+    "end_ms": 1025897,
+    "duration_ms": 5081,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1025.897,
+    "text": "The same with the right hand. Each day, he picks up where he left off there.",
+    "start_ms": 1025897,
+    "end_ms": 1030297,
+    "duration_ms": 4400,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1030.297,
+    "text": "So he's getting better, he's learning this skill, okay? But the amount of learning he gets is specific to the hand he's practiced with.",
+    "start_ms": 1030297,
+    "end_ms": 1039456,
+    "duration_ms": 9159,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1039.456,
+    "text": "And what's especially striking about his performance here is that HM had no knowledge that he'd ever done the test before when you brought him back on day two and when you brought him back again on day three.",
+    "start_ms": 1039456,
+    "end_ms": 1052416,
+    "duration_ms": 12960,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1052.416,
+    "text": "Each day, the experiment would come in and say, hey, we've got a task for you.",
+    "start_ms": 1052416,
+    "end_ms": 1057017,
+    "duration_ms": 4601,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1057.017,
+    "text": "And HM would look puzzled and say, okay, what's it all about?",
+    "start_ms": 1057017,
+    "end_ms": 1060337,
+    "duration_ms": 3320,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1060.337,
+    "text": "And the experimenter would once again have to explain, you're gonna do this tracing, but it's mirror-reverse, it's gonna be difficult.",
+    "start_ms": 1060337,
+    "end_ms": 1066736,
+    "duration_ms": 6399,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1066.736,
+    "text": "HM would go about and do it, each time feeling like he'd never done it before.",
+    "start_ms": 1066736,
+    "end_ms": 1071956,
+    "duration_ms": 5220,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1071.956,
+    "text": "So we had this striking dissociation between his explicit memory of the task, completely shot, but when we probed his performance or his implicit memory, showing clear evidence of learning.",
+    "start_ms": 1071956,
+    "end_ms": 1085736,
+    "duration_ms": 13780,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1085.736,
+    "text": "So he's learning without awareness. This turned out to be a very striking dissociation between his knowledge and his performance.",
+    "start_ms": 1085736,
+    "end_ms": 1094697,
+    "duration_ms": 8961,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1094.697,
+    "text": "It's something we saw before with that agnosia patient. Remember the one who couldn't tell you what the orientation of a slot was when making a perceptual judgment, but when given that block, could immediately orient his hand to match the orientation there.",
+    "start_ms": 1094697,
+    "end_ms": 1109936,
+    "duration_ms": 15239,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1109.936,
+    "text": "That was another distinction between knowledge, what we have conscious access to, and our performance.",
+    "start_ms": 1109936,
+    "end_ms": 1115497,
+    "duration_ms": 5561,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1115.497,
+    "text": "And that's something we really need to keep in mind when we think about things like consciousness.",
+    "start_ms": 1115497,
+    "end_ms": 1119557,
+    "duration_ms": 4060,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1120.397,
+    "text": "Now, at first people thought, well, maybe this is something special about the motor system, you know, maybe that's subcortical and so forth, but there's actually been lots of demonstrations with HM and with other individuals that you can get the sorts of implicit types of learning.",
+    "start_ms": 1120397,
+    "end_ms": 1136296,
+    "duration_ms": 15899,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1136.296,
+    "text": "Here's one so-called sort of test here. I was done with HM, but again, this is something that's been replicated in many, many cases.",
+    "start_ms": 1136296,
+    "end_ms": 1143497,
+    "duration_ms": 7201,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1143.497,
+    "text": "Perceptual priming is you'd be actually on a picture like this and I imagine none of you would recognize it.",
+    "start_ms": 1143497,
+    "end_ms": 1148376,
+    "duration_ms": 4879,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1149.576,
+    "text": "If you saw more of the picture, eventually if you saw this, you'd say it's a plane.",
+    "start_ms": 1149576,
+    "end_ms": 1153456,
+    "duration_ms": 3880,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1153.456,
+    "text": "If you came back and did this the next day, now you might recognize it on the second picture.",
+    "start_ms": 1153456,
+    "end_ms": 1158417,
+    "duration_ms": 4961,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1158.417,
+    "text": "By the third day, you'd all be saying plane, Well, HM also showed the benefits of the prior experience when tested over multiple days.",
+    "start_ms": 1158417,
+    "end_ms": 1168296,
+    "duration_ms": 9879,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1168.296,
+    "text": "That is, he didn't need to have as much of a perceptual stimulus in order to be able to recognize the object.",
+    "start_ms": 1168296,
+    "end_ms": 1174816,
+    "duration_ms": 6520,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1174.816,
+    "text": "So this dissociation between implicit and explicit memory, again, was apparent whether it was motor skills or perceptual skills.",
+    "start_ms": 1174816,
+    "end_ms": 1182816,
+    "duration_ms": 8000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1182.816,
+    "text": "It really seemed to be about were we measuring things implicitly or explicitly because on both tests, again, Harry always thought it was the first time he'd ever done it.",
+    "start_ms": 1182816,
+    "end_ms": 1192936,
+    "duration_ms": 10120,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1192.936,
+    "text": "So this work has really led to or culminated, I don't know, about 20 plus years ago in what I call like a taxonomy of memory, the notion again that I said that there are different types of memory.",
+    "start_ms": 1192936,
+    "end_ms": 1206917,
+    "duration_ms": 13981,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1206.917,
+    "text": "So we have this sort of general category of memory, but we can make one big distinction, the work of HM and many other people has shown between what we might call explicit memories or the more technical terms, declarative memories I can tell you about, right, that I'm conscious of and describe to you versus all those other things of learning that's occurring more implicitly or non-declaratively.",
+    "start_ms": 1206917,
+    "end_ms": 1231776,
+    "duration_ms": 24859,
+    "word_count": 68,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1231.776,
+    "text": "Within each of these branches, there's also been demonstrations of lots of different subtypes, and I'm just showing a few of them, motor skills and habits, this perceptual priming examples, simple conditioning and so forth, different types of implicit learning, and these things we might really measure in terms of the performance, whereas the declarative memory, here we're talking about the kinds of things we typically think about intuitively as our memory, the kinds of knowledge we have.",
+    "start_ms": 1231776,
+    "end_ms": 1261417,
+    "duration_ms": 29641,
+    "word_count": 78,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1261.417,
+    "text": "And one big distinction that's made within the declarative side of the memory taxonomy, the declarative side of the memory taxonomy is between the facts we know or what we might call semantic knowledge, like for instance, cognition can be defined as thinking, or Berkeley is a town in California, or the Pacific Ocean is on the west side of the United States.",
+    "start_ms": 1261417,
+    "end_ms": 1286417,
+    "duration_ms": 25000,
+    "word_count": 63,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1285.435,
+    "text": "States. These are the facts, semantic knowledge, we call that.",
+    "start_ms": 1285435,
+    "end_ms": 1289516,
+    "duration_ms": 4081,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1289.516,
+    "text": "Versus our own personal memories, or what we might call episodic memory.",
+    "start_ms": 1289516,
+    "end_ms": 1294476,
+    "duration_ms": 4960,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1294.476,
+    "text": "You know, my memory of the first time I ever went to the Pacific Ocean, or the first time I actually came to the Berkeley campus, and so forth.",
+    "start_ms": 1294476,
+    "end_ms": 1304156,
+    "duration_ms": 9680,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1304.156,
+    "text": "So here, both of them may be explicit. I could tell you the story about the first time I came to California, or the first time I came to San Francisco, and went out to the Pacific Ocean.",
+    "start_ms": 1304156,
+    "end_ms": 1312756,
+    "duration_ms": 8600,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1312.756,
+    "text": "So that would be my personal episode. But of course, I've been to the Pacific Ocean many, many times now, and I have some general knowledge there.",
+    "start_ms": 1312756,
+    "end_ms": 1320035,
+    "duration_ms": 7279,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1320.035,
+    "text": "I couldn't tell you about all the different events there.",
+    "start_ms": 1320035,
+    "end_ms": 1322796,
+    "duration_ms": 2761,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1322.796,
+    "text": "So I'll stop here, and we'll pick up on Wednesday talking in some detail about these memory systems.",
+    "start_ms": 1322796,
+    "end_ms": 1332155,
+    "duration_ms": 9359,
+    "word_count": 18,
+    "avg_confidence": 90
+  }
+]

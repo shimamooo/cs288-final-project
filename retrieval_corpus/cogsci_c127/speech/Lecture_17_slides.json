@@ -1,0 +1,2693 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "you you you you you you you All right, let's get us started here with a couple of quick announcements just repeating what I said that I'm Next Monday's midterm number two Same format as midterm number one But it covers this these seven lectures Textbook readings in the reader articles listed here Again if you have an accommodation, please follow the instructions up here And then the big change is that I decided I do the the review session tomorrow evening on the line And plus about that is the recording will be much better quality than the first time around The minus of that is Suppose all of you decide that well gee is gonna record it.",
+    "start_ms": 0,
+    "end_ms": 250361,
+    "duration_ms": 250361,
+    "word_count": 119,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 250.361,
+    "text": "I'm just gonna watch it later on Because I did notice with the recordings last week that people were Really slow about how soon they watch the recordings So if no one shows up tomorrow, and it's just me sitting in that zoom room Then we're gonna have a very very boring review session, and you're not gonna get anything out of it So I'm really encouraging you to come like it's a regular review session come with your questions if you have your questions, then you're gonna get your own personalized answers and Because again, it's gonna be like before providing a study guide, but I'll be happy to answer any and all questions All right any questions now All right great, okay, so We finished we were partway through almost completing our discussion of the what I call the taxonomy of the different types of aphasia aphasia being very common with people having some sort of language disorder and here we're we're talking about acquired aphasias There's of course a whole class of things of developmental ones kids who have trouble acquiring language for different reasons But these are acquired types of aphasia, and I just wanted to add in on the fluent side So these are the folks who have fairly intact language production intact language production, but have, again, they aren't like Wernicke's aphasia where they don't understand things, they have a much more subtle thing.",
+    "start_ms": 250361,
+    "end_ms": 333658,
+    "duration_ms": 83297,
+    "word_count": 240,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 333.658,
+    "text": "We ended the class talking about the people with anomia, who the woman in that videotape had incredible language skills, she just couldn't come up with the word, and she almost seemed blocked about it because she'd get stuck on one word trying to name the picture, then they'd get her to shift to another one, and she'd come back and say, oh, it's not a saw, the thing that she had struggled to get hold of before.",
+    "start_ms": 333658,
+    "end_ms": 355326,
+    "duration_ms": 21668,
+    "word_count": 78,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 355.326,
+    "text": "But nonetheless, it's again a manifestation in these cases of something that we all experience about this tip of the tongue phenomenon, not being able to come up with a word common, but there are these modalities, those were all a-modal deficits, meaning that they are manifest, like I said, with Broca's aphasia, whether you were speaking or writing, you'd see that production problem.",
+    "start_ms": 355326,
+    "end_ms": 375278,
+    "duration_ms": 19952,
+    "word_count": 64,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 375.278,
+    "text": "Wernicke's aphasics, they won't be able to understand oral language, they also won't be able to understand written language, but there are modality-specific deficits, meaning impairments that are restricted to a particular modality, and in the auditory domain, there's two in particular that I'll make a contrast of, there's this gentleman who has what we call conduction aphasia, let me play the videotape here.",
+    "start_ms": 375278,
+    "end_ms": 396759,
+    "duration_ms": 21481,
+    "word_count": 64,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 396.759,
+    "text": "Tell me what you see and try and talk in complete sentences.",
+    "start_ms": 396759,
+    "end_ms": 400159,
+    "duration_ms": 3400,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 400.159,
+    "text": "You see a guy reading a book, you see a woman pouring a drink or something, and they're sitting under a tree, and there's a car behind that and there's a house behind the car, and on the other side, the guy's flying a flight, you see a dog there, a guy down on a bank, you see her.",
+    "start_ms": 400159,
+    "end_ms": 438638,
+    "duration_ms": 38479,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 438.638,
+    "text": "All right, so very- Tell me what you see and try and talk in- Let's jump ahead here, so now I want to show you, same gentleman now asked to repeat things.",
+    "start_ms": 438638,
+    "end_ms": 449639,
+    "duration_ms": 11001,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 449.639,
+    "text": "The telephone is ringing. The call, the call is ringing.",
+    "start_ms": 449639,
+    "end_ms": 454639,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 454.639,
+    "text": "Wait a second, did someone say you can't hear? We can't see the video.",
+    "start_ms": 454639,
+    "end_ms": 458639,
+    "duration_ms": 4000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 462.639,
+    "text": "The video didn't come out, hey? Sorry. What? I didn't look up there.",
+    "start_ms": 462639,
+    "end_ms": 468639,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 470.639,
+    "text": "Let's try that again then. The telephone is ringing. The call, the call is ringing.",
+    "start_ms": 470639,
+    "end_ms": 480639,
+    "duration_ms": 10000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 481.639,
+    "text": "He is not coming back. He's not coming back. The pastry cook was elated.",
+    "start_ms": 481639,
+    "end_ms": 489639,
+    "duration_ms": 8000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 491.639,
+    "text": "The baker was- what was that last word? I'll repeat it.",
+    "start_ms": 491639,
+    "end_ms": 496639,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 496.639,
+    "text": "The pastry cook was elated. The baker was fascinated. Okay.",
+    "start_ms": 496639,
+    "end_ms": 506639,
+    "duration_ms": 10000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 506.639,
+    "text": "All right, well that's what I wanted to see, so I think you could see it here in the video there.",
+    "start_ms": 506639,
+    "end_ms": 510639,
+    "duration_ms": 4000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 510.639,
+    "text": "I take it. So again, he was describing the picture, didn't really seem to have much problems, then she asked him to kind of repeat these short phrases, and he gets the first one right, and then she tells him, the pastry chef was elated, and he goes, the baker was elated.",
+    "start_ms": 510639,
+    "end_ms": 527639,
+    "duration_ms": 17000,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 527.639,
+    "text": "He actually stumbled the first time, and she said, I'll repeat it.",
+    "start_ms": 527639,
+    "end_ms": 531639,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 531.639,
+    "text": "She repeated the same thing, the pastry chef was elated, and he gives this kind of bizarre answer.",
+    "start_ms": 531639,
+    "end_ms": 536639,
+    "duration_ms": 5000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 536.639,
+    "text": "He goes, the baker was elated. So he clearly understood what she said, and yet he doesn't give back the actual words.",
+    "start_ms": 536639,
+    "end_ms": 544639,
+    "duration_ms": 8000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 544.639,
+    "text": "He actually does this transposition there, where he substitutes a semantically relevant word.",
+    "start_ms": 544639,
+    "end_ms": 549639,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 549.639,
+    "text": "So he's kind of giving her back the gist of what she said, but with this very strange transposition from the exact word into something that's semantically related.",
+    "start_ms": 549639,
+    "end_ms": 559639,
+    "duration_ms": 10000,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 559.639,
+    "text": "So we'll talk about the models of that in a minute, but here let me show you a very bad video clip of kind of an opposite syndrome called echolalia.",
+    "start_ms": 559639,
+    "end_ms": 568639,
+    "duration_ms": 9000,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 568.639,
+    "text": "What is this? What is this? Look here. Look here.",
+    "start_ms": 568639,
+    "end_ms": 573639,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 573.639,
+    "text": "What is this? What is this? This is a watch.",
+    "start_ms": 573639,
+    "end_ms": 578638,
+    "duration_ms": 4999,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 578.638,
+    "text": "This is a watch. Now I'd like you to obey a command.",
+    "start_ms": 578638,
+    "end_ms": 584638,
+    "duration_ms": 6000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 584.638,
+    "text": "Now this is a command. Open your mouth. Open your mouth.",
+    "start_ms": 584638,
+    "end_ms": 591638,
+    "duration_ms": 7000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 591.638,
+    "text": "Open your mouth. No, no. You open your mouth. You open your mouth.",
+    "start_ms": 591638,
+    "end_ms": 597638,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 597.638,
+    "text": "I'll open my mouth. I'll open your mouth. Transposed word there.",
+    "start_ms": 597638,
+    "end_ms": 607638,
+    "duration_ms": 10000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 607.638,
+    "text": "OK. I don't understand what's happening at all. I don't understand what they're saying.",
+    "start_ms": 607638,
+    "end_ms": 614638,
+    "duration_ms": 7000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 614.638,
+    "text": "What? What? I don't understand what they're saying. No. No.",
+    "start_ms": 614638,
+    "end_ms": 622638,
+    "duration_ms": 8000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 622.638,
+    "text": "So goodbye to you. Goodbye to you. All right. Is this coming over the speaker or not?",
+    "start_ms": 622638,
+    "end_ms": 630638,
+    "duration_ms": 8000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 630.638,
+    "text": "Yeah, you hear it in the back of the room?",
+    "start_ms": 630638,
+    "end_ms": 632638,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 632.638,
+    "text": "Someone give me a nod? OK, great. Thank you. OK, so what was this guy doing?",
+    "start_ms": 632638,
+    "end_ms": 638638,
+    "duration_ms": 6000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 638.638,
+    "text": "You may have seen the two neurologists again were really dramatizing it.",
+    "start_ms": 638638,
+    "end_ms": 642638,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 642.638,
+    "text": "Whatever you say to this guy, he says it back to you.",
+    "start_ms": 642638,
+    "end_ms": 645638,
+    "duration_ms": 3000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 645.638,
+    "text": "You made that one time where you. an I, but basically he repeats whatever said to him, and then the two neurologists are coming at him from both directions, and he's doing the same thing.",
+    "start_ms": 645638,
+    "end_ms": 656157,
+    "duration_ms": 10519,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 656.157,
+    "text": "He says what one person says, and he says what the other person says.",
+    "start_ms": 656157,
+    "end_ms": 659517,
+    "duration_ms": 3360,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 659.517,
+    "text": "This is a really rare disorder, this echolalia. Again, even in this patient, it only lasted for a couple of days, and that's why they had the videotape while he's in the hospital room, and people have reported cases of this that a Spanish-speaking neurologist could have walked in the room, spoken to him in Spanish.",
+    "start_ms": 659517,
+    "end_ms": 677517,
+    "duration_ms": 18000,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 677.517,
+    "text": "This guy doesn't speak Spanish. He'd have been able to say more or less back whatever was said, as long as it stays within his short-term memory.",
+    "start_ms": 677517,
+    "end_ms": 684797,
+    "duration_ms": 7280,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 684.797,
+    "text": "Yeah? Do you have a difference between conduction of picture and anomia?",
+    "start_ms": 684797,
+    "end_ms": 688957,
+    "duration_ms": 4160,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 688.957,
+    "text": "It's not the same, it might seem similar. Ah, so no, so the anomic patient, again, it's a-modal, she's looking at the picture there, and she can't name what the objects are, okay?",
+    "start_ms": 688957,
+    "end_ms": 698997,
+    "duration_ms": 10040,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 698.997,
+    "text": "Or she might have a conversation with you, and the same thing would happen.",
+    "start_ms": 698997,
+    "end_ms": 701997,
+    "duration_ms": 3000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 701.997,
+    "text": "She'd say, you know, I went to the store the other day to buy, and she couldn't come up with that word.",
+    "start_ms": 701997,
+    "end_ms": 707078,
+    "duration_ms": 5081,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 707.078,
+    "text": "So it's a-modal, it's very specific. I can't come up with the word.",
+    "start_ms": 707078,
+    "end_ms": 711237,
+    "duration_ms": 4159,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 711.237,
+    "text": "Whereas the conduction of phasics, their language is, for the most part, really intact, except it's kind of almost like a short-term memory sort of problem that when they hear something, they can't repeat it back.",
+    "start_ms": 711237,
+    "end_ms": 723838,
+    "duration_ms": 12601,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 723.838,
+    "text": "Usually, you know, anyone, just give them a three or four-word sentence, they can repeat it right back.",
+    "start_ms": 723838,
+    "end_ms": 728218,
+    "duration_ms": 4380,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 728.218,
+    "text": "And again, one minute, I'll show you some models of language processing, which might make clear what's going on.",
+    "start_ms": 728218,
+    "end_ms": 733957,
+    "duration_ms": 5739,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 733.957,
+    "text": "Before doing that, I just want to mention, I won't show you any videotape.",
+    "start_ms": 733957,
+    "end_ms": 737438,
+    "duration_ms": 3481,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 737.438,
+    "text": "That was on the auditory end. On the visual end, we know that, of course, a very commonly discussed language problem is what we call dyslexia, right?",
+    "start_ms": 737438,
+    "end_ms": 746917,
+    "duration_ms": 9479,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 746.917,
+    "text": "Difficulty to read is what dyslexia refers to. Usually, there, we're talking about developmental dyslexia, that kids have trouble learning to read, to be talked about that they're dyslexic.",
+    "start_ms": 746917,
+    "end_ms": 758758,
+    "duration_ms": 11841,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 758.758,
+    "text": "Here, I'm actually mentioning just that some people get what's called acquired dyslexia.",
+    "start_ms": 758758,
+    "end_ms": 763317,
+    "duration_ms": 4559,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 763.317,
+    "text": "That means they'll have some sort of stroke, they were normal readers, and then after the stroke, they can't read, they have great difficulty reading, or they have to read in a very laborious manner.",
+    "start_ms": 763317,
+    "end_ms": 774477,
+    "duration_ms": 11160,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 774.477,
+    "text": "And again, it's modality-specific because these same individuals might have perfectly normal oral language.",
+    "start_ms": 774477,
+    "end_ms": 780158,
+    "duration_ms": 5681,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 780.158,
+    "text": "So it's modality-specific in that they lose selectively the ability to read without having an effect on their oral language.",
+    "start_ms": 780158,
+    "end_ms": 787557,
+    "duration_ms": 7399,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 787.557,
+    "text": "You don't see the reverse. You don't see people who lose the ability to have the comprehension of spoken language, and yet can still read.",
+    "start_ms": 787557,
+    "end_ms": 797098,
+    "duration_ms": 9541,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 797.098,
+    "text": "And again, spoken language is something that's very much wired into our evolution.",
+    "start_ms": 797098,
+    "end_ms": 802518,
+    "duration_ms": 5420,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 802.518,
+    "text": "Everyone acquires it effortlessly. Reading, that's a complicated skill. That's something that culturally is acquired.",
+    "start_ms": 802518,
+    "end_ms": 809037,
+    "duration_ms": 6519,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 809.878,
+    "text": "All right, so having had that picture of these different types of aphasic disorders, now let's just think about, I'm gonna lay out here some box diagrams that try to emphasize some of the features we can extract from these patient studies.",
+    "start_ms": 809878,
+    "end_ms": 825757,
+    "duration_ms": 15879,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 825.757,
+    "text": "And one notion is that, and this is one that actually kind of underlies a lot of debates in education circles, is the idea that we might think about that maybe there's a serial process.",
+    "start_ms": 825757,
+    "end_ms": 836078,
+    "duration_ms": 10321,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 836.078,
+    "text": "We've taken the sounds, and then we do some transformations to understand the language.",
+    "start_ms": 836078,
+    "end_ms": 841798,
+    "duration_ms": 5720,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 841.798,
+    "text": "But what these patient cases are underscoring is that there's actually multiple parallel pathways for us to be able to understand when someone speaks to us what they're trying to say to us.",
+    "start_ms": 841798,
+    "end_ms": 853637,
+    "duration_ms": 11839,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 853.637,
+    "text": "And in particular, what I'll highlight here is of course everything's gonna come in through, at least for listening, it's gonna come in through the auditory system, through our ears.",
+    "start_ms": 853637,
+    "end_ms": 862497,
+    "duration_ms": 8860,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 862.497,
+    "text": "But the main point here is that there's gonna be two distinct ways that we might get at what the sound is.",
+    "start_ms": 862497,
+    "end_ms": 868997,
+    "duration_ms": 6500,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 868.997,
+    "text": "We can certainly take that auditory input and figure out what are the sounds that it's constructed of.",
+    "start_ms": 868997,
+    "end_ms": 875318,
+    "duration_ms": 6321,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 875.318,
+    "text": "So if I say the word table, then it might be able to break it into its constituent parts.",
+    "start_ms": 875318,
+    "end_ms": 879637,
+    "duration_ms": 4319,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 879.637,
+    "text": "There's one ta sound and one bol sound, table, and be able to break down that acoustic input, that auditory input, into the different sounds.",
+    "start_ms": 879637,
+    "end_ms": 888917,
+    "duration_ms": 9280,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 888.917,
+    "text": "And from that, be able to piece together what the words were.",
+    "start_ms": 888917,
+    "end_ms": 892997,
+    "duration_ms": 4080,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 892.997,
+    "text": "But it also seems to be that, at least for skilled speakers, people of like, you know, skilled, it doesn't have to be that skilled with auditory language because you naturally tend to acquire it, is that you actually can go almost straight from the auditory analysis to what the words are without necessarily having to engage this phonological process.",
+    "start_ms": 892997,
+    "end_ms": 913838,
+    "duration_ms": 20841,
+    "word_count": 60,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 913.838,
+    "text": "And so if we get the word representations, of course at some point we have to get the semantic representations, so the word is sort of what are the individual constituents, like the cat is on the table, the cat, the cat on table, those are all the words, but of course the semantics is what's the meaning of that utterance.",
+    "start_ms": 913838,
+    "end_ms": 932678,
+    "duration_ms": 18840,
+    "word_count": 61,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 932.678,
+    "text": "And of course, if the task was like with that conduction of phasic patient, their job was take the auditory analysis and repeat back, but usually in a conversation, we're taking it in, we're understanding what's said and we're responding in some sort of, you know, meaningful way.",
+    "start_ms": 932678,
+    "end_ms": 948998,
+    "duration_ms": 16320,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 948.998,
+    "text": "Well, so we have these two pathways, so let's try this eye clicker here as a multiple choice.",
+    "start_ms": 948998,
+    "end_ms": 955578,
+    "duration_ms": 6580,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 957.278,
+    "text": "And that is a poll. All right, so if you find a patient who basically, the words phone and tone rhyme, okay, and these are cases you sometimes find in the neurology literature, and you looked at this diagram here, what do you think impairment is?",
+    "start_ms": 957278,
+    "end_ms": 983516,
+    "duration_ms": 26238,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 983.516,
+    "text": "Again, they show a puzzling disorder about that they just have difficulty, they understand the words, but they can't tell if they rhyme or not.",
+    "start_ms": 983516,
+    "end_ms": 996077,
+    "duration_ms": 12561,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 996.077,
+    "text": "All right, so let's take a look at the results here.",
+    "start_ms": 996077,
+    "end_ms": 1004037,
+    "duration_ms": 7960,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1004.037,
+    "text": "All right, and indeed, A is the correct answer here, right, and because, again, to be able to understand whether two words rhyme, I have to be able to extract the phonological representation, and so that's what's, you know, they're unable to do this one here, but that same individual might nonetheless still be able to understand what you're saying, because presumably, they could be using this whole word path to read, forget what I do to do that, click there.",
+    "start_ms": 1004037,
+    "end_ms": 1042916,
+    "duration_ms": 38879,
+    "word_count": 81,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1042.916,
+    "text": "No, go away, there we go, all right, and indeed, that patient I just described, the ones with conduction aphasia, seem to actually be an example of that, or some of the evidence to argue for this dual path route here, because what was that patient doing, at least, you know, they aren't making the problem all the time, usually you read them as, hey, he listens to a sentence, he repeats it back, but notice what did he do, he actually took that sentence in there about the pastry chef, and instead, he gave back the word, you know, the baker, so he's hearing the word in a sense, he's getting to the semantics, and when he repeats it back, he's articulating, you know, something that's related to what he said, without necessarily having understood the phonemes that underlie the pastry chef, and so forth, and indeed, these patients, I gave you one example about that strange substitution, but if you take that same patient, and you ask them to do something like, you know, judge our two words rhymes, that's what he's going to have great difficulty doing, similarly, if you take one of these conduction of phasics, and you give them a list of words to say, you know, like cat, ball, table, they usually will do quite well at that, now you give them nonsense syllables like, you know, kook, nook, booboo, and then they'll be at a complete loss, or they'll have great difficulty at that, because there, there's no semantic, or no lexical word level representation, all you can do to repeat back the nonsense syllables, is to actually listen to the sounds, and if you've had a disruption in this pathway here, you're going to have great difficulty, even though with well-learned words, you're going to be able to understand them, spoken, and repeat them back.",
+    "start_ms": 1042916,
+    "end_ms": 1150357,
+    "duration_ms": 107441,
+    "word_count": 313,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1150.357,
+    "text": "Now the opposite, again, the double dissociation we talk about, is the echolalics, and it's really evident in that videotape, at that patient, I mean, again, you can't tell from that videotape, but that patient basically has no real understanding of what's being said to him, all he can do is take in that auditory input, it's really quite striking, that he can take in fairly long streams of an auditory input, and actually repeat it back, he's repeating whole sentences, but there's no evidence in this case, that he's comprehending things, and again, further evident by the fact that he would act similarly if he was doing it in his native language, or in a language that he didn't understand.",
+    "start_ms": 1150357,
+    "end_ms": 1188956,
+    "duration_ms": 38599,
+    "word_count": 121,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1188.956,
+    "text": "He's purely relying on this auditory phonological conversion pathway. Now presumably, skilled speakers have access to both routes here, and that's something we'll talk about later on.",
+    "start_ms": 1188956,
+    "end_ms": 1201997,
+    "duration_ms": 13041,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1201.997,
+    "text": "Briefly, then, the same sort of dissociation has also been identified on the visual side of things, and here's where the real debates have come about in education circles, right?",
+    "start_ms": 1201997,
+    "end_ms": 1214236,
+    "duration_ms": 12239,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1214.236,
+    "text": "The debate has always been ongoing, swings back and forth the pendulum, do we teach kids to read by teaching them phonetics, right, phonology, and so forth, and let them understand the sounds, how they're mapped on, the letters are mapped on to the sounds, to build up reading skills, or conversely, people advocate for whole word reading, no, just plunge them in to learn the whole words, well, the cognitive neuroscience literature says, well, you know, it's not an either or, that both routes are there, and probably a skilled reader is using both routes here, they're taking a visual analysis, skilled readers maybe go directly to this word representation, but there's another pathway where we can go on that mapping from orthography, orthography meaning the written strokes of language, to their associated sounds, just to play with that, we'll do one more clicker poll here.",
+    "start_ms": 1214236,
+    "end_ms": 1267197,
+    "duration_ms": 52961,
+    "word_count": 147,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1278.716,
+    "text": "And these are, you know, really compelling case studies when you see it.",
+    "start_ms": 1278716,
+    "end_ms": 1294035,
+    "duration_ms": 15319,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1294.035,
+    "text": "In the typical cases, they'll give a list of words, you know, some common, some uncommon.",
+    "start_ms": 1294035,
+    "end_ms": 1299795,
+    "duration_ms": 5760,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1299.795,
+    "text": "They'll ask these patients to read the word, and they're reading most of the time they're getting it right.",
+    "start_ms": 1299795,
+    "end_ms": 1305076,
+    "duration_ms": 5281,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1305.556,
+    "text": "You know, again, they have two ways to look at things, and they might converge on the same answer, but occasionally they'll see, like one case I saw, she's the word chrysanthemum, and she says the word rose.",
+    "start_ms": 1305556,
+    "end_ms": 1316515,
+    "duration_ms": 10959,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1316.515,
+    "text": "So again, clearly, she's getting the gist of what the word means, she's naming another flower, and yet it has no visual similarity to the word that's staring her right in the eyes.",
+    "start_ms": 1316515,
+    "end_ms": 1326276,
+    "duration_ms": 9761,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1326.276,
+    "text": "And so, I imagine, well here there's a little bit more mixed of a picture here, but again, the notion is that if this person's making this error, and you could say both of these would be correct, right, they basically, this pathway seems to be intact in this sort of patient there, right?",
+    "start_ms": 1326276,
+    "end_ms": 1349876,
+    "duration_ms": 23600,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1349.876,
+    "text": "No, this is the pathway that's damaged, I meant to say, right?",
+    "start_ms": 1349876,
+    "end_ms": 1353995,
+    "duration_ms": 4119,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1353.995,
+    "text": "They say rose, so they're actually getting to the semantics, they're doing the whole word reading.",
+    "start_ms": 1353995,
+    "end_ms": 1358516,
+    "duration_ms": 4521,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1358.516,
+    "text": "So actually, the correct answer here is that the damage is probably in this orthological phoneme conversion pathway, because she's looking at the word rose and saying the word tulip in this example, right?",
+    "start_ms": 1358516,
+    "end_ms": 1371296,
+    "duration_ms": 12780,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1371.296,
+    "text": "So she's not actually being able to do that orthographic phonological conversion, rather she's taking the whole word and making that semantic judgment.",
+    "start_ms": 1371296,
+    "end_ms": 1379775,
+    "duration_ms": 8479,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1379.775,
+    "text": "So here the correct answer would have been that the problem is in this orthographic, would have been C.",
+    "start_ms": 1379775,
+    "end_ms": 1385224,
+    "duration_ms": 5449,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1385.224,
+    "text": "And magically, the pulse switched. I'm always impressed that that happens.",
+    "start_ms": 1385224,
+    "end_ms": 1390696,
+    "duration_ms": 5472,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1390.696,
+    "text": "All right. That particular type of acquired dyslexia is called deep dyslexia, okay?",
+    "start_ms": 1390696,
+    "end_ms": 1401016,
+    "duration_ms": 10320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1401.016,
+    "text": "And deep, I guess, comes from the sense that the person is getting to the deep essence of the language, right?",
+    "start_ms": 1401016,
+    "end_ms": 1406775,
+    "duration_ms": 5759,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1406.775,
+    "text": "The essence of language is to extract the meaning. So the deep dyslexic still can get to the meaning, even if they aren't sensitive to that particular structure of what's written in front of them.",
+    "start_ms": 1406775,
+    "end_ms": 1418895,
+    "duration_ms": 12120,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1418.895,
+    "text": "They still understand what they're reading, even if they might have trouble identifying the specifics of individual words or telling you, again, what the phonemes are that are associated with the print that they're looking at.",
+    "start_ms": 1418895,
+    "end_ms": 1432255,
+    "duration_ms": 13360,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1432.255,
+    "text": "So again, these people are going to have trouble. They're going to have reasonably good reading skills, because they're reading and they're understanding the sense of it.",
+    "start_ms": 1432255,
+    "end_ms": 1439816,
+    "duration_ms": 7561,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1439.816,
+    "text": "But now if you give them a list of nonsense words, they're going to have great trouble, because now the only way you can read a nonsense word like, I don't have an example, but, you know, again, if it was a cong, a massive word, it's hard to come up with a nonsense word.",
+    "start_ms": 1439816,
+    "end_ms": 1455895,
+    "duration_ms": 16079,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1455.895,
+    "text": "Give me a nonsense word. Garp. Garp. Okay. Garp. They see G-A-R-P, you know, here they'd be at a loss, because they don't have that ability to do that mapping.",
+    "start_ms": 1455895,
+    "end_ms": 1465975,
+    "duration_ms": 10080,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1465.975,
+    "text": "Thank you. The other type of acquired dyslexia is referred to as surface dyslexia.",
+    "start_ms": 1465975,
+    "end_ms": 1473096,
+    "duration_ms": 7121,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1473.096,
+    "text": "And again, that's sort of the notion there, but why surface dyslexia is that they are, in a sense, superficially reading, or they're going through that laborious process of looking at the letters, mapping them onto their sounds, and hopefully being able to extract what the word is and what the meanings are from that pathway.",
+    "start_ms": 1473096,
+    "end_ms": 1491536,
+    "duration_ms": 18440,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1491.536,
+    "text": "They are going to have real trouble, though, at ...",
+    "start_ms": 1491536,
+    "end_ms": 1497770,
+    "duration_ms": 6234,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1497.77,
+    "text": "I think I have this backwards here. So I'm looking at this carefully here.",
+    "start_ms": 1497770,
+    "end_ms": 1504816,
+    "duration_ms": 7046,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1504.816,
+    "text": "Oh, right, no, it is correct. Okay. Sorry about that.",
+    "start_ms": 1504816,
+    "end_ms": 1510895,
+    "duration_ms": 6079,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1510.895,
+    "text": "So they're going to have trouble. So if you get to this word head, or touch, or lose, right?",
+    "start_ms": 1510895,
+    "end_ms": 1517536,
+    "duration_ms": 6641,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1517.536,
+    "text": "If you do the standard orthographic to phonological conversion, then in English you would want to say heed, touch, and lose, okay?",
+    "start_ms": 1517536,
+    "end_ms": 1529536,
+    "duration_ms": 12000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1529.536,
+    "text": "If you just apply the standard rules of phonology, an E at the end, you're going to make the O long.",
+    "start_ms": 1529536,
+    "end_ms": 1535015,
+    "duration_ms": 5479,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1535.015,
+    "text": "Of course, experienced English readers have had so much practice at this that you've learned to overcome.",
+    "start_ms": 1535015,
+    "end_ms": 1541175,
+    "duration_ms": 6160,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1541.175,
+    "text": "You've learned that there's a number of exceptions, like about, again, 15% of the words are exceptions here.",
+    "start_ms": 1541175,
+    "end_ms": 1547536,
+    "duration_ms": 6361,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1547.536,
+    "text": "And so you're able to still read those words, but it's by learning those exceptions.",
+    "start_ms": 1547536,
+    "end_ms": 1551735,
+    "duration_ms": 4199,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1551.735,
+    "text": "If you are solely dependent on this orthographic phonological conversion, well, then you're going to have difficulty reading these irregular words, and so forth, and you're going to tend to regularize things, as it says here.",
+    "start_ms": 1551735,
+    "end_ms": 1565455,
+    "duration_ms": 13720,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1565.455,
+    "text": "So again, just sort of looking at that full picture, it's, again, the real emphasis that wants to be made here is that, you know, when we think about that there's multiple levels of analysis that are required for communication, right?",
+    "start_ms": 1565455,
+    "end_ms": 1578995,
+    "duration_ms": 13540,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1578.995,
+    "text": "Whether it's input coming through the ears, or input coming through the eyes.",
+    "start_ms": 1578995,
+    "end_ms": 1583696,
+    "duration_ms": 4701,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1583.696,
+    "text": "In both, we actually also want to be able to get to these word-level representations, or what we call the lexicon, right?",
+    "start_ms": 1583696,
+    "end_ms": 1590775,
+    "duration_ms": 7079,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1590.775,
+    "text": "The individual items, like the mental lexicon, is like the dictionary, all the words that we understand.",
+    "start_ms": 1590775,
+    "end_ms": 1595816,
+    "duration_ms": 5041,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1595.816,
+    "text": "So we're going to go from the sound units, say, maybe we'll go to the phonological representations, but eventually we want to know what the words are that people are speaking to, but of course then we have to to go beyond that, we have to go from the individual words and put them together into phrases to actually understand the meaning of the sentences, or what we call the semantics.",
+    "start_ms": 1595816,
+    "end_ms": 1617235,
+    "duration_ms": 21419,
+    "word_count": 71,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1617.235,
+    "text": "So language being this sort of multi-layered system where we're going from the sounds or the letters to the words to the semantics, but it isn't a serial process.",
+    "start_ms": 1617235,
+    "end_ms": 1627194,
+    "duration_ms": 9959,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1627.194,
+    "text": "It's these multiple operations happening in parallel, but usually again in the skilled individual converging on the same answer, and of course interactive in many ways.",
+    "start_ms": 1627194,
+    "end_ms": 1638475,
+    "duration_ms": 11281,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1638.475,
+    "text": "All right, so taking that model, then of course the kind of question we might want to ask in cognitive neurosciences, we've already seen that we can look at the patient cases and we can make inferences and build this model by observing these interesting associations between say echolalia and conduction of fascia, between surface dyslexia and deep dyslexia, but that doesn't tell us much about the neural areas that are associated with these different levels of linguistic analysis.",
+    "start_ms": 1638475,
+    "end_ms": 1670395,
+    "duration_ms": 31920,
+    "word_count": 79,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1670.395,
+    "text": "So for the rest of today, and actually some of next week, I'm actually going to talk about what neural areas are associated with, today we'll focus really on phonology, maybe also get to orthography, next week after the exam we'll talk about words and semantics.",
+    "start_ms": 1670395,
+    "end_ms": 1684835,
+    "duration_ms": 14440,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1685.835,
+    "text": "Well actually this question of, go away, this question actually was really the very first neural imaging study.",
+    "start_ms": 1685835,
+    "end_ms": 1699875,
+    "duration_ms": 14040,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1699.875,
+    "text": "People like long wanted to know, I mean right, it's a fundamental question about human behavior.",
+    "start_ms": 1699875,
+    "end_ms": 1704774,
+    "duration_ms": 4899,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1704.774,
+    "text": "We suddenly had these new tools to actually do neural imaging of the intact human brains through the whole picture of activation.",
+    "start_ms": 1704774,
+    "end_ms": 1713594,
+    "duration_ms": 8820,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1713.594,
+    "text": "This is actually a pet study before they'd even developed fMRI, but people thought, well what's the first experiment you want to do?",
+    "start_ms": 1713594,
+    "end_ms": 1719755,
+    "duration_ms": 6161,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1719.755,
+    "text": "They said, well actually let's look and see. We know that we can read, we know we can listen to language.",
+    "start_ms": 1719755,
+    "end_ms": 1725234,
+    "duration_ms": 5479,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1725.234,
+    "text": "How similar are these areas? How much do they overlap with one another?",
+    "start_ms": 1725234,
+    "end_ms": 1729514,
+    "duration_ms": 4280,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1729.514,
+    "text": "And when they actually did this study, so here's a nose, I'm just showing you the imaging result.",
+    "start_ms": 1729514,
+    "end_ms": 1733635,
+    "duration_ms": 4121,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1733.635,
+    "text": "They had one condition, like good experimenters, where you listen to individual words or you just sat there and monitored fixation, sort of compare oxygen utilization when you're listening to doing nothing.",
+    "start_ms": 1733635,
+    "end_ms": 1747835,
+    "duration_ms": 14200,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1747.835,
+    "text": "That's what's shown here, here's the front of the brain, here's the back of the brain, here's the left side, here's the right side.",
+    "start_ms": 1747835,
+    "end_ms": 1754434,
+    "duration_ms": 6599,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1754.434,
+    "text": "In the primary auditory cortex you had fairly bilateral activation, the sounds are coming in, but very quickly you saw this left lateralization and that tends to be kind of in a secondary auditory area, including what's known as Wernicke's area.",
+    "start_ms": 1754434,
+    "end_ms": 1770234,
+    "duration_ms": 15800,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1770.234,
+    "text": "So that kind of fit with like classic neurology. Perhaps the surprising result that came out of that first study is now they had people reading, okay?",
+    "start_ms": 1770234,
+    "end_ms": 1779514,
+    "duration_ms": 9280,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1779.514,
+    "text": "So they're just sitting there reading versus fixation, and of course as you'd expect you saw bilateral activation in the occipital lobe, and then you also saw some left lateral activation over back in the ventral part of the ventral pathway there.",
+    "start_ms": 1779514,
+    "end_ms": 1798594,
+    "duration_ms": 19080,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1798.594,
+    "text": "The interesting result here perhaps is that they didn't see any overlap between the two regions, right?",
+    "start_ms": 1798594,
+    "end_ms": 1803874,
+    "duration_ms": 5280,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1803.874,
+    "text": "If you looked at this result you'd say, well that's kind of amazing, it seems like we have one language system, and yet if we're listening to words and presumably understanding them, or we're reading the words and presumably understand them, are they really two completely different systems in the brain?",
+    "start_ms": 1803874,
+    "end_ms": 1819835,
+    "duration_ms": 15961,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1819.835,
+    "text": "That's what the early results said. Subsequent work showed that that's really not the correct picture.",
+    "start_ms": 1819835,
+    "end_ms": 1825355,
+    "duration_ms": 5520,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1825.355,
+    "text": "Here's just one example. Now again, this is actually an MEG, so it's like an EEG method, but instead of putting electrodes on the scalp, this isn't invasive, this is non-invasive, so EEG, the electrodes are on the scalp.",
+    "start_ms": 1825355,
+    "end_ms": 1841555,
+    "duration_ms": 16200,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1841.555,
+    "text": "MEG is a very similar method, but it's just measuring magnetic signals given off when neurons are active, so you get a beautiful picture in time of the activation pattern.",
+    "start_ms": 1841555,
+    "end_ms": 1852475,
+    "duration_ms": 10920,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1852.475,
+    "text": "In the PET studies we have to average over like 40 seconds of activity, so here we can see things over time very beautifully, and with MEG we can localize where those signals are being generated from, and notice here, this is like just 170 milliseconds after the stimulus is presented.",
+    "start_ms": 1852475,
+    "end_ms": 1870835,
+    "duration_ms": 18360,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1870.835,
+    "text": "Again, the same sort of experiment, here you're listening, here you're reading, and here you are again, as with the PET study, seeing everything is very much modality specific, right?",
+    "start_ms": 1870835,
+    "end_ms": 1881354,
+    "duration_ms": 10519,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1881.354,
+    "text": "Things are on the auditory cortex, both primary and secondary auditory regions, what you see here in the left hemisphere, and in the right hemisphere, here the reading, again, this is back in the occipital lobe here, showing some strong lateralization even at this early stage of 170 milliseconds, but now with MEG we can also see how that activation pattern evolves over time, and what you see here is that once you get later on, just another 100 milliseconds or so later on, now the activation patterns start to look quite similar for both reading and listening, especially if we look at the auditory regions, the regions that were active listening early on, now they start to be engaged when you're reading.",
+    "start_ms": 1881354,
+    "end_ms": 1926074,
+    "duration_ms": 44720,
+    "word_count": 123,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1925.955,
+    "text": "reading, okay, and that's very pronounced, say, when you look here down at this picture here.",
+    "start_ms": 1925955,
+    "end_ms": 1930193,
+    "duration_ms": 4238,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1930.193,
+    "text": "Strongly left lateralized, but again, now you're getting strong activation in those secondary auditory regions, even though the person's just reading.",
+    "start_ms": 1930193,
+    "end_ms": 1938623,
+    "duration_ms": 8430,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1938.623,
+    "text": "And that would fit with what we've talked about, right, that when you're reading, one path to reading is doing that conversion from orthography to phonology, phonology being the sounds of language.",
+    "start_ms": 1938623,
+    "end_ms": 1950205,
+    "duration_ms": 11582,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1950.205,
+    "text": "And so in reading, we're getting that conversion and it's asymmetric.",
+    "start_ms": 1950205,
+    "end_ms": 1953766,
+    "duration_ms": 3561,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1953.766,
+    "text": "When we're listening, we aren't seeing the conversion the other way.",
+    "start_ms": 1953766,
+    "end_ms": 1957504,
+    "duration_ms": 3738,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1957.504,
+    "text": "We aren't seeing activation of those occipital regions that seem to be sensitive to the orthographic structure.",
+    "start_ms": 1957504,
+    "end_ms": 1964669,
+    "duration_ms": 7165,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1964.669,
+    "text": "Again, reflecting sort of the asymmetry between acquiring auditory language wired into us or acquiring written language, something we have to put a great deal of effort on.",
+    "start_ms": 1964669,
+    "end_ms": 1975098,
+    "duration_ms": 10429,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1975.098,
+    "text": "It hasn't been around for that long. This is just a very recent picture showing, this is people with intraoperative recordings, so they've, again, these are these presurgical patients.",
+    "start_ms": 1975098,
+    "end_ms": 1987170,
+    "duration_ms": 12072,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1987.17,
+    "text": "They have electrodes implanted on their cortical surface. All of the blue dots are electrodes that were activated when people were listening to sentences.",
+    "start_ms": 1987170,
+    "end_ms": 1996953,
+    "duration_ms": 9783,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1996.953,
+    "text": "They're actually listening to brief sentences here. Again, you can see an abundance of them in the left hemisphere.",
+    "start_ms": 1996953,
+    "end_ms": 2002960,
+    "duration_ms": 6007,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2002.96,
+    "text": "Of course, the auditory inputs also activating similar regions in the right hemisphere.",
+    "start_ms": 2002960,
+    "end_ms": 2008123,
+    "duration_ms": 5163,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2008.123,
+    "text": "We talked about that before, that it's not an absolute thing.",
+    "start_ms": 2008123,
+    "end_ms": 2011913,
+    "duration_ms": 3790,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2011.913,
+    "text": "It's a bilateral thing. This, you don't need to worry about.",
+    "start_ms": 2011913,
+    "end_ms": 2014892,
+    "duration_ms": 2979,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2014.892,
+    "text": "They're basically just showing what are the different features of sound or phonology that the different electrodes are sensitive to.",
+    "start_ms": 2014892,
+    "end_ms": 2023059,
+    "duration_ms": 8167,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2023.059,
+    "text": "So what you have here on the x-axis is electrode number going from 0 to 200.",
+    "start_ms": 2023059,
+    "end_ms": 2029933,
+    "duration_ms": 6874,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2029.933,
+    "text": "So there's over 200 electrodes in here. They're showing us a sample of these, and the colors are indicating for each row is a particular aspect of phonology.",
+    "start_ms": 2029933,
+    "end_ms": 2040948,
+    "duration_ms": 11015,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2040.948,
+    "text": "So for instance, if I say the sound ba or pa, I bring my lips together.",
+    "start_ms": 2040948,
+    "end_ms": 2046663,
+    "duration_ms": 5715,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2046.663,
+    "text": "If I say something like da or ga, I bring my tongue into a particular position.",
+    "start_ms": 2046663,
+    "end_ms": 2052052,
+    "duration_ms": 5389,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2052.052,
+    "text": "This is how we construct the different sounds of language, and they're basically just showing that different electrodes are sensitive to different aspects of the phonology.",
+    "start_ms": 2052052,
+    "end_ms": 2062496,
+    "duration_ms": 10444,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2062.496,
+    "text": "So we're now seeing that indeed phonological activity can be decoded, can be interpreted from these electrodes that are over the auditory regions, primary and secondary regions, and they seem to be differentially sensitive.",
+    "start_ms": 2062496,
+    "end_ms": 2077334,
+    "duration_ms": 14838,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2077.334,
+    "text": "Some regions are more sensitive to one aspect of the phonology of a sound, of a language, other electrodes sensitive to other phonological properties.",
+    "start_ms": 2077334,
+    "end_ms": 2086860,
+    "duration_ms": 9526,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2086.86,
+    "text": "So this has actually kind of led to a similar revolution that we talked about in the motor control section, right?",
+    "start_ms": 2086860,
+    "end_ms": 2096473,
+    "duration_ms": 9613,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2096.473,
+    "text": "In the motor control section, we talked about how can we take the information that's being encoded by the brain and use it to actually control either a cursor or some sort of device in these brain computer or brain machine interfaces to actually restore functionality to someone who's lost the ability to use their upper limbs or their lower limbs.",
+    "start_ms": 2096473,
+    "end_ms": 2115900,
+    "duration_ms": 19427,
+    "word_count": 61,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2115.9,
+    "text": "Well, the same sort of questions are being asked and pursued as ways for interventions to help people who have communication disorders.",
+    "start_ms": 2115900,
+    "end_ms": 2124753,
+    "duration_ms": 8853,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2124.753,
+    "text": "So I'm going to just talk about some of the developments that have gone on in the brain machine interface world for communication.",
+    "start_ms": 2124753,
+    "end_ms": 2130933,
+    "duration_ms": 6180,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2130.933,
+    "text": "And almost all this work is actually coming from the Bay Area.",
+    "start_ms": 2130933,
+    "end_ms": 2135204,
+    "duration_ms": 4271,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2135.204,
+    "text": "It's been a hotbed of developing these sorts of ideas about how can we actually restore language to people who can't speak.",
+    "start_ms": 2135204,
+    "end_ms": 2142674,
+    "duration_ms": 7470,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2142.674,
+    "text": "Again, much of the work is coming about from the fact that there are these patients who have surgery.",
+    "start_ms": 2142674,
+    "end_ms": 2147994,
+    "duration_ms": 5320,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2147.994,
+    "text": "They may not have any communication problems. Surgery is almost always for epilepsy.",
+    "start_ms": 2147994,
+    "end_ms": 2153141,
+    "duration_ms": 5147,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2153.141,
+    "text": "But nonetheless, it gives this very exquisite picture of neural activity when they implant grids of electrodes like this.",
+    "start_ms": 2153141,
+    "end_ms": 2161074,
+    "duration_ms": 7933,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2161.074,
+    "text": "So again, sound is a waveform coming into our ears.",
+    "start_ms": 2161074,
+    "end_ms": 2164940,
+    "duration_ms": 3866,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2164.94,
+    "text": "It's a waveform that's varying in intensity and in terms of what we call the spectral content, the frequencies of the sounds.",
+    "start_ms": 2164940,
+    "end_ms": 2173129,
+    "duration_ms": 8189,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2173.129,
+    "text": "I'm a male speaker, so my pitch of my voice is basically a vibration of about 100 times per second.",
+    "start_ms": 2173129,
+    "end_ms": 2180641,
+    "duration_ms": 7512,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2180.641,
+    "text": "Females have a higher pitch to their voice because their vocal cords are vibrating at a higher rate.",
+    "start_ms": 2180641,
+    "end_ms": 2186761,
+    "duration_ms": 6120,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2186.761,
+    "text": "As the sound's coming out of our lungs and going through our articulatory system, that sound wave is being distorted by the shape of our mouth.",
+    "start_ms": 2186761,
+    "end_ms": 2195221,
+    "duration_ms": 8460,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2195.221,
+    "text": "That's how we produce the different phonological units of speech.",
+    "start_ms": 2195221,
+    "end_ms": 2199458,
+    "duration_ms": 4237,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2199.458,
+    "text": "So we have this acoustic waveform. We can record with great precision the activity across these electrodes.",
+    "start_ms": 2199458,
+    "end_ms": 2207714,
+    "duration_ms": 8256,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2207.714,
+    "text": "This might be the activity of those electrodes. It's just showing how that activity becomes stronger activated, less activated over time.",
+    "start_ms": 2207714,
+    "end_ms": 2215647,
+    "duration_ms": 7933,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2215.647,
+    "text": "We might have some sort of model about what's going on.",
+    "start_ms": 2215647,
+    "end_ms": 2219453,
+    "duration_ms": 3806,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2219.453,
+    "text": "We'll talk about that in a minute. But the idea is, if I could interpret this activity across these electrodes, then I might be able to decode that signal.",
+    "start_ms": 2219453,
+    "end_ms": 2228661,
+    "duration_ms": 9208,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2228.661,
+    "text": "I might be able to actually turn it into a spectrogram.",
+    "start_ms": 2228661,
+    "end_ms": 2232634,
+    "duration_ms": 3973,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2232.634,
+    "text": "A spectrogram is simply a visual record of speech. It's basically over time, the frequency, right?",
+    "start_ms": 2232634,
+    "end_ms": 2240474,
+    "duration_ms": 7840,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2240.474,
+    "text": "I said pitch of our male speakers are on 100 hertz, but then there's all these higher...",
+    "start_ms": 2240474,
+    "end_ms": 2245794,
+    "duration_ms": 5320,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2245.666,
+    "text": "all these higher harmonics produced by the vocal tract shape.",
+    "start_ms": 2245666,
+    "end_ms": 2249832,
+    "duration_ms": 4166,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2249.832,
+    "text": "And so this might be a particular utterance. This is, again, the color showing the intensity in different frequency bands.",
+    "start_ms": 2249832,
+    "end_ms": 2256673,
+    "duration_ms": 6841,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2256.673,
+    "text": "I could feed this into a sound decoder. If I put this picture in here, if I have some speech synthesis device, I would produce a sound.",
+    "start_ms": 2256673,
+    "end_ms": 2265632,
+    "duration_ms": 8959,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2265.632,
+    "text": "And the question is, can I actually take that neural activity, have some sort of model here, and actually then produce an output?",
+    "start_ms": 2265632,
+    "end_ms": 2273212,
+    "duration_ms": 7580,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2273.212,
+    "text": "And of course, this would be a way for a person who's no longer able to speak to be able to speak just through their thoughts.",
+    "start_ms": 2273212,
+    "end_ms": 2279753,
+    "duration_ms": 6541,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2279.753,
+    "text": "And again, we've seen that a lot of language disorders are problems in the fluency side, even though their language comprehension might be perfectly intact.",
+    "start_ms": 2279753,
+    "end_ms": 2288552,
+    "duration_ms": 8799,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2288.552,
+    "text": "So the question, of course, is what signal to use?",
+    "start_ms": 2288552,
+    "end_ms": 2291512,
+    "duration_ms": 2960,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2291.512,
+    "text": "And we've talked about this. There's multiple features of language.",
+    "start_ms": 2291512,
+    "end_ms": 2294953,
+    "duration_ms": 3441,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2294.953,
+    "text": "So I'll walk you through kind of the history here.",
+    "start_ms": 2294953,
+    "end_ms": 2297613,
+    "duration_ms": 2660,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2298.532,
+    "text": "So this is some of the earliest work. People thought, well, of course, we know we can see that there are phonological representations in these primary and secondary auditory regions of the brain.",
+    "start_ms": 2298532,
+    "end_ms": 2310513,
+    "duration_ms": 11981,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2311.833,
+    "text": "Here's a grid of electrodes on one particular patient. This is, again, that same picture here.",
+    "start_ms": 2311833,
+    "end_ms": 2318952,
+    "duration_ms": 7119,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2318.952,
+    "text": "This is the electrode grid. So this is going along this axis.",
+    "start_ms": 2318952,
+    "end_ms": 2322253,
+    "duration_ms": 3301,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2322.253,
+    "text": "This is the other axis. And this is just showing the activity, the energy from the different electrodes in that grid, because there's about 100 electrodes there, when the person was listening to three different sounds, ba, da, or ga.",
+    "start_ms": 2322253,
+    "end_ms": 2337933,
+    "duration_ms": 15680,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2337.933,
+    "text": "So they're all very similar consonants. But of course, there's only 40 different sounds, 40 different phonological units that comprise all of English.",
+    "start_ms": 2337933,
+    "end_ms": 2346992,
+    "duration_ms": 9059,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2346.992,
+    "text": "And here they're showing that, indeed, just by recording from these 100 electrodes, I can actually see very distinct patterns of activation for these three different phonemes.",
+    "start_ms": 2346992,
+    "end_ms": 2358413,
+    "duration_ms": 11421,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2358.413,
+    "text": "And presumably, maybe I can actually do the same thing for all 40 phonemes of English.",
+    "start_ms": 2358413,
+    "end_ms": 2363532,
+    "duration_ms": 5119,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2363.532,
+    "text": "And if I can actually read the activity pattern there, then I could actually build my model of the phonological representations.",
+    "start_ms": 2363532,
+    "end_ms": 2371413,
+    "duration_ms": 7881,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2371.413,
+    "text": "And then presumably, if the person's thinking, and they produce similar phonological activation patterns, I could actually use that to produce sound.",
+    "start_ms": 2371413,
+    "end_ms": 2378973,
+    "duration_ms": 7560,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2378.973,
+    "text": "It's a very simple brain-machine interface model. At any point in time, I just say, what phoneme is most strongly represented?",
+    "start_ms": 2378973,
+    "end_ms": 2389573,
+    "duration_ms": 10600,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2389.573,
+    "text": "What is the neural pattern best match? And that's what will come out of my synthesizer.",
+    "start_ms": 2389573,
+    "end_ms": 2394493,
+    "duration_ms": 4920,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2394.493,
+    "text": "That'll be the sound the person's producing. The problem with this method, though, is that speech, unfortunately, when we produce these phonemes, we can describe them as discrete units.",
+    "start_ms": 2394493,
+    "end_ms": 2406452,
+    "duration_ms": 11959,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2406.452,
+    "text": "We can take an utterance and tell you, here's the sequence of phonemes that the person produced, but we're such fluent speakers that there aren't usually breaks between one phoneme and the next.",
+    "start_ms": 2406452,
+    "end_ms": 2418333,
+    "duration_ms": 11881,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2418.333,
+    "text": "Sometimes there's pauses in speech. If I say the word baby, there's actually a silent period there because I close off all the flow of sound.",
+    "start_ms": 2418333,
+    "end_ms": 2426973,
+    "duration_ms": 8640,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2426.973,
+    "text": "But in most speech sounds, there's what we call co-articulation.",
+    "start_ms": 2426973,
+    "end_ms": 2430652,
+    "duration_ms": 3679,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2430.652,
+    "text": "Things seamlessly blend from one phoneme onto the next. And indeed, you can't really look at the spectrogram frequently.",
+    "start_ms": 2430652,
+    "end_ms": 2437732,
+    "duration_ms": 7080,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2437.732,
+    "text": "So here's someone saying, how to recognize speech with this new display?",
+    "start_ms": 2437732,
+    "end_ms": 2441932,
+    "duration_ms": 4200,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2441.932,
+    "text": "I don't know why they had that example here. Okay, the point they wanted to make here is just that there can be gaps within a word just as likely as there are gaps between words.",
+    "start_ms": 2441932,
+    "end_ms": 2453452,
+    "duration_ms": 11520,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2453.452,
+    "text": "So it's really hard to take that continuous signal and be able to extract where are those phonological units?",
+    "start_ms": 2453452,
+    "end_ms": 2459652,
+    "duration_ms": 6200,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2459.652,
+    "text": "When do I decide what phoneme's being produced and what phoneme isn't?",
+    "start_ms": 2459652,
+    "end_ms": 2463613,
+    "duration_ms": 3961,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2463.613,
+    "text": "Because one phoneme blends into another. So this led people to realize that we needed to have a more complex representation.",
+    "start_ms": 2463613,
+    "end_ms": 2473932,
+    "duration_ms": 10319,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2473.932,
+    "text": "And the one that's became very popular is what we call a spectro-temporal receptive field, or what's known as a STERF.",
+    "start_ms": 2473932,
+    "end_ms": 2483133,
+    "duration_ms": 9201,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2483.133,
+    "text": "So we've already talked about the concept of a receptive field, right?",
+    "start_ms": 2483133,
+    "end_ms": 2486493,
+    "duration_ms": 3360,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2486.493,
+    "text": "A receptive field is describing for a, usually for a neuron, but here we're gonna talk about it at the level of an electrode that's recording the activity of many neurons.",
+    "start_ms": 2486493,
+    "end_ms": 2497293,
+    "duration_ms": 10800,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2497.893,
+    "text": "We're gonna talk about what makes that neuron active. And again, with sounds, we know they vary in their frequency.",
+    "start_ms": 2497893,
+    "end_ms": 2504932,
+    "duration_ms": 7039,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2504.932,
+    "text": "So that's one property, that's the spectral part, right? Is an electrode sensitive to high-frequency sounds or low-frequency sounds?",
+    "start_ms": 2504932,
+    "end_ms": 2513372,
+    "duration_ms": 8440,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2513.372,
+    "text": "But it's also spectro-temporal, meaning that it recognizes that those frequencies are gonna change over time.",
+    "start_ms": 2513372,
+    "end_ms": 2521853,
+    "duration_ms": 8481,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2521.853,
+    "text": "So we're not only gonna be coding the frequency, but at the same time, the electrode's gonna be coding, or we're gonna describe the receptive field of the electrode, both in terms of the frequencies and how they change over time.",
+    "start_ms": 2521853,
+    "end_ms": 2533733,
+    "duration_ms": 11880,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2533.733,
+    "text": "And that's really important for speech because the phonemes we produce have particular trajectories with them.",
+    "start_ms": 2533733,
+    "end_ms": 2540173,
+    "duration_ms": 6440,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2540.173,
+    "text": "If I say bah, there's a rising part to that consonant, the frequencies over the initial part of that sound there.",
+    "start_ms": 2540173,
+    "end_ms": 2547812,
+    "duration_ms": 7639,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2547.812,
+    "text": "So basically, it's the same sort of idea as with the phonological representation, but it's a more complex one that's incorporating both, it's taking both the frequencies and how they change over time to characterize each of the electrodes here.",
+    "start_ms": 2547812,
+    "end_ms": 2561893,
+    "duration_ms": 14081,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2561.893,
+    "text": "So each electrode can be described in terms of its stirf.",
+    "start_ms": 2561893,
+    "end_ms": 2565413,
+    "duration_ms": 3520,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2565.235,
+    "text": "STIRF, how it represents spectral and temporal information. We could take it in here again.",
+    "start_ms": 2565235,
+    "end_ms": 2571732,
+    "duration_ms": 6497,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2571.732,
+    "text": "Here's the original spectrogram. Here's our grid of electrodes. This is that one snapshot in time, looking at the activation pattern across those electrodes in terms of each one of those electrodes modeled as a STIRF.",
+    "start_ms": 2571732,
+    "end_ms": 2588751,
+    "duration_ms": 17019,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2588.751,
+    "text": "And again, the same sort of idea. Once I've got a model of how each electrode represents sounds, and these are people who can listen to sounds and so forth, we can then decode the activity.",
+    "start_ms": 2588751,
+    "end_ms": 2600391,
+    "duration_ms": 11640,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2600.391,
+    "text": "And we can actually play that through our synthesizer to see, do we have a good model of speech?",
+    "start_ms": 2600391,
+    "end_ms": 2605871,
+    "duration_ms": 5480,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2605.871,
+    "text": "Do these STIRFs allow us to actually now just look at the activity across the electrodes and actually have the person produce speech?",
+    "start_ms": 2605871,
+    "end_ms": 2614391,
+    "duration_ms": 8520,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2614.391,
+    "text": "Again, these are individuals who have language. But later on, of course, we're going to want to apply this to people who don't have the ability to produce language.",
+    "start_ms": 2614391,
+    "end_ms": 2622211,
+    "duration_ms": 7820,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2622.211,
+    "text": "So let me play for you some early recordings of that.",
+    "start_ms": 2622211,
+    "end_ms": 2627652,
+    "duration_ms": 5441,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2627.652,
+    "text": "So this is what the early model. Bagpipes and bongos are musical instruments.",
+    "start_ms": 2627652,
+    "end_ms": 2632052,
+    "duration_ms": 4400,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2632.052,
+    "text": "Bagpipes and bongos are musical instruments. Bagpipes and bongos are musical instruments.",
+    "start_ms": 2632052,
+    "end_ms": 2639292,
+    "duration_ms": 7240,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2639.292,
+    "text": "A high security person will strike when he drops water.",
+    "start_ms": 2639292,
+    "end_ms": 2643732,
+    "duration_ms": 4440,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2643.732,
+    "text": "The high security prison was surrounded by barbed wire. That's the target.",
+    "start_ms": 2643732,
+    "end_ms": 2647671,
+    "duration_ms": 3939,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2647.671,
+    "text": "A high security person will strike when he drops water.",
+    "start_ms": 2647671,
+    "end_ms": 2650912,
+    "duration_ms": 3241,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2650.912,
+    "text": "That's the decoding from the algorithm. The full moon shone brightly that night.",
+    "start_ms": 2650912,
+    "end_ms": 2656912,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2656.912,
+    "text": "The full moon shone brightly that night. Move the garbage nearer to the large window.",
+    "start_ms": 2656912,
+    "end_ms": 2663432,
+    "duration_ms": 6520,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2663.432,
+    "text": "Move the garbage nearer to the large window. Move the garbage nearer to the large window.",
+    "start_ms": 2663432,
+    "end_ms": 2670351,
+    "duration_ms": 6919,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2670.351,
+    "text": "All right, so there's two points to take from this, right?",
+    "start_ms": 2670351,
+    "end_ms": 2673391,
+    "duration_ms": 3040,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2674.171,
+    "text": "It's first generation, right? This is circa 2016, first real demonstration of this.",
+    "start_ms": 2674171,
+    "end_ms": 2679652,
+    "duration_ms": 5481,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2679.652,
+    "text": "It's really not very good, right? If you had to have a conversation with the first production that the person was making, you'd say, utter nonsense.",
+    "start_ms": 2679652,
+    "end_ms": 2687372,
+    "duration_ms": 7720,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2687.372,
+    "text": "Then you actually hear the true sentence that the person was trying to say.",
+    "start_ms": 2687372,
+    "end_ms": 2691211,
+    "duration_ms": 3839,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2691.211,
+    "text": "You know, the people are looking at the sentences there and they're just thinking them to themselves and they're decoding it.",
+    "start_ms": 2691211,
+    "end_ms": 2696252,
+    "duration_ms": 5041,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2696.252,
+    "text": "I should have made that point clear. Again, it sounds like utter garbage, but then when you actually hear what the target sentence is and now you listen to it again, you realize, actually, it's not all that far off, okay?",
+    "start_ms": 2696252,
+    "end_ms": 2707432,
+    "duration_ms": 11180,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2707.432,
+    "text": "You know, we have to probably clean up the algorithm in some way, but nonetheless, it was kind of encouraging to know that, well, maybe you actually could just simply take the activity across these 100 electrodes and understand what the person was trying to say.",
+    "start_ms": 2707432,
+    "end_ms": 2721012,
+    "duration_ms": 13580,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2723.152,
+    "text": "But the next generation is that people said, you know, one problem with building these STERFs or building phonological models is that there's actually huge variation from one individual to another in terms of the acoustic properties, right?",
+    "start_ms": 2723152,
+    "end_ms": 2738252,
+    "duration_ms": 15100,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2738.252,
+    "text": "I have this low-pitched voice. Other people have high-pitched voices.",
+    "start_ms": 2738252,
+    "end_ms": 2742271,
+    "duration_ms": 4019,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2742.271,
+    "text": "Some people have accents. Some people speak fast. Some people speak slow, et cetera.",
+    "start_ms": 2742271,
+    "end_ms": 2747252,
+    "duration_ms": 4981,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2747.252,
+    "text": "There isn't gonna be much consistency in the spectral properties, in the frequencies and time course of these properties from one speaker to another.",
+    "start_ms": 2747252,
+    "end_ms": 2757292,
+    "duration_ms": 10040,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2757.292,
+    "text": "So we might be able to train our model with one speaker, but it may not generalize very well to another person.",
+    "start_ms": 2757292,
+    "end_ms": 2763952,
+    "duration_ms": 6660,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2763.952,
+    "text": "What's invariant across individuals is actually the motor gestures, the articulatory gestures that they're making to try to produce the sounds.",
+    "start_ms": 2763952,
+    "end_ms": 2774092,
+    "duration_ms": 10140,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2774.092,
+    "text": "So it doesn't matter whether you speak with a heavy Southern accent or a British accent, Australian or English, if you're going to say baby, you're gonna have very similar articulatory gestures, that that's where the true invariance is across different productions.",
+    "start_ms": 2774092,
+    "end_ms": 2789652,
+    "duration_ms": 15560,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2789.652,
+    "text": "Sure, there's subtle variations, but there's quite strong similarity in how one language versus another produces the same sounds.",
+    "start_ms": 2789652,
+    "end_ms": 2799331,
+    "duration_ms": 9679,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2799.331,
+    "text": "And so that became the next generation, is for people to say, and again, this is just making the point here.",
+    "start_ms": 2799331,
+    "end_ms": 2805172,
+    "duration_ms": 5841,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2805.172,
+    "text": "This is a male speaker and a female speaker saying the same sentence, how to recognize speech with this new display.",
+    "start_ms": 2805172,
+    "end_ms": 2812812,
+    "duration_ms": 7640,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2812.812,
+    "text": "Here is the spectrogram. So this is actually the frequency content over time produced by these two speakers.",
+    "start_ms": 2812812,
+    "end_ms": 2820192,
+    "duration_ms": 7380,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2820.192,
+    "text": "And the only point I want you to see here is that if you compare these two, you can see that they're radically different.",
+    "start_ms": 2820192,
+    "end_ms": 2825432,
+    "duration_ms": 5240,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2825.432,
+    "text": "So if we're trying to do an analysis on this spectral temporal display of the sounds there, we can't, there's huge variation.",
+    "start_ms": 2825432,
+    "end_ms": 2833271,
+    "duration_ms": 7839,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2833.271,
+    "text": "But if we actually looked at the articulatory gestures that the persons, the two speakers are making, we'd see a great deal of similarity from one to the other.",
+    "start_ms": 2833271,
+    "end_ms": 2841432,
+    "duration_ms": 8161,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2842.551,
+    "text": "So that was basically the next ideas. Again, we're gonna have our electrodes.",
+    "start_ms": 2842551,
+    "end_ms": 2847171,
+    "duration_ms": 4620,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2847.171,
+    "text": "We're gonna code each electrode for its activation profile in terms of what articulatory event a person's making.",
+    "start_ms": 2847171,
+    "end_ms": 2856451,
+    "duration_ms": 9280,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2856.451,
+    "text": "Or if they're reading, what would be the articulatory event for the word they're trying to read.",
+    "start_ms": 2856451,
+    "end_ms": 2861731,
+    "duration_ms": 5280,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2861.731,
+    "text": "And this just again showing that if the jaws are open, the dark electrodes are quite active.",
+    "start_ms": 2861731,
+    "end_ms": 2868572,
+    "duration_ms": 6841,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2868.572,
+    "text": "If the lips are moving forwards or backwards, these are the electrodes that are gonna be highly active.",
+    "start_ms": 2868572,
+    "end_ms": 2874352,
+    "duration_ms": 5780,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2874.352,
+    "text": "If the tongue is going up and down, a different set of electrodes are gonna be active.",
+    "start_ms": 2874352,
+    "end_ms": 2878391,
+    "duration_ms": 4039,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2878.391,
+    "text": "It's not like each electrode's coding one articulatory feature, but some electrodes are more relevant.",
+    "start_ms": 2878391,
+    "end_ms": 2884951,
+    "duration_ms": 6560,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2884.729,
+    "text": "when the jaw is opening, some electrodes are more active when the tongue is moving, and so forth.",
+    "start_ms": 2884729,
+    "end_ms": 2890090,
+    "duration_ms": 5361,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2890.09,
+    "text": "So again, now we can have a model of the articulatory features, and then we can do the same game again.",
+    "start_ms": 2890090,
+    "end_ms": 2897430,
+    "duration_ms": 7340,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2897.43,
+    "text": "We can now decode the speech by running our model to run the synthesizer.",
+    "start_ms": 2897430,
+    "end_ms": 2901830,
+    "duration_ms": 4400,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2901.83,
+    "text": "So now we're four years later, again, this is a non-aphasic patient that actually used these STERFs to estimate the speaker's articulation, but this is what you get here.",
+    "start_ms": 2901830,
+    "end_ms": 2913710,
+    "duration_ms": 11880,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2913.71,
+    "text": "Shipbuilding is a most fascinating process. Okay, I'll jump ahead here.",
+    "start_ms": 2913710,
+    "end_ms": 2952191,
+    "duration_ms": 38481,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2952.191,
+    "text": "So currently I step in the right direction, I mean, they're still doing the same thing, right?",
+    "start_ms": 2952191,
+    "end_ms": 2957871,
+    "duration_ms": 5680,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2957.871,
+    "text": "A little bit muffled and hard to hear the first time.",
+    "start_ms": 2957871,
+    "end_ms": 2960710,
+    "duration_ms": 2839,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2960.71,
+    "text": "You had the visual prompts there, which probably also helped you comprehend the first production.",
+    "start_ms": 2960710,
+    "end_ms": 2967871,
+    "duration_ms": 7161,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2967.871,
+    "text": "Once you hear the context, it's much better. Now we just fast forward four years later, and now they're going to the first patient.",
+    "start_ms": 2967871,
+    "end_ms": 2975630,
+    "duration_ms": 7759,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2975.63,
+    "text": "So just in 2023, these are the first patients who have absolutely no capability for speech production.",
+    "start_ms": 2975630,
+    "end_ms": 2982611,
+    "duration_ms": 6981,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2982.611,
+    "text": "This person here had lost her speech 18 years prior to the experiment, so she hasn't actually spoken for 18 years, but it was a brainstem stroke, so her cortex is still intact, okay?",
+    "start_ms": 2982611,
+    "end_ms": 2995430,
+    "duration_ms": 12819,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2995.43,
+    "text": "And what they're going to use here is, again, they're going to use, again, the same sort of thing, this articulatory model.",
+    "start_ms": 2995430,
+    "end_ms": 3001271,
+    "duration_ms": 5841,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3001.271,
+    "text": "She's not able to articulate, but they're able to have her read words, right?",
+    "start_ms": 3001271,
+    "end_ms": 3005510,
+    "duration_ms": 4239,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3005.51,
+    "text": "And they can then know what would be the articulation if she was reading them or if she's trying to read them silently.",
+    "start_ms": 3005510,
+    "end_ms": 3011711,
+    "duration_ms": 6201,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3011.711,
+    "text": "They can then build that model up, and then they can basically try to decode from the activity in her primary and secondary.",
+    "start_ms": 3011711,
+    "end_ms": 3019310,
+    "duration_ms": 7599,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3019.631,
+    "text": "Actually, in this case, they actually put the electrodes to span not only the auditory regions, but actually more over the premotor regions, over the Broca's area is where they're putting the electrodes here.",
+    "start_ms": 3019631,
+    "end_ms": 3033071,
+    "duration_ms": 13440,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3033.071,
+    "text": "And they use some fancy language models to kind of try to enhance certain parts of speech here.",
+    "start_ms": 3033071,
+    "end_ms": 3038870,
+    "duration_ms": 5799,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3038.87,
+    "text": "Let's listen to this one. So she can't speak, so all we're seeing now is the target's up on top, what the decoder says she's doing on the bottom.",
+    "start_ms": 3038870,
+    "end_ms": 3070150,
+    "duration_ms": 31280,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3070.15,
+    "text": "It's a fairly slow decoder, so it basically tries to do the whole sentence at a time.",
+    "start_ms": 3070150,
+    "end_ms": 3074030,
+    "duration_ms": 3880,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3074.03,
+    "text": "It's not doing it in real time, well, it's doing it in real time here, but you can see there's quite a delay between when the target's presented to when we actually decode what she sees.",
+    "start_ms": 3074030,
+    "end_ms": 3083670,
+    "duration_ms": 9640,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3083.67,
+    "text": "It's actually a really impressive match. There are errors that will come about, so it's not perfect here.",
+    "start_ms": 3083670,
+    "end_ms": 3090230,
+    "duration_ms": 6560,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3090.23,
+    "text": "But again, I think there was probably an error I already missed or something.",
+    "start_ms": 3090230,
+    "end_ms": 3098230,
+    "duration_ms": 8000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3104.23,
+    "text": "So again, they've now actually given this woman back the ability to communicate.",
+    "start_ms": 3104230,
+    "end_ms": 3108230,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3108.23,
+    "text": "Let me just show you two others really quickly here.",
+    "start_ms": 3108230,
+    "end_ms": 3112230,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3120.23,
+    "text": "Here what they're trying to do is they're thinking that if she could see a model of someone speaking, that this would be another way to enhance the production for her to learn from by observing the articulation of this.",
+    "start_ms": 3120230,
+    "end_ms": 3142230,
+    "duration_ms": 22000,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3143.23,
+    "text": "So this is how she's now communicating with her family, and I know I only got one more minute, so I'm just going to jump ahead to the most recent one, and this is a guy who has ALS, so they basically lose control of all their muscles, and yet the brain's completely intact, so it's a really devastating disorder that you can't, basically you're shut off from the world.",
+    "start_ms": 3143230,
+    "end_ms": 3168230,
+    "duration_ms": 25000,
+    "word_count": 70,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3168.23,
+    "text": "But this guy now has, again, one of these decoders, but now they're doing a closed-loop system so that they want to try to speed up the process so they can do it in a continuous fashion, but it's the same general model here.",
+    "start_ms": 3168230,
+    "end_ms": 3181230,
+    "duration_ms": 13000,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3183.23,
+    "text": "This is after about, it takes a while to train up.",
+    "start_ms": 3183230,
+    "end_ms": 3187230,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3188.23,
+    "text": "This is really very good. So again, now it's obviously still laborious speech.",
+    "start_ms": 3188230,
+    "end_ms": 3200230,
+    "duration_ms": 12000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3201.23,
+    "text": "Really, wow. again, at a rate that you can certainly have a conversation with the individual, and just the last one I'll show you is now they actually built a synthesizer that sounds like his own voice, and so his family's now actually hearing him speak in his own voice.",
+    "start_ms": 3201230,
+    "end_ms": 3225742,
+    "duration_ms": 24512,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3225.742,
+    "text": "So, again, really impressive progress over a 10-year period here in restoring speech to some of these individuals.",
+    "start_ms": 3225742,
+    "end_ms": 3237010,
+    "duration_ms": 11268,
+    "word_count": 18,
+    "avg_confidence": 90
+  }
+]

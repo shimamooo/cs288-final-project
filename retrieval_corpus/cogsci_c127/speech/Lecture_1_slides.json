@@ -1,0 +1,3737 @@
+[
+  {
+    "timestamp": 240.0,
+    "text": "OK, a little coordination problem here. Go in there. OK, well, my name's Rich Ivory.",
+    "start_ms": 240000,
+    "end_ms": 267839,
+    "duration_ms": 27839,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 267.839,
+    "text": "And obviously, it's like 127. We're figuring out where I'm going to stand.",
+    "start_ms": 267839,
+    "end_ms": 272920,
+    "duration_ms": 5081,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 272.92,
+    "text": "I feel like this is too close to the screen.",
+    "start_ms": 272920,
+    "end_ms": 277559,
+    "duration_ms": 4639,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 277.559,
+    "text": "Maybe I'll end up down there. I just don't want to trip and fall off.",
+    "start_ms": 277559,
+    "end_ms": 280559,
+    "duration_ms": 3000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 280.559,
+    "text": "So I'll fool with that today. All right, so today we do a little housekeeping and then introduction or overview of the material.",
+    "start_ms": 280559,
+    "end_ms": 291279,
+    "duration_ms": 10720,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 291.279,
+    "text": "So housework. So this is the biggest class I've ever taught.",
+    "start_ms": 291279,
+    "end_ms": 296200,
+    "duration_ms": 4921,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 296.2,
+    "text": "I think the class, when I first started teaching it, had about 75 people.",
+    "start_ms": 296200,
+    "end_ms": 300359,
+    "duration_ms": 4159,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 300.359,
+    "text": "It's been going up and up and up. I love to say it's because of me, but I don't think it is.",
+    "start_ms": 300359,
+    "end_ms": 305119,
+    "duration_ms": 4760,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 305.119,
+    "text": "It's because all the COGSCI majors keep going up and up and up.",
+    "start_ms": 305119,
+    "end_ms": 309320,
+    "duration_ms": 4201,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 309.32,
+    "text": "And it seems to be a core part of that major.",
+    "start_ms": 309320,
+    "end_ms": 314720,
+    "duration_ms": 5400,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 314.72,
+    "text": "So this room holds 400 people. This class has a cap on it of 375.",
+    "start_ms": 314720,
+    "end_ms": 323320,
+    "duration_ms": 8600,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 323.32,
+    "text": "Today, there's 337 enrolled. Wow, that's a huge number. 13 people on the waiting list.",
+    "start_ms": 323320,
+    "end_ms": 330319,
+    "duration_ms": 6999,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 330.319,
+    "text": "So if you do the math, it should be very easy for those people on the wait list and those people in concurrent enrollment to get into the class.",
+    "start_ms": 330319,
+    "end_ms": 338599,
+    "duration_ms": 8280,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 338.599,
+    "text": "And that's a great thing about having a huge classroom because I've never been in that situation before.",
+    "start_ms": 338599,
+    "end_ms": 343238,
+    "duration_ms": 4639,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 343.238,
+    "text": "It's always been, how do we get everyone in the wait list into the class this year?",
+    "start_ms": 343238,
+    "end_ms": 347078,
+    "duration_ms": 3840,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 347.078,
+    "text": "I think it's gonna be a breeze. But mechanically, the department has put the caps, the two departments, at 337 to start.",
+    "start_ms": 347078,
+    "end_ms": 355958,
+    "duration_ms": 8880,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 355.958,
+    "text": "That's why some of you are languishing on the wait list.",
+    "start_ms": 355958,
+    "end_ms": 359278,
+    "duration_ms": 3320,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 359.278,
+    "text": "And they do that because there may be some late ads from the major.",
+    "start_ms": 359278,
+    "end_ms": 363239,
+    "duration_ms": 3961,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 363.239,
+    "text": "And they said in about a week and a half or so, they'll open the enrollment to everyone, concurrent enrollment and the others, if there still is the cap up to the 375.",
+    "start_ms": 363239,
+    "end_ms": 372598,
+    "duration_ms": 9359,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 373.559,
+    "text": "So basically, that's what I'm asking you to do if you're on the wait list.",
+    "start_ms": 373559,
+    "end_ms": 376559,
+    "duration_ms": 3000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 376.559,
+    "text": "How many of you are on the wait list? A few of you?",
+    "start_ms": 376559,
+    "end_ms": 378598,
+    "duration_ms": 2039,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 379.359,
+    "text": "None? Wow, never seen it like that before. Okay, then I won't worry about it.",
+    "start_ms": 379359,
+    "end_ms": 384318,
+    "duration_ms": 4959,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 384.318,
+    "text": "But same thing with concurrent enrollment. Basically, things I'm almost positive will work out, but it won't work out this week and it might not work out next week.",
+    "start_ms": 384318,
+    "end_ms": 392638,
+    "duration_ms": 8320,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 392.638,
+    "text": "You just have to be patient. So if you're doing an ad, but it doesn't seem like that's relevant to anyone here, you do it through what I call Cal Central.",
+    "start_ms": 392638,
+    "end_ms": 402278,
+    "duration_ms": 9640,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 402.278,
+    "text": "What do you call it when you register? Telebears or something like that?",
+    "start_ms": 402278,
+    "end_ms": 405759,
+    "duration_ms": 3481,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 405.759,
+    "text": "So you gotta go through the regular system if you wanna add the class and you gotta find a section that works.",
+    "start_ms": 405759,
+    "end_ms": 411039,
+    "duration_ms": 5280,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 411.039,
+    "text": "And I haven't looked to see the distribution of sections, but I'm betting there's openings at the 8 a.m.",
+    "start_ms": 411039,
+    "end_ms": 416755,
+    "duration_ms": 5716,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 416.755,
+    "text": "sections and there probably aren't at the 2 p.m. sections.",
+    "start_ms": 416755,
+    "end_ms": 420479,
+    "duration_ms": 3724,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 420.479,
+    "text": "So you gotta find a section that has a space to add the class.",
+    "start_ms": 420479,
+    "end_ms": 423878,
+    "duration_ms": 3399,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 423.878,
+    "text": "If you've got a section and you just wanna swap, one way to do it is to drop the class, re-enroll in the new section, but you do take a chance then because if you drop it, you go on the wait list.",
+    "start_ms": 423878,
+    "end_ms": 434679,
+    "duration_ms": 10801,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 434.679,
+    "text": "Unless you have priority, you're gonna have to wait like everyone So we did set up this Google sheet there that you can put your name down, you can indicate what section you're in and where you wanna go.",
+    "start_ms": 434679,
+    "end_ms": 448559,
+    "duration_ms": 13880,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 448.559,
+    "text": "And Sebastian, our head GSI here, is gonna try to identify matches there and put people together and do the swap.",
+    "start_ms": 448559,
+    "end_ms": 456238,
+    "duration_ms": 7679,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 456.238,
+    "text": "If we do that swap, it will be off the books entirely.",
+    "start_ms": 456238,
+    "end_ms": 459078,
+    "duration_ms": 2840,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 459.078,
+    "text": "You'll just go to the new section, they'll go to the new section, but on the books, you'll be listed.",
+    "start_ms": 459078,
+    "end_ms": 463358,
+    "duration_ms": 4280,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 463.358,
+    "text": "In the other section, we'll handle all that when it comes to grading.",
+    "start_ms": 463358,
+    "end_ms": 466798,
+    "duration_ms": 3440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 467.318,
+    "text": "But that's just an informal swap that we'll try to facilitate so that you don't risk dropping the class.",
+    "start_ms": 467318,
+    "end_ms": 472559,
+    "duration_ms": 5241,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 472.559,
+    "text": "But there's no guarantee it's gonna work. Just sign up over the next few days.",
+    "start_ms": 472559,
+    "end_ms": 476679,
+    "duration_ms": 4120,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 476.679,
+    "text": "You gotta sign up by Friday. And then over the weekend, Sebastian will do whatever matches he can do.",
+    "start_ms": 476679,
+    "end_ms": 482479,
+    "duration_ms": 5800,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 482.479,
+    "text": "And basically, we'll be done with it by the 27th.",
+    "start_ms": 482479,
+    "end_ms": 485438,
+    "duration_ms": 2959,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 485.438,
+    "text": "If you don't have the section, you won't by the 27th.",
+    "start_ms": 485438,
+    "end_ms": 488318,
+    "duration_ms": 2880,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 489.318,
+    "text": "If you can't go to that section you're in, then you can't take the class because you gotta be signed up for the section.",
+    "start_ms": 489318,
+    "end_ms": 495438,
+    "duration_ms": 6120,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 495.438,
+    "text": "But that's what we'll do. Otherwise, you gotta go through the regular system and find a class for the section.",
+    "start_ms": 495438,
+    "end_ms": 500199,
+    "duration_ms": 4761,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 500.199,
+    "text": "Any questions about adding section swap? Yeah? How do you know where this will be approved?",
+    "start_ms": 500199,
+    "end_ms": 506759,
+    "duration_ms": 6560,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 506.759,
+    "text": "Oh, you'll get an email. You'll get an email that says, hey, we identified this match here.",
+    "start_ms": 506759,
+    "end_ms": 512039,
+    "duration_ms": 5280,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 512.039,
+    "text": "Or Sebastian may decide to send an email jointly to both of you and say, both confirm, then you got the swap.",
+    "start_ms": 512039,
+    "end_ms": 519199,
+    "duration_ms": 7160,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 519.199,
+    "text": "Any other questions? Okay, and again, the section swap thing, that's all outside the system.",
+    "start_ms": 519199,
+    "end_ms": 526438,
+    "duration_ms": 7239,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 527.238,
+    "text": "You'd stay enrolled in your current one. Prereqs, so there's no prereqs for this class.",
+    "start_ms": 527238,
+    "end_ms": 533199,
+    "duration_ms": 5961,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 533.199,
+    "text": "There's a similar class in neuroscience by the name of cognitive neuroscience.",
+    "start_ms": 533199,
+    "end_ms": 538279,
+    "duration_ms": 5080,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 538.279,
+    "text": "That one has a lot of prereqs. That one has the physics, the chemistry, et cetera.",
+    "start_ms": 538279,
+    "end_ms": 541878,
+    "duration_ms": 3599,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 541.878,
+    "text": "That would go probably into more molecular, cellular detail than I will in this class.",
+    "start_ms": 541878,
+    "end_ms": 547598,
+    "duration_ms": 5720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 547.598,
+    "text": "I do recommend that you've either had one of the overview classes in psych of cognitive psych is 120, equivalent in cog psych is cog psych 100.",
+    "start_ms": 547598,
+    "end_ms": 557639,
+    "duration_ms": 10041,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 557.639,
+    "text": "Cog psych one is also, you know, fine equivalent. 110 is psychology's overview of biological psychology.",
+    "start_ms": 557639,
+    "end_ms": 565559,
+    "duration_ms": 7920,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 565.559,
+    "text": "So it talks about the basics of the nervous system.",
+    "start_ms": 565559,
+    "end_ms": 568919,
+    "duration_ms": 3360,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 568.919,
+    "text": "Having one of those is great. MCB 61, a lot of people tend to have that.",
+    "start_ms": 568919,
+    "end_ms": 572919,
+    "duration_ms": 4000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 572.919,
+    "text": "How many of you have had MCB 61? Okay, yeah, usually a ton of people have had that class, mind brain behavior.",
+    "start_ms": 572919,
+    "end_ms": 580839,
+    "duration_ms": 7920,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 580.839,
+    "text": "That one also is a fine prereq for the class.",
+    "start_ms": 580839,
+    "end_ms": 583999,
+    "duration_ms": 3160,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 584.999,
+    "text": "If you haven't had any of those, my experience is that people are most nervous about the neuroscience part of the class.",
+    "start_ms": 584999,
+    "end_ms": 594159,
+    "duration_ms": 9160,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 595.238,
+    "text": "They think there's gonna be lots of details and stuff.",
+    "start_ms": 595238,
+    "end_ms": 597918,
+    "duration_ms": 2680,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 597.918,
+    "text": "That's not true. I actually think my experience is people have more trouble with the cognitive concepts.",
+    "start_ms": 597918,
+    "end_ms": 602879,
+    "duration_ms": 4961,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 602.879,
+    "text": "So having some experience or exposure to cognitive psychology is probably more helpful than having some exposure to neuroscience.",
+    "start_ms": 602879,
+    "end_ms": 610958,
+    "duration_ms": 8079,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 610.958,
+    "text": "But we do spend the first three weeks of the class kind of going over the basics of methodology because I think methods are so essential to interdisciplinary field like cognitive neuroscience.",
+    "start_ms": 610958,
+    "end_ms": 624399,
+    "duration_ms": 13441,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 626.599,
+    "text": "And also it just gives everyone the common grounding there.",
+    "start_ms": 626599,
+    "end_ms": 629038,
+    "duration_ms": 2439,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 629.038,
+    "text": "So we'll talk a little bit very quickly about basics of neuroscience, organization of the brain, and then the methods that cognitive neuroscientists use to study brain behavior relationships.",
+    "start_ms": 629038,
+    "end_ms": 640899,
+    "duration_ms": 11861,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 643.758,
+    "text": "If you are, have, or have, well, planned. take any of these classes, so 161, I don't find there's that much overlap, so I'm not too concerned about that.",
+    "start_ms": 643758,
+    "end_ms": 654918,
+    "duration_ms": 11160,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 654.918,
+    "text": "117, when it's taught by Desposito, I think it might be this semester, there is a lot of overlap in the class.",
+    "start_ms": 654918,
+    "end_ms": 662878,
+    "duration_ms": 7960,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 662.878,
+    "text": "Originally, that class was much more on disorders of the brain, like psychiatric conditions, like schizophrenia, bipolar disease, things you don't actually talk about in this class at all.",
+    "start_ms": 662878,
+    "end_ms": 675157,
+    "duration_ms": 12279,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 675.157,
+    "text": "But when Desposito teaches it, he's moved it much more towards cognitive neuroscience, so there is a great deal of overlap.",
+    "start_ms": 675157,
+    "end_ms": 681718,
+    "duration_ms": 6561,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 681.718,
+    "text": "So if you take the classes from him and mine, at the same time, you know, you're basically getting two perspectives on a similar topic, which some people like, but certainly you're going to see a lot of overlap in the material, so I wouldn't encourage that.",
+    "start_ms": 681718,
+    "end_ms": 695797,
+    "duration_ms": 14079,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 695.797,
+    "text": "If you take 127, last semester it was taught by Shenev, it'll be taught again next year.",
+    "start_ms": 695797,
+    "end_ms": 700598,
+    "duration_ms": 4801,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 700.598,
+    "text": "Again, there, there would be a great deal of overlap and you wouldn't be able to take the class twice.",
+    "start_ms": 700598,
+    "end_ms": 705637,
+    "duration_ms": 5039,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 705.637,
+    "text": "The other one, though, is the Neuro 127 taught by Jack Gallant.",
+    "start_ms": 705637,
+    "end_ms": 709358,
+    "duration_ms": 3721,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 709.358,
+    "text": "That one's going to be really heavy on neuroimaging. We'll certainly talk about brain imaging, about what they call functional MRI.",
+    "start_ms": 709358,
+    "end_ms": 715838,
+    "duration_ms": 6480,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 715.838,
+    "text": "In this class, to some degree, that will be a huge part of his class.",
+    "start_ms": 715838,
+    "end_ms": 719438,
+    "duration_ms": 3600,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 719.438,
+    "text": "He also told me that he's also updated it a bit to have a lot more on computational modeling and AI models and so forth.",
+    "start_ms": 719438,
+    "end_ms": 727478,
+    "duration_ms": 8040,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 727.478,
+    "text": "We won't talk about that so much in this class.",
+    "start_ms": 727478,
+    "end_ms": 729637,
+    "duration_ms": 2159,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 729.637,
+    "text": "So there is some difference there. Of course, for that class, you're supposed to have had, again, a year's worth of physics, a year's worth of biology, a year's worth of chemistry.",
+    "start_ms": 729637,
+    "end_ms": 738877,
+    "duration_ms": 9240,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 738.877,
+    "text": "So there's a lot of prereqs there and he'll assume that you have that.",
+    "start_ms": 738877,
+    "end_ms": 742158,
+    "duration_ms": 3281,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 742.158,
+    "text": "All right, okay, so we're going to use iClicker here, and yes, it will be one way we sort of take attendance.",
+    "start_ms": 742158,
+    "end_ms": 750798,
+    "duration_ms": 8640,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 750.798,
+    "text": "We encourage you to come to the classes. They are going to be recorded, the lectures.",
+    "start_ms": 750798,
+    "end_ms": 755197,
+    "duration_ms": 4399,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 755.197,
+    "text": "You can go online. You can watch the lectures. You'll have access to the slides both before and afterwards.",
+    "start_ms": 755197,
+    "end_ms": 761118,
+    "duration_ms": 5921,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 761.118,
+    "text": "But I do believe there's value in attending class, and at least my experience through the pandemic was that it seemed like students' grasp of the material is better when they're in class.",
+    "start_ms": 761118,
+    "end_ms": 771997,
+    "duration_ms": 10879,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 771.997,
+    "text": "So I encourage you to do it. I think we'll get to the grading in a little bit, but I think it's like 7% of your grade.",
+    "start_ms": 771997,
+    "end_ms": 779958,
+    "duration_ms": 7961,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 779.958,
+    "text": "But also, I have some questions in there, so everyone finding this working?",
+    "start_ms": 779958,
+    "end_ms": 785277,
+    "duration_ms": 5319,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 785.277,
+    "text": "You found the class? The class isn't on your iClicker.",
+    "start_ms": 785277,
+    "end_ms": 791117,
+    "duration_ms": 5840,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 791.117,
+    "text": "Is it on anyone's iClicker? What's that? It's on yours.",
+    "start_ms": 791117,
+    "end_ms": 796158,
+    "duration_ms": 5041,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 796.158,
+    "text": "Well, that's a real mystery. How many people found the class?",
+    "start_ms": 796158,
+    "end_ms": 803997,
+    "duration_ms": 7839,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 803.997,
+    "text": "Raise your hands higher, come on, so I can see.",
+    "start_ms": 803997,
+    "end_ms": 806158,
+    "duration_ms": 2161,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 806.158,
+    "text": "How many can't find the class? All right, how many found the class and are looking for Psych 127?",
+    "start_ms": 806158,
+    "end_ms": 815037,
+    "duration_ms": 8879,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 815.037,
+    "text": "How many found the class and are looking for Cog Psy 127?",
+    "start_ms": 815037,
+    "end_ms": 818318,
+    "duration_ms": 3281,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 818.318,
+    "text": "What am I saying wrong, because about half of you said you found the class, and now only...",
+    "start_ms": 818318,
+    "end_ms": 826358,
+    "duration_ms": 8040,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 826.358,
+    "text": "It's under Cognitive Neuroscience. With a number or without a number?",
+    "start_ms": 826358,
+    "end_ms": 831037,
+    "duration_ms": 4679,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 831.037,
+    "text": "No number. No number. Okay. Now, is there anyone who's not finding the class?",
+    "start_ms": 831037,
+    "end_ms": 837037,
+    "duration_ms": 6000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 837.397,
+    "text": "There was the one from last semester, or some course from last semester.",
+    "start_ms": 837397,
+    "end_ms": 843397,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 843.397,
+    "text": "From last semester. I don't know if Amitai used it in his class.",
+    "start_ms": 843397,
+    "end_ms": 847397,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 847.397,
+    "text": "But are you finding it now? Yeah. So everyone's found it.",
+    "start_ms": 847397,
+    "end_ms": 852397,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 852.397,
+    "text": "Great. Yes, question. It showed up when I just typed in Ivory instead of the class name.",
+    "start_ms": 852397,
+    "end_ms": 857397,
+    "duration_ms": 5000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 857.397,
+    "text": "Ivory. Okay, use my name. It's like Ivory soap without the O, I-V-R-Y.",
+    "start_ms": 857397,
+    "end_ms": 862397,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 862.397,
+    "text": "All right, so go ahead and answer the question. I'll give you another 10 seconds here.",
+    "start_ms": 862397,
+    "end_ms": 867757,
+    "duration_ms": 5360,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 867.757,
+    "text": "A, B, C, D, or E? Is that working? I don't think it's working.",
+    "start_ms": 867757,
+    "end_ms": 877757,
+    "duration_ms": 10000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 877.757,
+    "text": "Oh, I haven't started a quiz. Right. Okay. Exactly. I have to find my cursor, though.",
+    "start_ms": 877757,
+    "end_ms": 884757,
+    "duration_ms": 7000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 884.757,
+    "text": "Is it a quiz or is it a poll? It's a poll.",
+    "start_ms": 884757,
+    "end_ms": 890757,
+    "duration_ms": 6000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 890.757,
+    "text": "Multiple choice. Multiple choice. I think I hit green and it goes.",
+    "start_ms": 890757,
+    "end_ms": 899118,
+    "duration_ms": 8361,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 901.118,
+    "text": "Why did it do that? Okay, now see if it's working.",
+    "start_ms": 901118,
+    "end_ms": 912118,
+    "duration_ms": 11000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 915.118,
+    "text": "I got 26 responses. I got 40 responses. What? Now you should panic.",
+    "start_ms": 915118,
+    "end_ms": 920118,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 920.118,
+    "text": "No. Go ahead. It's not showing up, but it's showing up for them.",
+    "start_ms": 920118,
+    "end_ms": 928477,
+    "duration_ms": 8359,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 933.477,
+    "text": "All right, so luckily today we're not really counting attendance, but I have 192 responses, so it's clearly working for more than half of you.",
+    "start_ms": 933477,
+    "end_ms": 947477,
+    "duration_ms": 14000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 947.477,
+    "text": "I'll give you 10 more seconds here. And again, don't panic if you don't get in.",
+    "start_ms": 947477,
+    "end_ms": 953838,
+    "duration_ms": 6361,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 953.838,
+    "text": "This is more a test run. All right. Wow. 223 responses.",
+    "start_ms": 953838,
+    "end_ms": 961838,
+    "duration_ms": 8000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 961.838,
+    "text": "I don't know how many people are here, but that looks like a good number of you.",
+    "start_ms": 961838,
+    "end_ms": 965838,
+    "duration_ms": 4000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 965.838,
+    "text": "Okay, let's look at the results. at the results. So I think I hit stop.",
+    "start_ms": 965838,
+    "end_ms": 969276,
+    "duration_ms": 3438,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 970.276,
+    "text": "And again, don't panic if we didn't get your response.",
+    "start_ms": 970276,
+    "end_ms": 973356,
+    "duration_ms": 3080,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 973.356,
+    "text": "Results. All right, there are the results. You don't see them, I do.",
+    "start_ms": 973356,
+    "end_ms": 977957,
+    "duration_ms": 4601,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 979.717,
+    "text": "Okay, I'll figure out how to project it on the screen.",
+    "start_ms": 979717,
+    "end_ms": 982436,
+    "duration_ms": 2719,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 982.436,
+    "text": "I will tell you the answer. 50 of you are COG-Sci majors, 128 are psychology majors, 22 of you are neuroscience majors, 19 are double majors, and 20 are none of the above.",
+    "start_ms": 982436,
+    "end_ms": 997196,
+    "duration_ms": 14760,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 997.196,
+    "text": "Okay, so that surprised me. I thought most of you are COG-Sci majors, but it turns out most of you are psychology majors, or else you decided to lie on the pole.",
+    "start_ms": 997196,
+    "end_ms": 1006877,
+    "duration_ms": 9681,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1006.877,
+    "text": "I'm not sure which. So we gotta figure out how we get this on the screen.",
+    "start_ms": 1006877,
+    "end_ms": 1009636,
+    "duration_ms": 2759,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1009.636,
+    "text": "Not right now, doesn't matter, okay. I can drag it.",
+    "start_ms": 1009636,
+    "end_ms": 1013437,
+    "duration_ms": 3801,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1015.196,
+    "text": "Did that drag it? Did that drag it? Okay, next time, next one.",
+    "start_ms": 1015196,
+    "end_ms": 1021196,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1022.196,
+    "text": "All right, onward. Not onward now. Why does that not wanna work?",
+    "start_ms": 1022196,
+    "end_ms": 1028717,
+    "duration_ms": 6521,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1028.717,
+    "text": "Housework. Oh, right, okay, that is housework. Back to housework.",
+    "start_ms": 1028717,
+    "end_ms": 1035596,
+    "duration_ms": 6879,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1035.596,
+    "text": "Okay, so I'm sure you've all found the B-Course site.",
+    "start_ms": 1035596,
+    "end_ms": 1039397,
+    "duration_ms": 3801,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1040.717,
+    "text": "Everything pretty much is gonna be under one of two places.",
+    "start_ms": 1040717,
+    "end_ms": 1043316,
+    "duration_ms": 2599,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1043.316,
+    "text": "Under file, well, you get announcements. Under files, there's the reader there, there's the syllabus, and that's where all the lecture slides will be posted.",
+    "start_ms": 1043316,
+    "end_ms": 1051276,
+    "duration_ms": 7960,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1051.276,
+    "text": "I'll post before class, one called Preview. I'll post one after class.",
+    "start_ms": 1051276,
+    "end_ms": 1056117,
+    "duration_ms": 4841,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1056.117,
+    "text": "Maybe it says Post on it, I'll have something, but it won't be the one that says Preview.",
+    "start_ms": 1056117,
+    "end_ms": 1061356,
+    "duration_ms": 5239,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1061.356,
+    "text": "And then the audio recordings are supposed to automatically show up in the Media Gallery.",
+    "start_ms": 1061356,
+    "end_ms": 1067236,
+    "duration_ms": 5880,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1067.236,
+    "text": "So that's basically where you'll find everything. There'll be one that's called Assignments.",
+    "start_ms": 1067236,
+    "end_ms": 1071916,
+    "duration_ms": 4680,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1071.916,
+    "text": "It actually already has one of the assignments posted in there.",
+    "start_ms": 1071916,
+    "end_ms": 1075876,
+    "duration_ms": 3960,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1075.876,
+    "text": "Sections start next week, and you should read the first reader article in advance of section, so that you come to section prepared.",
+    "start_ms": 1075876,
+    "end_ms": 1084757,
+    "duration_ms": 8881,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1084.757,
+    "text": "You'll do it as a group next week, but down the road, well, you'll be doing it always as a group, but you're basically gonna be using the sections to kind of learn how to read original research articles, and that'll be a big part of the section.",
+    "start_ms": 1084757,
+    "end_ms": 1097197,
+    "duration_ms": 12440,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1097.197,
+    "text": "And that means we'll be actually working through the papers figure by figure.",
+    "start_ms": 1097197,
+    "end_ms": 1100997,
+    "duration_ms": 3800,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1100.997,
+    "text": "So when you read the papers, make sure you read the figure.",
+    "start_ms": 1100997,
+    "end_ms": 1103837,
+    "duration_ms": 2840,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1104.676,
+    "text": "That's always what I say to people is a big part of the transition from lower division to upper division classes is that when you initially start reading science papers, people read the introduction, and they read the discussion.",
+    "start_ms": 1104676,
+    "end_ms": 1116277,
+    "duration_ms": 11601,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1116.277,
+    "text": "Okay, they read the introduction, find out what's being studied.",
+    "start_ms": 1116277,
+    "end_ms": 1118837,
+    "duration_ms": 2560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1118.837,
+    "text": "They read the discussion to hear what was learned. And by the time you finish this class, I hope you read the papers while you read the methods.",
+    "start_ms": 1118837,
+    "end_ms": 1125357,
+    "duration_ms": 6520,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1125.357,
+    "text": "You skim the introduction, you read the methods, you read the results, and maybe you read the discussion.",
+    "start_ms": 1125357,
+    "end_ms": 1130837,
+    "duration_ms": 5480,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1130.837,
+    "text": "Because if you gotta handle on what's being done and what the results are, then you really got a sense of what the paper's all about.",
+    "start_ms": 1130837,
+    "end_ms": 1137596,
+    "duration_ms": 6759,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1137.596,
+    "text": "So that's the skill we're gonna try to develop in sections.",
+    "start_ms": 1137596,
+    "end_ms": 1140876,
+    "duration_ms": 3280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1140.876,
+    "text": "That's what I mean by the format. For the most weeks, that's what we're gonna do.",
+    "start_ms": 1140876,
+    "end_ms": 1144876,
+    "duration_ms": 4000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1144.876,
+    "text": "You're gonna break up into groups. Each group will be assigned a figure, and then you'll come together as a group, and you guys will present those figures to the class.",
+    "start_ms": 1144876,
+    "end_ms": 1153477,
+    "duration_ms": 8601,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1154.477,
+    "text": "We have a few other activities. You'll be doing one of these ZAPs, which is these online experiments in section, and then you'll be doing them on your own throughout the semester.",
+    "start_ms": 1154477,
+    "end_ms": 1164037,
+    "duration_ms": 9560,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1164.037,
+    "text": "There'll be a short quiz in two weeks on the basics of neuroscience.",
+    "start_ms": 1164037,
+    "end_ms": 1168917,
+    "duration_ms": 4880,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1168.917,
+    "text": "And then there's this new thing that I've never done before, but I'm gonna try it this semester called, it's really horrible, Qualmuri, that's how I pronounce it, or Q-A-L-M-R-I.",
+    "start_ms": 1168917,
+    "end_ms": 1179436,
+    "duration_ms": 10519,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1179.436,
+    "text": "It's a different way that someone's developed for how to extract the gist of a paper.",
+    "start_ms": 1179436,
+    "end_ms": 1184757,
+    "duration_ms": 5321,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1184.757,
+    "text": "Again, most of the time I want you digging into the figures, so I want you getting into the details.",
+    "start_ms": 1184757,
+    "end_ms": 1189076,
+    "duration_ms": 4319,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1189.076,
+    "text": "But there's also a skill to be able to get the gist of a paper.",
+    "start_ms": 1189076,
+    "end_ms": 1191757,
+    "duration_ms": 2681,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1191.757,
+    "text": "What's the big point of the paper? And so some of the weeks we'll be doing that, and I'll actually have a few writing assignments where you're actually doing a Q-A-L-M-R-I.",
+    "start_ms": 1191757,
+    "end_ms": 1201076,
+    "duration_ms": 9319,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1202.397,
+    "text": "All right, so assignments or assessments, I guess you can call it.",
+    "start_ms": 1202397,
+    "end_ms": 1206117,
+    "duration_ms": 3720,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1206.117,
+    "text": "So we have two midterms and we have a final.",
+    "start_ms": 1206117,
+    "end_ms": 1209096,
+    "duration_ms": 2979,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1209.997,
+    "text": "In the past, we've always had a capstone four-part writing project, but that's gone the way of AI.",
+    "start_ms": 1209997,
+    "end_ms": 1217316,
+    "duration_ms": 7319,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1217.316,
+    "text": "I'm sorry to say, not that I don't trust all of you, but it just seems to be an issue with all writing assignments, especially for a large class.",
+    "start_ms": 1217316,
+    "end_ms": 1226477,
+    "duration_ms": 9161,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1226.477,
+    "text": "It was always a big hassle. Now we've gotten so large to grade a lot of written papers, but coupling that with the widespread use of AI for help with writing, decided to just dispense with it.",
+    "start_ms": 1226477,
+    "end_ms": 1240096,
+    "duration_ms": 13619,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1240.096,
+    "text": "So you don't have the four-part writing paper. Maybe you think that's a good thing, but we do have an extra exam to not put all the heavy weight on two different exams.",
+    "start_ms": 1240096,
+    "end_ms": 1249177,
+    "duration_ms": 9081,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1249.177,
+    "text": "So there's those three exams. They reach about 22% of your grade.",
+    "start_ms": 1249177,
+    "end_ms": 1253137,
+    "duration_ms": 3960,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1253.137,
+    "text": "It's in the syllabus. There's an anatomy quiz. It's really just to get your feet wet there.",
+    "start_ms": 1253137,
+    "end_ms": 1259616,
+    "duration_ms": 6479,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1259.616,
+    "text": "It's actually more like a stress reduction because people are nervous again about how they're gonna master the material.",
+    "start_ms": 1259616,
+    "end_ms": 1265257,
+    "duration_ms": 5641,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1265.257,
+    "text": "And it's just gonna show you the kind of level of material you need to master, at least on the neuroscience end.",
+    "start_ms": 1265257,
+    "end_ms": 1270857,
+    "duration_ms": 5600,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1270.857,
+    "text": "And you have some other sorts of assignments like homework assignments, these ZAPS experiments, and these in section, these writing assignments on the QUAL MRI.",
+    "start_ms": 1270857,
+    "end_ms": 1279537,
+    "duration_ms": 8680,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1280.457,
+    "text": "You also have an RPP requirement of three units. That gets folded into your section grade.",
+    "start_ms": 1280457,
+    "end_ms": 1286816,
+    "duration_ms": 6359,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1286.596,
+    "text": "section grade. So both the way that there's also some points to be earned by attending class, there's also points to be earned by attending section.",
+    "start_ms": 1286596,
+    "end_ms": 1296476,
+    "duration_ms": 9880,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1296.476,
+    "text": "And I think the way it works is that basically section's gonna be 10% of your grade, seven-tenths of that 10% are based on your participation.",
+    "start_ms": 1296476,
+    "end_ms": 1306836,
+    "duration_ms": 10360,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1306.836,
+    "text": "Participation means show up and actually participate in the analysis of the figures.",
+    "start_ms": 1306836,
+    "end_ms": 1313236,
+    "duration_ms": 6400,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1313.236,
+    "text": "And the other part is basically the RPP, do you do your three credits or not, or do you do the alternative assignment?",
+    "start_ms": 1313236,
+    "end_ms": 1318875,
+    "duration_ms": 5639,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1320.396,
+    "text": "All right, so I think that basically covers the assessments.",
+    "start_ms": 1320396,
+    "end_ms": 1324396,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1324.396,
+    "text": "This is the data from the last two times I taught the class.",
+    "start_ms": 1324396,
+    "end_ms": 1327436,
+    "duration_ms": 3040,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1327.436,
+    "text": "I was on sabbatical in the missing year there, but it's been basically pretty consistent like this.",
+    "start_ms": 1327436,
+    "end_ms": 1333716,
+    "duration_ms": 6280,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1333.716,
+    "text": "Which means that 25% or so people get A's in the class typically.",
+    "start_ms": 1333716,
+    "end_ms": 1339796,
+    "duration_ms": 6080,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1339.796,
+    "text": "I mean, in the end, if 50% of you get A's, that's fine.",
+    "start_ms": 1339796,
+    "end_ms": 1344675,
+    "duration_ms": 4879,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1344.675,
+    "text": "I go pretty much by a straight curve, unless things are low and then I will curve up, I won't curve down.",
+    "start_ms": 1344675,
+    "end_ms": 1350876,
+    "duration_ms": 6201,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1350.876,
+    "text": "So 100% could get A's in theory. Historically, that's never happened.",
+    "start_ms": 1350876,
+    "end_ms": 1355196,
+    "duration_ms": 4320,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1355.196,
+    "text": "This is kind of what the distribution typically looks like.",
+    "start_ms": 1355196,
+    "end_ms": 1357955,
+    "duration_ms": 2759,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1357.955,
+    "text": "So it's got a low number of A's relative to most psych classes.",
+    "start_ms": 1357955,
+    "end_ms": 1361915,
+    "duration_ms": 3960,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1361.915,
+    "text": "Lots of B's, about 20% C's. To get a D or an F in this class, you gotta make some effort to get a D or F, meaning you gotta skip one of the assignments.",
+    "start_ms": 1361915,
+    "end_ms": 1372476,
+    "duration_ms": 10561,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1372.476,
+    "text": "Either skip an exam, never go to section, you have to do something like that.",
+    "start_ms": 1372476,
+    "end_ms": 1379516,
+    "duration_ms": 7040,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1379.516,
+    "text": "And if you look at the syllabus, you see the points.",
+    "start_ms": 1379516,
+    "end_ms": 1381516,
+    "duration_ms": 2000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1381.516,
+    "text": "You'll see that it's pretty easy to pick up 30 or 40 full max points and make the grade mostly dependent on how you do on the exams.",
+    "start_ms": 1381516,
+    "end_ms": 1389955,
+    "duration_ms": 8439,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1389.955,
+    "text": "So again, if you do all the assignments, you're pretty much guaranteed to pass.",
+    "start_ms": 1389955,
+    "end_ms": 1393235,
+    "duration_ms": 3280,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1394.836,
+    "text": "But again, then there's this distribution between the A, B, and C range.",
+    "start_ms": 1394836,
+    "end_ms": 1398116,
+    "duration_ms": 3280,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1400.116,
+    "text": "Any questions? Yeah? What's the title of reader number one?",
+    "start_ms": 1400116,
+    "end_ms": 1403436,
+    "duration_ms": 3320,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1403.436,
+    "text": "They're not numbers. But if you look at the syllabus, at the end, it lists the reader articles one through 12.",
+    "start_ms": 1403436,
+    "end_ms": 1410796,
+    "duration_ms": 7360,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1410.796,
+    "text": "That's right. So if you look at it, I don't remember which one it is.",
+    "start_ms": 1410796,
+    "end_ms": 1414555,
+    "duration_ms": 3759,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1414.555,
+    "text": "I think it's about, it's an AI paper, actually, about competition between graduate students in neuroscience and AI predicting the results of experiments.",
+    "start_ms": 1414555,
+    "end_ms": 1427555,
+    "duration_ms": 13000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1427.555,
+    "text": "I believe that's the first reader article. It's kind of a fun one.",
+    "start_ms": 1427555,
+    "end_ms": 1430635,
+    "duration_ms": 3080,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1430.635,
+    "text": "Yeah? Will you get an exam drop? There's no exam drop.",
+    "start_ms": 1430635,
+    "end_ms": 1435596,
+    "duration_ms": 4961,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1435.596,
+    "text": "There's no extra credit. So everything counts. Everything is graded on a 100 point scale.",
+    "start_ms": 1435596,
+    "end_ms": 1441115,
+    "duration_ms": 5519,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1441.115,
+    "text": "They're weighted by the amount shown in the syllabus at the end.",
+    "start_ms": 1441115,
+    "end_ms": 1444475,
+    "duration_ms": 3360,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1444.516,
+    "text": "And I assume that it's gonna be 97.5 to 100, it's gonna be an A plus.",
+    "start_ms": 1444516,
+    "end_ms": 1449635,
+    "duration_ms": 5119,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1449.635,
+    "text": "92.5 to 97.5 is an A, 90 to 92.5, A minus.",
+    "start_ms": 1449635,
+    "end_ms": 1454956,
+    "duration_ms": 5321,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1454.956,
+    "text": "Right on down the line. If the class average was, and it doesn't really happen, but could, was below 80, then I would curve up.",
+    "start_ms": 1454956,
+    "end_ms": 1463755,
+    "duration_ms": 8799,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1463.755,
+    "text": "And it has happened, actually. And then I would curve up, and then I'd just look for where there are breaks.",
+    "start_ms": 1463755,
+    "end_ms": 1470516,
+    "duration_ms": 6761,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1470.516,
+    "text": "And I think that actually happened in 2024 that, I think, A minus went down to like 86 or 87 or something like that.",
+    "start_ms": 1470516,
+    "end_ms": 1478275,
+    "duration_ms": 7759,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1478.275,
+    "text": "But yeah, there's no drops, and there's no extra credit.",
+    "start_ms": 1478275,
+    "end_ms": 1481436,
+    "duration_ms": 3161,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1481.436,
+    "text": "So you wanna do all your assignments, and you don't wanna come see me the last week and say, I'm failing the class cuz I didn't take the first midterm.",
+    "start_ms": 1481436,
+    "end_ms": 1488115,
+    "duration_ms": 6679,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1488.115,
+    "text": "What can I do? You know the rules of the game.",
+    "start_ms": 1488115,
+    "end_ms": 1492156,
+    "duration_ms": 4041,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1494.635,
+    "text": "All right, so any questions about the mechanics? I mean, really, it's a big class, but just ask questions.",
+    "start_ms": 1494635,
+    "end_ms": 1501036,
+    "duration_ms": 6401,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1501.036,
+    "text": "Cuz if you have a question, your classmates probably have a question.",
+    "start_ms": 1501036,
+    "end_ms": 1505115,
+    "duration_ms": 4079,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1505.115,
+    "text": "Okay, so what is cognitive neuroscience? So the book's called The Biology of the Mind, okay?",
+    "start_ms": 1505115,
+    "end_ms": 1512796,
+    "duration_ms": 7681,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1512.796,
+    "text": "It really is about trying to understand the mind, so how we think, right?",
+    "start_ms": 1512796,
+    "end_ms": 1517436,
+    "duration_ms": 4640,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1517.436,
+    "text": "That's kind of a mental construct. But using neuroscience material, like using facts or information or methods that probe the brain as a way to understand how the mind operates.",
+    "start_ms": 1517436,
+    "end_ms": 1530195,
+    "duration_ms": 12759,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1530.195,
+    "text": "And it's primarily, I'd say there's four primary disciplines that contribute to cognitive neuroscience.",
+    "start_ms": 1530195,
+    "end_ms": 1537675,
+    "duration_ms": 7480,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1537.675,
+    "text": "There's neurology, and neurology, again, is a branch of medicine.",
+    "start_ms": 1537675,
+    "end_ms": 1542395,
+    "duration_ms": 4720,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1542.395,
+    "text": "So a neurologist is gonna have an MD. And they're usually, they're mostly interested in pathology of the nervous system, right?",
+    "start_ms": 1542395,
+    "end_ms": 1550156,
+    "duration_ms": 7761,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1550.156,
+    "text": "You go to see a neurologist when you might have had a stroke or if you're developing memory problems and they wanna make a diagnosis of Alzheimer's or something like that.",
+    "start_ms": 1550156,
+    "end_ms": 1559596,
+    "duration_ms": 9440,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1559.596,
+    "text": "Actually, most people who go to a neurologist have back pain.",
+    "start_ms": 1559596,
+    "end_ms": 1561716,
+    "duration_ms": 2120,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1561.716,
+    "text": "That's probably 90% of the cases a neurologist sees. But there's also a whole part interested about the function and the pathology of the nervous system.",
+    "start_ms": 1561716,
+    "end_ms": 1569756,
+    "duration_ms": 8040,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1569.756,
+    "text": "So a neurologist is interested in what's wrong and what we can do to cure it.",
+    "start_ms": 1569756,
+    "end_ms": 1574275,
+    "duration_ms": 4519,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1574.275,
+    "text": "But of course, they're studying people with brain disorders. And that turns out to be a rich source of material for making inferences about how different parts of the brain come together to allow us to do something like learn new material or orient our attention or perform skilled movements.",
+    "start_ms": 1574275,
+    "end_ms": 1591756,
+    "duration_ms": 17481,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1592.876,
+    "text": "Then there's this massive, the neurosciences. Again, a person who's a neuroscientist probably has a PhD, not an MD.",
+    "start_ms": 1592876,
+    "end_ms": 1600036,
+    "duration_ms": 7160,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1600.036,
+    "text": "So they're a researcher oriented towards research. Comes in all sorts of varieties if you.",
+    "start_ms": 1600036,
+    "end_ms": 1605995,
+    "duration_ms": 5959,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1605.675,
+    "text": "If you go to the annual meeting of neuroscience, it's one of the largest conferences in the world.",
+    "start_ms": 1605675,
+    "end_ms": 1611554,
+    "duration_ms": 5879,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1611.554,
+    "text": "There'll be like 35,000 people there studying every possible thing.",
+    "start_ms": 1611554,
+    "end_ms": 1616075,
+    "duration_ms": 4521,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1616.075,
+    "text": "Some of them are studying anatomy, neuroanatomy. Some are studying physiology.",
+    "start_ms": 1616075,
+    "end_ms": 1620995,
+    "duration_ms": 4920,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1620.995,
+    "text": "So anatomy's about the structure. Physiology's about the function, what makes a neuron become active and so forth.",
+    "start_ms": 1620995,
+    "end_ms": 1629354,
+    "duration_ms": 8359,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1629.354,
+    "text": "Neurochemistry about neurotransmitters and so forth. All sorts of different things fall under this giant umbrella of neuroscience.",
+    "start_ms": 1629354,
+    "end_ms": 1637395,
+    "duration_ms": 8041,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1637.395,
+    "text": "And that's really focusing on the mechanisms of the nervous system.",
+    "start_ms": 1637395,
+    "end_ms": 1640755,
+    "duration_ms": 3360,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1640.755,
+    "text": "What makes cells fire? How do they communicate? How do networks come together and so forth?",
+    "start_ms": 1640755,
+    "end_ms": 1646214,
+    "duration_ms": 5459,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1647.194,
+    "text": "So that's all again on the neuroscience side, but the cognitive neuroscience part is that really cognitive neuroscience is really just a branch or a version of cognitive psychology.",
+    "start_ms": 1647194,
+    "end_ms": 1656994,
+    "duration_ms": 9800,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1656.994,
+    "text": "And cognitive psychology is really interested about how does the mind process information, right?",
+    "start_ms": 1656994,
+    "end_ms": 1662555,
+    "duration_ms": 5561,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1662.555,
+    "text": "How do we use language? Or how do we memorize things and so forth?",
+    "start_ms": 1662555,
+    "end_ms": 1667475,
+    "duration_ms": 4920,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1667.475,
+    "text": "These are the topics we'll cover. Cognitive psychology can exist without any study of the brain, but cognitive neuroscience came into kind of existence in the sense when people recognized that we have tools that can study, say, human brain function and that they might be informative for understanding how the mind processes information.",
+    "start_ms": 1667475,
+    "end_ms": 1688155,
+    "duration_ms": 20680,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1688.155,
+    "text": "And it's kind of grown up hand in hand with computer science, cognitive psychology.",
+    "start_ms": 1688155,
+    "end_ms": 1692034,
+    "duration_ms": 3879,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1692.034,
+    "text": "And cognitive science and computer science in a sense kind of all emerged together in the 1950s and through the present there as people realized that computer systems in some sense, not in other senses, but in some sense are another information processing system.",
+    "start_ms": 1692034,
+    "end_ms": 1708634,
+    "duration_ms": 16600,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1709.475,
+    "text": "And there may be parallels between how computers process information and how people process information, animals process information.",
+    "start_ms": 1709475,
+    "end_ms": 1716234,
+    "duration_ms": 6759,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1716.234,
+    "text": "There's probably striking differences there, but we could also then build computer models to try to mimic human behavior.",
+    "start_ms": 1716234,
+    "end_ms": 1722755,
+    "duration_ms": 6521,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1722.755,
+    "text": "Now there's whole branches of artificial intelligence that don't care about how humans process information.",
+    "start_ms": 1722755,
+    "end_ms": 1729355,
+    "duration_ms": 6600,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1729.355,
+    "text": "They just want a computer that's gonna do it efficiently.",
+    "start_ms": 1729355,
+    "end_ms": 1732335,
+    "duration_ms": 2980,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1732.335,
+    "text": "But there's also large branches of computer science and AI that are interested in trying to say, can we use these tools as ways to understand how the brain organizes, how such complex behavior can emerge from something that is composed of many, many billions of tiny little elements.",
+    "start_ms": 1732335,
+    "end_ms": 1750115,
+    "duration_ms": 17780,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1751.635,
+    "text": "Now, of course, now the word cognitive neuroscience, you'll see this in chapter one.",
+    "start_ms": 1751635,
+    "end_ms": 1756234,
+    "duration_ms": 4599,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1756.234,
+    "text": "They talk about one of the authors, Mike Gazzaniga, talks about coining the term back in the 1970s and so forth.",
+    "start_ms": 1756234,
+    "end_ms": 1764555,
+    "duration_ms": 8321,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1764.555,
+    "text": "But that doesn't mean like, you know, out of the blue he had this idea like, hey, let's study cognitive psychology by using neuroscience methods.",
+    "start_ms": 1764555,
+    "end_ms": 1771874,
+    "duration_ms": 7319,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1771.874,
+    "text": "There's a long, long history here where people have understood from thousands of years now that there's some important relationship between this part, the structure underneath our skull here, and all the sort of mental facilities that we have.",
+    "start_ms": 1771874,
+    "end_ms": 1786954,
+    "duration_ms": 15080,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1786.954,
+    "text": "And maybe its most prominent antecedent was in a branch of neurology that was called behavioral neurology.",
+    "start_ms": 1786954,
+    "end_ms": 1794534,
+    "duration_ms": 7580,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1794.534,
+    "text": "And there was just really the emphasis, it's really the emphasis that's changed.",
+    "start_ms": 1794534,
+    "end_ms": 1798135,
+    "duration_ms": 3601,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1798.135,
+    "text": "In behavioral neurology, the emphasis was about thinking about how are different parts of the brain associated with different tasks.",
+    "start_ms": 1798135,
+    "end_ms": 1806174,
+    "duration_ms": 8039,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1806.174,
+    "text": "And the most dramatic example is the work starting in the 19th century that pinpointed that, hey, there's something special about the left side of the brain that's critical for language function differently than what's happening in the right hemisphere.",
+    "start_ms": 1806174,
+    "end_ms": 1820495,
+    "duration_ms": 14321,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1820.495,
+    "text": "And that came about, again, through behavioral neurology. They might not have called neurologists at the time, but observations, for instance, seeing that people who had head trauma that affected the left side of the brain might have difficulties with language to a much greater degree than people had trauma from damage to the right side of the brain.",
+    "start_ms": 1820495,
+    "end_ms": 1840814,
+    "duration_ms": 20319,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1840.814,
+    "text": "Many of these early traumatic events might have been from a war.",
+    "start_ms": 1840814,
+    "end_ms": 1844534,
+    "duration_ms": 3720,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1844.534,
+    "text": "Of course, people were having strokes then, too, but we didn't have imaging tools to see what part of the brain was damaged in strokes, but there were different ways people could make inferences.",
+    "start_ms": 1844534,
+    "end_ms": 1855194,
+    "duration_ms": 10660,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1855.194,
+    "text": "So again, the neurologist might give us these observations, and here's sort of a classic diagram from kind of the heyday of behavioral neurology, and you still get pictures like this pointing to different parts of the brain and saying, what are the functions associated with them?",
+    "start_ms": 1855194,
+    "end_ms": 1871555,
+    "duration_ms": 16361,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1871.555,
+    "text": "So the occipital, back of the brain here, that seems to be really important for vision.",
+    "start_ms": 1871555,
+    "end_ms": 1876435,
+    "duration_ms": 4880,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1876.435,
+    "text": "That's certainly true. Motor function associated up here, hippocampus with memory, and again, like I said, if we had the left and the right side of the brain separately, I'm sure there'd be an arrow pointing to the left side saying language, and there'd be an arrow pointing to the right side that might say visual-spatial processing and so forth.",
+    "start_ms": 1876435,
+    "end_ms": 1896514,
+    "duration_ms": 20079,
+    "word_count": 60,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1896.514,
+    "text": "This is all, of course, really important. It's very useful for a neurologist.",
+    "start_ms": 1896514,
+    "end_ms": 1901035,
+    "duration_ms": 4521,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1901.035,
+    "text": "They'll know that, hey, if a person wakes up in the morning, has trouble speaking, and they go take a brain scan and see that they have a lesion, that they've had a rupture of a blood vessel in the left side of the brain, they'll know that this person may have long-term problems with language.",
+    "start_ms": 1901035,
+    "end_ms": 1917435,
+    "duration_ms": 16400,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1917.435,
+    "text": "They take the same individual and image of the right side of the brain, and they see, oh, the damage was on the right side of the brain.",
+    "start_ms": 1917435,
+    "end_ms": 1922835,
+    "duration_ms": 5400,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1922.835,
+    "text": "I mean, they don't take an image, take the image of the whole brain, but they see the damage.",
+    "start_ms": 1922835,
+    "end_ms": 1926435,
+    "duration_ms": 3600,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1926.403,
+    "text": "the right side, they might know that this person's probably going to recover.",
+    "start_ms": 1926403,
+    "end_ms": 1930313,
+    "duration_ms": 3910,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1930.313,
+    "text": "Their language problems are probably relatively transient due to the fact that they've had this massive sort of insult to the dynamics of the brain, but that the recovery is going to be quite good for one side versus the other.",
+    "start_ms": 1930313,
+    "end_ms": 1942713,
+    "duration_ms": 12400,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1942.713,
+    "text": "So that's useful, right? If you're a behavioral neurologist, you want to make a diagnosis, you want to come up with a treatment plan, but the issue is that in terms of understanding, that's what I'm saying, understanding how language works, saying something like that the left side of the brain is more important than the right side of the brain for language actually tells you very little about language function itself, right?",
+    "start_ms": 1942713,
+    "end_ms": 1968634,
+    "duration_ms": 25921,
+    "word_count": 73,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1968.634,
+    "text": "And so that's where the behavioral neurologist limitation was, this focus on the general task, whereas the cognitive neuroscience idea was that we might have models of how language works or we might have models of how motor control works, and we can then test those models by trying to relate it to different parts of the brain and so forth, okay?",
+    "start_ms": 1968634,
+    "end_ms": 1990993,
+    "duration_ms": 22359,
+    "word_count": 62,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1990.993,
+    "text": "So really the question is about explaining how, just sort of linking tasks to different parts of the brain doesn't really tell you about how something like language works, knowing that the basal ganglia shrivels up atrophies in people and then they develop Parkinson's disease doesn't tell you much about motor control.",
+    "start_ms": 1990993,
+    "end_ms": 2009913,
+    "duration_ms": 18920,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2009.913,
+    "text": "We see that these people have difficulty producing movements, but we don't get any real insight into what that part of the brain is doing that contributes to coordinated movement.",
+    "start_ms": 2009913,
+    "end_ms": 2019993,
+    "duration_ms": 10080,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2019.993,
+    "text": "That's sort of the nature of cognitive neuroscience. So cognitive psychology, again, is really interested in that how question, it wants to analyze how, what are the different operations, mental operations, that are required for a person to either produce a skilled movement or to be able to communicate with another individual.",
+    "start_ms": 2019993,
+    "end_ms": 2041514,
+    "duration_ms": 21521,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2041.514,
+    "text": "And so there were emphases always on these mental operations, right, to have language we need to understand the sounds.",
+    "start_ms": 2041514,
+    "end_ms": 2049074,
+    "duration_ms": 7560,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2049.074,
+    "text": "We can talk about that in terms of the mental operations required.",
+    "start_ms": 2049074,
+    "end_ms": 2053314,
+    "duration_ms": 4240,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2053.314,
+    "text": "We can also then talk about what parts of the brain are involved.",
+    "start_ms": 2053314,
+    "end_ms": 2057314,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2057.314,
+    "text": "But again, the cognitive psychologists can do this by just thinking about the mental operations.",
+    "start_ms": 2057314,
+    "end_ms": 2062074,
+    "duration_ms": 4760,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2062.074,
+    "text": "And let's try a quick experiment here. We got some time.",
+    "start_ms": 2062074,
+    "end_ms": 2065794,
+    "duration_ms": 3720,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2065.794,
+    "text": "Yeah. So I need two volunteers. You guys come forward.",
+    "start_ms": 2065794,
+    "end_ms": 2072113,
+    "duration_ms": 6319,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2072.113,
+    "text": "You got a watch on you? You got a phone?",
+    "start_ms": 2072113,
+    "end_ms": 2074113,
+    "duration_ms": 2000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2074.113,
+    "text": "With a timer? Okay. You can be one timer, you can be my second timer.",
+    "start_ms": 2074113,
+    "end_ms": 2079833,
+    "duration_ms": 5720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2079.833,
+    "text": "You're going to be collecting data. So set your stopwatch, if you have a stopwatch.",
+    "start_ms": 2079833,
+    "end_ms": 2084193,
+    "duration_ms": 4360,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2084.193,
+    "text": "Okay. You can stay right there. You're going to be my judge there.",
+    "start_ms": 2084193,
+    "end_ms": 2087193,
+    "duration_ms": 3000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2087.193,
+    "text": "Who's got a stopwatch? Phone. Okay. You two be my timers.",
+    "start_ms": 2087193,
+    "end_ms": 2091193,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2091.193,
+    "text": "You guys come up here. Your name? Emily. Actually, you got to stand back there because you got to be able to see the screen.",
+    "start_ms": 2091193,
+    "end_ms": 2095193,
+    "duration_ms": 4000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2095.193,
+    "text": "Emily and? Gabriel. Gabriel. Okay. Emily, you'll go first. Okay.",
+    "start_ms": 2095193,
+    "end_ms": 2101193,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2101.193,
+    "text": "Face the screen. You don't have to read through the back of your head.",
+    "start_ms": 2101193,
+    "end_ms": 2104193,
+    "duration_ms": 3000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2104.193,
+    "text": "Okay. What I'm going to do is I'm going to put up a screen here and it's going to show a list of words and you're going to read them out loud so everyone hears you as fast as you can.",
+    "start_ms": 2104193,
+    "end_ms": 2114674,
+    "duration_ms": 10481,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2114.674,
+    "text": "Okay? It's a screen test. Put you on the spot.",
+    "start_ms": 2114674,
+    "end_ms": 2118154,
+    "duration_ms": 3480,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2118.154,
+    "text": "When I say go, that's what I'm going to flip the screen on.",
+    "start_ms": 2118154,
+    "end_ms": 2121074,
+    "duration_ms": 2920,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2121.074,
+    "text": "Two timers are going to collect the data and tell me how fast she was.",
+    "start_ms": 2121074,
+    "end_ms": 2124514,
+    "duration_ms": 3440,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2124.514,
+    "text": "Okay? Ready? Set. Go. Oh, no. That's not the screen.",
+    "start_ms": 2124514,
+    "end_ms": 2130514,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2130.514,
+    "text": "Set your timer again. Okay. Ready. Set. Go. Whoa. We got an echo.",
+    "start_ms": 2130514,
+    "end_ms": 2140074,
+    "duration_ms": 9560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2140.074,
+    "text": "Just Emily's out loud. You guys can do it to yourself quietly.",
+    "start_ms": 2140074,
+    "end_ms": 2142874,
+    "duration_ms": 2800,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2142.874,
+    "text": "Okay? How long did it take Emily to do that?",
+    "start_ms": 2142874,
+    "end_ms": 2146353,
+    "duration_ms": 3479,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2146.353,
+    "text": "2.55. Wow. Okay. That's good. We have two timers because we always want reliable data.",
+    "start_ms": 2146353,
+    "end_ms": 2155794,
+    "duration_ms": 9441,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2155.794,
+    "text": "Okay? So we'd say 2.54. Good. That was all practice.",
+    "start_ms": 2155794,
+    "end_ms": 2159794,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2159.794,
+    "text": "Okay? Now you get the real test. Okay? Set things.",
+    "start_ms": 2159794,
+    "end_ms": 2163794,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2163.794,
+    "text": "We got it all down here. Okay? Ready. Set. Go.",
+    "start_ms": 2163794,
+    "end_ms": 2168794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2168.794,
+    "text": "Okay. Time. Let me get time. All right. List one, list two.",
+    "start_ms": 2168794,
+    "end_ms": 2173794,
+    "duration_ms": 5000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2173.794,
+    "text": "Emily. What was your time? All right. I can do that.",
+    "start_ms": 2173794,
+    "end_ms": 2177794,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2177.794,
+    "text": "Halfway there, we'll call that 3.0. Okay? You guys can check my math.",
+    "start_ms": 2177794,
+    "end_ms": 2180794,
+    "duration_ms": 3000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2180.794,
+    "text": "Emily, you're still on the spot. Ready? Set. Go. Okay.",
+    "start_ms": 2180794,
+    "end_ms": 2185794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2185.794,
+    "text": "Set. Go. Set. Go. Set. Go. Set. Go. Set. Go.",
+    "start_ms": 2185794,
+    "end_ms": 2195794,
+    "duration_ms": 10000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2195.794,
+    "text": "Set. Go. Okay. Emily, you're still on the spot. Ready?",
+    "start_ms": 2195794,
+    "end_ms": 2200794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2200.794,
+    "text": "Ready. Set. Go. Okay. List two. What was Emily's time?",
+    "start_ms": 2200794,
+    "end_ms": 2206794,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2206.794,
+    "text": "2.53, 2.55, 2.54. All right. Thank you, Emily. You are?",
+    "start_ms": 2206794,
+    "end_ms": 2210794,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2210.794,
+    "text": "Gabriel. All right. Gabriel's up. Okay. Gabriel. All right. All right.",
+    "start_ms": 2210794,
+    "end_ms": 2217794,
+    "duration_ms": 7000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2217.794,
+    "text": "All right. All right. All right. All right. All right.",
+    "start_ms": 2217794,
+    "end_ms": 2222794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2222.794,
+    "text": "All right. All right. All right. All right. All right.",
+    "start_ms": 2222794,
+    "end_ms": 2227794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2227.794,
+    "text": "All right. All right. All right. All right. All right.",
+    "start_ms": 2227794,
+    "end_ms": 2232794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2232.794,
+    "text": "All right. All right. All right. All right. All right.",
+    "start_ms": 2232794,
+    "end_ms": 2237794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2237.794,
+    "text": "All right. All right. All right. All right. All right.",
+    "start_ms": 2237794,
+    "end_ms": 2242794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2242.794,
+    "text": "All right. All right. All right. All right. All right.",
+    "start_ms": 2242794,
+    "end_ms": 2247794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2247.794,
+    "text": "All right. All right. All right. All right. All right.",
+    "start_ms": 2247794,
+    "end_ms": 2252794,
+    "duration_ms": 5000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2252.794,
+    "text": "All right. All right. All right. some touch phone loose through steak head.",
+    "start_ms": 2252794,
+    "end_ms": 2258753,
+    "duration_ms": 5959,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2258.753,
+    "text": "OK. Excellent. Gabriel's time. 3.28 of 490. 490. Well, we have a measurement issue here.",
+    "start_ms": 2258753,
+    "end_ms": 2269273,
+    "duration_ms": 10520,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2269.273,
+    "text": "3.28, 4.98. I heard him go through the whole list, and I realized he got tripped up, and then I, yeah.",
+    "start_ms": 2269273,
+    "end_ms": 2275593,
+    "duration_ms": 6320,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2275.593,
+    "text": "So I feel like his is more accurate. Ooh. This is the tough decisions you face in science.",
+    "start_ms": 2275593,
+    "end_ms": 2281672,
+    "duration_ms": 6079,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2281.672,
+    "text": "Do we go with our two numbers and average them and assume reliability?",
+    "start_ms": 2281672,
+    "end_ms": 2286313,
+    "duration_ms": 4641,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2286.313,
+    "text": "OK. Gabriel, you're getting slammed by the judges. 4.98? 9-0.",
+    "start_ms": 2286313,
+    "end_ms": 2294032,
+    "duration_ms": 7719,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2294.032,
+    "text": "9-0. Sorry. Didn't mean to cheat you of 8-1,000. Second.",
+    "start_ms": 2294032,
+    "end_ms": 2300192,
+    "duration_ms": 6160,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2300.192,
+    "text": "Ready for list two. List one. Whatever it is. Oh, oh, oh, oh, oh, oh, jeez.",
+    "start_ms": 2300192,
+    "end_ms": 2308753,
+    "duration_ms": 8561,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2308.753,
+    "text": "Timer's ready. Set, go. Three host cave, male couch, home creek.",
+    "start_ms": 2308753,
+    "end_ms": 2316473,
+    "duration_ms": 7720,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2316.473,
+    "text": "OK. Score there? 336. Whoa. Thank you, Gabriel. OK. 3.18.",
+    "start_ms": 2316473,
+    "end_ms": 2327352,
+    "duration_ms": 10879,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2327.352,
+    "text": "And oh, yi, yi, yi, yi, 2.6. Someone tell me the average of that one.",
+    "start_ms": 2327352,
+    "end_ms": 2333473,
+    "duration_ms": 6121,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2333.473,
+    "text": "3.777. OK. I don't know if that's right. Thank you, Gabriel.",
+    "start_ms": 2333473,
+    "end_ms": 2342352,
+    "duration_ms": 8879,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2342.352,
+    "text": "All right. Well. Excellent. OK. iClicker, we have a quiz for you here.",
+    "start_ms": 2342352,
+    "end_ms": 2353873,
+    "duration_ms": 11521,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2353.873,
+    "text": "There's list one on the left. There's list two on the right.",
+    "start_ms": 2353873,
+    "end_ms": 2357712,
+    "duration_ms": 3839,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2357.712,
+    "text": "OK. Don't look at the results. I predict, prior to seeing the results, if you've just from looking at the words now, because that was small.",
+    "start_ms": 2357712,
+    "end_ms": 2367232,
+    "duration_ms": 9520,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2367.232,
+    "text": "And only two people. What do you think? And I will start the, what would I call it?",
+    "start_ms": 2367232,
+    "end_ms": 2372792,
+    "duration_ms": 5560,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2372.792,
+    "text": "A poll. Another multiple choice. Go. Go. And now can we figure out how to show it on the screen?",
+    "start_ms": 2372792,
+    "end_ms": 2384333,
+    "duration_ms": 11541,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2384.333,
+    "text": "You got 25 more seconds. Sure. Yeah, yeah, yeah. I mean, it's going to pop up.",
+    "start_ms": 2384333,
+    "end_ms": 2393452,
+    "duration_ms": 9119,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2393.452,
+    "text": "Don't do that. No, no. It's fine. You know you've got the results up there.",
+    "start_ms": 2393452,
+    "end_ms": 2399333,
+    "duration_ms": 5881,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2399.333,
+    "text": "Everybody's going to cheat. No cheating. Look at the results.",
+    "start_ms": 2399333,
+    "end_ms": 2402253,
+    "duration_ms": 2920,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2407.172,
+    "text": "Actually, I didn't cheat, because I put the results up backwards.",
+    "start_ms": 2407172,
+    "end_ms": 2410292,
+    "duration_ms": 3120,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2430.613,
+    "text": "OK. So here's the results. This is great. I'm going to click on Results there.",
+    "start_ms": 2430613,
+    "end_ms": 2444613,
+    "duration_ms": 14000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2451.053,
+    "text": "No. Ah, there it is. Excellent, Sebastian. Thank you. Well, you guys are very, I see.",
+    "start_ms": 2451053,
+    "end_ms": 2465452,
+    "duration_ms": 14399,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2465.452,
+    "text": "How do I grab that? Move it so you can see the possible answers.",
+    "start_ms": 2465452,
+    "end_ms": 2469292,
+    "duration_ms": 3840,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2469.292,
+    "text": "Well, that is a beautiful flat distribution. So we had all sorts of predictions there.",
+    "start_ms": 2469292,
+    "end_ms": 2476812,
+    "duration_ms": 7520,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2476.812,
+    "text": "Does someone who, from A, want to give their hypothesis about why they went with A?",
+    "start_ms": 2476812,
+    "end_ms": 2485452,
+    "duration_ms": 8640,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2485.452,
+    "text": "I took linguistics last semester. Aha, an advantage. You say fail and couch, like fail couch really quickly, because L is a lateral liquid valve consonant.",
+    "start_ms": 2485452,
+    "end_ms": 2496853,
+    "duration_ms": 11401,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2496.853,
+    "text": "We don't need to close your mouth completely. It goes straight into the consonant for C.",
+    "start_ms": 2496853,
+    "end_ms": 2502812,
+    "duration_ms": 5959,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2502.812,
+    "text": "But when you say foam touch, because N is a tap, you need to stop the flow of air completely.",
+    "start_ms": 2502812,
+    "end_ms": 2508652,
+    "duration_ms": 5840,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2508.652,
+    "text": "You go back to the consonant T, and go, there needs to be a stop there.",
+    "start_ms": 2508652,
+    "end_ms": 2513973,
+    "duration_ms": 5321,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2513.973,
+    "text": "So foam touch is slower. OK, we've got a hypothesis that I constructed the list, because one had difficult articulatory transitions, and one had hard articulatory transitions.",
+    "start_ms": 2513973,
+    "end_ms": 2528893,
+    "duration_ms": 14920,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2528.893,
+    "text": "I imagine of the 52 of you who are voting for A, that was probably the same hypothesis for all 52 of you.",
+    "start_ms": 2528893,
+    "end_ms": 2537853,
+    "duration_ms": 8960,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2537.853,
+    "text": "Oh, yeah, OK, good. How about hypothesis number B? List two will be faster.",
+    "start_ms": 2537853,
+    "end_ms": 2544052,
+    "duration_ms": 6199,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2544.052,
+    "text": "How many went with that one? Who wants to explain why?",
+    "start_ms": 2544052,
+    "end_ms": 2547573,
+    "duration_ms": 3521,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2547.573,
+    "text": "Go ahead. Yeah, please. I said list two would be faster, because you kind of get some practice after going through list one.",
+    "start_ms": 2547573,
+    "end_ms": 2555973,
+    "duration_ms": 8400,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2555.973,
+    "text": "And so once you get the hang of it, you should be able to say one.",
+    "start_ms": 2555973,
+    "end_ms": 2562772,
+    "duration_ms": 6799,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2562.772,
+    "text": "Yeah. Now I have to confess up how I messed up.",
+    "start_ms": 2562772,
+    "end_ms": 2566853,
+    "duration_ms": 4081,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2566.566,
+    "text": "the experiment, is that I thought about that, and so I actually counterbalanced it.",
+    "start_ms": 2566566,
+    "end_ms": 2571232,
+    "duration_ms": 4666,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2571.232,
+    "text": "And so actually, for Gabriel, he did list one before he did list two, which means our data have to all be adjusted, because this was the real data, 4.9, what was that, 3.33.",
+    "start_ms": 2571232,
+    "end_ms": 2590711,
+    "duration_ms": 19479,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2590.711,
+    "text": "Now the data are completely different. This is now 3.85, and this one is roughly 2.9.",
+    "start_ms": 2590711,
+    "end_ms": 2603231,
+    "duration_ms": 12520,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2603.231,
+    "text": "OK, but that was a good hypothesis, right? Practice makes you better at things.",
+    "start_ms": 2603231,
+    "end_ms": 2607351,
+    "duration_ms": 4120,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2607.351,
+    "text": "But again, I'm a clever psychologist, so I'd counterbalance the order to try to make sure that wasn't true.",
+    "start_ms": 2607351,
+    "end_ms": 2613071,
+    "duration_ms": 5720,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2613.071,
+    "text": "We could look at it, though, and see, was everyone faster with their second one?",
+    "start_ms": 2613071,
+    "end_ms": 2618832,
+    "duration_ms": 5761,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2618.832,
+    "text": "And this was first and second, faster with the second one.",
+    "start_ms": 2618832,
+    "end_ms": 2624031,
+    "duration_ms": 5199,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2624.031,
+    "text": "And this one went first and then second, and so faster.",
+    "start_ms": 2624031,
+    "end_ms": 2627351,
+    "duration_ms": 3320,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2627.351,
+    "text": "So it is consistent with that. Yeah. I'm pretty sure he read list one second, because I heard him say the word column last, so it's around.",
+    "start_ms": 2627351,
+    "end_ms": 2636031,
+    "duration_ms": 8680,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2636.031,
+    "text": "OK, well, don't look behind the person behind the camera.",
+    "start_ms": 2636031,
+    "end_ms": 2638391,
+    "duration_ms": 2360,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2638.391,
+    "text": "Don't worry about which way it went. How about, ah, OK, we'll skip the other hypotheses.",
+    "start_ms": 2638391,
+    "end_ms": 2647951,
+    "duration_ms": 9560,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2647.951,
+    "text": "Well, let me go on here, close that. How do you close it now?",
+    "start_ms": 2647951,
+    "end_ms": 2653711,
+    "duration_ms": 5760,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2653.711,
+    "text": "I guess that's the end of iClicker for the day.",
+    "start_ms": 2653711,
+    "end_ms": 2655631,
+    "duration_ms": 1920,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2655.631,
+    "text": "Can I just end iClicker? Why not? End class? Well, you don't get to go.",
+    "start_ms": 2655631,
+    "end_ms": 2662592,
+    "duration_ms": 6961,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2662.592,
+    "text": "It's just ending iClicker. OK, I have to, it still shows up on a screen.",
+    "start_ms": 2662592,
+    "end_ms": 2671711,
+    "duration_ms": 9119,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2671.711,
+    "text": "I've got to move a mouse somewhere to get there.",
+    "start_ms": 2671711,
+    "end_ms": 2676991,
+    "duration_ms": 5280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2676.991,
+    "text": "Keep going that way. All right, well, this is the data that it should have been if I did 1,000 of you.",
+    "start_ms": 2676991,
+    "end_ms": 2685271,
+    "duration_ms": 8280,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2685.271,
+    "text": "This is why the data would come about. And again, we've already talked about a couple possible reasons why list one might be easier than list two.",
+    "start_ms": 2685271,
+    "end_ms": 2694752,
+    "duration_ms": 9481,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2694.752,
+    "text": "If I ran all of you on this study, I'm guaranteeing you that this is what the results would look like.",
+    "start_ms": 2694752,
+    "end_ms": 2700152,
+    "duration_ms": 5400,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2700.152,
+    "text": "OK? And so the question is, we have one hypothesis about why list one might be faster.",
+    "start_ms": 2700152,
+    "end_ms": 2705792,
+    "duration_ms": 5640,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2705.792,
+    "text": "That was about the articulatory transitions being harder, easier in list one than list two.",
+    "start_ms": 2705792,
+    "end_ms": 2712752,
+    "duration_ms": 6960,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2712.752,
+    "text": "What about other hypotheses? Yeah? I'm just thinking, because the words in list two come in clusters of two that are related, like phone and touch, lose and have.",
+    "start_ms": 2712752,
+    "end_ms": 2723071,
+    "duration_ms": 10319,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2723.071,
+    "text": "And then it goes to terms that are unrelated. But the first list is all random.",
+    "start_ms": 2723071,
+    "end_ms": 2729032,
+    "duration_ms": 5961,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2729.032,
+    "text": "So it might be a little bit like, you can just list that off really fast.",
+    "start_ms": 2729032,
+    "end_ms": 2732512,
+    "duration_ms": 3480,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2732.512,
+    "text": "The second list might be like, because you think that there might be some sort of relation.",
+    "start_ms": 2732512,
+    "end_ms": 2736792,
+    "duration_ms": 4280,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2736.792,
+    "text": "Like, when you get to that, it trips you up a little bit.",
+    "start_ms": 2736792,
+    "end_ms": 2739271,
+    "duration_ms": 2479,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2739.271,
+    "text": "Ah-ha. OK. We've got a sophisticated cognitive psychology crew here, and linguistics too.",
+    "start_ms": 2739271,
+    "end_ms": 2745872,
+    "duration_ms": 6601,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2745.872,
+    "text": "So this gentleman's hypothesis is that, ah, you kind of get primed to expect that there'll be a relationship.",
+    "start_ms": 2745872,
+    "end_ms": 2752032,
+    "duration_ms": 6160,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2752.032,
+    "text": "And then you run into these last three, and you're primed, and you're looking for that primed word, and it's unrelated.",
+    "start_ms": 2752032,
+    "end_ms": 2757392,
+    "duration_ms": 5360,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2757.392,
+    "text": "And so that costs you some time, and that's why list two is slower.",
+    "start_ms": 2757392,
+    "end_ms": 2760711,
+    "duration_ms": 3319,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2760.711,
+    "text": "OK. Other hypotheses? Yeah? I have not taken linguistics. I have done a lot for terminology.",
+    "start_ms": 2760711,
+    "end_ms": 2768831,
+    "duration_ms": 8120,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2768.831,
+    "text": "But three and three have a similar right-to-middle call. And I think you're saying there's two things about that, and there's two things about that.",
+    "start_ms": 2768831,
+    "end_ms": 2776711,
+    "duration_ms": 7880,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2776.711,
+    "text": "Ah. So you're saying there's like some sort of short-term priming, and so the benefit came from right there.",
+    "start_ms": 2776711,
+    "end_ms": 2782071,
+    "duration_ms": 5360,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2782.071,
+    "text": "So you're saying that if I shuffled up the order here, for instance, then this advantage might disappear.",
+    "start_ms": 2782071,
+    "end_ms": 2788672,
+    "duration_ms": 6601,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2788.672,
+    "text": "Great. Yeah? Yeah. I was going to say this, but, like, stink is my, that word definitely might mess me up.",
+    "start_ms": 2788672,
+    "end_ms": 2798911,
+    "duration_ms": 10239,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2798.911,
+    "text": "And why did it mess you up? OK. It messed you up.",
+    "start_ms": 2798911,
+    "end_ms": 2805351,
+    "duration_ms": 6440,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2805.351,
+    "text": "And that's actually a key here. The sound is different between, like, snake and head.",
+    "start_ms": 2805351,
+    "end_ms": 2811191,
+    "duration_ms": 5840,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2811.191,
+    "text": "Snake and head. OK. It's like, oh, yeah. Yeah. You're coming out of your seat.",
+    "start_ms": 2811191,
+    "end_ms": 2816592,
+    "duration_ms": 5401,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2816.592,
+    "text": "I better call on you. Go ahead. There's a bit of, like, a priming effect in list one.",
+    "start_ms": 2816592,
+    "end_ms": 2820352,
+    "duration_ms": 3760,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2820.352,
+    "text": "So, like, you have similar sounds between the words in that specific order.",
+    "start_ms": 2820352,
+    "end_ms": 2824231,
+    "duration_ms": 3879,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2824.231,
+    "text": "So, like, you get used to saying the E-A-D and read as E, and then you kind of get, I don't know, just hypothesis.",
+    "start_ms": 2824231,
+    "end_ms": 2830391,
+    "duration_ms": 6160,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2830.391,
+    "text": "You get caught up, and then head comes along. It's a completely different way of pronouncing that sound.",
+    "start_ms": 2830391,
+    "end_ms": 2834872,
+    "duration_ms": 4481,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2835.632,
+    "text": "So that's what I had in mind. Now, what's great here is that you're coming up with hypotheses.",
+    "start_ms": 2835632,
+    "end_ms": 2839152,
+    "duration_ms": 3520,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2839.152,
+    "text": "And that's what you want to always be doing. When you're reading the articles, what I want to tell you to read the methods carefully before you look at the results is, if you read the methods, then you're going to have a hypothesis about what you think the results are going to look like.",
+    "start_ms": 2839152,
+    "end_ms": 2851912,
+    "duration_ms": 12760,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2851.912,
+    "text": "Then you're going to look at the results, and usually they'll confirm what you say.",
+    "start_ms": 2851912,
+    "end_ms": 2855632,
+    "duration_ms": 3720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2855.632,
+    "text": "But sometimes they won't match up. And that's when you actually, you know, that makes you really think, well, maybe there's a different way to look at these things.",
+    "start_ms": 2855632,
+    "end_ms": 2863152,
+    "duration_ms": 7520,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2863.192,
+    "text": "The reason I think the data will come out this way is that what I've done here is English is this very strange language where we have rules of phonology, right?",
+    "start_ms": 2863192,
+    "end_ms": 2872551,
+    "duration_ms": 9359,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2872.551,
+    "text": "And E at the end means this should be a long vowel, cave.",
+    "start_ms": 2872551,
+    "end_ms": 2876711,
+    "duration_ms": 4160,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2876.711,
+    "text": "But English is this very strange language that 20% of the words have an irregular pronunciation.",
+    "start_ms": 2876711,
+    "end_ms": 2883391,
+    "duration_ms": 6680,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2883.391,
+    "text": "So all of these have the regular. the regular rules of phonology, fail, couch, if it's an OU, it's supposed to be an OU sound, cave, a long letter there, freak, again a long, two vowels like that should be a long vowel sound.",
+    "start_ms": 2883391,
+    "end_ms": 2897151,
+    "duration_ms": 13760,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2897.151,
+    "text": "But these are all exception words, right? If you were to say this correctly, that would be touche, rose, have, stick, right, you said, this sound tripped you up because you were probably primed to produce things with a normal pronunciation or you're biased that way.",
+    "start_ms": 2897151,
+    "end_ms": 2915030,
+    "duration_ms": 17879,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2915.03,
+    "text": "And so it's that slight difference that you've learned how to read all these words because you're excellent readers, but you had to learn that there's all these words that don't actually get pronounced the way they look, that they violate it, and that has some cognitive cost.",
+    "start_ms": 2915030,
+    "end_ms": 2933511,
+    "duration_ms": 18481,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2933.511,
+    "text": "And so that's kind of what a cognitive psychologist might do when they're studying something like reading.",
+    "start_ms": 2933511,
+    "end_ms": 2938390,
+    "duration_ms": 4879,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2938.39,
+    "text": "They'll say, what are the different mental operations that go into making a skilled reader?",
+    "start_ms": 2938390,
+    "end_ms": 2944791,
+    "duration_ms": 6401,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2944.791,
+    "text": "And one notion, this is something I imagine you've heard somewhere along the way is, right, it's a constant debate in the education circles, do we teach kids to read by sounds or by recognizing the words?",
+    "start_ms": 2944791,
+    "end_ms": 2956990,
+    "duration_ms": 12199,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2956.99,
+    "text": "Okay, now that's a developmental question, what's the fastest way to develop reading skills?",
+    "start_ms": 2956990,
+    "end_ms": 2962911,
+    "duration_ms": 5921,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2962.911,
+    "text": "But we can also ask that question about adult skilled readers like yourself.",
+    "start_ms": 2962911,
+    "end_ms": 2967831,
+    "duration_ms": 4920,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2967.831,
+    "text": "Are they actually always having to analyze the phonology? Do they always have to go from the printed letters to the sounds to the words?",
+    "start_ms": 2967831,
+    "end_ms": 2976731,
+    "duration_ms": 8900,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2976.731,
+    "text": "Or maybe skilled readers actually have a second way of reading that because of their expertise in their practice, they actually can recognize what's the pronunciation associated with a particular word directly from the visual mapping to the articulation without having to do that translation into phonology.",
+    "start_ms": 2976731,
+    "end_ms": 2994990,
+    "duration_ms": 18259,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2994.99,
+    "text": "These are the kinds of questions that cognitive psychologists would ask.",
+    "start_ms": 2994990,
+    "end_ms": 2997791,
+    "duration_ms": 2801,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2997.791,
+    "text": "Is there always one way for reading words, reading all words, or are there multiple ways we do it?",
+    "start_ms": 2997791,
+    "end_ms": 3003750,
+    "duration_ms": 5959,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3003.75,
+    "text": "And maybe skilled readers are using both words at the same time.",
+    "start_ms": 3003750,
+    "end_ms": 3007991,
+    "duration_ms": 4241,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3007.991,
+    "text": "Now that example I gave you there, right, there's nothing about the brain involved there.",
+    "start_ms": 3007991,
+    "end_ms": 3012351,
+    "duration_ms": 4360,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3012.351,
+    "text": "That's a pure cognitive psychology question, but a cognitive, let's just say what I just told you.",
+    "start_ms": 3012351,
+    "end_ms": 3022471,
+    "duration_ms": 10120,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3022.471,
+    "text": "I can't see my screen anymore up here, which is why I'm doing it.",
+    "start_ms": 3022471,
+    "end_ms": 3027631,
+    "duration_ms": 5160,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3027.631,
+    "text": "But again, in cognitive neuroscience, we recognize that, well, we can actually test these psychological models by using brain data, by using something, we might do neuroimaging, we'll see examples of that down the road, but we could also do it by like now asking, you know, what kinds of predictions could we make if people were able to both have two different ways to read, one by recognizing the words directly and one by going through the phonology, right?",
+    "start_ms": 3027631,
+    "end_ms": 3055611,
+    "duration_ms": 27980,
+    "word_count": 80,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3055.611,
+    "text": "So one way we can do it, certainly go one direction, we could say what parts of the brain are important for all of these different operations?",
+    "start_ms": 3055611,
+    "end_ms": 3063571,
+    "duration_ms": 7960,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3063.571,
+    "text": "So we might say, for instance, if we're looking at where is phonological processing done, we think that's an important part of reading, well, we've already talked about that the left hemisphere is more important for language than the right.",
+    "start_ms": 3063571,
+    "end_ms": 3075211,
+    "duration_ms": 11640,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3075.211,
+    "text": "Other work will show that it's damage to the temporal lobe might really disrupt your ability to recognize sounds and so forth, and we might find that there's a particular region within the temporal lobe that seems to be especially important for phonological processing.",
+    "start_ms": 3075211,
+    "end_ms": 3089510,
+    "duration_ms": 14299,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3089.51,
+    "text": "So that's kind of one way direction. I'm going to go from the behavior, I'm going to dissect it by my cognitive model, and now I could say something much more specific about what that brain part's doing.",
+    "start_ms": 3089510,
+    "end_ms": 3100090,
+    "duration_ms": 10580,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3100.09,
+    "text": "I don't say language is just in the left hemisphere, I can give you a much more detailed analysis about what part of the left hemisphere is important for a particular operation, but I want to emphasize that it's really a two-way street here.",
+    "start_ms": 3100090,
+    "end_ms": 3114131,
+    "duration_ms": 14041,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3115.131,
+    "text": "I guess I have to use this, or am I moving my stupid mouse again?",
+    "start_ms": 3115131,
+    "end_ms": 3119530,
+    "duration_ms": 4399,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3121.53,
+    "text": "Okay, now I can ask about, well, I can test that cognitive model by asking about what sorts of changes in language or what language abilities might be affected in someone who's had been a good reader, but maybe had a stroke and no longer can read as well as they could before.",
+    "start_ms": 3121530,
+    "end_ms": 3140010,
+    "duration_ms": 18480,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3140.01,
+    "text": "So for instance, here's that model I gave you. Let's say I've done a brain imaging study, again, and I've found that there's a part of the brain that seems really important for phonology, that's what I've circled here, and now I find someone who has a stroke in that part of the brain.",
+    "start_ms": 3140010,
+    "end_ms": 3155651,
+    "duration_ms": 15641,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3155.651,
+    "text": "I can ask what sorts of predictions can I make, okay?",
+    "start_ms": 3155651,
+    "end_ms": 3160651,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3160.651,
+    "text": "What are the reading problems we might expect if I have a lesion in this part of the brain?",
+    "start_ms": 3160651,
+    "end_ms": 3166410,
+    "duration_ms": 5759,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3166.41,
+    "text": "And I can go back to my two lists, and I could say, would this person be able to read irregular words, like the words have, touch, and stake, right, all the ones that have irregular pronunciations?",
+    "start_ms": 3166410,
+    "end_ms": 3178850,
+    "duration_ms": 12440,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3178.85,
+    "text": "Well, again, using phonology isn't going to help you with those irregular words because you get the wrong result with phonology.",
+    "start_ms": 3178850,
+    "end_ms": 3186811,
+    "duration_ms": 7961,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3186.811,
+    "text": "The way you can read those words is by recognizing the whole unit.",
+    "start_ms": 3186811,
+    "end_ms": 3191091,
+    "duration_ms": 4280,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3191.091,
+    "text": "If this model's correct, then I should be able to find the patient can read these words, but on the other hand, if I now show them these nonsense words, right, you all can read this.",
+    "start_ms": 3191091,
+    "end_ms": 3203850,
+    "duration_ms": 12759,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3203.85,
+    "text": "You can go, hov fuc. go, hov fuch glik, right, without any problem.",
+    "start_ms": 3203850,
+    "end_ms": 3206909,
+    "duration_ms": 3059,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3206.909,
+    "text": "You have no trouble reading those words. But again, if I presented the patient with these two lists of words, and they had damage in a place that was essential for phonological translation, they'd do perfectly well reading these words, and then I had that bizarre thing that I'd say, now read these words, and they'd be stuck.",
+    "start_ms": 3206909,
+    "end_ms": 3225550,
+    "duration_ms": 18641,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3225.83,
+    "text": "I mean, if I found such a patient, then I'd have evidence that there were indeed two different pathways for reading.",
+    "start_ms": 3225830,
+    "end_ms": 3232870,
+    "duration_ms": 7040,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3232.87,
+    "text": "So that's what I mean by it being a two-way street, that we can take our brain model, our brain data, to test our psychological model.",
+    "start_ms": 3232870,
+    "end_ms": 3239429,
+    "duration_ms": 6559,
+    "word_count": 26,
+    "avg_confidence": 90
+  }
+]

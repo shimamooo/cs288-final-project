@@ -1,0 +1,2711 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "you you you you you you you All righty a lively group today Okay, so a few announcements here Now you all been thinking about the quiz this week have you folks at office hours about that But really what you should be thinking about is that first exam because that's coming up very quickly.",
+    "start_ms": 0,
+    "end_ms": 229901,
+    "duration_ms": 229901,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 229.901,
+    "text": "So Next Monday is a holiday So basically next Wednesday's the last lecture for the first third of the class and that will cover all the material That's the material that will be covered on the exam and it's associated reading but that first exams a week from Monday and it'll be at Five o'clock here.",
+    "start_ms": 229901,
+    "end_ms": 250852,
+    "duration_ms": 20951,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 250.852,
+    "text": "You only have till six o'clock you know five ten to six o'clock and I've posted a Sample exam on B course so you can see what they're like.",
+    "start_ms": 250852,
+    "end_ms": 262166,
+    "duration_ms": 11314,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 262.166,
+    "text": "It's gonna be two parts Multiple choice for one half of it and the other half is sort of like an essay, but you don't really have to write out Sentences and all you can use bullets and so forth because you're going to propose an experiment and draw a graph and that's why we keep in the iClicker things keep trying to look at graphs and interpret them because you're going to be creating graphs basically for that exam If you have an accommodation we're going to be hosting the exam over in the GPB 100 building also starting at 5 o'clock and We're not going to provide you with a study guide But I will host a review session on week from Thursday night, that's at 5 p.m.",
+    "start_ms": 262166,
+    "end_ms": 308960,
+    "duration_ms": 46794,
+    "word_count": 130,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 308.96,
+    "text": "And I'm not gonna Come and lecture at that. I'm going to answer your questions.",
+    "start_ms": 308960,
+    "end_ms": 315375,
+    "duration_ms": 6415,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 315.375,
+    "text": "I they haven't given me a place So, I don't know where we're gonna be out on the grass here or whatever, but it'll just be a Q&A Of course, you can bring the sample exam and ask me the questions we could talk about that talk about that.",
+    "start_ms": 315375,
+    "end_ms": 328599,
+    "duration_ms": 13224,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 328.599,
+    "text": "But that will be the only review session for the exam.",
+    "start_ms": 328599,
+    "end_ms": 331838,
+    "duration_ms": 3239,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 331.838,
+    "text": "We'll be at Thursday evening from like 5 to 6.",
+    "start_ms": 331838,
+    "end_ms": 335639,
+    "duration_ms": 3801,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 335.639,
+    "text": "Yeah. OK, that's the question. So any questions about that?",
+    "start_ms": 335639,
+    "end_ms": 339498,
+    "duration_ms": 3859,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 339.498,
+    "text": "Yeah. What does GPB stand for? I don't know. It's a?",
+    "start_ms": 339498,
+    "end_ms": 347638,
+    "duration_ms": 8140,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 347.638,
+    "text": "Genetics plant biology. Genetics plant biology building. It's right next to the Pat Brown Cafe.",
+    "start_ms": 347638,
+    "end_ms": 353958,
+    "duration_ms": 6320,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 353.958,
+    "text": "Is that still called the Pat Brown Cafe or did they rename that?",
+    "start_ms": 353958,
+    "end_ms": 357399,
+    "duration_ms": 3441,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 357.399,
+    "text": "Yeah. So it's kind of over up on the plaza up above Oxford Street in the northwest corner of campus.",
+    "start_ms": 357399,
+    "end_ms": 369079,
+    "duration_ms": 11680,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 369.079,
+    "text": "OK, so any other questions about it, the exam? I gather Sebastian tells me that we're going to provide you with the bubble sheets, which I thought was rather generous of him to go find them.",
+    "start_ms": 369079,
+    "end_ms": 380559,
+    "duration_ms": 11480,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 380.559,
+    "text": "But don't complain. OK, all right. So today, wrap up a little bit more on non-invasive brain stimulation because I think it's a really important technique for cognitive neuroscience to, again, have a way to take a healthy individual.",
+    "start_ms": 380559,
+    "end_ms": 398918,
+    "duration_ms": 18359,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 398.918,
+    "text": "We had this huge hundreds of years of studying people with brain injury.",
+    "start_ms": 398918,
+    "end_ms": 403479,
+    "duration_ms": 4561,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 403.479,
+    "text": "But as I said, these lesions, they're kind of messy.",
+    "start_ms": 403479,
+    "end_ms": 406839,
+    "duration_ms": 3360,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 406.839,
+    "text": "People recover. Brains reorganize and so forth. So non-invasive brain stimulation is a way to safely, transiently, very briefly, change or alter brain function.",
+    "start_ms": 406839,
+    "end_ms": 419399,
+    "duration_ms": 12560,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 419.399,
+    "text": "So we can alter brain function in particular places or particular ways and look and observe how behavior changes.",
+    "start_ms": 419399,
+    "end_ms": 425479,
+    "duration_ms": 6080,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 425.479,
+    "text": "A very strong experimental approach. And we did the demonstration about TMS, magnetic stimulation.",
+    "start_ms": 425479,
+    "end_ms": 433679,
+    "duration_ms": 8200,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 433.679,
+    "text": "And I started talking about electrical stimulation and just saying that, whereas magnetic stimulation, I can activate the neurons directly transcranially.",
+    "start_ms": 433679,
+    "end_ms": 442479,
+    "duration_ms": 8800,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 442.479,
+    "text": "I can activate peripheral nerves. That's where you saw the facial muscles twitching.",
+    "start_ms": 442479,
+    "end_ms": 446918,
+    "duration_ms": 4439,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 446.918,
+    "text": "But I can go transcranially. That's how we got the hand moving there.",
+    "start_ms": 446918,
+    "end_ms": 451238,
+    "duration_ms": 4320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 451.238,
+    "text": "That's going to be such a strong stimulus that it causes neurons to fire.",
+    "start_ms": 451238,
+    "end_ms": 456238,
+    "duration_ms": 5000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 456.238,
+    "text": "Whereas electrical stimulation, because of the safety concerns that you don't want to shock, just the comfort level basically, all we can do is regulate the up or down state of the neurons.",
+    "start_ms": 456238,
+    "end_ms": 467438,
+    "duration_ms": 11200,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 467.438,
+    "text": "We can make them more likely to fire. So raise the neurons up towards their firing threshold or push them away from there.",
+    "start_ms": 467438,
+    "end_ms": 476438,
+    "duration_ms": 9000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 476.438,
+    "text": "Typically with electrical stimulation, or one way of doing it is what we call TDCS, or transcranial direct current stimulation.",
+    "start_ms": 476438,
+    "end_ms": 484679,
+    "duration_ms": 8241,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 484.679,
+    "text": "And that's where we just apply a fixed current, say 2 milliamps.",
+    "start_ms": 484679,
+    "end_ms": 488358,
+    "duration_ms": 3679,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 488.358,
+    "text": "And we might do it for, say, 20 minutes. It's just a constant current.",
+    "start_ms": 488358,
+    "end_ms": 493358,
+    "duration_ms": 5000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 493.358,
+    "text": "But like with any electrical current, instead what we can do is we can alternate that current.",
+    "start_ms": 493358,
+    "end_ms": 498119,
+    "duration_ms": 4761,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 498.119,
+    "text": "We can be flipping the states so that we can alternate it.",
+    "start_ms": 498119,
+    "end_ms": 502479,
+    "duration_ms": 4360,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 502.479,
+    "text": "And we can alternate it at different rates. And we know that brain rhythms, if we measure with EEG brain activity, we actually see that brain activity seems to fluctuate at certain rhythms.",
+    "start_ms": 502479,
+    "end_ms": 516078,
+    "duration_ms": 13599,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 516.078,
+    "text": "I'm highlighting a few of the rhythms here. And this slide doesn't show up very well.",
+    "start_ms": 516078,
+    "end_ms": 521158,
+    "duration_ms": 5080,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 521.158,
+    "text": "But you'd see squiggles here from the EEG, going from what we call delta, say, up to gamma.",
+    "start_ms": 521158,
+    "end_ms": 526598,
+    "duration_ms": 5440,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 526.598,
+    "text": "They just use the Greek letters to signify different rhythms.",
+    "start_ms": 526598,
+    "end_ms": 530518,
+    "duration_ms": 3920,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 530.518,
+    "text": "This is basically telling you the rhythm rate. And one hertz means one time per second.",
+    "start_ms": 530518,
+    "end_ms": 538318,
+    "duration_ms": 7800,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 538.318,
+    "text": "So a delta rhythm is quite slow. It's some fluctuation in brain activity, rises and falls in brain activity, just about once every second or twice a second.",
+    "start_ms": 538318,
+    "end_ms": 550839,
+    "duration_ms": 12521,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 550.839,
+    "text": "Moreover, we can also see theta rhythms. They can be at much higher frequency, six times per second.",
+    "start_ms": 550839,
+    "end_ms": 556559,
+    "duration_ms": 5720,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 556.559,
+    "text": "These oscillations, these fluctuations of brain activity rising and falling, alpha even at a faster rate at 10 hertz, beta 20, gamma 30 hertz.",
+    "start_ms": 556559,
+    "end_ms": 567078,
+    "duration_ms": 10519,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 567.078,
+    "text": "These rhythms aren't everywhere. You might see certain rhythms at certain places.",
+    "start_ms": 567078,
+    "end_ms": 571158,
+    "duration_ms": 4080,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 571.158,
+    "text": "For instance, in the hippocampus is a very prominent place for seeing a theta rhythm.",
+    "start_ms": 571158,
+    "end_ms": 576719,
+    "duration_ms": 5561,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 576.719,
+    "text": "Alpha, very strong, say, over the occipital lobe. And the strength of these rhythms can vary with your cognitive state.",
+    "start_ms": 576719,
+    "end_ms": 584798,
+    "duration_ms": 8079,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 584.798,
+    "text": "When you're feeling nice and relaxed, if you close your eyes, your alpha rhythm is going to get much more pronounced.",
+    "start_ms": 584798,
+    "end_ms": 592758,
+    "duration_ms": 7960,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 592.758,
+    "text": "So we can take our transcranial electrical stimulation. We can actually alternate that current at any frequency we want.",
+    "start_ms": 592758,
+    "end_ms": 600638,
+    "duration_ms": 7880,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 600.638,
+    "text": "That's one of the beautiful things about electrical stimulation is it's a continuous signal.",
+    "start_ms": 600638,
+    "end_ms": 605478,
+    "duration_ms": 4840,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 605.478,
+    "text": "I don't need that capacitor to build up and make that pulse.",
+    "start_ms": 605478,
+    "end_ms": 608839,
+    "duration_ms": 3361,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 608.839,
+    "text": "I can constantly be modulating that electrical current. And so what people do is they say, we know we got these endogenous, meaning natural rhythms in our brain.",
+    "start_ms": 608839,
+    "end_ms": 620918,
+    "duration_ms": 12079,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 620.918,
+    "text": "Could we boost those rhythms by doing transcranial electrical stimulation?",
+    "start_ms": 620918,
+    "end_ms": 626238,
+    "duration_ms": 5320,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 626.238,
+    "text": "So again, it's going to be this very weak stimulus.",
+    "start_ms": 626238,
+    "end_ms": 628798,
+    "duration_ms": 2560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 628.798,
+    "text": "But is it going to boost that right on top of those naturally occurring rhythms?",
+    "start_ms": 628798,
+    "end_ms": 633038,
+    "duration_ms": 4240,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 635.679,
+    "text": "Now, there's clinical applications here. For instance, there's this observation here.",
+    "start_ms": 635679,
+    "end_ms": 640559,
+    "duration_ms": 4880,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 640.559,
+    "text": "This is looking at the brain here. This is a graph of power.",
+    "start_ms": 640559,
+    "end_ms": 644119,
+    "duration_ms": 3560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 644.119,
+    "text": "So red would be a lot of power, very strong alpha rhythm.",
+    "start_ms": 644119,
+    "end_ms": 648599,
+    "duration_ms": 4480,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 648.585,
+    "text": "a very weak alpha rhythm. And what had been noticed is that people in pain, remember I said pain, alpha rhythm is kind of a signature of how relaxed you are.",
+    "start_ms": 648585,
+    "end_ms": 658594,
+    "duration_ms": 10009,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 658.594,
+    "text": "Close your eyes, alpha goes up. Well, it's probably not surprising that there's this correlation here between alpha rhythm and pain rating.",
+    "start_ms": 658594,
+    "end_ms": 666566,
+    "duration_ms": 7972,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 666.566,
+    "text": "And again, just to think through the graph here, let's do a quick eye clicker here.",
+    "start_ms": 666566,
+    "end_ms": 672753,
+    "duration_ms": 6187,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 672.753,
+    "text": "Pull, multiple choice, yes, go. So again, if I'm a clinician and I want to treat pain, and I've observed this correlation across the population, what should I do with my TES machine?",
+    "start_ms": 672753,
+    "end_ms": 713038,
+    "duration_ms": 40285,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 713.038,
+    "text": "Okay. So let's take a look at your responses here.",
+    "start_ms": 713038,
+    "end_ms": 720548,
+    "duration_ms": 7510,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 720.548,
+    "text": "All right. So most of you have said that the answer would be to boost alpha.",
+    "start_ms": 720548,
+    "end_ms": 728533,
+    "duration_ms": 7985,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 728.533,
+    "text": "And again, what are we seeing here? We're seeing a negative correlation.",
+    "start_ms": 728533,
+    "end_ms": 732764,
+    "duration_ms": 4231,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 732.764,
+    "text": "So high alpha is correlated with low levels of pain.",
+    "start_ms": 732764,
+    "end_ms": 739453,
+    "duration_ms": 6689,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 739.453,
+    "text": "If I have high alpha, I have low pain. And so this C would be the correct answer.",
+    "start_ms": 739453,
+    "end_ms": 748137,
+    "duration_ms": 8684,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 748.137,
+    "text": "If I wanted to see if I could reduce the experience of pain, I'm not going to be able to change anything in the body that's causing the pain, but pain is kind of a psychological experience.",
+    "start_ms": 748137,
+    "end_ms": 759813,
+    "duration_ms": 11676,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 759.813,
+    "text": "And so building off this correlation, I might say, well, if I put the person into an elevated alpha state, maybe their subjective experience of pain will be reduced.",
+    "start_ms": 759813,
+    "end_ms": 770274,
+    "duration_ms": 10461,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 770.274,
+    "text": "And indeed, that is what they found in this particular study here.",
+    "start_ms": 770274,
+    "end_ms": 776097,
+    "duration_ms": 5823,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 776.097,
+    "text": "And that's shown here. This is just, again, these are individuals.",
+    "start_ms": 776097,
+    "end_ms": 782477,
+    "duration_ms": 6380,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 782.477,
+    "text": "Here they're doing sham. They kind of put the device on the person, but they don't pass a current.",
+    "start_ms": 782477,
+    "end_ms": 787334,
+    "duration_ms": 4857,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 787.334,
+    "text": "Here they're actually passing a current at alpha. This is a person's pain rating.",
+    "start_ms": 787334,
+    "end_ms": 792598,
+    "duration_ms": 5264,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 792.598,
+    "text": "High is they feel more pain. Low, less pain. You could see that in the experimental group, in the group receiving the TACS, they had a reduction in their pain experience.",
+    "start_ms": 792598,
+    "end_ms": 802729,
+    "duration_ms": 10131,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 802.729,
+    "text": "They're not trying to treat the cause of the pain.",
+    "start_ms": 802729,
+    "end_ms": 805694,
+    "duration_ms": 2965,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 805.694,
+    "text": "They're just trying to treat the experience of pain. Yeah?",
+    "start_ms": 805694,
+    "end_ms": 808518,
+    "duration_ms": 2824,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 808.518,
+    "text": "Yeah. So again, it's color coding alpha power. Okay. And so, yeah, I should have put a new graph on here.",
+    "start_ms": 808518,
+    "end_ms": 820114,
+    "duration_ms": 11596,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 820.114,
+    "text": "This is negative 0.4. This is 0.4. They've just normalized the scale.",
+    "start_ms": 820114,
+    "end_ms": 825226,
+    "duration_ms": 5112,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 825.226,
+    "text": "So positive, they put down here. It happens in a lot of EEG studies.",
+    "start_ms": 825226,
+    "end_ms": 830044,
+    "duration_ms": 4818,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 830.044,
+    "text": "They flip the sign. Okay. So basically, this is basically saying high power, low power.",
+    "start_ms": 830044,
+    "end_ms": 835745,
+    "duration_ms": 5701,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 835.745,
+    "text": "And the high power, here's a skull here, and they're showing where that alpha power is distributed.",
+    "start_ms": 835745,
+    "end_ms": 842665,
+    "duration_ms": 6920,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 842.665,
+    "text": "Okay. And it's just showing across this kind of parietal backdrop.",
+    "start_ms": 842665,
+    "end_ms": 846719,
+    "duration_ms": 4054,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 846.719,
+    "text": "So the back of the brain is where you see this strong power, alpha signal.",
+    "start_ms": 846719,
+    "end_ms": 851926,
+    "duration_ms": 5207,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 851.926,
+    "text": "Yeah. So definitely, always raise your hand if I'm showing a graph and I don't explain it carefully.",
+    "start_ms": 851926,
+    "end_ms": 859565,
+    "duration_ms": 7639,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 859.565,
+    "text": "Does that explain it there? It's actually the correlation here.",
+    "start_ms": 859565,
+    "end_ms": 866792,
+    "duration_ms": 7227,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 866.792,
+    "text": "I'm sorry. This is really the correlation. So this 0.4, this means that everyone I've got, like, let's say 100 individuals, they've given me their pain rating from 0 to 10.",
+    "start_ms": 866792,
+    "end_ms": 876978,
+    "duration_ms": 10186,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 876.978,
+    "text": "Each person has now done an EEG study where I've measured their alpha power across the whole brain.",
+    "start_ms": 876978,
+    "end_ms": 883206,
+    "duration_ms": 6228,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 883.206,
+    "text": "And then I'm simply correlating their alpha power. Everyone's going to be at some level on the alpha power, some level on the pain scale.",
+    "start_ms": 883206,
+    "end_ms": 892112,
+    "duration_ms": 8906,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 892.112,
+    "text": "And I'm saying that all these blue regions, that correlation is about 0.4.",
+    "start_ms": 892112,
+    "end_ms": 897169,
+    "duration_ms": 5057,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 897.169,
+    "text": "Okay. Okay. Now, that's a clinical application. To give you an example just of one experimental application, here they're actually saying, let's not just look at one part of the brain.",
+    "start_ms": 897169,
+    "end_ms": 912344,
+    "duration_ms": 15175,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 912.344,
+    "text": "Now, we know that there's always this integrated activity between all parts of the brain or many different parts of the brain to actually, you know, perform some sort of cognitive task.",
+    "start_ms": 912344,
+    "end_ms": 920877,
+    "duration_ms": 8533,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 920.877,
+    "text": "And in particular, there's been a lot of work showing that interactions between the frontal lobe and the parietal lobe are very pronounced, especially when people are in a very attentive state.",
+    "start_ms": 920877,
+    "end_ms": 932638,
+    "duration_ms": 11761,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 932.638,
+    "text": "So what they're going to do in this experiment is they're actually going to put two electrodes here, one over the frontal lobe, one over the parietal lobe.",
+    "start_ms": 932638,
+    "end_ms": 941437,
+    "duration_ms": 8799,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 941.437,
+    "text": "And what they're going to do is they're going to actually, again, do the transcranial alternating current stimulation.",
+    "start_ms": 941437,
+    "end_ms": 947558,
+    "duration_ms": 6121,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 947.558,
+    "text": "They're either going to do it at 6 Hertz or they're going to do it at 35 Hertz.",
+    "start_ms": 947558,
+    "end_ms": 953606,
+    "duration_ms": 6048,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 953.606,
+    "text": "And they chose these numbers because 6 Hertz has been sort of a rhythm that's been associated with attentional focus.",
+    "start_ms": 953606,
+    "end_ms": 959658,
+    "duration_ms": 6052,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 959.658,
+    "text": "35 Hertz is chosen as sort of a control condition.",
+    "start_ms": 959658,
+    "end_ms": 963958,
+    "duration_ms": 4300,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 963.958,
+    "text": "And then what they're going to do, what's really interesting in this experiment, is they're going to do it at 35 Hertz.",
+    "start_ms": 963958,
+    "end_ms": 966835,
+    "duration_ms": 2877,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 966.835,
+    "text": "And then what they're going to do is they're going to do it at 35 Hertz.",
+    "start_ms": 966835,
+    "end_ms": 967678,
+    "duration_ms": 843,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 967.678,
+    "text": "And then what they're going to do is they're going to do it at 35 Hertz.",
+    "start_ms": 967678,
+    "end_ms": 968520,
+    "duration_ms": 842,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 968.52,
+    "text": "And then what they're going to do is they're going to do it at 35 Hertz.",
+    "start_ms": 968520,
+    "end_ms": 969400,
+    "duration_ms": 880,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 969.4,
+    "text": "And then what they're going to do is they're going to do it at 35 Hertz.",
+    "start_ms": 969400,
+    "end_ms": 970228,
+    "duration_ms": 828,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 970.228,
+    "text": "And then what they're going to do is they're going to do it at 35 Hertz.",
+    "start_ms": 970228,
+    "end_ms": 970996,
+    "duration_ms": 768,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 970.996,
+    "text": "And then what they're going to do is they're going to do it at 35 Hertz.",
+    "start_ms": 970996,
+    "end_ms": 971730,
+    "duration_ms": 734,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 971.73,
+    "text": "And then what they're going to do is they're going to do it at 35 Hertz.",
+    "start_ms": 971730,
+    "end_ms": 972572,
+    "duration_ms": 842,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 972.572,
+    "text": "And then hertz stimulation at the front and the back in phase with one another, so the currents are going up and down together, or they're going to do them antiphase, where the parietal one goes up, the current to the frontal goes down, and it keeps reversing.",
+    "start_ms": 972572,
+    "end_ms": 986108,
+    "duration_ms": 13536,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 986.108,
+    "text": "So that's what I mean by antiphase. So they're either going to put the oscillations in the frontal lobe and the parietal lobe in sync with one another, or they're going to put them in opposition with one another, and they're going to have a baseline condition, a sham where they're not doing any stimulation.",
+    "start_ms": 986108,
+    "end_ms": 1001357,
+    "duration_ms": 15249,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1001.357,
+    "text": "Okay, and here's the task they have them do. It's kind of a demanding task.",
+    "start_ms": 1001357,
+    "end_ms": 1006809,
+    "duration_ms": 5452,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1006.809,
+    "text": "You see this string of stimuli, so this is your eyes are fixated here, you're looking right here, you see a T, you see a shape, you see an L, you see a shape, et cetera, and your job is basically to report certain letters when they match a previous letter.",
+    "start_ms": 1006809,
+    "end_ms": 1023376,
+    "duration_ms": 16567,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1023.736,
+    "text": "So it's a working memory task where you basically have to keep track of the string of items and report when there's been a match after a certain period of time.",
+    "start_ms": 1023736,
+    "end_ms": 1033673,
+    "duration_ms": 9937,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1033.673,
+    "text": "Okay? And I say this is a 2 by 3 design, because this is the kind of thing you might want to put on your exam answer when you propose your experiment.",
+    "start_ms": 1033673,
+    "end_ms": 1040739,
+    "duration_ms": 7066,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1040.739,
+    "text": "A very concise way to describe it would be to say I'm doing a 2 by 3 design where one independent variable is going to be the frequency and another independent variable is going to be the relationship between the current that's applied to the frontal lobe and the parietal lobe.",
+    "start_ms": 1040739,
+    "end_ms": 1058466,
+    "duration_ms": 17727,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1058.466,
+    "text": "So if I've described it that way, right, 2 by 3, then I know my graph should have 6 data points in some way or another, and that's what I see right here.",
+    "start_ms": 1058466,
+    "end_ms": 1068203,
+    "duration_ms": 9737,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1068.203,
+    "text": "So again, when you do your exam proposal, think about it in terms of what are the independent variables, what are you manipulating, and what's the dependent variable, what are you measuring, and you should always usually have as many data points as you had conditions.",
+    "start_ms": 1068203,
+    "end_ms": 1084556,
+    "duration_ms": 16353,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1084.556,
+    "text": "And I had 2 by 3, so I should have 6 bar graphs here.",
+    "start_ms": 1084556,
+    "end_ms": 1089037,
+    "duration_ms": 4481,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1089.037,
+    "text": "And here's what they find here. In the 6 hertz, well, let's just look first at the 35 hertz condition, and what we see is basically the TACS had no effect on performance, right?",
+    "start_ms": 1089037,
+    "end_ms": 1101796,
+    "duration_ms": 12759,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1101.796,
+    "text": "This is how fast they can make the decision to detect the targets, and basically there was, you know, you might say a slight slowing for the stimulation groups, but statistically there's no difference between the three conditions.",
+    "start_ms": 1101796,
+    "end_ms": 1114956,
+    "duration_ms": 13160,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1114.956,
+    "text": "So just applying electrical current, it didn't matter whether it's in phase or anti-phase, if I did it at a high frequency, it didn't change performance at all.",
+    "start_ms": 1114956,
+    "end_ms": 1122164,
+    "duration_ms": 7208,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1122.164,
+    "text": "But now I look at what happens when I actually do it at 6 hertz, this rhythm that's been associated with the way, with attentional states, and now we see that when I actually do the things in phase with one another, the people become faster, better performance at the task, and correspondingly, when I do it anti-phase, I actually really disrupt them, I make them much slower at the task.",
+    "start_ms": 1122164,
+    "end_ms": 1147796,
+    "duration_ms": 25632,
+    "word_count": 71,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1147.796,
+    "text": "So again, a very powerful way of showing that I can actually take a person's basic cognitive performance and boost it by increasing the oscillatory activity between the frontal and parietal lobe, or disrupt it by actually putting them out of phase with one another.",
+    "start_ms": 1147796,
+    "end_ms": 1165637,
+    "duration_ms": 17841,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1165.637,
+    "text": "Okay, now 2 by 3 here would be that these are the two variables, that there's one variable that has two levels on it, and a second variable that has three levels on it, okay?",
+    "start_ms": 1165637,
+    "end_ms": 1187245,
+    "duration_ms": 21608,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1187.245,
+    "text": "So each of these is going to be a variable, so the two doesn't refer to the number of variables, so it could be, you know, a complicated experiment might be 3 by 4 by 2, or something like that, lots of conditions, but this is just saying how many levels of that variable are, so there's two levels of simulation frequency, and there's three levels of the relationship between the two alternating currents.",
+    "start_ms": 1187245,
+    "end_ms": 1210008,
+    "duration_ms": 22763,
+    "word_count": 74,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1210.008,
+    "text": "And yes, that would be, you do want to think about those sorts of things when you're doing the exam essay part there.",
+    "start_ms": 1210008,
+    "end_ms": 1220929,
+    "duration_ms": 10921,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1220.929,
+    "text": "Okay, I'll just briefly mention that a Berkeley scientist that I was working with, his idea, but he had this idea that actually maybe we could combine the best things of TMS with the best things of TES.",
+    "start_ms": 1220929,
+    "end_ms": 1237303,
+    "duration_ms": 16374,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1237.303,
+    "text": "And so what he said is like, let's do magnetic stimulation, we know it's safe, it passes through the skull and all, but instead of driving it with a capacitor, let's drive it with an amplifier, and it's not just your standard amplifier, this amplifier weighs 650 pounds, okay, so it can drive it at a very, it can drive this amplifier with a TMS coil in a very continuous way with a current, and the nice thing about doing it with an amplifier is an amplifier is a continuous signal, so I can continuously be driving the TMS coil instead of be doing it in a pulsed manner.",
+    "start_ms": 1237303,
+    "end_ms": 1275400,
+    "duration_ms": 38097,
+    "word_count": 109,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1275.4,
+    "text": "And I won't bother explaining, but you have to do it at high frequencies, so he calls it kilohertz transcranial magnetic perturbation, or KTMP, it's another a very catchy name, he could have just called it kilohertz TMS, but he was insistent that we have to call it this perturbation.",
+    "start_ms": 1275400,
+    "end_ms": 1296756,
+    "duration_ms": 21356,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1296.756,
+    "text": "But this is basically, the features of it are because it's magnetic, and we don't have to worry about pain receptors in the skull, we can actually do it at a much stronger intensity than is possible with electrical stimulation, about at least 10 times or 20 times stronger.",
+    "start_ms": 1296756,
+    "end_ms": 1314436,
+    "duration_ms": 17680,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1314.436,
+    "text": "Still not at the level of TMS, not going to cause neurons to fire, it's still sub-threshold, so like TMS, like TES, we're just going to modulate the neurons in their upstate or their downstate, but nonetheless much stronger than with TES, and unlike TMS where all you can do things in a pulsed manner, here you can apply a continuous current, I won't, I'll just play the video, but what's very nice is unlike the TMS where you're getting those pulses and getting the neurons activated, it can be uncomfortable, basically people can't really detect when the stimulation is on or when it's not on.",
+    "start_ms": 1314436,
+    "end_ms": 1349476,
+    "duration_ms": 35040,
+    "word_count": 106,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1349.476,
+    "text": "Now we've been doing a bunch of experiments, oh, I do have a conflict of interest here because we founded a company here to try to develop this as a tool, no promises that it doesn't have any sort of results at this point, but it's a lot easier to do clinical research if you're operating from a company.",
+    "start_ms": 1349476,
+    "end_ms": 1369796,
+    "duration_ms": 20320,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1369.796,
+    "text": "But here's the kind of earliest experiments we've done to just say, can we use this method to alter behavior?",
+    "start_ms": 1369796,
+    "end_ms": 1375675,
+    "duration_ms": 5879,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1375.675,
+    "text": "So it's kind of similar to the TES or TACS experiment I just described, in our lab we're interested in motor control, so we have a motor experiment, person's pressing on this little device, this yellow thing is going up and down, it kind of changes direction in a random manner, and so what you're doing is you're pressing on this little button just generating isometric forces, small forces, really kind of hard to control, and you're trying to match the blue dot to the yellow dot there, okay, and we've made it that we can kind of change the input-output relationship, how much force you need to produce to position the dot at a position point on the screen, and basically, again, we're going to just compare three conditions here, okay, we're either going to apply 3 Hz KTMP, one of these low frequency signals that typically is associated with boosting concentration, boosting sort of task performance, with 20 Hz stimulation, what's called beta stimulation, and beta stimulation is very pronounced in the motor system when you're at rest, so the idea is that if we produce stimulated at 20 Hz, we're going to in a sense force the motor system into a relaxed or resting state, which we thought might be disruptive to performance, the 3 Hz condition we're putting them into this more tentative state, the idea that this might boost performance, and we also had a sham condition here, too, I should ask you, here's just sort of how people do at the task, when you get, start any task, you know, this is sort of a measure of error, so bad is up here, good is down here, people get, in almost any test, you always get good really quickly, okay, you just sort of figure out how things work, but then you can see as you practice, it takes, you know, you get better and better, but at a very slow rate, they take a break and they come back and now they're actually quite good at the task, they've kind of consolidated what they know, here's the 3 conditions, and you can see that they don't look all that different from one another, but if we actually blow that up and we just say, what's the change from baseline, so this is 30% improvement from baseline, this is minus 20, so here's where you get the baseline, now they do the KTMP during the task, or they do the task after KTMP is turned off, what you can see is that, you know, here's the yellow bar, it didn't show up so well, but, you know, people get a little bit better the second time they do it, even in the sham condition, you're just getting better with practice, you get a little bit better even more if you get the 3 hertz stimulation, but there's not reliable effect, what is reliable is that if you do the 20 hertz stimulation, your rate of improvement is attenuated, you're not getting better as quickly as the other groups, so it does seem that this 20 hertz stimulation is actually disrupting with the person's ability to learn, and indeed if you actually then test the people again after the KTMP has been applied, the effect lasts for at least another 30 minutes or so, that again we're seeing this cost for the people who are getting the beta stimulation, so that's a first pass effort to just show, can this method actually perturb the brain, can it produce some change in performance, what the folks are doing with it now is to ask, might this be a useful intervention for people with motor disorders from stroke, but stay tuned on that.",
+    "start_ms": 1375675,
+    "end_ms": 1586675,
+    "duration_ms": 211000,
+    "word_count": 626,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1586.675,
+    "text": "Next form of non-invasive brain stimulation I'll mention is one that's really just come on the scene in the last few years, I mean, it was first described maybe over about 10-12 years ago, but been huge excitement about it in the last 3 or 4 years, and that's transcranial focused ultrasound stimulation, so here the way the method works is that you're generating is that you're generating these sounds, but super high-frequency sounds, greater than 20 kilohertz, so greater than 20,000 hertz, something that's beyond human hearing.",
+    "start_ms": 1586675,
+    "end_ms": 1615735,
+    "duration_ms": 29060,
+    "word_count": 88,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1615.735,
+    "text": "So we don't hear ultrasound, okay? But nonetheless, if you direct these ultrasound waves at the brain, at some targeted region of the brain, it's actually going to cause vibration.",
+    "start_ms": 1615735,
+    "end_ms": 1626675,
+    "duration_ms": 10940,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1626.675,
+    "text": "The way sounds, you know, loud sounds, really, you can feel them in a sense.",
+    "start_ms": 1626675,
+    "end_ms": 1630435,
+    "duration_ms": 3760,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1630.435,
+    "text": "And so this causes this mechanical vibration, and for reasons that aren't completely well-understood, this can actually cause neurons to fire.",
+    "start_ms": 1630435,
+    "end_ms": 1638795,
+    "duration_ms": 8360,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1638.795,
+    "text": "The mechanical vibration, there are certain channels, certain receptors that actually open up in response to a mechanical perturbation, and so what's been shown in this is what's actually shown in this slide here.",
+    "start_ms": 1638795,
+    "end_ms": 1651795,
+    "duration_ms": 13000,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1651.795,
+    "text": "This is in a first developing this in a mouse model.",
+    "start_ms": 1651795,
+    "end_ms": 1655834,
+    "duration_ms": 4039,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1655.834,
+    "text": "Basically they turn on the ultrasound right here. Each line is a trial, and basically this is just showing each black dot is the neuron firing.",
+    "start_ms": 1655834,
+    "end_ms": 1664875,
+    "duration_ms": 9041,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1664.875,
+    "text": "And so you can see, whenever you turn on the stimulus, you get this burst of neural activity, and then it takes a little bit of time.",
+    "start_ms": 1664875,
+    "end_ms": 1672835,
+    "duration_ms": 7960,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1672.835,
+    "text": "It actually stays a little bit elevated for a while, and after about a second or so, because this is a quarter of a second, after a half-second, things have returned back to their baseline.",
+    "start_ms": 1672835,
+    "end_ms": 1682475,
+    "duration_ms": 9640,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1682.475,
+    "text": "So again, they worked with the mouse to show, A, they could get neurons to fire from this.",
+    "start_ms": 1682475,
+    "end_ms": 1686954,
+    "duration_ms": 4479,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1686.954,
+    "text": "So like TMS, you actually cause the neurons to fire.",
+    "start_ms": 1686954,
+    "end_ms": 1690674,
+    "duration_ms": 3720,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1690.674,
+    "text": "And the big concern with ultrasound is that if you cause this vibration, that's going to generate heat, and you don't want to cook the brain.",
+    "start_ms": 1690674,
+    "end_ms": 1697714,
+    "duration_ms": 7040,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1697.714,
+    "text": "So basically they're doing measurements here to say, how much is that brain temperature increasing when I stimulate it with ultrasound stimulation?",
+    "start_ms": 1697714,
+    "end_ms": 1706354,
+    "duration_ms": 8640,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1706.354,
+    "text": "And there is a little increase. You do see that increase, but notice it's actually very little.",
+    "start_ms": 1706354,
+    "end_ms": 1710994,
+    "duration_ms": 4640,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1710.994,
+    "text": "Where's the temperature marker? Oh, here's our scale here. This is just 0.03 centigrade change there.",
+    "start_ms": 1710994,
+    "end_ms": 1717435,
+    "duration_ms": 6441,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1717.435,
+    "text": "So it's a very small increase, and now it's been worked out that basically the parameters for what level of ultrasound stimulation can you give and stay within the limits where you don't, you know, damage the brain tissue.",
+    "start_ms": 1717435,
+    "end_ms": 1729915,
+    "duration_ms": 12480,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1729.915,
+    "text": "And I'll just give you two examples from the literature here about uses of ultrasound.",
+    "start_ms": 1729915,
+    "end_ms": 1736514,
+    "duration_ms": 6599,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1736.514,
+    "text": "Here they had a very superficial target. They were just trying to get somatosensory cortex.",
+    "start_ms": 1736514,
+    "end_ms": 1741995,
+    "duration_ms": 5481,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1741.995,
+    "text": "So they're going to apply ultrasound stimulation, that's the red line here, over the somatosensory cortex, or they're going to do sham stimulation.",
+    "start_ms": 1741995,
+    "end_ms": 1750475,
+    "duration_ms": 8480,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1750.475,
+    "text": "And what they're doing here is a classic test in neurology.",
+    "start_ms": 1750475,
+    "end_ms": 1754434,
+    "duration_ms": 3959,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1754.434,
+    "text": "They're basically poking the person with two pins, and you have to say, was it one pin or was it two pins?",
+    "start_ms": 1754434,
+    "end_ms": 1760234,
+    "duration_ms": 5800,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1760.234,
+    "text": "And if I put the two pins close together, you can't really tell the difference.",
+    "start_ms": 1760234,
+    "end_ms": 1764275,
+    "duration_ms": 4041,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1764.275,
+    "text": "Our tactile sense isn't all that great. If I put them far apart, you'll see, you know, yes, there were two pins.",
+    "start_ms": 1764275,
+    "end_ms": 1772215,
+    "duration_ms": 7940,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1772.215,
+    "text": "So what they're plotting here is their accuracy, okay? D prime is just a measure of accuracy as a function of the distance between the two pins.",
+    "start_ms": 1772215,
+    "end_ms": 1781995,
+    "duration_ms": 9780,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1781.995,
+    "text": "So if it gets out to 2.5 millimeters apart, people get pretty good at the task.",
+    "start_ms": 1781995,
+    "end_ms": 1787374,
+    "duration_ms": 5379,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1787.374,
+    "text": "If they are very close to each other, they're basically a chance at the task, okay?",
+    "start_ms": 1787374,
+    "end_ms": 1792775,
+    "duration_ms": 5401,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1792.775,
+    "text": "They just wanted to ask, if they did ultrasound stimulation of the primary somatosensory cortex, did you actually change a person's sensitivity?",
+    "start_ms": 1792775,
+    "end_ms": 1803014,
+    "duration_ms": 10239,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1803.014,
+    "text": "And surprisingly, it's surprising to me, A, they do get an effect, right?",
+    "start_ms": 1803014,
+    "end_ms": 1807695,
+    "duration_ms": 4681,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1807.695,
+    "text": "The red function and the black function diverge from one another.",
+    "start_ms": 1807695,
+    "end_ms": 1811094,
+    "duration_ms": 3399,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1811.094,
+    "text": "What's interesting in this case, at least, is that the ultrasound actually enhanced the person's sensitivity.",
+    "start_ms": 1811094,
+    "end_ms": 1816415,
+    "duration_ms": 5321,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1816.415,
+    "text": "With TMS, we usually see that it's disruptive to turn on a bunch of neurons, but at least in this particular situation, the ultrasound enhanced the person's sensory discrimination abilities.",
+    "start_ms": 1816415,
+    "end_ms": 1829135,
+    "duration_ms": 12720,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1829.135,
+    "text": "All right, you can see that for a given pin distance, they actually got better at making the judgments.",
+    "start_ms": 1829135,
+    "end_ms": 1835094,
+    "duration_ms": 5959,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1835.094,
+    "text": "They had a higher D prime, meaning greater sensitivity. Where people are really interested in ultrasound, and this is a reader article, so I'll just mention it briefly, is the fact that unlike TMS or TES or KTMP, all of those things really can only be used to target things that are superficially near the outside, near the skull, because the signals dissipate as they go through brain tissue.",
+    "start_ms": 1835094,
+    "end_ms": 1859574,
+    "duration_ms": 24480,
+    "word_count": 69,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1859.574,
+    "text": "But ultrasound can actually be focused to target deep brain structures, and that's one of the reasons people are really excited about ultrasound, is its ability to target these deep brain structures.",
+    "start_ms": 1859574,
+    "end_ms": 1870535,
+    "duration_ms": 10961,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1870.535,
+    "text": "You read about it in the paper. In the paper there, it was using patients with Parkinson's disease.",
+    "start_ms": 1870535,
+    "end_ms": 1876215,
+    "duration_ms": 5680,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1876.215,
+    "text": "We'll talk about that later on, about that there's some very deep nuclei in the brain, very buried in the brain stem, that seem to atrophy in Parkinson's disease, and here they're basically saying, could we actually target this part of the brain?",
+    "start_ms": 1876215,
+    "end_ms": 1890775,
+    "duration_ms": 14560,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1890.775,
+    "text": "When you read the paper, you saw that they had some physiological evidence that they were successful, because they have recording electrodes implanted in these individuals, and they also had these behavioral changes that they were able to show, and again, I'm not going to go over that, because you talked about it in section, but basically this part of the brain has been implicated in inhibitory control.",
+    "start_ms": 1890775,
+    "end_ms": 1911495,
+    "duration_ms": 20720,
+    "word_count": 68,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1911.495,
+    "text": "Like when you think about making a movement, then you say, whoa, that's not the right movement.",
+    "start_ms": 1911495,
+    "end_ms": 1915335,
+    "duration_ms": 3840,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1915.335,
+    "text": "This part of the brain seems to be critical for that, and so basically they're using a task that measured your ability to either respond quickly, or your ability to abort a planned response.",
+    "start_ms": 1915335,
+    "end_ms": 1925974,
+    "duration_ms": 10639,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1925.704,
+    "text": "planned response. And they showed that with the ultrasound, they actually disrupted selectively that ability to inhibit your actions.",
+    "start_ms": 1925704,
+    "end_ms": 1933193,
+    "duration_ms": 7489,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1933.193,
+    "text": "They didn't change the ability to make a fast response.",
+    "start_ms": 1933193,
+    "end_ms": 1937274,
+    "duration_ms": 4081,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1937.274,
+    "text": "That's what was shown over here with the basic reaction time on the go trials.",
+    "start_ms": 1937274,
+    "end_ms": 1941414,
+    "duration_ms": 4140,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1941.414,
+    "text": "But on the no-go trials, they showed this cost. And again, you talked about that in your reader thing.",
+    "start_ms": 1941414,
+    "end_ms": 1948014,
+    "duration_ms": 6600,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1948.014,
+    "text": "So again, ultrasound, people are really excited about it because of the physiological measurements showing that it seems to be effective, that it has this great flexibility to reach any brain structure unlike the other methods.",
+    "start_ms": 1948014,
+    "end_ms": 1962393,
+    "duration_ms": 14379,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1962.393,
+    "text": "They're always excited about a new method, too, in general.",
+    "start_ms": 1962393,
+    "end_ms": 1965353,
+    "duration_ms": 2960,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1965.353,
+    "text": "But it also has this other very cool property is that we can use the ultrasound to activate neurons, but we can also use it to actually target our pharmacology.",
+    "start_ms": 1965353,
+    "end_ms": 1976474,
+    "duration_ms": 11121,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1976.474,
+    "text": "So again, if we're treating, say, a disorder like depression, a person's taking a pill, it's being absorbed by the body, it's crossing the blood-brain barrier, it's going out throughout the whole brain in kind of a diffuse manner.",
+    "start_ms": 1976474,
+    "end_ms": 1991554,
+    "duration_ms": 15080,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1991.554,
+    "text": "But if we have a hypothesis that actually we would like to target that drug to a particular part of the brain, we haven't had the capability to do that.",
+    "start_ms": 1991554,
+    "end_ms": 2000434,
+    "duration_ms": 8880,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2000.434,
+    "text": "We might do it in an animal model by putting a cannula right in that part of the brain and releasing the chemical there.",
+    "start_ms": 2000434,
+    "end_ms": 2006673,
+    "duration_ms": 6239,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2006.673,
+    "text": "But that's not something you're going to want to do with people, neurosurgery.",
+    "start_ms": 2006673,
+    "end_ms": 2009993,
+    "duration_ms": 3320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2009.993,
+    "text": "But with ultrasound, what they can do is they can actually give them the drug in what they'll call little bubbles, and then what they'll do is they'll target the ultrasound to explode the bubble right at the location that they want to release the chemical there.",
+    "start_ms": 2009993,
+    "end_ms": 2025273,
+    "duration_ms": 15280,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2025.273,
+    "text": "So they put it in this little bubble, and when they pass the ultrasound there and target it, it makes the bubble dissolve, and the chemical gets released at a very precise location.",
+    "start_ms": 2025273,
+    "end_ms": 2035673,
+    "duration_ms": 10400,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2035.673,
+    "text": "So a great deal of excitement about that. That's actually being used in cancer treatment now to deliver chemotherapy at targeted locations.",
+    "start_ms": 2035673,
+    "end_ms": 2042953,
+    "duration_ms": 7280,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2042.953,
+    "text": "Yeah? You're asking how do they put the bubble in there that is, like, injected?",
+    "start_ms": 2042953,
+    "end_ms": 2047594,
+    "duration_ms": 4641,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2047.594,
+    "text": "Yeah. You just inject it, right? And then, basically, it's going to go through all the bloodstreams.",
+    "start_ms": 2047594,
+    "end_ms": 2052113,
+    "duration_ms": 4519,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2052.113,
+    "text": "So just like any drug, it's going to get distributed, but then it stays sealed until you sit there with your little ultrasound gun and you target it right at that one place, and then the bubbles, you know, the metaphor, at least, they explode and the chemical is released.",
+    "start_ms": 2052113,
+    "end_ms": 2067954,
+    "duration_ms": 15841,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2067.954,
+    "text": "Now there's other methods. I won't talk about them. I mean, the vagal nerve stimulation is an interesting one.",
+    "start_ms": 2067954,
+    "end_ms": 2073514,
+    "duration_ms": 5560,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2073.514,
+    "text": "It's not actually targeting the brain. It's actually, you put an electrical stimulator on the earlobe here, which is where one of the branches of the vagus nerve is, and you turn it on, and you basically just activate the person's vagus nerve, which is part of the parasympathetic system.",
+    "start_ms": 2073514,
+    "end_ms": 2091473,
+    "duration_ms": 17959,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2091.473,
+    "text": "Vagal nerve activation tends to increase the person's arousal, but in a very general way.",
+    "start_ms": 2091473,
+    "end_ms": 2097353,
+    "duration_ms": 5880,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2097.353,
+    "text": "But again, it's another way to non-invasively alter brain states.",
+    "start_ms": 2097353,
+    "end_ms": 2103193,
+    "duration_ms": 5840,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2103.193,
+    "text": "You can actually also, there's many people doing research to say, let's forget about all these fancy machines.",
+    "start_ms": 2103193,
+    "end_ms": 2109034,
+    "duration_ms": 5841,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2109.034,
+    "text": "Let's just flash a light, say, at 20 hertz or at 6 hertz and see if that improves cognition by forcing the brain into a certain state like that.",
+    "start_ms": 2109034,
+    "end_ms": 2118833,
+    "duration_ms": 9799,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2118.833,
+    "text": "So again, lots of different methods, all at different states of development.",
+    "start_ms": 2118833,
+    "end_ms": 2123314,
+    "duration_ms": 4481,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2123.314,
+    "text": "Some of them have already been moved over into the translational side.",
+    "start_ms": 2123314,
+    "end_ms": 2126713,
+    "duration_ms": 3399,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2126.713,
+    "text": "I gave you an example of TMS being used for the treatment of depression.",
+    "start_ms": 2126713,
+    "end_ms": 2131034,
+    "duration_ms": 4321,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2131.034,
+    "text": "It's also been approved for treatment of pain. TES has recently, just recently, been approved for the treatment of depression too.",
+    "start_ms": 2131034,
+    "end_ms": 2139633,
+    "duration_ms": 8599,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2139.633,
+    "text": "The advantage of that is that you can actually do it to your, take the device at home.",
+    "start_ms": 2139633,
+    "end_ms": 2143794,
+    "duration_ms": 4161,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2143.794,
+    "text": "It's a very small device, and so you can self-administer it at home and so forth.",
+    "start_ms": 2143794,
+    "end_ms": 2148234,
+    "duration_ms": 4440,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2148.234,
+    "text": "All right, just no answer to this. Just what's your best guess, okay?",
+    "start_ms": 2148234,
+    "end_ms": 2156913,
+    "duration_ms": 8679,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2156.913,
+    "text": "You've heard about all the sorts of benefits, about can they drive neurons, can they put you into rhythmic states and so forth.",
+    "start_ms": 2156913,
+    "end_ms": 2164833,
+    "duration_ms": 7920,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2164.833,
+    "text": "So which method do you think has the best record to date for stroke rehabilitation?",
+    "start_ms": 2164833,
+    "end_ms": 2170473,
+    "duration_ms": 5640,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2170.473,
+    "text": "These would be people who have suffered a stroke, say they've lost the use of one of their limbs, and now they're trying to recover the use of that limb using some non-invasive brain stimulation method.",
+    "start_ms": 2170473,
+    "end_ms": 2181353,
+    "duration_ms": 10880,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2181.353,
+    "text": "And all of these methods have been tested in stroke patients so far.",
+    "start_ms": 2181353,
+    "end_ms": 2186153,
+    "duration_ms": 4800,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2186.153,
+    "text": "Oh, I guess I've got to start the poll. Okay, let's take a look at your answers here.",
+    "start_ms": 2186153,
+    "end_ms": 2208473,
+    "duration_ms": 22320,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2213.234,
+    "text": "All right, across the board, that seems very reasonable. Actually the one that got the fewest vote is the winner in reality, okay?",
+    "start_ms": 2213234,
+    "end_ms": 2224114,
+    "duration_ms": 10880,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2224.114,
+    "text": "I mean, if you look across all the clinical trials, and there's many of them, but the one that, at least to me, looks to be the best is the vagal nerve stimulation.",
+    "start_ms": 2224114,
+    "end_ms": 2234193,
+    "duration_ms": 10079,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2234.193,
+    "text": "Just basically putting the nervous system into an aroused state seems to be the best thing for treating people with chronic stroke.",
+    "start_ms": 2234193,
+    "end_ms": 2242674,
+    "duration_ms": 8481,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2242.674,
+    "text": "It's been really impressive, some of the benefits some of these patients show.",
+    "start_ms": 2242674,
+    "end_ms": 2245794,
+    "duration_ms": 3120,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2245.773,
+    "text": "these patients show. The other ones, again, people are very interested in them because they can target particular brain structure and you'd think, gee, stimulating the damaged motor areas of the brain is probably going to be better than just sort of producing a general arousal on brain states.",
+    "start_ms": 2245773,
+    "end_ms": 2261513,
+    "duration_ms": 15740,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2261.513,
+    "text": "But again, it's sort of a statement about the state of affairs here, about as people play with these methods and try to move from the lab into the clinic.",
+    "start_ms": 2261513,
+    "end_ms": 2269593,
+    "duration_ms": 8080,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2269.593,
+    "text": "All right, so just a quick summary, you know, the benefits of non-invasive brain stimulation are these are safe ways to transiently manipulate the neural state in the human brain.",
+    "start_ms": 2269593,
+    "end_ms": 2282313,
+    "duration_ms": 12720,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2282.313,
+    "text": "So great tools for basic research, I've given you some examples about, you know, looking at different cognitive abilities like working memory, can we improve or disrupt them.",
+    "start_ms": 2282313,
+    "end_ms": 2292593,
+    "duration_ms": 10280,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2292.593,
+    "text": "So a tool to ask questions about what's the role of a particular part of the brain in some sort of function like asking the question we talked about last week, is the occipital lobe really being used for tactile perception in people who are blind.",
+    "start_ms": 2292593,
+    "end_ms": 2308312,
+    "duration_ms": 15719,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2308.312,
+    "text": "Lots of translational applications going on, I've talked about the depression studies, ongoing work about stroke and so forth.",
+    "start_ms": 2308312,
+    "end_ms": 2316553,
+    "duration_ms": 8241,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2316.553,
+    "text": "One thing that's come out too as these methods have been developed is that, you know, you might develop something and say I'm using it for a particular population for some clinical utility, but people are going to think, wait a second, if that tool improves someone who's had a stroke, then it's probably going to improve my little Johnny and make him the best musician in the world and so forth.",
+    "start_ms": 2316553,
+    "end_ms": 2336233,
+    "duration_ms": 19680,
+    "word_count": 72,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2336.233,
+    "text": "And so all these companies have sprung up, most of them involving transcranial electrical stimulation because it's a very simple at-home device there.",
+    "start_ms": 2336233,
+    "end_ms": 2345272,
+    "duration_ms": 9039,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2345.272,
+    "text": "These are some Bay Area companies, this guy though is already out of business, but there are like six of them at some point, and basically you can go out there now and you can buy these devices and you can try them out at home and, you know, again, they're all basically the same thing, it's more a matter of marketing.",
+    "start_ms": 2345272,
+    "end_ms": 2359553,
+    "duration_ms": 14281,
+    "word_count": 62,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2359.553,
+    "text": "Some of the companies say we're targeting musicians and we're going to give you a protocol that's going to improve your musical capabilities, others say they're going to do it for sports.",
+    "start_ms": 2359553,
+    "end_ms": 2367993,
+    "duration_ms": 8440,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2367.993,
+    "text": "It's caught on the world's leading team in the Tour de France after they race, at least they were for a couple of years, they all go and spin after they race, you know, these guys have run 170 miles, what do they do next?",
+    "start_ms": 2367993,
+    "end_ms": 2380592,
+    "duration_ms": 12599,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2380.592,
+    "text": "They hop on a stationary bike and spin. But one team was always popping on their TES systems while they did it afterwards thinking that this would help consolidate their recovery.",
+    "start_ms": 2380592,
+    "end_ms": 2391193,
+    "duration_ms": 10601,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2391.193,
+    "text": "So that's sort of the promise. The problem though, again, I really want to emphasize is that with all these methods, the effects tend to be pretty small, okay?",
+    "start_ms": 2391193,
+    "end_ms": 2401273,
+    "duration_ms": 10080,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2401.273,
+    "text": "And they've had a history of having replication problems. One paper comes out saying, look, we're able to do this.",
+    "start_ms": 2401273,
+    "end_ms": 2407932,
+    "duration_ms": 6659,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2407.932,
+    "text": "Three other papers come along and say, we weren't able to get the same effect.",
+    "start_ms": 2407932,
+    "end_ms": 2411613,
+    "duration_ms": 3681,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2411.613,
+    "text": "So the robustness of the effects is a little bit unclear, it's why people like Elon Musk and others have decided that non-invasive is not the way to go, they're developing invasive methods that we'll talk about.",
+    "start_ms": 2411613,
+    "end_ms": 2424413,
+    "duration_ms": 12800,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2424.413,
+    "text": "But nonetheless, there's great promise, but there's lots of work to be done to sort out how do we really make these things be effective in a consistent manner.",
+    "start_ms": 2424413,
+    "end_ms": 2433092,
+    "duration_ms": 8679,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2433.932,
+    "text": "All right. So let's switch gears here and start to talk about other ways of measuring human brains.",
+    "start_ms": 2433932,
+    "end_ms": 2443133,
+    "duration_ms": 9201,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2443.133,
+    "text": "And first I just want to talk about imaging the human brain.",
+    "start_ms": 2443133,
+    "end_ms": 2445652,
+    "duration_ms": 2519,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2445.652,
+    "text": "And we've had techniques around for pretty close to 100 years now, right?",
+    "start_ms": 2445652,
+    "end_ms": 2451253,
+    "duration_ms": 5601,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2451.253,
+    "text": "We had x-rays that were ways to visualize the inside of the body, look to see if you have a broken bone or so forth.",
+    "start_ms": 2451253,
+    "end_ms": 2458853,
+    "duration_ms": 7600,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2458.853,
+    "text": "A CT scan or CAT scan, sometimes called, stands for computerized tomography, and it's really just a glorified x-ray, okay?",
+    "start_ms": 2458853,
+    "end_ms": 2468532,
+    "duration_ms": 9679,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2468.532,
+    "text": "It's basically an x-ray with a machine that's going to be able to do a better reconstruction of the tissue that's being imaged.",
+    "start_ms": 2468532,
+    "end_ms": 2475892,
+    "duration_ms": 7360,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2475.892,
+    "text": "So it's just passing an x-ray through. It's basically measuring variation in density.",
+    "start_ms": 2475892,
+    "end_ms": 2481413,
+    "duration_ms": 5521,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2481.413,
+    "text": "How is the tissue, how is the x-ray waves being absorbed by different tissue?",
+    "start_ms": 2481413,
+    "end_ms": 2486413,
+    "duration_ms": 5000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2486.413,
+    "text": "And this is the kind of picture you get, and they're still commonly used.",
+    "start_ms": 2486413,
+    "end_ms": 2490613,
+    "duration_ms": 4200,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2490.613,
+    "text": "You can see it's a pretty low resolution picture, like I can't really see clearly the separation of the white and the gray matter.",
+    "start_ms": 2490613,
+    "end_ms": 2497893,
+    "duration_ms": 7280,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2497.893,
+    "text": "I see these dark bands here. This is the ventricles where the cerebral spinal fluid rests, so forth.",
+    "start_ms": 2497893,
+    "end_ms": 2506253,
+    "duration_ms": 8360,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2506.253,
+    "text": "But nonetheless, when I look at an x-ray to say, are there places that I see some deviation in the homogeneity?",
+    "start_ms": 2506253,
+    "end_ms": 2514932,
+    "duration_ms": 8679,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2514.932,
+    "text": "Some difference, say, between what I see on the left side of the brain and the right side of the brain, and that's going to be an indicator that there's some sort of abnormality.",
+    "start_ms": 2514932,
+    "end_ms": 2523492,
+    "duration_ms": 8560,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2523.492,
+    "text": "So for instance, here I'm seeing a dark patch here that I don't really see on this side here, and that's likely an indicator that there's been some change, some structural change.",
+    "start_ms": 2523492,
+    "end_ms": 2534372,
+    "duration_ms": 10880,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2534.372,
+    "text": "And for instance, it might be the accumulation of blood from, say, a stroke.",
+    "start_ms": 2534372,
+    "end_ms": 2538233,
+    "duration_ms": 3861,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2538.233,
+    "text": "So CTs are one way that I can really, you know, even though they're crude, usually brain injuries are quite prominent, especially if you've had something like a stroke or a tumor, and they can be visualized with a CT scan.",
+    "start_ms": 2538233,
+    "end_ms": 2554233,
+    "duration_ms": 16000,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2554.233,
+    "text": "However, about 40 years ago, say now, people have developed magnetic resonance imaging, or MRIs.",
+    "start_ms": 2554233,
+    "end_ms": 2565393,
+    "duration_ms": 11160,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2564.888,
+    "text": "or MRIs, and again, if you go to a hospital now, if you think you had a broken arm or something, they're probably gonna give you a CT scan, but if you've had some sort of head injury, or your baby's fallen, you know, hit their head, and they think they had a concussion or something, they're more likely to do an MRI.",
+    "start_ms": 2564888,
+    "end_ms": 2581032,
+    "duration_ms": 16144,
+    "word_count": 63,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2581.032,
+    "text": "And I'll just briefly say what an MRI, how it works here, just to give you a sense of how the device works.",
+    "start_ms": 2581032,
+    "end_ms": 2587311,
+    "duration_ms": 6279,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2587.311,
+    "text": "So basically, right, all protons are spinning about, right? But they have some sort of magnetic property to them.",
+    "start_ms": 2587311,
+    "end_ms": 2595871,
+    "duration_ms": 8560,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2595.871,
+    "text": "The world we live in, though, is a very weak magnetic field, and so the proton's orientation is generally random in the baseline state.",
+    "start_ms": 2595871,
+    "end_ms": 2604512,
+    "duration_ms": 8641,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2605.512,
+    "text": "And so what the MRI machine does is it's a big, giant magnet, or you could turn it on as a big, giant magnet, and what it's gonna do is align the protons along the axis of the magnetic field you've created.",
+    "start_ms": 2605512,
+    "end_ms": 2618071,
+    "duration_ms": 12559,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2618.071,
+    "text": "Now, in this particular example here, we've exaggerated things. We're making it look like all of the protons get oriented that way.",
+    "start_ms": 2618071,
+    "end_ms": 2624991,
+    "duration_ms": 6920,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2624.991,
+    "text": "It's actually gonna only be a small fraction, but nonetheless, we're gonna go from a completely random distribution to a distribution that's oriented in a particular direction, and then what they're gonna do is they're actually gonna pass a radio frequency through the scanner, and that's gonna perturb all those protons.",
+    "start_ms": 2624991,
+    "end_ms": 2643751,
+    "duration_ms": 18760,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2643.751,
+    "text": "It's gonna change their orientation, so it's gonna make them go from being vertical, say, I'm gonna knock them, and they're all gonna shift over to now be horizontal, and then what happens is when you turn off that radio frequency, that radio wave, the protons are gonna spin back to that magnetic field, and when they do that spin back, they're generating some energy, and that's what's being measured by the MRI is that energy being released as the protons are spinning back, and where we're really measuring these protons is what's the most common substance in the brain is the water, and so what we're gonna be measuring with an MRI is the density of the water, how it varies from one region to another through this perturbation and measurement technique, and so here are three MRI scans taken from different orientations.",
+    "start_ms": 2643751,
+    "end_ms": 2695792,
+    "duration_ms": 52041,
+    "word_count": 144,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2695.792,
+    "text": "This is a horizontal slice, a sagittal slice, or a coronal slice.",
+    "start_ms": 2695792,
+    "end_ms": 2702971,
+    "duration_ms": 7179,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2702.971,
+    "text": "For comparison, I put the CT back up here, and I think you can see even with the bad projection here that it's a much better quality image here, that we can really start to see things, and it doesn't show up as well here, but you'll see it in the slides.",
+    "start_ms": 2702971,
+    "end_ms": 2716711,
+    "duration_ms": 13740,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2716.711,
+    "text": "You can clearly differentiate the gray matter from the white matter.",
+    "start_ms": 2716711,
+    "end_ms": 2721351,
+    "duration_ms": 4640,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2721.351,
+    "text": "You can easily see the sulci and the fissures, right, and it's very prominent.",
+    "start_ms": 2721351,
+    "end_ms": 2726911,
+    "duration_ms": 5560,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2726.911,
+    "text": "Here again are those ventricles where we have the cerebral spinal fluid that's bathing the brain and bathing the spinal cord.",
+    "start_ms": 2726911,
+    "end_ms": 2733411,
+    "duration_ms": 6500,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2734.792,
+    "text": "You can see when we get the side view, here's that corpus callosum, so big band of white matter.",
+    "start_ms": 2734792,
+    "end_ms": 2740592,
+    "duration_ms": 5800,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2740.592,
+    "text": "You can see the gaps and nasal passages, the cerebellum, the brain stem, and the spinal cord, so again, much greater detail when we use an MRI scan for structural imaging the brain compared to a CT scan, and so forth, and so we can actually use this to actually look for structural changes associated with different neurological disorders or diseases, right, so I talked about, you know, in neuropsychology, we might wanna compare people with damage to the right hemisphere to the left hemisphere.",
+    "start_ms": 2740592,
+    "end_ms": 2774271,
+    "duration_ms": 33679,
+    "word_count": 85,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2774.271,
+    "text": "We're not usually that crude. People might say, I wanna study individuals who have lesions in the inferior part of the temporal lobe on a particular task, and how are they gonna figure out where those lesions are?",
+    "start_ms": 2774271,
+    "end_ms": 2785771,
+    "duration_ms": 11500,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2785.771,
+    "text": "Well, they're gonna see it in the MRI, so they're gonna be able to look at the person's MRI, so here again, what we're seeing is this is a MRI scan.",
+    "start_ms": 2785771,
+    "end_ms": 2794092,
+    "duration_ms": 8321,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2794.092,
+    "text": "This is a crude one with gadolinium that's just highlighting that there's a gross inhomogeneity in one part of the person's brain back here, okay?",
+    "start_ms": 2794092,
+    "end_ms": 2804292,
+    "duration_ms": 10200,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2804.292,
+    "text": "That means in this particular case, this is the accumulation of blood from a stroke that's being imaged, so usually we would have, all the blood would be in the vessels.",
+    "start_ms": 2804292,
+    "end_ms": 2813771,
+    "duration_ms": 9479,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2813.771,
+    "text": "In fact, here, what they're doing is applying an agent that lights up the arteries of the brain, so the arteries are big, giant arteries, and then they get smaller and smaller and smaller as they get out to the periphery.",
+    "start_ms": 2813771,
+    "end_ms": 2825652,
+    "duration_ms": 11881,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2825.652,
+    "text": "In the end, they're gonna get very small, they're gonna become, you know, capillaries and so forth.",
+    "start_ms": 2825652,
+    "end_ms": 2830572,
+    "duration_ms": 4920,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2830.572,
+    "text": "Here, they're actually showing, illuminating it, and what you see is, again, we're looking for deviations from the left and the right side, and what you see is that there's an occlusion here, right?",
+    "start_ms": 2830572,
+    "end_ms": 2839652,
+    "duration_ms": 9080,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2839.652,
+    "text": "Here's the vessels. Blood flow should be continuous, but this person's had a stroke.",
+    "start_ms": 2839652,
+    "end_ms": 2844532,
+    "duration_ms": 4880,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2844.532,
+    "text": "Some gunk broke off from their heart, traveled through the artery.",
+    "start_ms": 2844532,
+    "end_ms": 2849932,
+    "duration_ms": 5400,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2849.932,
+    "text": "Things are big rivers at first, but they're getting smaller and smaller.",
+    "start_ms": 2849932,
+    "end_ms": 2853451,
+    "duration_ms": 3519,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2853.451,
+    "text": "Eventually, it got so small that that piece of gunk got lodged.",
+    "start_ms": 2853451,
+    "end_ms": 2857291,
+    "duration_ms": 3840,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2857.291,
+    "text": "It happened to get lodged right here, and so it's occluding the blood flow, and I can see that in the MRI when they're using it with a tracing agent that illuminates the arteries here.",
+    "start_ms": 2857291,
+    "end_ms": 2867312,
+    "duration_ms": 10021,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2867.312,
+    "text": "So that's a blockage in the occipital lobe of this individual that's causing this bleed here.",
+    "start_ms": 2867312,
+    "end_ms": 2873852,
+    "duration_ms": 6540,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2873.852,
+    "text": "Got the blockage there, and so there was the bleeding.",
+    "start_ms": 2873852,
+    "end_ms": 2876092,
+    "duration_ms": 2240,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2876.092,
+    "text": "Is there a question over here? No, okay. Here, we can actually see instead of a, yeah, here's a.",
+    "start_ms": 2876092,
+    "end_ms": 2885532,
+    "duration_ms": 9440,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2885.311,
+    "text": "a different type of stroke. Here we're seeing it right after the stroke, and here we're seeing it with a different agent.",
+    "start_ms": 2885311,
+    "end_ms": 2891671,
+    "duration_ms": 6360,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2891.671,
+    "text": "So again, we're just seeing that at this point in time, that blood's been reabsorbed, but now here we're just seeing that there's a loss of tissue, okay, there's actually the cerebral spinal fluid filling up that space there.",
+    "start_ms": 2891671,
+    "end_ms": 2904151,
+    "duration_ms": 12480,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2904.151,
+    "text": "So very easy to observe the effects of a stroke either immediately or over the course of time because there's going to be some change in the structure.",
+    "start_ms": 2904151,
+    "end_ms": 2914230,
+    "duration_ms": 10079,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2914.23,
+    "text": "In the old days, again, if you had a brain tumor, usually we were only able to visualize it when the person died.",
+    "start_ms": 2914230,
+    "end_ms": 2920311,
+    "duration_ms": 6081,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2920.311,
+    "text": "So here's a large temporal lobe glioma. It's a tumor in the glia cells.",
+    "start_ms": 2920311,
+    "end_ms": 2926270,
+    "duration_ms": 5959,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2926.27,
+    "text": "Again, this is postmortem, after the person's died, they could actually see that, oh, this person had a large brain tumor in the temporal lobe, but now with MRIs and so forth, we can actually visualize those tumors very clearly and delineate them and useful information that's going to be for a surgeon who's going to go in there and maybe cut out that tumor.",
+    "start_ms": 2926270,
+    "end_ms": 2946710,
+    "duration_ms": 20440,
+    "word_count": 65,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2946.71,
+    "text": "So here we're basically seeing there's the tumor itself, this very dark spot here.",
+    "start_ms": 2946710,
+    "end_ms": 2952151,
+    "duration_ms": 5441,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2952.151,
+    "text": "Here's tissue, actually water that's surrounding it. The tumors, again, push against the brain tissue.",
+    "start_ms": 2952151,
+    "end_ms": 2958191,
+    "duration_ms": 6040,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2958.191,
+    "text": "So in this particular case, it's not the neurons themselves that are tumors, it's usually very often in the glia cell.",
+    "start_ms": 2958191,
+    "end_ms": 2965111,
+    "duration_ms": 6920,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2965.111,
+    "text": "The tumor grows, though, what does it do? It displaces the neurons, and so the neurons start malfunctioning because they have this pressure against them, they're getting compressed and so forth.",
+    "start_ms": 2965111,
+    "end_ms": 2978791,
+    "duration_ms": 13680,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2978.791,
+    "text": "So again, when we study people with brain injury frequently, we're studying people with strokes or tumors.",
+    "start_ms": 2978791,
+    "end_ms": 2985750,
+    "duration_ms": 6959,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2985.831,
+    "text": "There is a lot of research done with people with degenerative disorders of the nervous system.",
+    "start_ms": 2985831,
+    "end_ms": 2991350,
+    "duration_ms": 5519,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2991.35,
+    "text": "For cognitive neuroscience, it's not usually as interesting because the damage tends to be diffuse and broad spread, so we can't really talk about injury to a particular part of the brain and relate that to behavior.",
+    "start_ms": 2991350,
+    "end_ms": 3004151,
+    "duration_ms": 12801,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3004.151,
+    "text": "But I just list these briefly. Certainly lots of interest in understanding these disease processes, both how they change cognition, and also about how can we actually try to cure these things.",
+    "start_ms": 3004151,
+    "end_ms": 3016351,
+    "duration_ms": 12200,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3016.351,
+    "text": "So there's many different types of degenerative disorders that result in atrophy, atrophy just means cell death.",
+    "start_ms": 3016351,
+    "end_ms": 3025411,
+    "duration_ms": 9060,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3025.411,
+    "text": "So there's ones that have kind of an unknown, maybe a mixed ideology.",
+    "start_ms": 3025411,
+    "end_ms": 3029230,
+    "duration_ms": 3819,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3029.23,
+    "text": "So for instance, something like Alzheimer's or Parkinson's, there clearly is some genetic component.",
+    "start_ms": 3029230,
+    "end_ms": 3035870,
+    "duration_ms": 6640,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3035.87,
+    "text": "So if you're a parent with Alzheimer's, say, it increases your risk.",
+    "start_ms": 3035870,
+    "end_ms": 3040191,
+    "duration_ms": 4321,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3040.191,
+    "text": "But it really only accounts, that genetic component only accounts for a very small percentage of all the Alzheimer's cases.",
+    "start_ms": 3040191,
+    "end_ms": 3047471,
+    "duration_ms": 7280,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3047.471,
+    "text": "So there's a genetic component, but there's also unknown factors that are contributing to why people develop Alzheimer's or why they develop Parkinson's disease.",
+    "start_ms": 3047471,
+    "end_ms": 3056631,
+    "duration_ms": 9160,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3056.631,
+    "text": "Parkinson's, there's a belief that, again, there may be toxic agents in the environment that really accelerate the cell death and so forth.",
+    "start_ms": 3056631,
+    "end_ms": 3064831,
+    "duration_ms": 8200,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3064.831,
+    "text": "There are other types of degenerative disorders that have a completely strong, well-understood genetic source.",
+    "start_ms": 3064831,
+    "end_ms": 3072211,
+    "duration_ms": 7380,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3072.211,
+    "text": "So Huntington's disease, people get tested for it. If you have copies of the Huntington gene, you are going to develop Huntington's disease somewhere between the ages of probably 30 and 45 and so forth.",
+    "start_ms": 3072211,
+    "end_ms": 3087030,
+    "duration_ms": 14819,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3087.03,
+    "text": "And then there's others. I call it alcoholism. You know, alcohol is highly toxic to nerve tissue.",
+    "start_ms": 3087030,
+    "end_ms": 3093911,
+    "duration_ms": 6881,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3093.991,
+    "text": "That is why, you know, if you've been drinking and the police ask you to pull you over and they'll ask you to walk a line, it's because there's, especially in the cerebellum, there are cells that have a very short-term reaction, strong reaction to alcohol and malfunction.",
+    "start_ms": 3093991,
+    "end_ms": 3110790,
+    "duration_ms": 16799,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3110.79,
+    "text": "But with chronic alcohol use, you see lots of brain tissue dying off.",
+    "start_ms": 3110790,
+    "end_ms": 3115911,
+    "duration_ms": 5121,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3115.911,
+    "text": "There's viral sources that can cause things, like ALS, AIDS, certainly there was a form of AIDS dementia associated with exposure to the AIDS virus, and multiple sclerosis is thought to have some sort of viral component.",
+    "start_ms": 3115911,
+    "end_ms": 3130230,
+    "duration_ms": 14319,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3130.23,
+    "text": "And then there are these really strange cases where people have like an autoimmune reaction.",
+    "start_ms": 3130230,
+    "end_ms": 3134431,
+    "duration_ms": 4201,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3134.431,
+    "text": "The case that was most marked that I ever worked with was a woman who had uterine cancer.",
+    "start_ms": 3134431,
+    "end_ms": 3139931,
+    "duration_ms": 5500,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3139.931,
+    "text": "They took out the cancerous tissue in her immune system then, which had been targeting that tumor that was developing, went awry and basically targeted her whole cerebellum, and wiped it out in three months' time.",
+    "start_ms": 3139931,
+    "end_ms": 3152031,
+    "duration_ms": 12100,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3152.031,
+    "text": "So there's different types of autoimmune reactions, which, again, someone's immune system turns on their own brain.",
+    "start_ms": 3152031,
+    "end_ms": 3157751,
+    "duration_ms": 5720,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3157.751,
+    "text": "All right, I'll leave it at that. And the last thing I'll just show you, again, MRIs just being useful for visualizing the changes that occur in these atrophic disorders, and this is just, again, showing a healthy senior person, older person, against someone with fairly advanced Alzheimer's, and you can see quite prominently the atrophy, especially over here in the temporal lobes, and this widening of the ventricles, because the brain tissue has to go somewhere, and you have an expansion of the cerebral spinal fluid.",
+    "start_ms": 3157751,
+    "end_ms": 3191910,
+    "duration_ms": 34159,
+    "word_count": 87,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3196.79,
+    "text": "Thank you.",
+    "start_ms": 3196790,
+    "end_ms": 3197629,
+    "duration_ms": 839,
+    "word_count": 2,
+    "avg_confidence": 90
+  }
+]

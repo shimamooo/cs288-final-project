@@ -1,0 +1,2900 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "you you you you you you you you Okay, I I Sure you'll be disappointed to hear that I clickers Not working at least for me today, so I can't start the class so We have a couple of I clicker things But we'll just have to do it by a show of hands or something and everyone will get credit for today So okay, so we're done with the exam any questions about that Okay, we'll have it take a little while to get them graded and get them back to you because there's a lot of them But today we then move into the rest of the semester we spend on the kind of more content topics so you got the methods down kind of the logic of Cognitive neuroscience and now we'll turn to our topics.",
+    "start_ms": 0,
+    "end_ms": 283896,
+    "duration_ms": 283896,
+    "word_count": 139,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 283.896,
+    "text": "We start off with perception and today We'll focus on what I'll call the building blocks of perception Okay, so we talked about Sensation and perception and what's the distinction between them and it's kind of a fuzzy point But sensation really is going to be talking about how do we take external information whether it's lights or sounds smells touches or whatever how do we actually take that information and Translate it into a neural code because for the brain to process it has to be converted from say light waves Into neural signals, and so that's called transduction There's mechanisms for that for all the different senses whether it's the photo-reception photoreceptors in the eye that have certain pigments that respond to light waves, wavelengths of light, or mechanoreceptors in the fingertips.",
+    "start_ms": 283896,
+    "end_ms": 337158,
+    "duration_ms": 53262,
+    "word_count": 134,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 337.158,
+    "text": "We're actually not gonna spend any real time on that, talking about that.",
+    "start_ms": 337158,
+    "end_ms": 340199,
+    "duration_ms": 3041,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 340.199,
+    "text": "Let's talk about it in the chapter briefly, but here we're more interested towards the cognitive end, so perception.",
+    "start_ms": 340199,
+    "end_ms": 346318,
+    "duration_ms": 6119,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 346.318,
+    "text": "In perception, you think about perception, but to me, perception really actually gets into memory, because it's about, how do we take our sensory input and recognize it?",
+    "start_ms": 346318,
+    "end_ms": 357039,
+    "duration_ms": 10721,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 357.039,
+    "text": "And to recognize it means that we must have actually had some sort of act of retrieving information from memory, or at least some comparison of the current sensory input with what we have experienced in the past.",
+    "start_ms": 357039,
+    "end_ms": 370278,
+    "duration_ms": 13239,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 370.278,
+    "text": "Sometimes there'll be a match, or we'll recognize something. We'll say, you know, that's your phone.",
+    "start_ms": 370278,
+    "end_ms": 374318,
+    "duration_ms": 4040,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 374.318,
+    "text": "Other times, there'll be something we've never seen before, like a green elephant, but at least by failing to recognize it, by saying it doesn't match anything in memory, we recognize that this is something new that we haven't experienced before.",
+    "start_ms": 374318,
+    "end_ms": 386738,
+    "duration_ms": 12420,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 388.458,
+    "text": "Now, sensation certainly constrains perception. I wanna make that point.",
+    "start_ms": 388458,
+    "end_ms": 392899,
+    "duration_ms": 4441,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 392.899,
+    "text": "So, we talk about that there is a spectrum of electromagnetic energy, and if it's a spectrum, it means it can go from, you know, wide wavelengths to very narrow wavelengths, or high frequency, or low frequency would be wide ones to high frequency, things that are oscillating rapidly.",
+    "start_ms": 392899,
+    "end_ms": 412119,
+    "duration_ms": 19220,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 413.378,
+    "text": "This is actually, let's say, the whole spectrum here, going from, again, high frequency to low frequency, at least in the electromagnetic.",
+    "start_ms": 413378,
+    "end_ms": 420259,
+    "duration_ms": 6881,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 420.259,
+    "text": "This is different than what we mean with sound pressure waves.",
+    "start_ms": 420259,
+    "end_ms": 424238,
+    "duration_ms": 3979,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 424.238,
+    "text": "But the point I want to really make here is that our eyes are tuned at, we're only sensitive, our visual system is only sensitive to a very narrow region of that electromagnetic spectrum.",
+    "start_ms": 424238,
+    "end_ms": 436998,
+    "duration_ms": 12760,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 436.998,
+    "text": "It's really this range right here, and if we see it down at the lowest end where we become sensitive to it, that's where we see blues and purples.",
+    "start_ms": 436998,
+    "end_ms": 444839,
+    "duration_ms": 7841,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 444.839,
+    "text": "As we go across, we have yellows, and then at this end, we see reds.",
+    "start_ms": 444839,
+    "end_ms": 449839,
+    "duration_ms": 5000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 449.839,
+    "text": "So forth, when you're seeing a rainbow, it's basically being that light being refracted so that we're actually highlighting the full spectrum of what's visible to the human eye.",
+    "start_ms": 449839,
+    "end_ms": 460279,
+    "duration_ms": 10440,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 460.279,
+    "text": "Now, that's human visual sensitivity, but actually, it differs for other species.",
+    "start_ms": 460279,
+    "end_ms": 465999,
+    "duration_ms": 5720,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 465.999,
+    "text": "So for instance, we don't see ultraviolet light, but some animals do see ultraviolet light.",
+    "start_ms": 465999,
+    "end_ms": 473399,
+    "duration_ms": 7400,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 473.399,
+    "text": "So this is a primrose. This is a flower that would look like, this one looks like, to a human eye, at least a yellow primrose, looks just like this.",
+    "start_ms": 473399,
+    "end_ms": 482039,
+    "duration_ms": 8640,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 482.039,
+    "text": "If we actually were sensitive to ultraviolets and ultraviolet light, this here is color-coding variations in the ultraviolet light across that primrose surface there.",
+    "start_ms": 482039,
+    "end_ms": 496078,
+    "duration_ms": 14039,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 496.078,
+    "text": "And so a bee that's sensitive to ultraviolet sensitive, this is what that same flower looks like if you had a bee brain compared to a human brain.",
+    "start_ms": 496078,
+    "end_ms": 504119,
+    "duration_ms": 8041,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 504.119,
+    "text": "You can see that, that'd probably be pretty useful, right?",
+    "start_ms": 504119,
+    "end_ms": 506639,
+    "duration_ms": 2520,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 506.639,
+    "text": "Bees are buzzing around, looking for pollen. Primrose is a good target, wants to get right to that center of that primrose.",
+    "start_ms": 506639,
+    "end_ms": 513518,
+    "duration_ms": 6879,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 513.518,
+    "text": "And so now it's got this very high contrast in the ultraviolet range that allows the bee to hone right in, something that we're completely insensitive to.",
+    "start_ms": 513518,
+    "end_ms": 522679,
+    "duration_ms": 9161,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 523.878,
+    "text": "All right, so with that in mind, we're gonna consider today, briefly, well, talk a little bit about the anatomy of the visual.",
+    "start_ms": 523878,
+    "end_ms": 530518,
+    "duration_ms": 6640,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 530.518,
+    "text": "We're gonna focus only on the visual system. Other senses are talked about in the textbook, but I, like many others, we're kind of visual-centric.",
+    "start_ms": 530518,
+    "end_ms": 539658,
+    "duration_ms": 9140,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 539.759,
+    "text": "So we're gonna talk about the anatomy of the visual system, how we can think about the building blocks of perception from an anatomical perspective, from a physiological perspective, and from a behavioral perspective.",
+    "start_ms": 539759,
+    "end_ms": 551839,
+    "duration_ms": 12080,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 551.839,
+    "text": "So again, the three sorts of, three arms of cognitive neuroscience about how we can understand brain-behavioral relationships.",
+    "start_ms": 551839,
+    "end_ms": 558759,
+    "duration_ms": 6920,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 558.759,
+    "text": "We're looking at anatomy, physiology, and behavior. All right, so first, anatomy, and this is, again, taken straight from the textbook here.",
+    "start_ms": 558759,
+    "end_ms": 567839,
+    "duration_ms": 9080,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 567.839,
+    "text": "Just highlighting in color what we call the primary sensory areas, and here I'm showing it for all the senses.",
+    "start_ms": 567839,
+    "end_ms": 574759,
+    "duration_ms": 6920,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 574.759,
+    "text": "Primary just means the first part in the cerebral cortex where inputs from the sensory systems have reached the cerebral cortex, and they've all gone through a number of different synapses out at the eye, for instance, for the visual system in the retina, and then some projections through the subcortex, and then eventually, usually through the thalamus, reaching the cerebral cortex, and so for visual information, it's gonna be back here in the occipital lobe, and then we have the primary motor, primary somatosensory cortex here, olfactory, et cetera, and I'm showing here, actually, in color both the primary and the secondary, and the secondary would just mean the main relay of information from the primary sensory area to another sensory area, but again, this information's gonna get mixed and matched very quickly, and so other areas of the brain we'll talk about as being, you know, multimodal, and multimodal just means that if we did, say, physiology, we recorded from neurons in those parts of the brain, we'd see that they don't just respond to visual inputs, they might respond to both visual and auditory inputs, right, and they might respond to visual and tactile inputs, and you can see that these, that these multimodal areas tend to lie in these gaps between the primary and secondary regions up here.",
+    "start_ms": 574759,
+    "end_ms": 654437,
+    "duration_ms": 79678,
+    "word_count": 222,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 654.458,
+    "text": "Some areas respond to inputs from many different senses, some from just pairs of them, that's the point being made in this slide here.",
+    "start_ms": 654458,
+    "end_ms": 662478,
+    "duration_ms": 8020,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 662.497,
+    "text": "But again, just turning to a blow-up of the visual system, this is just laying out the basic anatomy, something that we could do by using some sort of projection map that is injecting a stain, say an osoma, and seeing where its axons go if we're doing the anterograde tracing method.",
+    "start_ms": 662497,
+    "end_ms": 681258,
+    "duration_ms": 18761,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 681.277,
+    "text": "So of course we know the input's going to come in through the eyes, in the back of the eyes all the photoreceptors are along the retina.",
+    "start_ms": 681277,
+    "end_ms": 687898,
+    "duration_ms": 6621,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 687.918,
+    "text": "And this is just showing, kind of the thickness here is showing the projections of the retina are going to go to many different areas of the subcortex.",
+    "start_ms": 687918,
+    "end_ms": 696738,
+    "duration_ms": 8820,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 696.738,
+    "text": "I showed you earlier that there's this large projection into the thalamus and in particular what's called the lateral geniculate nucleus of the thalamus.",
+    "start_ms": 696738,
+    "end_ms": 706197,
+    "duration_ms": 9459,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 706.218,
+    "text": "One thing I want to make clear is, you'll hear the word nucleus described very often when people talk about structures within the brainstem or within the subcortex.",
+    "start_ms": 706218,
+    "end_ms": 716237,
+    "duration_ms": 10019,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 716.258,
+    "text": "A nucleus can also be, every cell has its own nucleus, but when we talk in anatomical terms about a nucleus, in terms of neuroanatomy, we're usually talking about a cluster of neurons that are in the subcortex that usually have some sort of functional relationship to one another.",
+    "start_ms": 716258,
+    "end_ms": 734538,
+    "duration_ms": 18280,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 734.557,
+    "text": "So the lateral geniculate nucleus is one cluster of neurons within the thalamus, there's the medial geniculate nucleus, there's the pulvonar, these are all located within the thalamus, they tend to be anatomically clustered together and they have some sort of functionality.",
+    "start_ms": 734557,
+    "end_ms": 751737,
+    "duration_ms": 17180,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 751.777,
+    "text": "So the word nucleus has this double meaning between what we talk about when we talk about the nucleus of a cell versus when we're talking about some part of the brain.",
+    "start_ms": 751777,
+    "end_ms": 760957,
+    "duration_ms": 9180,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 760.978,
+    "text": "So again, most of the output from the retina is going up to the lateral geniculate nucleus and then on to the primary visual cortex and from there it goes on to secondary visual areas.",
+    "start_ms": 760978,
+    "end_ms": 772078,
+    "duration_ms": 11100,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 772.098,
+    "text": "I've drawn the arrows both directions here to say that it's not a one-way flow of information, there's also going to be feedback from the secondary visual areas into the primary visual cortex.",
+    "start_ms": 772098,
+    "end_ms": 785098,
+    "duration_ms": 13000,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 785.117,
+    "text": "There's also going to be lots of projections from the retina into other subcortical structures and I don't have to worry about them in detail, but the pulvonar is a major structure that seems to be involved in the orienting of attention, the superior colliculus is a subcortical structure that's really important for moving your eyes or directing the eyes about where they're going to be moving as different information comes into the scene.",
+    "start_ms": 785117,
+    "end_ms": 809757,
+    "duration_ms": 24640,
+    "word_count": 74,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 809.777,
+    "text": "You know, lots of critters don't have a cortex, but they're going to have something similar to these subcortical structures and they're capable of quite complex vision.",
+    "start_ms": 809777,
+    "end_ms": 819637,
+    "duration_ms": 9860,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 819.658,
+    "text": "So we don't need to have a cerebral cortex to have complex vision, there's many species that get by with just these subcortical structures here.",
+    "start_ms": 819658,
+    "end_ms": 828477,
+    "duration_ms": 8819,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 828.497,
+    "text": "And of course there's going to be, it's not ever a one-way flow of information processing in the brain, there's almost always reciprocal projections.",
+    "start_ms": 828497,
+    "end_ms": 836298,
+    "duration_ms": 7801,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 836.318,
+    "text": "An area that projects to one area is probably going to receive feedback back from that area.",
+    "start_ms": 836318,
+    "end_ms": 842537,
+    "duration_ms": 6219,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 842.557,
+    "text": "So that's sort of the basic layout of the anatomy.",
+    "start_ms": 842557,
+    "end_ms": 846298,
+    "duration_ms": 3741,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 846.318,
+    "text": "Switch gears and talk about physiology and this slide I've already shown you again before, right?",
+    "start_ms": 846318,
+    "end_ms": 851537,
+    "duration_ms": 5219,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 851.557,
+    "text": "It was relevant for some of the questions on the exam about, we can do our neurophysiology so now instead of looking at anatomy, right, we're looking at the physiology, which means the activity of neurons, okay?",
+    "start_ms": 851557,
+    "end_ms": 864798,
+    "duration_ms": 13241,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 864.818,
+    "text": "And here I talked about before how we could plot the receptive field of a neuron in the primary visual cortex and one thing that stands out and it's shown in this cell here is that it shows this selectivity.",
+    "start_ms": 864818,
+    "end_ms": 877158,
+    "duration_ms": 12340,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 877.178,
+    "text": "It responds vigorously when the stimulus is one place of space.",
+    "start_ms": 877178,
+    "end_ms": 881917,
+    "duration_ms": 4739,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 881.938,
+    "text": "Up in the upper right, it responds very vigorously, each line here is an action potential.",
+    "start_ms": 881938,
+    "end_ms": 887117,
+    "duration_ms": 5179,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 887.238,
+    "text": "It responds very poorly when the stimulus falls outside that region of space.",
+    "start_ms": 887238,
+    "end_ms": 892458,
+    "duration_ms": 5220,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 892.477,
+    "text": "And so again, now we know this cell in some sense, at least one piece of information it's coding is location.",
+    "start_ms": 892477,
+    "end_ms": 898937,
+    "duration_ms": 6460,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 898.958,
+    "text": "Where is the stimulus located in space? And so that is what we would call like a retinotopic map, right?",
+    "start_ms": 898958,
+    "end_ms": 904937,
+    "duration_ms": 5979,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 904.958,
+    "text": "There's a representation in the brain that has some relationship to some property of the external world.",
+    "start_ms": 904958,
+    "end_ms": 911937,
+    "duration_ms": 6979,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 911.958,
+    "text": "Here I'm showing a retinotopic map in terms of location.",
+    "start_ms": 911958,
+    "end_ms": 915738,
+    "duration_ms": 3780,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 915.738,
+    "text": "Right, of course, that's one neuron. Here's a slice of the cortical ribbon that responds to the primary visual cortex.",
+    "start_ms": 915738,
+    "end_ms": 928238,
+    "duration_ms": 12500,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 928.257,
+    "text": "But now because we're talking in anatomy terms, the anatomists call this V1, or the first visual area.",
+    "start_ms": 928257,
+    "end_ms": 934637,
+    "duration_ms": 6380,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 934.657,
+    "text": "Okay, different terminologies usually reflecting that it's a different methodology being described.",
+    "start_ms": 934657,
+    "end_ms": 940717,
+    "duration_ms": 6060,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 940.717,
+    "text": "And if I move my recording electrode along that ribbon, so this is the gray matter, right?",
+    "start_ms": 940717,
+    "end_ms": 945977,
+    "duration_ms": 5260,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 945.998,
+    "text": "If I move it along the ribbon here, what I'd find is that for activity in this part of the primary visual cortex, the stimulus has to be way out in the periphery.",
+    "start_ms": 945998,
+    "end_ms": 957817,
+    "duration_ms": 11819,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 957.838,
+    "text": "And then as I move my stimulus in towards the center of vision, now the activity actually, the neurons that are along this part here, that respond to the primary visual cortex, they're actually going to be more active.",
+    "start_ms": 957838,
+    "end_ms": 972678,
+    "duration_ms": 14840,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 972.697,
+    "text": "And they're going to respond to the primary visual cortex.",
+    "start_ms": 972697,
+    "end_ms": 975678,
+    "duration_ms": 2981,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 975.697,
+    "text": "And they're going to respond to the primary visual cortex.",
+    "start_ms": 975697,
+    "end_ms": 978678,
+    "duration_ms": 2981,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 978.697,
+    "text": "And they're going to respond to the primary visual cortex.",
+    "start_ms": 978697,
+    "end_ms": 981678,
+    "duration_ms": 2981,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 981.697,
+    "text": "And they're going to respond to the primary visual cortex.",
+    "start_ms": 981697,
+    "end_ms": 984678,
+    "duration_ms": 2981,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 984.697,
+    "text": "And they're going to respond to the primary visual cortex.",
+    "start_ms": 984697,
+    "end_ms": 987678,
+    "duration_ms": 2981,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 987.697,
+    "text": "And they're going to respond to the primary visual cortex.",
+    "start_ms": 987697,
+    "end_ms": 990678,
+    "duration_ms": 2981,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 990.697,
+    "text": "And they're going to respond to the primary visual cortex.",
+    "start_ms": 990697,
+    "end_ms": 993678,
+    "duration_ms": 2981,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 993.276,
+    "text": "visual cortex. OK? Oh, and here's your right clicker question, which you can't answer, but we'll still do it, because it's a good challenge for you.",
+    "start_ms": 993276,
+    "end_ms": 1004437,
+    "duration_ms": 11161,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1004.437,
+    "text": "OK, so I've told you this is primary visual cortex.",
+    "start_ms": 1004437,
+    "end_ms": 1009636,
+    "duration_ms": 5199,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1009.636,
+    "text": "All right? Came out differently than I expected. The question is, how does a physiologist know when they've actually moved into another visual area?",
+    "start_ms": 1009636,
+    "end_ms": 1022917,
+    "duration_ms": 13281,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1022.917,
+    "text": "Right? If I was an anatomist, I might see some difference in the cytoreceptotics.",
+    "start_ms": 1022917,
+    "end_ms": 1027996,
+    "duration_ms": 5079,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1027.996,
+    "text": "But if I'm a physiologist and I'm just moving my electrode, how do I know when I'm in a different visual area?",
+    "start_ms": 1027996,
+    "end_ms": 1033517,
+    "duration_ms": 5521,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1033.517,
+    "text": "Right? Because I'm just a physiologist. I've got a needle inserted, recorded from the brain.",
+    "start_ms": 1033517,
+    "end_ms": 1038397,
+    "duration_ms": 4880,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1038.397,
+    "text": "I'm moving it along the track here. But when do I know I've moved from one visual area to another?",
+    "start_ms": 1038397,
+    "end_ms": 1043757,
+    "duration_ms": 5360,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1043.797,
+    "text": "OK, so again, we can't do eye clickers, so don't look for any answers here.",
+    "start_ms": 1043797,
+    "end_ms": 1049477,
+    "duration_ms": 5680,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1049.477,
+    "text": "So again, this is a physiological question, so we can't answer it by cytoreceptotics.",
+    "start_ms": 1049477,
+    "end_ms": 1054797,
+    "duration_ms": 5320,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1054.797,
+    "text": "There we'd have to be doing anatomy and doing some sort of staining.",
+    "start_ms": 1054797,
+    "end_ms": 1058537,
+    "duration_ms": 3740,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1058.537,
+    "text": "It could be when receptive field mapping resets to the periphery.",
+    "start_ms": 1058537,
+    "end_ms": 1063316,
+    "duration_ms": 4779,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1063.316,
+    "text": "So in peripheral, peripheral, now to central. And now I might go peripheral again.",
+    "start_ms": 1063316,
+    "end_ms": 1068276,
+    "duration_ms": 4960,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1068.276,
+    "text": "So if I jump back out to the periphery, that would be an indicator that actually I'm in a new visual area.",
+    "start_ms": 1068276,
+    "end_ms": 1075037,
+    "duration_ms": 6761,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1075.037,
+    "text": "Or could it be when the receptive field mapping reverses direction?",
+    "start_ms": 1075037,
+    "end_ms": 1078757,
+    "duration_ms": 3720,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1078.757,
+    "text": "So here I'm going peripheral towards the center. Now if I start going central, and now back out to the periphery.",
+    "start_ms": 1078757,
+    "end_ms": 1085356,
+    "duration_ms": 6599,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1085.356,
+    "text": "So first the neurons kept responding, or I kept shifting my location as I moved from periphery to central.",
+    "start_ms": 1085356,
+    "end_ms": 1090956,
+    "duration_ms": 5600,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1090.956,
+    "text": "And now it goes back out the other way, and then the other way.",
+    "start_ms": 1090956,
+    "end_ms": 1094917,
+    "duration_ms": 3961,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1094.917,
+    "text": "And that actually is how it works out. OK? But if I was doing my recording, I would see that here I'm responding to central space, here too.",
+    "start_ms": 1094917,
+    "end_ms": 1105197,
+    "duration_ms": 10280,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1105.197,
+    "text": "So I can't really identify the border. The cells are responding to the same locations in space.",
+    "start_ms": 1105197,
+    "end_ms": 1110757,
+    "duration_ms": 5560,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1110.757,
+    "text": "But when I was coming in this direction, I went from the periphery to the center.",
+    "start_ms": 1110757,
+    "end_ms": 1114796,
+    "duration_ms": 4039,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1114.796,
+    "text": "And now it's the opposite. I'm going from the center out to the periphery.",
+    "start_ms": 1114796,
+    "end_ms": 1119117,
+    "duration_ms": 4321,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1119.117,
+    "text": "So basically, that's kind of an efficient organizational principle, because it means that in this secondary visual area, which the visual physiologists would call area V2, I actually now have cells that are responding to central vision are located near each other.",
+    "start_ms": 1119117,
+    "end_ms": 1136277,
+    "duration_ms": 17160,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1136.277,
+    "text": "Again, when I get here, I get this other reversal.",
+    "start_ms": 1136277,
+    "end_ms": 1138676,
+    "duration_ms": 2399,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1138.676,
+    "text": "Cells that respond to peripheral locations are also near each other.",
+    "start_ms": 1138676,
+    "end_ms": 1142876,
+    "duration_ms": 4200,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1142.876,
+    "text": "But the point is that you define a visual area, like V1, or V2, or V3, or so forth, because I have a full representation of the external space.",
+    "start_ms": 1142876,
+    "end_ms": 1153076,
+    "duration_ms": 10200,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1153.076,
+    "text": "And so that's the first observation the physiologists give us, is that it's not like we have one representation of space in the visual system, but we have many different representations of space.",
+    "start_ms": 1153076,
+    "end_ms": 1164316,
+    "duration_ms": 11240,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1164.316,
+    "text": "In fact, I'll get to that, how many there are later on.",
+    "start_ms": 1164316,
+    "end_ms": 1169557,
+    "duration_ms": 5241,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1169.557,
+    "text": "But at least the physiologists will talk about V1, V2, V3, V4, up through V8.",
+    "start_ms": 1169557,
+    "end_ms": 1174997,
+    "duration_ms": 5440,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1174.997,
+    "text": "So many different representations of space being repeated in different parts of the visual cortex, or the occipital and the parietal lobe.",
+    "start_ms": 1174997,
+    "end_ms": 1184637,
+    "duration_ms": 9640,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1184.637,
+    "text": "Now, that's doing things in a monkey or in a cat.",
+    "start_ms": 1184637,
+    "end_ms": 1188197,
+    "duration_ms": 3560,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1188.197,
+    "text": "What about in humans? Can we map out the same sort of thing?",
+    "start_ms": 1188197,
+    "end_ms": 1191637,
+    "duration_ms": 3440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1191.637,
+    "text": "And this is where people do functional MRI work. So for instance, this is a person lying in the scanner.",
+    "start_ms": 1191637,
+    "end_ms": 1197837,
+    "duration_ms": 6200,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1197.837,
+    "text": "And basically, they're going to do the same experiment that we do with the monkey, but now we're going to do it with a person.",
+    "start_ms": 1197837,
+    "end_ms": 1203316,
+    "duration_ms": 5479,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1203.316,
+    "text": "We're going to show this wedge. Human visual system really likes changes.",
+    "start_ms": 1203316,
+    "end_ms": 1207997,
+    "duration_ms": 4681,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1207.997,
+    "text": "So people use checkerboard patterns because there's a really sharp contrast.",
+    "start_ms": 1207997,
+    "end_ms": 1213037,
+    "duration_ms": 5040,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1213.037,
+    "text": "Sometimes we're going to show the wedge up here in the upper left.",
+    "start_ms": 1213037,
+    "end_ms": 1216037,
+    "duration_ms": 3000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1216.037,
+    "text": "Sometimes we're going to show it down here in the right.",
+    "start_ms": 1216037,
+    "end_ms": 1218417,
+    "duration_ms": 2380,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1218.417,
+    "text": "Sometimes over here, sometimes over here. We're going to move it about.",
+    "start_ms": 1218417,
+    "end_ms": 1222616,
+    "duration_ms": 4199,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1222.616,
+    "text": "We're going to probably move it about slowly because fMRI has a very slow temporal resolution.",
+    "start_ms": 1222616,
+    "end_ms": 1228857,
+    "duration_ms": 6241,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1228.857,
+    "text": "But presumably, when the wedge is up here, we're going to activate those parts of the brain that are sensitive to information in the upper left.",
+    "start_ms": 1228857,
+    "end_ms": 1237577,
+    "duration_ms": 8720,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1237.577,
+    "text": "So where's your bet? Is that going to be in the left hemisphere or the right hemisphere?",
+    "start_ms": 1237577,
+    "end_ms": 1242776,
+    "duration_ms": 5199,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1242.776,
+    "text": "Well, the inputs are always crossing. So if it's a stimulus in the left side of the space, then we're going to expect to see activation in the right side of the brain.",
+    "start_ms": 1242776,
+    "end_ms": 1250816,
+    "duration_ms": 8040,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1250.816,
+    "text": "If it's on the right side of space, we're going to expect to see activation in the left side of the brain.",
+    "start_ms": 1250816,
+    "end_ms": 1256257,
+    "duration_ms": 5441,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1256.257,
+    "text": "The fibers aren't going by eyes, but they're going by where the information comes from.",
+    "start_ms": 1256257,
+    "end_ms": 1261857,
+    "duration_ms": 5600,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1261.857,
+    "text": "So I move that around, and this is the picture I get.",
+    "start_ms": 1261857,
+    "end_ms": 1265336,
+    "duration_ms": 3479,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1265.336,
+    "text": "The color's just coding where the stimulus appeared. So if I look at this red, that means it was shown in the upper left.",
+    "start_ms": 1265336,
+    "end_ms": 1272697,
+    "duration_ms": 7361,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1272.697,
+    "text": "And all the red patches are parts of the brain that responded when the stimulus was in the upper left.",
+    "start_ms": 1272697,
+    "end_ms": 1279357,
+    "duration_ms": 6660,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1279.357,
+    "text": "So these patches all have receptive fields tuned to the upper left.",
+    "start_ms": 1279357,
+    "end_ms": 1283716,
+    "duration_ms": 4359,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1283.716,
+    "text": "All the green are lower left. Okay? And so you can see that over here we're seeing lots of green, purple, and red, so this means that we're recording, I'm showing you a picture of the right hemisphere here because the stimulus is always, all the activations are associated with stimuli being presented on the left side of space.",
+    "start_ms": 1283716,
+    "end_ms": 1303515,
+    "duration_ms": 19799,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1303.515,
+    "text": "Now, you can look at that and say, well, that probably corresponds to multiple visual areas because I have lots of different patches, but it looks really jumbled and disorganized.",
+    "start_ms": 1303515,
+    "end_ms": 1313916,
+    "duration_ms": 10401,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1313.916,
+    "text": "But again, that comes about because the brain is folded in all those convolutions, all those soul signs and so forth.",
+    "start_ms": 1313916,
+    "end_ms": 1321135,
+    "duration_ms": 7219,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1321.135,
+    "text": "So we actually have to have different tools to try to visualize this, now we can make sense of it.",
+    "start_ms": 1321135,
+    "end_ms": 1325875,
+    "duration_ms": 4740,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1325.875,
+    "text": "Yeah? Yeah, so the question is, you know, your intuition is that neuro-processing might be faster if it didn't cross over the hemispheres, that that might require like extra synaptic input.",
+    "start_ms": 1325875,
+    "end_ms": 1360116,
+    "duration_ms": 34241,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1360.116,
+    "text": "That's a reasonable hypothesis, I don't think it actually works that way because the crossing is happening in the sub-cortex, so the input's coming in, it's actually never crosses from one hemisphere to the other, it does cross over the corpus callosum, but that early input is coming into that, into the lateral geniculate nucleus, and then it's already projecting all the information from the left side of space.",
+    "start_ms": 1360116,
+    "end_ms": 1384256,
+    "duration_ms": 24140,
+    "word_count": 69,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1384.256,
+    "text": "So some of it's coming from the left eye, and some of it's coming from the right eye, so if I'm looking over here, if I get this right, it's the outer part, inner part of this eye is going to cross over to the left side, and the outer part of this eye is going to cross over, so that is basically collecting all the inputs from one side of space and sending them to one hemisphere.",
+    "start_ms": 1384256,
+    "end_ms": 1404216,
+    "duration_ms": 19960,
+    "word_count": 78,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1404.216,
+    "text": "There's lots of questions about why does it cross, that's a different sort of question, and there's lots of debates about why did the brain end up being crossed rather than being on the ipsilateral hemisphere, that's another discussion.",
+    "start_ms": 1404216,
+    "end_ms": 1417096,
+    "duration_ms": 12880,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1417.096,
+    "text": "Okay, so again, we have this activation pattern, and this is just a visualization about how people do fMRI work, try to visualize this.",
+    "start_ms": 1417096,
+    "end_ms": 1430816,
+    "duration_ms": 13720,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1431.456,
+    "text": "Basically what they're calling, this is a flat mapping procedure, what they do is, they say, okay, this is a folded structure, but remember, the cortex is one continuous sheet of gray matter, so what I'm going to do instead is, and I'll back it up and do it a second time, is they're going to inflate the brain, so pretend like we're going to just pump it up with air, so that we stretch out all the solsi, that's what you're seeing here, open up the two hemispheres, they rotate them back just so you can see where it came from, and now they just flatten it, once they have it blown up like a balloon, if you make certain slices, you have to do, make some cuts in it to take this three-dimensional shape and make it this flat map, so now you have this flat map, now I can actually visualize that continuous cortical surface, I don't have to worry about what's folded in the solsi and what's on the gyri, it's all one continuous surface that's respecting the true geometry of the cortical surface, adjacent things are next to one another, and if I take that flat map now, here was the angular position that I showed you here, and now we're looking at one hemisphere, and what you can see is that there is some sort of order of the relationship, where we might go red to yellow, back to red, or red to yellow, here's yellow to red, back to yellow and so forth, or we might get the full side of the visual space, green to yellow to red, green to yellow to red, to yellow to red, we see again just what we saw in the primate brain, we see these reversals, and this is how people can take a human brain and in vivo identify the different visual areas, and again using our anatomy, we have V1 at the center here, and then going we have a V2, V3, V4, going down is the ventral parts of the visual cortex, they tend to represent the upper parts of space, again up down we also have this reversal, or we have the dorsal parts, V2, V3, and so forth on the dorsal surface, so that's one way we can see that the brain has, we have this beautiful topographic map, and as with the primate brain, we can identify multiple visual areas, I'm just showing you a few of them here, through this flat mapping technique, yeah, never, okay, all the colors are a way to graphically visualize, and that's almost always true in fMRI research, that we use colors as a way to visualize things, so what's done here is you can start here, this is basically color coding, where was the stimulus, so where was that checkerboard pattern, and it's basically saying when the checkerboard pattern was up in this wedge here, these are the parts of the brain that were activated, and if we look at it over here, you know, it's a different figure, now red was whenever the stimulus was down in the lower part of the brain.",
+    "start_ms": 1431456,
+    "end_ms": 1606495,
+    "duration_ms": 175039,
+    "word_count": 531,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1606.301,
+    "text": "lower part of space, these are the parts of the brain that were activated.",
+    "start_ms": 1606301,
+    "end_ms": 1610474,
+    "duration_ms": 4173,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1610.474,
+    "text": "When it was yellow, it just meant the wedge was over in the left side of space because the person is told, look straight ahead.",
+    "start_ms": 1610474,
+    "end_ms": 1617474,
+    "duration_ms": 7000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1617.474,
+    "text": "So now the stimulus is over on the left and these are the parts of the brain that were activated.",
+    "start_ms": 1617474,
+    "end_ms": 1621915,
+    "duration_ms": 4441,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1622.034,
+    "text": "So this is how we're seeing that retinotopic map in the human brain.",
+    "start_ms": 1622034,
+    "end_ms": 1628194,
+    "duration_ms": 6160,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1628.194,
+    "text": "Always again, you know, we don't have access to the brain, we don't have any anatomical boundaries, but we can see functionally that somewhere in here is going to be that division from one visual area to another because of that reversal happening.",
+    "start_ms": 1628194,
+    "end_ms": 1642635,
+    "duration_ms": 14441,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1642.635,
+    "text": "Not only do we see that you can map out the angular position, and this is just showing we can also map out the eccentricity.",
+    "start_ms": 1642635,
+    "end_ms": 1649955,
+    "duration_ms": 7320,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1649.994,
+    "text": "So now I take a checkerboard pattern, I either show it really small little one or a big annulus or a bigger one.",
+    "start_ms": 1649994,
+    "end_ms": 1656635,
+    "duration_ms": 6641,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1656.635,
+    "text": "So green would be a really large checkerboard pattern, purple would be a very small checkerboard pattern and we can actually see that across all the visual areas, all of them are actually representing the most central part of space right next to each other and then as you go further out, you see an orderly relationship.",
+    "start_ms": 1656635,
+    "end_ms": 1676295,
+    "duration_ms": 19660,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1676.335,
+    "text": "So we really have a two-dimensional, a very nice representation of space.",
+    "start_ms": 1676335,
+    "end_ms": 1680695,
+    "duration_ms": 4360,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1680.695,
+    "text": "It's probably more than two-dimensional, it's probably three-dimensional of space being mapped across the visual cortex.",
+    "start_ms": 1680695,
+    "end_ms": 1686655,
+    "duration_ms": 5960,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1688.774,
+    "text": "Well this is the figure that really, you know, makes it all realize that this is really complicated.",
+    "start_ms": 1688774,
+    "end_ms": 1693494,
+    "duration_ms": 4720,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1693.494,
+    "text": "We could keep talking about visual areas. This is actually a highlight of all of these labels here refer to cortical regions where you have some sort of retinotopic map.",
+    "start_ms": 1693494,
+    "end_ms": 1707375,
+    "duration_ms": 13881,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1707.375,
+    "text": "So again, like I said, it was nice and orderly for a while.",
+    "start_ms": 1707375,
+    "end_ms": 1710695,
+    "duration_ms": 3320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1710.695,
+    "text": "Here's V1, here's V2, everything's going nice and orderly, V3, V4 and so forth.",
+    "start_ms": 1710695,
+    "end_ms": 1717854,
+    "duration_ms": 7159,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1717.854,
+    "text": "But then you can see it becomes this giant mishmash.",
+    "start_ms": 1717854,
+    "end_ms": 1721375,
+    "duration_ms": 3521,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1721.375,
+    "text": "The lines here are showing regions that have been anatomically identified as having a connection.",
+    "start_ms": 1721375,
+    "end_ms": 1728294,
+    "duration_ms": 6919,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1728.294,
+    "text": "So someone's identified an MT and a V3 and then they've just asked, is there a connection between the two?",
+    "start_ms": 1728294,
+    "end_ms": 1735855,
+    "duration_ms": 7561,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1735.855,
+    "text": "It could see that things get very complicated. So the real picture to take out of this, there's actually two of them.",
+    "start_ms": 1735855,
+    "end_ms": 1742215,
+    "duration_ms": 6360,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1742.215,
+    "text": "One is that there's lots of retinotopic maps, there's lots of representation of space across some of this is occipital lobe, some of this is parietal lobe, some of this is temporal lobe and some of it's even in the frontal lobe, okay?",
+    "start_ms": 1742215,
+    "end_ms": 1757775,
+    "duration_ms": 15560,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1757.775,
+    "text": "So many stages of processing, but of course we're exquisitely good at processing visual information.",
+    "start_ms": 1757775,
+    "end_ms": 1764695,
+    "duration_ms": 6920,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1764.695,
+    "text": "Another thing is at the very top of this hierarchy is the hippocampus.",
+    "start_ms": 1764695,
+    "end_ms": 1768014,
+    "duration_ms": 3319,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1768.014,
+    "text": "I've already mentioned that the hippocampus is important for learning, okay?",
+    "start_ms": 1768014,
+    "end_ms": 1773094,
+    "duration_ms": 5080,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1773.094,
+    "text": "That seems bizarre. Why is the hippocampus at the top of the visual hierarchy?",
+    "start_ms": 1773094,
+    "end_ms": 1777294,
+    "duration_ms": 4200,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1777.294,
+    "text": "But remember I said perception is really about memory in a sense, about do I recognize something?",
+    "start_ms": 1777294,
+    "end_ms": 1784734,
+    "duration_ms": 7440,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1784.734,
+    "text": "So some people you might think about is that information is passing through this hierarchy and at each stage you're trying to recognize what the object is.",
+    "start_ms": 1784734,
+    "end_ms": 1793855,
+    "duration_ms": 9121,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1793.855,
+    "text": "If you don't recognize it, it's kind of like, oh, I don't recognize it, I'll keep passing it along through the system here.",
+    "start_ms": 1793855,
+    "end_ms": 1799934,
+    "duration_ms": 6079,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1799.934,
+    "text": "And if it doesn't get recognized at any point, it hits the hippocampus and that's a great signal that says, hey, nothing's recognized here, this is something new, I have to learn about this.",
+    "start_ms": 1799934,
+    "end_ms": 1811534,
+    "duration_ms": 11600,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1811.615,
+    "text": "And so it's the way the visual system can then parlay into the learning system to say, I haven't figured this out, hippocampus, help me recognize what this new stimulus is.",
+    "start_ms": 1811615,
+    "end_ms": 1821775,
+    "duration_ms": 10160,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1821.775,
+    "text": "You'd probably have a similar picture if we looked at the auditory system that the hippocampus might sit at the top of that hierarchy too.",
+    "start_ms": 1821775,
+    "end_ms": 1828335,
+    "duration_ms": 6560,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1828.335,
+    "text": "All right, so that's a big complicated picture. Here's kind of the simplified story in the sense of what we do seem to have is based on mainly functionality is that there's two prominent visual pathways.",
+    "start_ms": 1828335,
+    "end_ms": 1844415,
+    "duration_ms": 16080,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1844.415,
+    "text": "So lots of different visual areas within each of these, but really we can talk about a ventral pathway and a dorsal pathway.",
+    "start_ms": 1844415,
+    "end_ms": 1852374,
+    "duration_ms": 7959,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1852.374,
+    "text": "So ventral means coming down low from the occipital lobe into the temporal lobe.",
+    "start_ms": 1852374,
+    "end_ms": 1857854,
+    "duration_ms": 5480,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1857.854,
+    "text": "Dorsal means up above, going from the visual occipital lobe up into the parietal lobe.",
+    "start_ms": 1857854,
+    "end_ms": 1863574,
+    "duration_ms": 5720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1863.895,
+    "text": "Okay, and this is just highlighting occipital cortex, we have V1 all the way through V4 and middle temporal regions.",
+    "start_ms": 1863895,
+    "end_ms": 1873935,
+    "duration_ms": 10040,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1873.935,
+    "text": "But then we get into the parietal lobe, we have these regions, we have these.",
+    "start_ms": 1873935,
+    "end_ms": 1877014,
+    "duration_ms": 3079,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1877.014,
+    "text": "Now why do we talk about this distinction between a dorsal and a ventral pathway?",
+    "start_ms": 1877014,
+    "end_ms": 1883615,
+    "duration_ms": 6601,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1883.615,
+    "text": "Well there's going to be interesting functional differences that we'll get to that distinguish between dorsal and ventral processing.",
+    "start_ms": 1883615,
+    "end_ms": 1891095,
+    "duration_ms": 7480,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1891.095,
+    "text": "But here we can even see that as we move along this hierarchy, what I'm highlighting here is what's the optimal stimulus to activate neurons.",
+    "start_ms": 1891095,
+    "end_ms": 1900694,
+    "duration_ms": 9599,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1900.694,
+    "text": "Say if we were doing primate neurophysiology, and you can see the same thing probably if you did human fMRI work, that if we're at the retina, the optimal stimulus is just a tiny dot of light.",
+    "start_ms": 1900694,
+    "end_ms": 1913615,
+    "duration_ms": 12921,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1913.615,
+    "text": "Because right, the brain is always responsive to change, so if everything was a big same color, there's no change out there, there's nothing really to be noticed.",
+    "start_ms": 1913615,
+    "end_ms": 1923694,
+    "duration_ms": 10079,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1923.694,
+    "text": "But out here we need to have very small spots of light.",
+    "start_ms": 1923694,
+    "end_ms": 1926055,
+    "duration_ms": 2361,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1925.967,
+    "text": "of light because our photoreceptors are tuned to just a tiny part of space.",
+    "start_ms": 1925967,
+    "end_ms": 1930574,
+    "duration_ms": 4607,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1930.574,
+    "text": "Get up to visual cortex, I already told you that they're sensitive to location, but this is highlighting that they're not sensitive to just location, they like orientation too.",
+    "start_ms": 1930574,
+    "end_ms": 1941694,
+    "duration_ms": 11120,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1941.694,
+    "text": "So some cells will respond vigorously when you have vertical stripes, other cells might respond when you have horizontal, or basically every possible angle is out there.",
+    "start_ms": 1941694,
+    "end_ms": 1952213,
+    "duration_ms": 10519,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1952.213,
+    "text": "So cells are tuned to both location and things like edges or orientations, kind of the building blocks for recognizing things.",
+    "start_ms": 1952213,
+    "end_ms": 1960213,
+    "duration_ms": 8000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1960.213,
+    "text": "Get up to V4, well this is just capturing the idea, it's not pinwheels per se that these cells like, but they just like more complicated shapes, some sort of amalgamation of different edges.",
+    "start_ms": 1960213,
+    "end_ms": 1972373,
+    "duration_ms": 12160,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1972.373,
+    "text": "And if you get up here to the very end of the dorsal lobe, we'll talk about this later on, at the ventral pathway, there you'll find cells that are responsive to highly complex shapes and in particular, human faces.",
+    "start_ms": 1972373,
+    "end_ms": 1983574,
+    "duration_ms": 11201,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1983.574,
+    "text": "Lots of interest about parts of the visual pathway where the cells have a receptive field, but they actually are responsive only to certain classes of stimuli, like the human face or like a face in general.",
+    "start_ms": 1983574,
+    "end_ms": 1996654,
+    "duration_ms": 13080,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1996.654,
+    "text": "So that's one dimension here about what's the optimal stimulus.",
+    "start_ms": 1996654,
+    "end_ms": 2000574,
+    "duration_ms": 3920,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2000.773,
+    "text": "Correspondingly, this one here is showing that also the size of the receptive field is growing larger and larger as we move along this pathway.",
+    "start_ms": 2000773,
+    "end_ms": 2010974,
+    "duration_ms": 10201,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2010.974,
+    "text": "So in V1, we have a very small receptive field, maybe about the distance of your thumb at a full arm's length, but as we go up to a few more visual areas, up to V4, we've tripled our size, gets even larger, and eventually when we get to the very end here, the visual field is so large that basically that face could be appearing almost anywhere on the right side of space and I'd get cells in the left area, TE, would respond to that facial stimulus.",
+    "start_ms": 2010974,
+    "end_ms": 2040694,
+    "duration_ms": 29720,
+    "word_count": 89,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2040.694,
+    "text": "I've kind of lost location information as I move along this pathway here.",
+    "start_ms": 2040694,
+    "end_ms": 2045813,
+    "duration_ms": 5119,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2045.813,
+    "text": "Well, how do we look at this functional specializations? We have these visual areas, we've talked about that.",
+    "start_ms": 2045813,
+    "end_ms": 2052934,
+    "duration_ms": 7121,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2052.934,
+    "text": "For instance, we see that, you know, some regions we have a specialization where it looks like stimuli are sensitive to faces.",
+    "start_ms": 2052934,
+    "end_ms": 2059814,
+    "duration_ms": 6880,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2059.814,
+    "text": "How do we do this in the human brain? These are just some classic sorts of experimental contrasts that we talked about.",
+    "start_ms": 2059814,
+    "end_ms": 2067174,
+    "duration_ms": 7360,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2067.174,
+    "text": "This is an fMRI, it's a PET study, but basically we're always going to have our experimental condition where we're manipulating the variable of interest.",
+    "start_ms": 2067174,
+    "end_ms": 2076133,
+    "duration_ms": 8959,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2076.133,
+    "text": "So one condition we want to find out what parts of the brain respond to colored information.",
+    "start_ms": 2076133,
+    "end_ms": 2080413,
+    "duration_ms": 4280,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2080.413,
+    "text": "And so we're going to actually look at activation, this is oxygen utilization.",
+    "start_ms": 2080413,
+    "end_ms": 2085853,
+    "duration_ms": 5440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2085.853,
+    "text": "When a person's looking at this colored array, abstract pattern of squares, compared to when they're looking at abstract patterns that are just black and white.",
+    "start_ms": 2085853,
+    "end_ms": 2096253,
+    "duration_ms": 10400,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2096.253,
+    "text": "And so presumably, when a person's looking here versus here, we're going to see what parts of the brain are sensitive to color information.",
+    "start_ms": 2096253,
+    "end_ms": 2104574,
+    "duration_ms": 8321,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2104.574,
+    "text": "Here we can take, again, a bunch of dots that are scattered across the screen.",
+    "start_ms": 2104574,
+    "end_ms": 2109294,
+    "duration_ms": 4720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2109.294,
+    "text": "We can make some of them start to move and basically we'll find which parts of the brain are sensitive to motion.",
+    "start_ms": 2109294,
+    "end_ms": 2115454,
+    "duration_ms": 6160,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2115.454,
+    "text": "And we can sort of map out what are the different specializations or features that different parts of the brain are tuned to.",
+    "start_ms": 2115454,
+    "end_ms": 2122253,
+    "duration_ms": 6799,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2122.253,
+    "text": "And this is basically showing what's considered human V4, located kind of medially.",
+    "start_ms": 2122253,
+    "end_ms": 2128574,
+    "duration_ms": 6321,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2128.574,
+    "text": "These are areas that are strongly activated when we do this contrast here.",
+    "start_ms": 2128574,
+    "end_ms": 2132973,
+    "duration_ms": 4399,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2132.973,
+    "text": "So much greater activation when it's a colored stimulus compared to a black and white stimulus.",
+    "start_ms": 2132973,
+    "end_ms": 2139413,
+    "duration_ms": 6440,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2139.413,
+    "text": "Here we're seeing at the more lateral area, what we call V5 or analogous to the monkey MT.",
+    "start_ms": 2139413,
+    "end_ms": 2145333,
+    "duration_ms": 5920,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2145.333,
+    "text": "And now we see regions that become highly activated when the stimuli are moving independent of whether they're colored or not.",
+    "start_ms": 2145333,
+    "end_ms": 2152213,
+    "duration_ms": 6880,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2152.213,
+    "text": "So we're seeing some degree of functional specialization. Area V1, if we compare that to doing nothing, it's driven by any visual stimulus at all.",
+    "start_ms": 2152213,
+    "end_ms": 2162053,
+    "duration_ms": 9840,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2162.053,
+    "text": "So all the information's coming into V1. It's then propagating through this hierarchy where we see some sort of specialization or tuning for different types of properties.",
+    "start_ms": 2162053,
+    "end_ms": 2172413,
+    "duration_ms": 10360,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2172.413,
+    "text": "All right. So here you can do this experiment. Just stare at this stimulus for a little while, because there's always these classic questions.",
+    "start_ms": 2172413,
+    "end_ms": 2182633,
+    "duration_ms": 10220,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2182.633,
+    "text": "We have all sorts of visual hallucinations or illusions. What's the neural basis of them?",
+    "start_ms": 2182633,
+    "end_ms": 2189074,
+    "duration_ms": 6441,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2189.074,
+    "text": "We can use our tools to ask these sorts of questions.",
+    "start_ms": 2189074,
+    "end_ms": 2192714,
+    "duration_ms": 3640,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2192.714,
+    "text": "So just stare at this for a while. Just groove on it.",
+    "start_ms": 2192714,
+    "end_ms": 2197554,
+    "duration_ms": 4840,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2197.554,
+    "text": "Just keep your eyes centered right on this stimulus, OK?",
+    "start_ms": 2197554,
+    "end_ms": 2202114,
+    "duration_ms": 4560,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2202.114,
+    "text": "Just keep staring. Enjoy that greenness of the stimulus. OK?",
+    "start_ms": 2202114,
+    "end_ms": 2206913,
+    "duration_ms": 4799,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2206.913,
+    "text": "You got that green just totally immersed in green? All right.",
+    "start_ms": 2206913,
+    "end_ms": 2212193,
+    "duration_ms": 5280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2212.193,
+    "text": "Now I'm going to show you something and think about what color do you see?",
+    "start_ms": 2212193,
+    "end_ms": 2218633,
+    "duration_ms": 6440,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2218.633,
+    "text": "OK? Now, I really paid attention to the green, so I had a very, very vivid illusion now.",
+    "start_ms": 2218633,
+    "end_ms": 2226873,
+    "duration_ms": 8240,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2226.873,
+    "text": "OK? What color do people see? Purple. Purple. Right? You still see purple up there?",
+    "start_ms": 2226873,
+    "end_ms": 2233593,
+    "duration_ms": 6720,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2233.593,
+    "text": "Right? There's no purple. OK? So that's a really powerful illusion.",
+    "start_ms": 2233593,
+    "end_ms": 2238633,
+    "duration_ms": 5040,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2238.633,
+    "text": "All right. Now, that comes about because you have some photoreceptors that are sensitive to green.",
+    "start_ms": 2238633,
+    "end_ms": 2245794,
+    "duration_ms": 7161,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2245.533,
+    "text": "to green, okay, and they just got blasted because you just kept staring at that green over and over again.",
+    "start_ms": 2245533,
+    "end_ms": 2252973,
+    "duration_ms": 7440,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2252.973,
+    "text": "When you get this gray patch, it's going to activate all of your photoreceptors.",
+    "start_ms": 2252973,
+    "end_ms": 2256972,
+    "duration_ms": 3999,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2256.972,
+    "text": "It's going to activate the green ones, the yellow ones, the purple ones, etc.",
+    "start_ms": 2256972,
+    "end_ms": 2260812,
+    "duration_ms": 3840,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2260.812,
+    "text": "But because the green ones have been bleached out, they've been wiped out, you have this immediate sensation, after looking at green for a long time, of a really vivid purple.",
+    "start_ms": 2260812,
+    "end_ms": 2270172,
+    "duration_ms": 9360,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2270.172,
+    "text": "But by now, your brain's reset and this probably looks like a boring gray, right?",
+    "start_ms": 2270172,
+    "end_ms": 2274852,
+    "duration_ms": 4680,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2274.852,
+    "text": "So that's the illusion. There never was any purple out there.",
+    "start_ms": 2274852,
+    "end_ms": 2277412,
+    "duration_ms": 2560,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2277.412,
+    "text": "I didn't do any tricks. Your brain created that purple.",
+    "start_ms": 2277412,
+    "end_ms": 2280753,
+    "duration_ms": 3341,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2280.753,
+    "text": "So now we can ask the question, what part of the brain was producing that?",
+    "start_ms": 2280753,
+    "end_ms": 2285093,
+    "duration_ms": 4340,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2285.093,
+    "text": "Was it some higher order thing, or were we seeing it early in the visual system, so forth?",
+    "start_ms": 2285093,
+    "end_ms": 2290613,
+    "duration_ms": 5520,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2290.613,
+    "text": "All right, so here they're going to use fMRI. They're going to hone in on V4, that region that I said was sensitive to color, and the question's going to be, is V4 sensitive to that illusion?",
+    "start_ms": 2290613,
+    "end_ms": 2302892,
+    "duration_ms": 12279,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2302.892,
+    "text": "Do we see the neural correlates of that illusion in area V4?",
+    "start_ms": 2302892,
+    "end_ms": 2309172,
+    "duration_ms": 6280,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2309.172,
+    "text": "So if you had your eye clicker, there would be a really great exam question, okay?",
+    "start_ms": 2309172,
+    "end_ms": 2316293,
+    "duration_ms": 7121,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2316.293,
+    "text": "Going to compare two conditions. I'm always doing experiments here, right?",
+    "start_ms": 2316293,
+    "end_ms": 2320172,
+    "duration_ms": 3879,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2320.172,
+    "text": "In one condition, I'm just going to, so I'm always going to have these gray patches here, okay?",
+    "start_ms": 2320172,
+    "end_ms": 2326253,
+    "duration_ms": 6081,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2326.253,
+    "text": "That's the gray. That occurs here, occurs for like 40 seconds, okay?",
+    "start_ms": 2326253,
+    "end_ms": 2331373,
+    "duration_ms": 5120,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2331.373,
+    "text": "In one condition, I'm going to do the illusion I just showed you.",
+    "start_ms": 2331373,
+    "end_ms": 2334092,
+    "duration_ms": 2719,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2334.092,
+    "text": "I'm going to hold the color constant. You're going to see green, just like you did for 40 seconds, and then you're going to see gray.",
+    "start_ms": 2334092,
+    "end_ms": 2341693,
+    "duration_ms": 7601,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2341.693,
+    "text": "In another condition, the alternating condition, that 40 seconds, every two or three seconds, I'm going to go back and forth, green, red, green, red, green, red, okay?",
+    "start_ms": 2341693,
+    "end_ms": 2353693,
+    "duration_ms": 12000,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2353.693,
+    "text": "So that's my experiment, right? Either alternating the colors or holding the color constant, and the eye clicker question is, when do I expect to see the strongest bold response in V4, if V4 is sensitive to this illusion, okay?",
+    "start_ms": 2353693,
+    "end_ms": 2371573,
+    "duration_ms": 17880,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2371.573,
+    "text": "Is it going to be in gray one, gray two, or gray three, okay?",
+    "start_ms": 2371573,
+    "end_ms": 2377452,
+    "duration_ms": 5879,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2377.452,
+    "text": "How many vote for gray one? Okay. You're a pioneer.",
+    "start_ms": 2377452,
+    "end_ms": 2385133,
+    "duration_ms": 7681,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2385.133,
+    "text": "How many vote for gray two? A couple. How many vote for gray three?",
+    "start_ms": 2385133,
+    "end_ms": 2392493,
+    "duration_ms": 7360,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2392.493,
+    "text": "All right, okay. And so that is the result, and right, and the idea here is that if I alternate the colors, right?",
+    "start_ms": 2392493,
+    "end_ms": 2405413,
+    "duration_ms": 12920,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2405.413,
+    "text": "Basically, I'm not going to see the illusion, I'm not going to see the color because I'm balancing out how much I'm saturating things that are sensitive to the green and the red, and the purple illusion doesn't occur, and indeed, it takes a little bit of time, hard to see the edge here, it takes that few seconds for the bold signal to drop down, but when I've done the constant color, that's when you experience the illusion, and now you see, even when I'm looking at the gray stimulus, the cells in V4 continue to fire for an extended period of time.",
+    "start_ms": 2405413,
+    "end_ms": 2434932,
+    "duration_ms": 29519,
+    "word_count": 104,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2435.452,
+    "text": "So here we have, you know, the answer about one of the earliest visual areas seems to be showing a response that's highly correlated with that illusion, so it's not like it's a high-order kind of construct, but it seems to be driven at a very early level within the perceptual system.",
+    "start_ms": 2435452,
+    "end_ms": 2452232,
+    "duration_ms": 16780,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2452.232,
+    "text": "Try one more illusion, I'll just do this one quickly.",
+    "start_ms": 2452232,
+    "end_ms": 2455613,
+    "duration_ms": 3381,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2455.613,
+    "text": "Everyone stare at the green dot, okay? Just keep your eyes fixated there, I'm going to show things in the periphery, just try to say what it is.",
+    "start_ms": 2455613,
+    "end_ms": 2462493,
+    "duration_ms": 6880,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2463.053,
+    "text": "Okay, so what do you see there? Pretty easy, you see an A, keep your eyes right on that green dot, and what do you see on the other side?",
+    "start_ms": 2463053,
+    "end_ms": 2471853,
+    "duration_ms": 8800,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2471.853,
+    "text": "Okay, you can look over there and cheat now, okay, so there's an A there, just at the exact same position as on the other side.",
+    "start_ms": 2471853,
+    "end_ms": 2482053,
+    "duration_ms": 10200,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2482.053,
+    "text": "Both hitting the eyes, we've talked about the receptive field, so there's cells tuned to this area of space, but as you can imagine, they call it crowding or masking, whatever, it's that having a bunch of other junk around there makes it hard to see out in the periphery, okay?",
+    "start_ms": 2482053,
+    "end_ms": 2498052,
+    "duration_ms": 15999,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2498.052,
+    "text": "So, they wanted to ask here is, we know that, you know, this is a very robust phenomenon.",
+    "start_ms": 2498052,
+    "end_ms": 2502573,
+    "duration_ms": 4521,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2502.573,
+    "text": "Really good peripheral vision, except when there's competition out there, that's why we move our eyes, to bring things into our central vision.",
+    "start_ms": 2502573,
+    "end_ms": 2509332,
+    "duration_ms": 6759,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2509.332,
+    "text": "We might see that there's something new happening out here, but we look over there to really get a good snapshot of it.",
+    "start_ms": 2509332,
+    "end_ms": 2515092,
+    "duration_ms": 5760,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2515.092,
+    "text": "Well, in this study they wanted to ask, you know, again, we know there's variation across individuals in their sensitivity to crowding, how much their acuity falls off when there's a crowded stimulus out there, and so they basically wanted to ask how might this be related to the size of, and I put it on, of V4, okay?",
+    "start_ms": 2515092,
+    "end_ms": 2536772,
+    "duration_ms": 21680,
+    "word_count": 59,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2536.772,
+    "text": "So again, here's the fixation, here's, again, the stimulus where you're trying to say what's the middle stimulus?",
+    "start_ms": 2536772,
+    "end_ms": 2543772,
+    "duration_ms": 7000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2543.772,
+    "text": "Here it's easy, here it's hard to see the V because it's crowded, okay?",
+    "start_ms": 2543772,
+    "end_ms": 2549652,
+    "duration_ms": 5880,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2549.652,
+    "text": "So for each person they can measure what's the optimal distance where the person no longer can detect the V in a reliable manner.",
+    "start_ms": 2549652,
+    "end_ms": 2558413,
+    "duration_ms": 8761,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2558.413,
+    "text": "So they measure that for all the different individuals, these are just college students and so forth, and then they actually did an analysis.",
+    "start_ms": 2558413,
+    "end_ms": 2565453,
+    "duration_ms": 7040,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2565.251,
+    "text": "actually did an anatomical measure to say how big was area V4 in these individuals in terms of square millimeters on that flat map, and they actually observed this really striking correlation.",
+    "start_ms": 2565251,
+    "end_ms": 2578671,
+    "duration_ms": 13420,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2578.671,
+    "text": "So the bigger your V4 is, the better your visual acuity is at resolving this and presumably probably having consequences for all vision.",
+    "start_ms": 2578671,
+    "end_ms": 2587872,
+    "duration_ms": 9201,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2587.872,
+    "text": "So here we have an anatomical predictor of behavior, and this is just showing the size of that correlation, and they're good experimenters, they're showing that yes, they get the correlation in V4, but of course you guys are all saying, yeah, but what's the control area?",
+    "start_ms": 2587872,
+    "end_ms": 2603792,
+    "duration_ms": 15920,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2603.792,
+    "text": "And they look at V1, V2, and V3 and say there's basically no correlation there.",
+    "start_ms": 2603792,
+    "end_ms": 2608551,
+    "duration_ms": 4759,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2608.551,
+    "text": "Having a bigger V1 doesn't tell you that you're going to actually have better vision, it really is something about V4 that talks about at least spatial vision and spatial acuity and resolution and so forth.",
+    "start_ms": 2608551,
+    "end_ms": 2619952,
+    "duration_ms": 11401,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2619.952,
+    "text": "Okay, so let's talk about behavior now, and basically this is going back to neuropsychological methods about asking when people have damage in different parts of the brain, like let's say they have damage in V4 or motion sensitive regions and so forth, what are the behavioral consequences of that?",
+    "start_ms": 2619952,
+    "end_ms": 2640171,
+    "duration_ms": 20219,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2640.171,
+    "text": "Do we see differences that map on to what we're seeing, say, from the physiology?",
+    "start_ms": 2640171,
+    "end_ms": 2644092,
+    "duration_ms": 3921,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2644.092,
+    "text": "And of course the story is backwards. The first work was usually done with the patient studies.",
+    "start_ms": 2644092,
+    "end_ms": 2650052,
+    "duration_ms": 5960,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2650.052,
+    "text": "It's only more recently that we can use, say, physiological methods in humans.",
+    "start_ms": 2650052,
+    "end_ms": 2655131,
+    "duration_ms": 5079,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2655.131,
+    "text": "And here we're really basically asking, I'd say necessity approach in the sense of now we can ask, we see that V4 is correlated with the acuity of vision, but we can ask questions like if you have damage to V4, what are the functional consequences?",
+    "start_ms": 2655131,
+    "end_ms": 2669771,
+    "duration_ms": 14640,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2669.771,
+    "text": "I need V4 to be able to do X. Of course, if I have a lesion in V1, there's not much I can do, right?",
+    "start_ms": 2669771,
+    "end_ms": 2677771,
+    "duration_ms": 8000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2677.771,
+    "text": "I will be what they call cortically blind. So if I had a lesion that wiped out occipital lobe of my right hemisphere, I wouldn't be able to see anything on the left side of space.",
+    "start_ms": 2677771,
+    "end_ms": 2688452,
+    "duration_ms": 10681,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2688.452,
+    "text": "It would just be a blank. Now there's some wild experiments showing that people do have some capabilities to actually interact with things over there, probably through those subcortical pathways.",
+    "start_ms": 2688452,
+    "end_ms": 2700292,
+    "duration_ms": 11840,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2700.292,
+    "text": "But from their own phenomenal perspective, you're essentially blind if you wipe out primary visual cortex.",
+    "start_ms": 2700292,
+    "end_ms": 2707812,
+    "duration_ms": 7520,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2707.812,
+    "text": "But again, here are some of the types of really more interesting cases where people show somewhat spared or relatively good visual capabilities, but with some very bizarre differences.",
+    "start_ms": 2707812,
+    "end_ms": 2719012,
+    "duration_ms": 11200,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2719.012,
+    "text": "This one syndrome, again, these are relatively rare, is called akinetopsia.",
+    "start_ms": 2719012,
+    "end_ms": 2723331,
+    "duration_ms": 4319,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2724.331,
+    "text": "You should get used to it that whenever you see the word A, that means without or impaired.",
+    "start_ms": 2724331,
+    "end_ms": 2729732,
+    "duration_ms": 5401,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2729.732,
+    "text": "It's usually not completely absent. But A just means without, and kinetopsia, kinetics, means motion.",
+    "start_ms": 2729732,
+    "end_ms": 2737411,
+    "duration_ms": 7679,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2737.411,
+    "text": "So this is basically describing a person's syndrome, describing individuals who basically can't see motion.",
+    "start_ms": 2737411,
+    "end_ms": 2745252,
+    "duration_ms": 7841,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2745.252,
+    "text": "And this is just sort of capturing it. Now, what they can see is they can infer motion.",
+    "start_ms": 2745252,
+    "end_ms": 2750652,
+    "duration_ms": 5400,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2750.652,
+    "text": "It's like they're seeing stroboscopic images, or basically like a series of snapshots.",
+    "start_ms": 2750652,
+    "end_ms": 2756771,
+    "duration_ms": 6119,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2756.771,
+    "text": "So they'll notice if they're pouring a cup of coffee is what I'm trying to capture here.",
+    "start_ms": 2756771,
+    "end_ms": 2761092,
+    "duration_ms": 4321,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2761.092,
+    "text": "She'll pour the cup of coffee, and she knows the cup of coffee is getting full, because she sees it's partly full, halfway full, suddenly overflowing.",
+    "start_ms": 2761092,
+    "end_ms": 2769691,
+    "duration_ms": 8599,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2769.691,
+    "text": "But she doesn't have that impression of smooth motion, of going dynamically from one state to another.",
+    "start_ms": 2769691,
+    "end_ms": 2775532,
+    "duration_ms": 5841,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2775.532,
+    "text": "And that's what's captured here by the idea that because she's having to rely on kind of this sort of series of snapshots, she might make these errors.",
+    "start_ms": 2775532,
+    "end_ms": 2783211,
+    "duration_ms": 7679,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2783.211,
+    "text": "The better case is the patient who's described as really being terrified to cross the street.",
+    "start_ms": 2783211,
+    "end_ms": 2788012,
+    "duration_ms": 4801,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2788.012,
+    "text": "Because she sees the cars, she knows they're moving, she gets these snapshots, but she doesn't have that capability that you all have, which is to take that smooth input from your motion system and be able to extrapolate how far away that car is and when it's going to reach you.",
+    "start_ms": 2788012,
+    "end_ms": 2802892,
+    "duration_ms": 14880,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2802.892,
+    "text": "And so motion becomes this inferential process rather than a direct perceptual process for these individuals.",
+    "start_ms": 2802892,
+    "end_ms": 2812372,
+    "duration_ms": 9480,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2812.372,
+    "text": "You can compare that with a different syndrome, and again, these are relatively rare cases, but these are cases where people are talking about achinotopsia usually means that other aspects of vision are intact, like the person could see color and so forth.",
+    "start_ms": 2812372,
+    "end_ms": 2829451,
+    "duration_ms": 17079,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2829.451,
+    "text": "The opposite of the papers with achromatopsia, so chroma meaning the chromatic or color, and A without again, and these are people who have, again, impaired color perception due to cortical damage.",
+    "start_ms": 2829451,
+    "end_ms": 2843132,
+    "duration_ms": 13681,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2843.132,
+    "text": "So this is really distinct from what we classically think about with colorblindness, right?",
+    "start_ms": 2843132,
+    "end_ms": 2848171,
+    "duration_ms": 5039,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2848.171,
+    "text": "We talk about people are red-green colorblind, it's probably something, I'm sure there's people in this audience because it's fairly, we've got a couple, that's why they sit in the front row.",
+    "start_ms": 2848171,
+    "end_ms": 2858852,
+    "duration_ms": 10681,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2858.852,
+    "text": "That's when you're actually missing one of the photoreceptors, it's a genetic condition that actually at the retina level, you're missing one of the photoreceptors that's sensitive to color.",
+    "start_ms": 2858852,
+    "end_ms": 2870171,
+    "duration_ms": 11319,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2870.171,
+    "text": "Cortical damage is a very different condition. Here's where you actually have this impaired color perception, so here's the kind of test, and imagine you can see this quite well because the brightness, the contrast isn't well balanced, but this is the kind of test they give you to see if you have peripheral color blindness.",
+    "start_ms": 2870171,
+    "end_ms": 2885132,
+    "duration_ms": 14961,
+    "word_count": 56,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2884.942,
+    "text": "see if you have peripheral color blindness where you're insensitive to these differences here.",
+    "start_ms": 2884942,
+    "end_ms": 2889831,
+    "duration_ms": 4889,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2889.831,
+    "text": "It's very easy because you have to have these things be the exact same brightness to actually see that difference.",
+    "start_ms": 2889831,
+    "end_ms": 2895190,
+    "duration_ms": 5359,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2895.19,
+    "text": "But with achromatopsia, what you're really seeing is all the colors are kind of washed out.",
+    "start_ms": 2895190,
+    "end_ms": 2900791,
+    "duration_ms": 5601,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2900.791,
+    "text": "And this is just kind of a capturing that idea.",
+    "start_ms": 2900791,
+    "end_ms": 2904031,
+    "duration_ms": 3240,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2904.031,
+    "text": "This would be a person who had a left-sided lesion, so a stroke in the left hemisphere.",
+    "start_ms": 2904031,
+    "end_ms": 2909611,
+    "duration_ms": 5580,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2909.611,
+    "text": "And they might describe, if they have achromatopsia, that basically they could tell you about the parts of the scene here, that it's some sort of field.",
+    "start_ms": 2909611,
+    "end_ms": 2916270,
+    "duration_ms": 6659,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2916.27,
+    "text": "But all the colors are kind of muted or kind of blurred from one another.",
+    "start_ms": 2916270,
+    "end_ms": 2921710,
+    "duration_ms": 5440,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2921.71,
+    "text": "But interestingly, that same individual, you might think, well, they have a visual problem.",
+    "start_ms": 2921710,
+    "end_ms": 2925550,
+    "duration_ms": 3840,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2925.55,
+    "text": "But actually, this individual is very good at describing these shapes or drawing the shapes, having sort of their imagery of what the shapes should look like.",
+    "start_ms": 2925550,
+    "end_ms": 2934011,
+    "duration_ms": 8461,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2934.011,
+    "text": "So again, a very specific sort of impairment here. And Oliver Sachs has written lots of interesting case reports, books, you know, describing interesting neurological conditions.",
+    "start_ms": 2934011,
+    "end_ms": 2946390,
+    "duration_ms": 12379,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2946.39,
+    "text": "And one of them was this case of the colorblind painter, Mr.",
+    "start_ms": 2946390,
+    "end_ms": 2950434,
+    "duration_ms": 4044,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2950.434,
+    "text": "I. This patient had read Sachs' books before, and he wrote to him and said, I think I'm a really interesting case for you because I was this successful artist.",
+    "start_ms": 2950434,
+    "end_ms": 2959250,
+    "duration_ms": 8816,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2959.25,
+    "text": "But then he got in this car accident. And after the car accident, when I got my exam, what I could see is that, you know, I was really having trouble with my vision, and especially with color.",
+    "start_ms": 2959250,
+    "end_ms": 2970630,
+    "duration_ms": 11380,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2970.63,
+    "text": "So he described it as everything sort of looked like I was watching black and white television.",
+    "start_ms": 2970630,
+    "end_ms": 2977091,
+    "duration_ms": 6461,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2977.091,
+    "text": "He describes that very quickly after the accident. This is quite common in neurology.",
+    "start_ms": 2977091,
+    "end_ms": 2982051,
+    "duration_ms": 4960,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2982.051,
+    "text": "Most of his visual function returned. So his acuity got really quite good.",
+    "start_ms": 2982051,
+    "end_ms": 2985771,
+    "duration_ms": 3720,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2985.771,
+    "text": "I could distinguish the letters in my vision. He actually claimed, this artist claimed, that actually my vision became hyper good.",
+    "start_ms": 2985771,
+    "end_ms": 2992731,
+    "duration_ms": 6960,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2992.731,
+    "text": "He described himself as it was like an eagle, and he's kind of claiming it's because things were sharp contrast.",
+    "start_ms": 2992731,
+    "end_ms": 2999130,
+    "duration_ms": 6399,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2999.13,
+    "text": "Everything was either white or black. That actually improved his visual acuity.",
+    "start_ms": 2999130,
+    "end_ms": 3004291,
+    "duration_ms": 5161,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3004.291,
+    "text": "But as he wrote in giant letters in the letter, I'm absolutely colorblind.",
+    "start_ms": 3004291,
+    "end_ms": 3008730,
+    "duration_ms": 4439,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3008.73,
+    "text": "So Sachs then goes on, and again, very dramatic way to sort of describe what's the consequences of having a world without color when you've been used to having a world with color.",
+    "start_ms": 3008730,
+    "end_ms": 3019771,
+    "duration_ms": 11041,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3019.771,
+    "text": "So the guy talked about that he lost his appetite because all the food kind of looked like it was gray, and it just made it unappetizing.",
+    "start_ms": 3019771,
+    "end_ms": 3027971,
+    "duration_ms": 8200,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3027.971,
+    "text": "He said people didn't look attractive anymore because they had kind of lost their color.",
+    "start_ms": 3027971,
+    "end_ms": 3032170,
+    "duration_ms": 4199,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3032.17,
+    "text": "He said, you know, even his own image, he didn't like to look at himself in the mirror.",
+    "start_ms": 3032170,
+    "end_ms": 3036331,
+    "duration_ms": 4161,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3036.331,
+    "text": "Because again, his memory is of this vivid stimulus, of this vivid percept, but now the color's absent.",
+    "start_ms": 3036331,
+    "end_ms": 3043290,
+    "duration_ms": 6959,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3043.29,
+    "text": "He talked about repulsed by sex because flesh looked rat colored.",
+    "start_ms": 3043290,
+    "end_ms": 3047851,
+    "duration_ms": 4561,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3047.851,
+    "text": "Interestingly, though, his knowledge of color was really intact. So this is, again, a painting that Sachs asked him to describe.",
+    "start_ms": 3047851,
+    "end_ms": 3056131,
+    "duration_ms": 8280,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3056.131,
+    "text": "It's a van Gogh of this pool room, and the guy said, you know, he could name what Sachs would say to him.",
+    "start_ms": 3056131,
+    "end_ms": 3061450,
+    "duration_ms": 5319,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3061.45,
+    "text": "You know, remember that painting. Remember, this is a professional artist.",
+    "start_ms": 3061450,
+    "end_ms": 3064010,
+    "duration_ms": 2560,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3064.01,
+    "text": "The guy can recall the painting. He describes the different colors there.",
+    "start_ms": 3064010,
+    "end_ms": 3067810,
+    "duration_ms": 3800,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3067.81,
+    "text": "He could tell you that the pool table is this color and the wall is this because he knows the painting well, but he claims, at least, that he can't see the color, whether with his eyes or with his imagination.",
+    "start_ms": 3067810,
+    "end_ms": 3079870,
+    "duration_ms": 12060,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3079.87,
+    "text": "So if Sachs said, try to imagine this picture, the guy would say, I just don't see color, the same way he didn't see it.",
+    "start_ms": 3079870,
+    "end_ms": 3086271,
+    "duration_ms": 6401,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3086.271,
+    "text": "That's a long-standing debate about what's the relationship between imagery and perception.",
+    "start_ms": 3086271,
+    "end_ms": 3091551,
+    "duration_ms": 5280,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3091.551,
+    "text": "All right, so here we can see that we can ask, where are the lesions that produce these two types of conditions?",
+    "start_ms": 3091551,
+    "end_ms": 3099670,
+    "duration_ms": 8119,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3099.67,
+    "text": "There's one first place we see a difference between the dorsal pathway and the ventral pathway, that achromatopsia is always associated with lesions along the ventral pathway and particular lesions that encompass V4, and in humans, you know, naturally occurring lesions are never going to just damage V4.",
+    "start_ms": 3099670,
+    "end_ms": 3119030,
+    "duration_ms": 19360,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3119.03,
+    "text": "The damage is going to be more broad and widespread, but if we look at different cases with achromatopsia, we're going to consistently find that the damage includes V4 in some of the other regions, whereas people who have this achinotopsia, they have lesions along the dorsal pathway here, in particular regions that are labeled here MT and MST, where the physiologist had said you get strong activation in response to motion.",
+    "start_ms": 3119030,
+    "end_ms": 3150031,
+    "duration_ms": 31001,
+    "word_count": 72,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3150.031,
+    "text": "I think I'll stop there. I'll show you this next patient.",
+    "start_ms": 3150031,
+    "end_ms": 3153031,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3153.031,
+    "text": "All right, so see you Monday. Thank you. . .",
+    "start_ms": 3153031,
+    "end_ms": 3236790,
+    "duration_ms": 83759,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3236.79,
+    "text": ".",
+    "start_ms": 3236790,
+    "end_ms": 3239470,
+    "duration_ms": 2680,
+    "word_count": 1,
+    "avg_confidence": 90
+  }
+]

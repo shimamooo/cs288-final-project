@@ -1,0 +1,1559 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "Okay, well, this is going to be part two and let me flip back over to, oh, let me share the screen, get rid of the floating controls, get over here and flip it up here.",
+    "start_ms": 0,
+    "end_ms": 22120,
+    "duration_ms": 22120,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 22.12,
+    "text": "Okay, so now let's turn to memory disorders and of course the word we use here is one that's familiar, I'm sure, to all of you, amnesia.",
+    "start_ms": 22120,
+    "end_ms": 32840,
+    "duration_ms": 10720,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 32.84,
+    "text": "And amnesia just means a partial, well, am means a, it would mean all, but really we use the term amnesia to refer to a partial or total loss of memory.",
+    "start_ms": 32840,
+    "end_ms": 43400,
+    "duration_ms": 10560,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 43.4,
+    "text": "And of course this is something that's been portrayed in many movies and so forth, the notion that a person gets some sort of conk on the head and they forget everything about their past.",
+    "start_ms": 43400,
+    "end_ms": 55400,
+    "duration_ms": 12000,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 55.4,
+    "text": "This new naive person who has no idea where they came from, a theme that's been taken up by Hollywood many times.",
+    "start_ms": 55400,
+    "end_ms": 62759,
+    "duration_ms": 7359,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 62.759,
+    "text": "Now if we talk about something like that, that would be what we would call a retrograde amnesia.",
+    "start_ms": 62759,
+    "end_ms": 68680,
+    "duration_ms": 5921,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 68.68,
+    "text": "Retro meaning loss of information or amnesia for everything prior to the neurological disturbance.",
+    "start_ms": 68680,
+    "end_ms": 76120,
+    "duration_ms": 7440,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 76.12,
+    "text": "So again, presumably this person's got a full memory, gets the conk on the head, now they have a retrograde amnesia.",
+    "start_ms": 76120,
+    "end_ms": 82400,
+    "duration_ms": 6280,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 82.4,
+    "text": "And if you watch those movies, of course, the person actually seems to be aware of everything from the moment of their incident onward, they just don't know where they came from in the past.",
+    "start_ms": 82400,
+    "end_ms": 91639,
+    "duration_ms": 9239,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 91.639,
+    "text": "So again, that would be a retrograde amnesia. There certainly are instances of retrograde amnesia, and I'll mention that, but it's actually a very rare event, very rare to have a retrograde amnesia, at least without some sort of the opposite or what we would call an anterograde amnesia.",
+    "start_ms": 91639,
+    "end_ms": 109720,
+    "duration_ms": 18081,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 110.04,
+    "text": "Antero meaning a memory loss or an amnesia for events since the neurological disturbance.",
+    "start_ms": 110040,
+    "end_ms": 117199,
+    "duration_ms": 7159,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 117.199,
+    "text": "So retro is going backwards, anterograde is going forwards, the same like how we talked about tracers in the past, retrograde tracers, anterograde tracers, going back or going forward.",
+    "start_ms": 117199,
+    "end_ms": 128600,
+    "duration_ms": 11401,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 128.6,
+    "text": "And anterograde amnesia, you know, really isn't a memory deficit, right?",
+    "start_ms": 128600,
+    "end_ms": 132800,
+    "duration_ms": 4200,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 132.8,
+    "text": "It's really a learning deficit. In the severe sense, I would say that it's an inability to acquire new memories or have difficulty acquiring new memories from some sort of neurological disturbance for information going forward.",
+    "start_ms": 132800,
+    "end_ms": 148240,
+    "duration_ms": 15440,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 148.24,
+    "text": "Now, this movie is a little dated, 25 years old now, but Memento was a great Hollywood, great movie that really captured the effects of what it would be like to be a person who had great memory of their past, but an inability to acquire new information.",
+    "start_ms": 148240,
+    "end_ms": 166039,
+    "duration_ms": 17799,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 166.039,
+    "text": "And these individuals are actually, you know, they're not everyday off the streets there, but there actually are some very traumatic cases of people with severe anterograde amnesia.",
+    "start_ms": 166039,
+    "end_ms": 175639,
+    "duration_ms": 9600,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 175.639,
+    "text": "It's actually a fairly common neurological event that you might see, say people have traumatic brain injury.",
+    "start_ms": 175639,
+    "end_ms": 181839,
+    "duration_ms": 6200,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 181.839,
+    "text": "Let me actually show you a video clip of one such individual.",
+    "start_ms": 181839,
+    "end_ms": 187279,
+    "duration_ms": 5440,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 187.279,
+    "text": "He has a very severe anterograde amnesia. In fact, this videotape, the BBC documentary claimed that he had the worst anterograde amnesia of any individual.",
+    "start_ms": 187279,
+    "end_ms": 198080,
+    "duration_ms": 10801,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 198.08,
+    "text": "His name's Clive Waring. He's been studied extensively. He had encephalitis, so that was an inflammation of the brain.",
+    "start_ms": 198080,
+    "end_ms": 204800,
+    "duration_ms": 6720,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 204.8,
+    "text": "And from that moment forward, he basically has had a complete anterograde amnesia.",
+    "start_ms": 204800,
+    "end_ms": 210279,
+    "duration_ms": 5479,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 210.279,
+    "text": "This is his wife. He might see her 20 times a day.",
+    "start_ms": 210279,
+    "end_ms": 213720,
+    "duration_ms": 3441,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 213.72,
+    "text": "Every time he sees her, he greets her the same way as if it's the first time he's seen her in a long time.",
+    "start_ms": 213720,
+    "end_ms": 219880,
+    "duration_ms": 6160,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 219.88,
+    "text": "She's just going to give a simple demonstration about the severity of his anterograde amnesia.",
+    "start_ms": 219880,
+    "end_ms": 225399,
+    "duration_ms": 5519,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 225.399,
+    "text": "So let's watch the video. Clive really only has less than 30 seconds memory.",
+    "start_ms": 225399,
+    "end_ms": 237399,
+    "duration_ms": 12000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 237.399,
+    "text": "And sometimes it's as little as perhaps seven seconds. It's as little as a sentence.",
+    "start_ms": 237399,
+    "end_ms": 242880,
+    "duration_ms": 5481,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 242.88,
+    "text": "I'm going to see your sister, Adele. Her daughter's got married recently.",
+    "start_ms": 242880,
+    "end_ms": 247279,
+    "duration_ms": 4399,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 247.279,
+    "text": "Oh, I see. In New Zealand. Ah. And so they're having a party.",
+    "start_ms": 247279,
+    "end_ms": 250880,
+    "duration_ms": 3601,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 250.88,
+    "text": "Funny how the ladies acquire a different title when they get married.",
+    "start_ms": 250880,
+    "end_ms": 255479,
+    "duration_ms": 4599,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 255.479,
+    "text": "Do you know who I'm going to see tomorrow? Buckingham Palace?",
+    "start_ms": 255479,
+    "end_ms": 259279,
+    "duration_ms": 3800,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 259.279,
+    "text": "No, really guess. I don't know. You don't know. Adele.",
+    "start_ms": 259279,
+    "end_ms": 262679,
+    "duration_ms": 3400,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 262.679,
+    "text": "Oh, I see. Do you know why I'm going? No.",
+    "start_ms": 262679,
+    "end_ms": 266079,
+    "duration_ms": 3400,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 266.079,
+    "text": "She's having a party at her house tomorrow. It's her birthday, isn't it?",
+    "start_ms": 266079,
+    "end_ms": 269079,
+    "duration_ms": 3000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 269.079,
+    "text": "No. Do you know why? No. It's to do with her daughter.",
+    "start_ms": 269079,
+    "end_ms": 273480,
+    "duration_ms": 4401,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 273.48,
+    "text": "Oh, I see. Do you know why her daughter's having a party?",
+    "start_ms": 273480,
+    "end_ms": 277079,
+    "duration_ms": 3599,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 277.079,
+    "text": "No. Guess. No, I don't. She's just got married. Oh, I see.",
+    "start_ms": 277079,
+    "end_ms": 280480,
+    "duration_ms": 3401,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 280.48,
+    "text": "She just got married. And do you know what country she just got married in?",
+    "start_ms": 280480,
+    "end_ms": 283279,
+    "duration_ms": 2799,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 283.279,
+    "text": "No, I don't. In New Zealand. Oh, I see. Yeah.",
+    "start_ms": 283279,
+    "end_ms": 286480,
+    "duration_ms": 3201,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 286.48,
+    "text": "The sentence he is. All right, so let me flip back here.",
+    "start_ms": 286480,
+    "end_ms": 293079,
+    "duration_ms": 6599,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 293.079,
+    "text": "Yeah, so what you can see with Clive there, I mean, he's actually, you know, there was a scene beforehand where he's playing the piano.",
+    "start_ms": 293079,
+    "end_ms": 301079,
+    "duration_ms": 8000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 301.079,
+    "text": "He has lots of his cognitive skills. His social interactions are fairly normal, a little bit excessive.",
+    "start_ms": 301079,
+    "end_ms": 307079,
+    "duration_ms": 6000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 307.079,
+    "text": "Every time he greets his wife again. It's like he hasn't seen her in a long time and so forth.",
+    "start_ms": 307079,
+    "end_ms": 311980,
+    "duration_ms": 4901,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 311.98,
+    "text": "Having a pretty normal give-and-take conversation, you know, but no, she gave him up one sentence full of four pieces of information.",
+    "start_ms": 311980,
+    "end_ms": 320279,
+    "duration_ms": 8299,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 320.279,
+    "text": "She's going to see Adele. She's celebrating her daughter who just got recently married in New Zealand.",
+    "start_ms": 320279,
+    "end_ms": 326079,
+    "duration_ms": 5800,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 326.079,
+    "text": "And again, all that information. Clyde. He kind of has a sense of what things are.",
+    "start_ms": 326079,
+    "end_ms": 330275,
+    "duration_ms": 4196,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 330.275,
+    "text": "She says, what do they say? You know, she says, remember what he's celebrating?",
+    "start_ms": 330275,
+    "end_ms": 333043,
+    "duration_ms": 2768,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 333.043,
+    "text": "He goes, it's a birthday or something like that. Again, not correct.",
+    "start_ms": 333043,
+    "end_ms": 336991,
+    "duration_ms": 3948,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 336.991,
+    "text": "But again, showing that he has good cognitive capabilities in terms of conversational language and everything, but complete inability to acquire new information.",
+    "start_ms": 336991,
+    "end_ms": 347993,
+    "duration_ms": 11002,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 347.993,
+    "text": "Now, let's talk about some of the brain structures associated with amnesia.",
+    "start_ms": 347993,
+    "end_ms": 354108,
+    "duration_ms": 6115,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 354.108,
+    "text": "And let's start with the cerebral cortex. And we've already mentioned that you can have some sort of what I'll call context-specific or maybe modality-specific memory deficits.",
+    "start_ms": 354108,
+    "end_ms": 366419,
+    "duration_ms": 12311,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 366.419,
+    "text": "So, we've talked about agnosia, prosopagnosia, anemomia. They are memory deficits, like to have a prosopagnosia, to not be able to recognize famous faces, is a memory problem.",
+    "start_ms": 366419,
+    "end_ms": 377892,
+    "duration_ms": 11473,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 377.892,
+    "text": "But as we talked about there, it's not so much a memory problem, the information's lost, but it's an inability to access that information, at least to access it through the visual modality.",
+    "start_ms": 377892,
+    "end_ms": 389846,
+    "duration_ms": 11954,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 389.846,
+    "text": "Aenomia refers to an inability to come up with a word.",
+    "start_ms": 389846,
+    "end_ms": 392886,
+    "duration_ms": 3040,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 392.886,
+    "text": "And there too, it seems to be more of an access problem.",
+    "start_ms": 392886,
+    "end_ms": 396081,
+    "duration_ms": 3195,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 396.081,
+    "text": "Like people constantly are saying, oh, what's that word I want to say?",
+    "start_ms": 396081,
+    "end_ms": 399751,
+    "duration_ms": 3670,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 399.751,
+    "text": "And it's something that maybe becomes more pronounced as you get older, or maybe it's just that older people tend to be bothered by it more.",
+    "start_ms": 399751,
+    "end_ms": 407770,
+    "duration_ms": 8019,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 407.77,
+    "text": "So again, is this a memory problem, or is it the access to the memories?",
+    "start_ms": 407770,
+    "end_ms": 411998,
+    "duration_ms": 4228,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 411.998,
+    "text": "You know, you could say the same thing about, say, someone who maybe has a retrograde amnesia.",
+    "start_ms": 411998,
+    "end_ms": 417152,
+    "duration_ms": 5154,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 417.152,
+    "text": "Is the memory loss itself, or is it the ability to get to the memories?",
+    "start_ms": 417152,
+    "end_ms": 422848,
+    "duration_ms": 5696,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 422.848,
+    "text": "On the other hand, the cerebral cortex is associated, that is, damage to the cerebral cortex, is associated with the most prominent, most common types of memory disorders that humans have.",
+    "start_ms": 422848,
+    "end_ms": 435723,
+    "duration_ms": 12875,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 435.723,
+    "text": "And that's what we call the class of dementia, something that, you know, huge health problem in the world.",
+    "start_ms": 435723,
+    "end_ms": 444396,
+    "duration_ms": 8673,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 444.396,
+    "text": "It turns out, you know, people are always unsure of, you know, does someone have dementia?",
+    "start_ms": 444396,
+    "end_ms": 450386,
+    "duration_ms": 5990,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 450.386,
+    "text": "Do they have Alzheimer's disease? So dementia is really describing the symptoms, and the symptoms really are some sort of decline in cognitive function.",
+    "start_ms": 450386,
+    "end_ms": 459944,
+    "duration_ms": 9558,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 459.944,
+    "text": "And almost always, the most marked features of that cognitive decline, or at least the early features, are a loss of memory.",
+    "start_ms": 459944,
+    "end_ms": 467030,
+    "duration_ms": 7086,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 467.03,
+    "text": "It might start off as a loss of retrograde amnesia, loss of ability to learn new information, you know, forgetfulness.",
+    "start_ms": 467030,
+    "end_ms": 474106,
+    "duration_ms": 7076,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 474.106,
+    "text": "People will say, can't remember what I was going to do today, or I don't remember what I did yesterday.",
+    "start_ms": 474106,
+    "end_ms": 479890,
+    "duration_ms": 5784,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 479.89,
+    "text": "But many cases we might also see in dementia, a loss of distant knowledge, and so forth.",
+    "start_ms": 479890,
+    "end_ms": 485671,
+    "duration_ms": 5781,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 485.671,
+    "text": "So there's many different types of dementia. Alzheimer's disease is one specific type of dementia, okay?",
+    "start_ms": 485671,
+    "end_ms": 494171,
+    "duration_ms": 8500,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 494.171,
+    "text": "And let me just show you some videotape here of an individual with Alzheimer type dementia.",
+    "start_ms": 494171,
+    "end_ms": 500955,
+    "duration_ms": 6784,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 500.955,
+    "text": "Again, it's an old videotape. I'm going to jump ahead in the video.",
+    "start_ms": 500955,
+    "end_ms": 507559,
+    "duration_ms": 6604,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 507.559,
+    "text": "Oh, I'm not seeing my controller. If I go out of the first one here, water is wet.",
+    "start_ms": 507559,
+    "end_ms": 522766,
+    "duration_ms": 15207,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 522.766,
+    "text": "Okay, next one. Sorry, I want to try to be outside the PowerPoint so I can actually show you the videotape.",
+    "start_ms": 522766,
+    "end_ms": 535342,
+    "duration_ms": 12576,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 535.342,
+    "text": "I want to keep sharing. So hang in there a second.",
+    "start_ms": 535342,
+    "end_ms": 539116,
+    "duration_ms": 3774,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 539.116,
+    "text": "Okay, here we are. So let me show you this videotape, but let me just be able to now jump ahead to where I want to be.",
+    "start_ms": 539116,
+    "end_ms": 545846,
+    "duration_ms": 6730,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 545.846,
+    "text": "And I want it to be at 150. All right, good enough.",
+    "start_ms": 545846,
+    "end_ms": 553919,
+    "duration_ms": 8073,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 556.358,
+    "text": "By the heat and then sealed out. Sterilization by heat is a result of last year's discovery.",
+    "start_ms": 556358,
+    "end_ms": 564759,
+    "duration_ms": 8401,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 565.078,
+    "text": "Six, four, three, nine. Just repeat those numbers. Six, four, three, nine.",
+    "start_ms": 565078,
+    "end_ms": 582698,
+    "duration_ms": 17620,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 582.698,
+    "text": "Correct. Four, two, seven, three, one. Four, two, seven, three, one.",
+    "start_ms": 582698,
+    "end_ms": 591286,
+    "duration_ms": 8588,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 591.286,
+    "text": "Six, one, nine, four, seven, three. Six, four, nine, three, seven.",
+    "start_ms": 591286,
+    "end_ms": 601142,
+    "duration_ms": 9856,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 601.142,
+    "text": "Okay, here's another one. Three, nine, two, four, eight, seven.",
+    "start_ms": 601142,
+    "end_ms": 608878,
+    "duration_ms": 7736,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 608.878,
+    "text": "Three, nine, two, four, eight, seven. Good. How old are you?",
+    "start_ms": 608878,
+    "end_ms": 615679,
+    "duration_ms": 6801,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 615.679,
+    "text": "How old am I? Well, let's see. Oh, you're asking me how old you are.",
+    "start_ms": 615679,
+    "end_ms": 635158,
+    "duration_ms": 19479,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 635.158,
+    "text": "No, no, I'm asking you your age. My age. Okay, I would have to give you give you...",
+    "start_ms": 635158,
+    "end_ms": 643358,
+    "duration_ms": 8200,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 648.358,
+    "text": "I would say that I am between... 30 and 40.",
+    "start_ms": 648358,
+    "end_ms": 657358,
+    "duration_ms": 9000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 659.358,
+    "text": "Okay. Can you tell me who the President of the United States is now?",
+    "start_ms": 659358,
+    "end_ms": 665358,
+    "duration_ms": 6000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 666.358,
+    "text": "Oh Lord, I should be able to rattle them off clear from the beginning.",
+    "start_ms": 666358,
+    "end_ms": 670358,
+    "duration_ms": 4000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 671.358,
+    "text": "Well, we don't have to do that. How about just the current President?",
+    "start_ms": 671358,
+    "end_ms": 674358,
+    "duration_ms": 3000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 678.358,
+    "text": "Remembering the current President would be enough. The current President.",
+    "start_ms": 678358,
+    "end_ms": 692358,
+    "duration_ms": 14000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 692.358,
+    "text": "The current President. You know, on the President thing, you know, again, I'm sure at some point in school he probably did know his list of Presidents, but now trying to recall who's the current President, that information's gone.",
+    "start_ms": 692358,
+    "end_ms": 733358,
+    "duration_ms": 41000,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 733.358,
+    "text": "Let me just show you a little bit more from him in another videotape.",
+    "start_ms": 733358,
+    "end_ms": 737358,
+    "duration_ms": 4000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 745.358,
+    "text": "What are the colors of the American flag? Red, white, and blue.",
+    "start_ms": 745358,
+    "end_ms": 749358,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 749.358,
+    "text": "Okay. What's the shape of a ball? A ball is round.",
+    "start_ms": 749358,
+    "end_ms": 754358,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 754.358,
+    "text": "And how many months are there in a year? Months in a year...",
+    "start_ms": 754358,
+    "end_ms": 760358,
+    "duration_ms": 6000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 766.358,
+    "text": "Oh, 12, of course. What's a thermometer? A thermometer is...",
+    "start_ms": 766358,
+    "end_ms": 772358,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 779.358,
+    "text": "an instrument that will... if it is in operation, it will tell you the time.",
+    "start_ms": 779358,
+    "end_ms": 791358,
+    "duration_ms": 12000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 792.358,
+    "text": "The time? Mm-hmm. A thermometer tells you the time? It tells, well, the time, yes.",
+    "start_ms": 792358,
+    "end_ms": 802358,
+    "duration_ms": 10000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 803.358,
+    "text": "The saying, strike while the iron is hot. What do people mean by that?",
+    "start_ms": 803358,
+    "end_ms": 807358,
+    "duration_ms": 4000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 807.358,
+    "text": "Well, that means... strike when the iron is hot means if you've got something that's made of iron and you've heated it the time to make a different shape of the article is to do it.",
+    "start_ms": 807358,
+    "end_ms": 851358,
+    "duration_ms": 44000,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 851.358,
+    "text": "Okay. While the iron is hot. Good. All right. So, again, now we can probably go back to full view mode.",
+    "start_ms": 851358,
+    "end_ms": 860358,
+    "duration_ms": 9000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 861.358,
+    "text": "So, there you can see that, again, simple facts, red, white, and blue, no problem.",
+    "start_ms": 861358,
+    "end_ms": 866358,
+    "duration_ms": 5000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 866.358,
+    "text": "As the questions got a little more difficult, he struggled, and certainly when he got to the last one where he had to engage in some sort of more abstract or metaphorical thinking, there you're seeing, you know, a real loss of knowledge, okay, that he wasn't able to think in terms of that, those metaphors there.",
+    "start_ms": 866358,
+    "end_ms": 884358,
+    "duration_ms": 18000,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 885.358,
+    "text": "Jump ahead. Now, with Alzheimer's disease, it initially really presents as an anterograde amnesia.",
+    "start_ms": 885358,
+    "end_ms": 892358,
+    "duration_ms": 7000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 892.358,
+    "text": "Again, the first signs of what we'll call like mild cognitive impairment or actually starts off with a condition where they call it subjective cognitive impairment, where the person feels like I'm not quite as sharp as I was before.",
+    "start_ms": 892358,
+    "end_ms": 906358,
+    "duration_ms": 14000,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 906.358,
+    "text": "It's going to be a problem like, oh, I just can't quite remember what did I do last night or what did I plan to do today, so forth.",
+    "start_ms": 906358,
+    "end_ms": 914358,
+    "duration_ms": 8000,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 914.358,
+    "text": "But over time, with Alzheimer's disease, there's clearly going to be a retrograde amnesia and it's going to become quite pronounced over time.",
+    "start_ms": 914358,
+    "end_ms": 922358,
+    "duration_ms": 8000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 922.358,
+    "text": "Interesting, it seems to be that the decay goes backwards in time.",
+    "start_ms": 922358,
+    "end_ms": 926358,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 926.358,
+    "text": "So the things that happened over the last, say, half year are going to disappear before the things that happened two years ago.",
+    "start_ms": 926358,
+    "end_ms": 933358,
+    "duration_ms": 7000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 933.358,
+    "text": "And the things that happened five years ago are going to disappear before the things that happened 30 years ago.",
+    "start_ms": 933358,
+    "end_ms": 939358,
+    "duration_ms": 6000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 939.358,
+    "text": "So you have cases of people with fairly advanced Alzheimer's and they can still remember things about their childhood, but they've lost a huge swatch of time, even during that whole time, you know, tragically when they've married a spouse, had children, and so forth.",
+    "start_ms": 939358,
+    "end_ms": 953358,
+    "duration_ms": 14000,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 953.358,
+    "text": "They've forgotten that part, even though they might still remember who their first grade teacher was.",
+    "start_ms": 953358,
+    "end_ms": 958358,
+    "duration_ms": 5000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 958.358,
+    "text": "Now, part of the confusion about Alzheimer's versus dementia is that until about 20 years ago, years ago, the only way we could diagnose that someone had Alzheimer's disease was by looking at their brain post-mortem, okay?",
+    "start_ms": 958358,
+    "end_ms": 974537,
+    "duration_ms": 16179,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 974.537,
+    "text": "So people would present dementias, but there'd be all sorts of different types of dementia.",
+    "start_ms": 974537,
+    "end_ms": 979356,
+    "duration_ms": 4819,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 979.356,
+    "text": "Turns out that maybe about 2 3rds of all dementia cases are of the Alzheimer type.",
+    "start_ms": 979356,
+    "end_ms": 985037,
+    "duration_ms": 5681,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 985.037,
+    "text": "Used to be that, again, macroscopically, if you look at the brain of an Alzheimer patient after they die, you would see that there's fairly pronounced atrophy.",
+    "start_ms": 985037,
+    "end_ms": 994676,
+    "duration_ms": 9639,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 994.676,
+    "text": "And the atrophy is very pronounced in the cortex, across the cerebral cortex.",
+    "start_ms": 994676,
+    "end_ms": 999996,
+    "duration_ms": 5320,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 999.996,
+    "text": "This is a normal brain here. Notice the very tight packing of the sulci and gyri.",
+    "start_ms": 999996,
+    "end_ms": 1005316,
+    "duration_ms": 5320,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1005.316,
+    "text": "Here we see big spaces. The spaces represent where cell tissues died off, and this space has been filled in with cerebrospinal fluid.",
+    "start_ms": 1005316,
+    "end_ms": 1014877,
+    "duration_ms": 9561,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1014.877,
+    "text": "Now, that's macroscopically, but what was really the definitive diagnosis was to actually do a micro-analysis.",
+    "start_ms": 1014877,
+    "end_ms": 1022796,
+    "duration_ms": 7919,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1022.796,
+    "text": "So we're gonna look under the microscope of the cerebral cortex of individuals with Alzheimer's.",
+    "start_ms": 1022796,
+    "end_ms": 1027916,
+    "duration_ms": 5120,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1027.916,
+    "text": "And what was identified is that they consistently had two pathological proteins.",
+    "start_ms": 1027916,
+    "end_ms": 1033636,
+    "duration_ms": 5720,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1033.636,
+    "text": "They had so-called amyloid, one of the two proteins, that tend to cluster in these plaques, these atypical plaques.",
+    "start_ms": 1033636,
+    "end_ms": 1041197,
+    "duration_ms": 7561,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1041.197,
+    "text": "And then they had also the tau protein, and the tau protein seemed to really get wrapped up inside the dendritic branches and so forth, and cause these so-called neurofibrillary tangles, or maybe not.",
+    "start_ms": 1041197,
+    "end_ms": 1053316,
+    "duration_ms": 12119,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1053.316,
+    "text": "So a bunch of neurons would get tangled together from the tau protein getting intermeshed within that.",
+    "start_ms": 1053316,
+    "end_ms": 1058996,
+    "duration_ms": 5680,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1058.996,
+    "text": "So you had these two pathological proteins, but of course you could only see them under the microscope.",
+    "start_ms": 1058996,
+    "end_ms": 1064437,
+    "duration_ms": 5441,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1064.437,
+    "text": "The revolution came about because about 20 years ago, basically, radioactive tracers were developed that could bind to amyloid or to tau.",
+    "start_ms": 1064437,
+    "end_ms": 1075776,
+    "duration_ms": 11339,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1075.776,
+    "text": "And so again, these are radioactive tracers. They would be injected into the blood of individuals, whether they're Alzheimer's or not.",
+    "start_ms": 1075776,
+    "end_ms": 1083376,
+    "duration_ms": 7600,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1083.376,
+    "text": "They would allow it to be absorbed and have the radioactive decay, and then they'd put them in a PET scanner to measure where were the tracers being taken up.",
+    "start_ms": 1083376,
+    "end_ms": 1093137,
+    "duration_ms": 9761,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1093.137,
+    "text": "And the tracers are gonna be taken up, the first one here was the amyloid tracer.",
+    "start_ms": 1093137,
+    "end_ms": 1098857,
+    "duration_ms": 5720,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1098.857,
+    "text": "Okay, and basically what they could see is they actually compare.",
+    "start_ms": 1098857,
+    "end_ms": 1102137,
+    "duration_ms": 3280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1102.137,
+    "text": "Here's a healthy brain, and there's a little bit of uptake.",
+    "start_ms": 1102137,
+    "end_ms": 1105137,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1105.137,
+    "text": "So everyone's got a little bit of amyloid, but very little.",
+    "start_ms": 1105137,
+    "end_ms": 1108456,
+    "duration_ms": 3319,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1108.456,
+    "text": "Brighter colors mean where's the amyloid building up. This is an individual with frontal temporal dementia.",
+    "start_ms": 1108456,
+    "end_ms": 1114417,
+    "duration_ms": 5961,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1114.417,
+    "text": "We'll talk about that in a minute, but a dementia, cortical dementia, but not of the Alzheimer's type.",
+    "start_ms": 1114417,
+    "end_ms": 1120216,
+    "duration_ms": 5799,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1120.216,
+    "text": "And notice, no real expression or heightened expression of amyloid.",
+    "start_ms": 1120216,
+    "end_ms": 1125477,
+    "duration_ms": 5261,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1125.477,
+    "text": "But here's the patient with Alzheimer, very prominent uptake of the amyloid, both in the back of the brain, the temporal lobe bilaterally, and also very prominently in the frontal lobe.",
+    "start_ms": 1125477,
+    "end_ms": 1139337,
+    "duration_ms": 13860,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1139.337,
+    "text": "And again, these tracers came on the scene 20 plus years ago.",
+    "start_ms": 1139337,
+    "end_ms": 1144557,
+    "duration_ms": 5220,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1144.557,
+    "text": "Of course, there was a quick race to say, can we develop drugs that can actually destroy the amyloid protein, right?",
+    "start_ms": 1144557,
+    "end_ms": 1151857,
+    "duration_ms": 7300,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1151.857,
+    "text": "And indeed, this led to actually FDA approval in 2022 of anti-amyloid drugs.",
+    "start_ms": 1151857,
+    "end_ms": 1159176,
+    "duration_ms": 7319,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1159.176,
+    "text": "So they're not widely prescribed, but nonetheless, they're starting to make an appearance.",
+    "start_ms": 1159176,
+    "end_ms": 1164337,
+    "duration_ms": 5161,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1164.337,
+    "text": "They're quite expensive, of course. They turn out to be highly effective in removing amyloid.",
+    "start_ms": 1164337,
+    "end_ms": 1170016,
+    "duration_ms": 5679,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1170.016,
+    "text": "So if you look at the brain of a patient with Alzheimer, after they've done like 18 months of anti-amyloid treatment, they might almost have like a 90%.",
+    "start_ms": 1170016,
+    "end_ms": 1178816,
+    "duration_ms": 8800,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1178.816,
+    "text": "In some cases, almost 100% reduction in amyloid. The more sobering side of the picture, though, is that the individuals seem to show modest gains in slowing the rate of decline over the, say, the course of the two-year assessment period.",
+    "start_ms": 1178816,
+    "end_ms": 1196176,
+    "duration_ms": 17360,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1196.176,
+    "text": "There does seem to be clinical benefits. That's what led to the approval, but it's not striking benefits.",
+    "start_ms": 1196176,
+    "end_ms": 1202037,
+    "duration_ms": 5861,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1202.977,
+    "text": "And the answer really might be that maybe amyloid isn't the real culprit, but I think that zeitgeist in the field is to think that tau is what's really the prominent marker here, or rather, the prominent culprit.",
+    "start_ms": 1202977,
+    "end_ms": 1216096,
+    "duration_ms": 13119,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1216.096,
+    "text": "So amyloid and tau are both biomarkers. That is, they're commonly observed in the brains of people with Alzheimer's disease.",
+    "start_ms": 1216096,
+    "end_ms": 1225936,
+    "duration_ms": 9840,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1225.936,
+    "text": "And this is just showing, again, here's a healthy person getting a amyloid PET scan or a tau PET scan, so now they've developed tracers that can target tau.",
+    "start_ms": 1225936,
+    "end_ms": 1236417,
+    "duration_ms": 10481,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1236.417,
+    "text": "You can see very little amyloid or tau in these individuals.",
+    "start_ms": 1236417,
+    "end_ms": 1241417,
+    "duration_ms": 5000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1241.457,
+    "text": "It turns out that a lot of people who are cognitively healthy have actually fairly extensive amyloid in their brain, but they don't have very much tau.",
+    "start_ms": 1241457,
+    "end_ms": 1251896,
+    "duration_ms": 10439,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1251.896,
+    "text": "But people with Alzheimer have both amyloid and tau. And now it could be an interaction between the two, and there certainly is some belief that the presence of amyloid is something that promotes the development or the production of tau.",
+    "start_ms": 1251896,
+    "end_ms": 1268496,
+    "duration_ms": 16600,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1269.216,
+    "text": "But it's also clear, if you look down here, this is just showing across the x-axis cognitive status.",
+    "start_ms": 1269216,
+    "end_ms": 1276297,
+    "duration_ms": 7081,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1276.297,
+    "text": "So on the left here are people who are healthy aging.",
+    "start_ms": 1276297,
+    "end_ms": 1279216,
+    "duration_ms": 2919,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1279.216,
+    "text": "On the far right are people with advanced Alzheimer's disease.",
+    "start_ms": 1279216,
+    "end_ms": 1282977,
+    "duration_ms": 3761,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1282.977,
+    "text": "Here are people who are actually SCD, they subject to.",
+    "start_ms": 1282977,
+    "end_ms": 1286977,
+    "duration_ms": 4000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1286.592,
+    "text": "they subjectively feel some cognitive decline. Here there's some measurable mild cognitive impairment.",
+    "start_ms": 1286592,
+    "end_ms": 1293236,
+    "duration_ms": 6644,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1293.236,
+    "text": "Here there's sort of late mild cognitive impairment. So again, there's a progression of the cognitive decline.",
+    "start_ms": 1293236,
+    "end_ms": 1299576,
+    "duration_ms": 6340,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1299.576,
+    "text": "And this is just showing the accumulation of different biomarkers.",
+    "start_ms": 1299576,
+    "end_ms": 1304355,
+    "duration_ms": 4779,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1304.355,
+    "text": "And here we see that amyloid actually can increase even in the, you can have very high levels of amyloid even when you're asymptomatic.",
+    "start_ms": 1304355,
+    "end_ms": 1313436,
+    "duration_ms": 9081,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1313.436,
+    "text": "But if you actually get some rise in the level of tau, you're almost always going to be in the state where you have some clinically identified cognitive impairment.",
+    "start_ms": 1313436,
+    "end_ms": 1324236,
+    "duration_ms": 10800,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1324.236,
+    "text": "And if you have that tau plus, it's actually not just in the temporal lobes, but it's actually in the frontal lobes, then you almost surely are going to have some real cognitive changes occurring and so forth.",
+    "start_ms": 1324236,
+    "end_ms": 1337116,
+    "duration_ms": 12880,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1337.116,
+    "text": "And the purple is showing when you actually have measurable atrophy.",
+    "start_ms": 1337116,
+    "end_ms": 1340956,
+    "duration_ms": 3840,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1340.956,
+    "text": "What's shown down here too is that this is showing the typical distribution of amyloid on the left, the typical distribution of tau on the right.",
+    "start_ms": 1340956,
+    "end_ms": 1352196,
+    "duration_ms": 11240,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1352.196,
+    "text": "And this here is showing where's the typical places where you get measurable atrophy at, especially at a moderate stage of Alzheimer.",
+    "start_ms": 1352196,
+    "end_ms": 1360516,
+    "duration_ms": 8320,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1360.516,
+    "text": "And what you can see is that there's not a great correlation between where the amyloid is and where the atrophy is, but there's a very strong correlation between where tau is and where atrophy.",
+    "start_ms": 1360516,
+    "end_ms": 1371516,
+    "duration_ms": 11000,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1371.516,
+    "text": "So again, the belief that tau is causing something with those neurofibrillary tangles that actually is not only mucking up the wiring, but eventually causing the cell death there, and that's the real culprit that underlies Alzheimer's disease.",
+    "start_ms": 1371516,
+    "end_ms": 1385915,
+    "duration_ms": 14399,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1386.035,
+    "text": "Again, there are other types of dementias. As I mentioned, Alzheimer's accounts for about two-thirds of all dementias.",
+    "start_ms": 1386035,
+    "end_ms": 1393275,
+    "duration_ms": 7240,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1393.275,
+    "text": "There's another prominent dementia that's been very well studied over at UC San Francisco called frontal temporal dementia, and as the name implies, the tissue loss in these individuals is very pronounced in the temporal lobes, and if I had more anterior scans, you'd also see it in parts of the frontal lobe.",
+    "start_ms": 1393275,
+    "end_ms": 1414076,
+    "duration_ms": 20801,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1414.236,
+    "text": "And it's much more severe there than you might see, say, in the parietal lobe or in the occipital lobe.",
+    "start_ms": 1414236,
+    "end_ms": 1421195,
+    "duration_ms": 6959,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1421.195,
+    "text": "And these patients present a very different picture of dementia.",
+    "start_ms": 1421195,
+    "end_ms": 1424475,
+    "duration_ms": 3280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1424.475,
+    "text": "They'll have a severe loss of knowledge. Some of them have almost like a shrinking of their vocabulary, something we'll talk about when we get to the language section.",
+    "start_ms": 1424475,
+    "end_ms": 1432956,
+    "duration_ms": 8481,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1433.915,
+    "text": "Interestingly, many of these patients also show very pronounced personality changes, and that may have something to do with some of the temporal lobe tissue changes that are occurring or perhaps atrophy within the limbic system.",
+    "start_ms": 1433915,
+    "end_ms": 1447355,
+    "duration_ms": 13440,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1449.115,
+    "text": "And, you know, the last type of dementia, I mean, there's other subtypes, but really a prominent one is just aging.",
+    "start_ms": 1449115,
+    "end_ms": 1455676,
+    "duration_ms": 6561,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1455.676,
+    "text": "There's going to be some atrophy of the brain as we age, and at some point, it's going to turn into mild cognitive impairment, and in some cases, it can turn into severe dementia, even if you aren't having one of these specific disorders, such as Alzheimer's or frontal temporal dementia.",
+    "start_ms": 1455676,
+    "end_ms": 1472475,
+    "duration_ms": 16799,
+    "word_count": 51,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1473.676,
+    "text": "And I'll stop the recording for part two here and then come back with part three.",
+    "start_ms": 1473676,
+    "end_ms": 1480555,
+    "duration_ms": 6879,
+    "word_count": 16,
+    "avg_confidence": 90
+  }
+]

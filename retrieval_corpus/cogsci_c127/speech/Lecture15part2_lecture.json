@@ -1,0 +1,1064 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "All right, we're back for part two. Let's just try to do this as quickly as we can because that was one long section.",
+    "start_ms": 0,
+    "end_ms": 9380,
+    "duration_ms": 9380,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 9.38,
+    "text": "Share, hide, blah, blah. In fact, you know, those of you who are paying attention, this is actually going to be the last segment of material that's going to be for your second midterm exam, right?",
+    "start_ms": 9380,
+    "end_ms": 23493,
+    "duration_ms": 14113,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 23.493,
+    "text": "Memory section ends. We have the perception, the motor control, hey, you stay up there.",
+    "start_ms": 23493,
+    "end_ms": 33510,
+    "duration_ms": 10017,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 33.51,
+    "text": "What is going on? Look at that. Okay, can't hide myself.",
+    "start_ms": 33510,
+    "end_ms": 42555,
+    "duration_ms": 9045,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 42.555,
+    "text": "Sorry. Okay, yeah. So, perception, motor control, and memory, and that's the three segments here, only seven lectures that we'll be covering in the second midterm.",
+    "start_ms": 42555,
+    "end_ms": 57184,
+    "duration_ms": 14629,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 57.184,
+    "text": "Doesn't that sound fun? Get right back into it. All right, onward here.",
+    "start_ms": 57184,
+    "end_ms": 61752,
+    "duration_ms": 4568,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 61.752,
+    "text": "All right, so again, I've talked about this composite representation.",
+    "start_ms": 61752,
+    "end_ms": 65470,
+    "duration_ms": 3718,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 65.47,
+    "text": "I've shown it to you a few times, this taxonomy, and we have this very broad distinction between declarative and we've talked in detail just before about, you know, how this medial temporal lobe may be so essential for both memory encoding, but also how it can boost memory consolidation, how it can build up memories through these replay mechanisms, and even how those replay mechanisms might play out during recall, during retrieval.",
+    "start_ms": 65470,
+    "end_ms": 93933,
+    "duration_ms": 28463,
+    "word_count": 73,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 93.933,
+    "text": "Now, one thing I want to emphasize is that this sort of taxonomy, and true taxonomies in general, they tend to be descriptive accounts, right?",
+    "start_ms": 93933,
+    "end_ms": 102355,
+    "duration_ms": 8422,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 102.355,
+    "text": "They make the point, I'm sorry, Josie, let me pause the recording.",
+    "start_ms": 102355,
+    "end_ms": 109855,
+    "duration_ms": 7500,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 109.855,
+    "text": "Well, we'll just leave Josie here. Okay, so they provide a descriptive account of the different types of memory, but really, you know, again, it's in this class I've emphasized, we really want to ask about the computational question, and the computational question would be like, okay, we know there's a distinction between declarative and non-declarative, but what really distinguishes declarative and non-declarative memories, and might we actually be able to make some derivation of that when we think about the physiological mechanisms we've discussed?",
+    "start_ms": 109855,
+    "end_ms": 140233,
+    "duration_ms": 30378,
+    "word_count": 85,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 140.233,
+    "text": "And again, I do probably have to let Josie out of my room, so let me do that.",
+    "start_ms": 140233,
+    "end_ms": 148039,
+    "duration_ms": 7806,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 148.039,
+    "text": "Oh, I'm sorry, I knocked the screen there. Okay, we're back.",
+    "start_ms": 148039,
+    "end_ms": 160964,
+    "duration_ms": 12925,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 160.964,
+    "text": "Okay, and a critical theoretical idea is what I call consolidation theory, okay?",
+    "start_ms": 160964,
+    "end_ms": 169919,
+    "duration_ms": 8955,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 169.919,
+    "text": "And it's this notion that the medial temporal lobe, including the hippocampus, as we've seen, is essential for building associations between distributed representations, because we've talked about memory as a composite process, so it's going to be distributed representation, but really, those distributed representations are going to be distributed across different, say, cortical areas.",
+    "start_ms": 169919,
+    "end_ms": 195439,
+    "duration_ms": 25520,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 195.439,
+    "text": "And if we take my hokey golden boy pizza idea, right, I walk into the golden boy pizzeria, I immediately get a bunch of representations along the ventral pathway, we talk about that, I'll be able to recognize the objects, the golden boy neon sign, the row of steel, you know, the counter with all the seats there, and so forth.",
+    "start_ms": 195439,
+    "end_ms": 219119,
+    "duration_ms": 23680,
+    "word_count": 61,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 219.119,
+    "text": "I also have my ventral, my dorsal pathway, talking about my spatial representation, it's located on Green Street in San Francisco.",
+    "start_ms": 219119,
+    "end_ms": 227297,
+    "duration_ms": 8178,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 227.297,
+    "text": "But there's also all those implicit associations, the smell of the golden boy pizzeria, or the glistening whatever the blogger said about the pepperoni oil on her lips, maybe that chewing sensation or the memory of the unique taste of the golden boy.",
+    "start_ms": 227297,
+    "end_ms": 245399,
+    "duration_ms": 18102,
+    "word_count": 43,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 245.399,
+    "text": "These aren't all going to be in one location in the brain, they're going to be distributed, okay.",
+    "start_ms": 245399,
+    "end_ms": 250423,
+    "duration_ms": 5024,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 250.423,
+    "text": "But the notion is, again, it's a novel experience, activate the hippocampus, all of these distributed representations being activated through my ongoing experience.",
+    "start_ms": 250423,
+    "end_ms": 261197,
+    "duration_ms": 10774,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 261.197,
+    "text": "And so the hippocampus is kind of a node that allows us to, you know, perhaps it has connectivity or does have connectivity throughout the cerebral cortex.",
+    "start_ms": 261197,
+    "end_ms": 270600,
+    "duration_ms": 9403,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 270.6,
+    "text": "And it's now initially, these are, of course, very independent, separate representations, right?",
+    "start_ms": 270600,
+    "end_ms": 276220,
+    "duration_ms": 5620,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 276.22,
+    "text": "I mean, it's not that I always have everything on Green Street associated with the golden boy.",
+    "start_ms": 276220,
+    "end_ms": 281127,
+    "duration_ms": 4907,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 281.127,
+    "text": "But the idea is that these things being co-activated allows the hippocampus, maybe through these replay mechanisms, to build up associations between these distributed cortical representations.",
+    "start_ms": 281127,
+    "end_ms": 293633,
+    "duration_ms": 12506,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 293.633,
+    "text": "So before learning, I might have, again, my spatial representation of, I'm on Green Street, that place cell, right, about being in Green Street, heading, direction, etc., is activating both the hippocampus and this dorsal region.",
+    "start_ms": 293633,
+    "end_ms": 310074,
+    "duration_ms": 16441,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 310.074,
+    "text": "I also have my ventral pathway saying, hey, here's a new neon sign, activating that ventral pathway, but also activating the hippocampus.",
+    "start_ms": 310074,
+    "end_ms": 318279,
+    "duration_ms": 8205,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 319.16,
+    "text": "Again, here we have sort of reciprocal activation, here we have activation.",
+    "start_ms": 319160,
+    "end_ms": 323320,
+    "duration_ms": 4160,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 323.32,
+    "text": "But the hippocampal co-activation with the hippocampus, again, perhaps through those those ripples, allows us to actually build direct cortical connections, so that now when I have a activation, I see that golden boy pizza neon sign, it also automatically activates the representation of Green Street, of pizza, the smell of the golden boy pizza, and so again the hippocampus is a way to build connections between these distributed cortical representations.",
+    "start_ms": 323320,
+    "end_ms": 355089,
+    "duration_ms": 31769,
+    "word_count": 71,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 355.089,
+    "text": "Well what are the complication, computational, not complicational, what are the computational implications of consolidation theory?",
+    "start_ms": 355089,
+    "end_ms": 364798,
+    "duration_ms": 9709,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 365.359,
+    "text": "Okay, and it really accounts for a lot of cool data.",
+    "start_ms": 365359,
+    "end_ms": 368415,
+    "duration_ms": 3056,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 368.415,
+    "text": "First of all, it provides a really nice account of this dissociation we've seen between retrograde and anterograde amnesia, right?",
+    "start_ms": 368415,
+    "end_ms": 376318,
+    "duration_ms": 7903,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 377.199,
+    "text": "It says that, hey, new information, I need the medial temporal lobe, right?",
+    "start_ms": 377199,
+    "end_ms": 381664,
+    "duration_ms": 4465,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 381.664,
+    "text": "The only way I'm going to be able to build this new representation is through their co-activation of the hippocampus.",
+    "start_ms": 381664,
+    "end_ms": 389679,
+    "duration_ms": 8015,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 389.679,
+    "text": "So new information, dependent on the hippocampus, take out the hippocampus, severe anterograde amnesia, like we see in HM.",
+    "start_ms": 389679,
+    "end_ms": 398175,
+    "duration_ms": 8496,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 398.175,
+    "text": "But all information now, well, it says that, at least the theory in its simplest form says, I don't need the hippocampus for that.",
+    "start_ms": 398175,
+    "end_ms": 405711,
+    "duration_ms": 7536,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 405.711,
+    "text": "If I've had enough time to build up these direct cortical-cortical associations that are independent of the hippocampus, well then that information should be intact.",
+    "start_ms": 405711,
+    "end_ms": 415687,
+    "duration_ms": 9976,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 415.687,
+    "text": "And again, we take a case like HM, loses the medial temporal lobe bilaterally, can't acquire new information, but can retain old information.",
+    "start_ms": 415687,
+    "end_ms": 424931,
+    "duration_ms": 9244,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 424.931,
+    "text": "So a really nice sort of account of that dissociation.",
+    "start_ms": 424931,
+    "end_ms": 429523,
+    "duration_ms": 4592,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 429.523,
+    "text": "But the story is actually a little bit more complicated, right?",
+    "start_ms": 429523,
+    "end_ms": 434638,
+    "duration_ms": 5115,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 434.638,
+    "text": "Because, you know, we've talked about the hippocampus being really important for building these cortical-cortical associations, but we also emphasize that one way it does it is by recording this new unique episode, okay?",
+    "start_ms": 434638,
+    "end_ms": 447984,
+    "duration_ms": 13346,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 447.984,
+    "text": "And we've talked about, you know, really that there's some sort of representational content within the hippocampus.",
+    "start_ms": 447984,
+    "end_ms": 453626,
+    "duration_ms": 5642,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 453.626,
+    "text": "It's not just a pointer that brings together all these cortical nodes, but it's also important, the cells in there are really important for providing representations of space and time.",
+    "start_ms": 453626,
+    "end_ms": 464327,
+    "duration_ms": 10701,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 464.327,
+    "text": "And that is really what we think about when we talk about an episode.",
+    "start_ms": 464327,
+    "end_ms": 468021,
+    "duration_ms": 3694,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 468.021,
+    "text": "An episode is occurring at a particular space and time.",
+    "start_ms": 468021,
+    "end_ms": 471443,
+    "duration_ms": 3422,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 471.443,
+    "text": "For me, first time to the Golden Boy Pizzeria, but thousands and thousands of episodes.",
+    "start_ms": 471443,
+    "end_ms": 476598,
+    "duration_ms": 5155,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 476.598,
+    "text": "And so now we actually have a subtler distinction. We say that maybe the hippocampus is actually going to be really important for episodic memory.",
+    "start_ms": 476598,
+    "end_ms": 486238,
+    "duration_ms": 9640,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 486.238,
+    "text": "So even within that declarative branch, the hippocampus or the medial temporal lobe system is still going to be really important for episodic memory.",
+    "start_ms": 486238,
+    "end_ms": 495245,
+    "duration_ms": 9007,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 495.245,
+    "text": "What's going to be spared is more semantic memory, where we have that more generic knowledge that isn't tied to particular spaces and times.",
+    "start_ms": 495245,
+    "end_ms": 504405,
+    "duration_ms": 9160,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 504.405,
+    "text": "That's really dependent on these distributed cortical representations. And as I've said, that's medial temporal lobe independent.",
+    "start_ms": 504405,
+    "end_ms": 511982,
+    "duration_ms": 7577,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 511.982,
+    "text": "And indeed, when people have gone back and looked closely, they see that with these patients with medial temporal lobe lesions, including HM, yes, they have pretty intact retrograde memories, but it's really much more of semantic memory.",
+    "start_ms": 511982,
+    "end_ms": 530022,
+    "duration_ms": 18040,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 530.022,
+    "text": "They kind of remember the facts of life, that they grew up in Connecticut, etc., that they maybe went to this high school, and so forth, that they knew these friends, and so forth.",
+    "start_ms": 530022,
+    "end_ms": 541160,
+    "duration_ms": 11138,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 541.16,
+    "text": "But if you actually then really probe them for the details of what happened, specific episodes that occurred even before the lesion, before the surgery, etc., there, there's a really clear impairment.",
+    "start_ms": 541160,
+    "end_ms": 554650,
+    "duration_ms": 13490,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 554.65,
+    "text": "They really have difficulty with recalling specific episodes. So again, it's not that declarative memory is spared, but it's really that semantic memory within there is spared.",
+    "start_ms": 554650,
+    "end_ms": 564497,
+    "duration_ms": 9847,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 564.497,
+    "text": "But I really need this medial temporal lobe if I'm going to actually recall even old memories about specific episodes.",
+    "start_ms": 564497,
+    "end_ms": 571638,
+    "duration_ms": 7141,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 571.638,
+    "text": "Well, then this theory provides an interesting account, kind of a process-based account, of the kinds of memories that should be spared following medial temporal lobe lesions, right?",
+    "start_ms": 571638,
+    "end_ms": 582479,
+    "duration_ms": 10841,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 582.479,
+    "text": "It says that the kinds of memories that should be spared are changes that don't really require the associations between distributed memories.",
+    "start_ms": 582479,
+    "end_ms": 592559,
+    "duration_ms": 10080,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 592.559,
+    "text": "That is, if I have a learning experience, but it's fairly local, that is, it's sort of occurring within, say, a single cortical region, that kind of memory might be spared, because it could occur without necessarily requiring hippocampus to bind together distributed memories.",
+    "start_ms": 592559,
+    "end_ms": 609857,
+    "duration_ms": 17298,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 609.857,
+    "text": "And so we might think about those priming skills as sort of, you know, the reactivation of some perceptual trace, something along the ventral pathway that I've experienced before.",
+    "start_ms": 609857,
+    "end_ms": 621875,
+    "duration_ms": 12018,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 621.875,
+    "text": "We might think maybe, you know, motor skills might be more local, about the associations being built, say, within premotor cortex or motor cortex of a succession of motor commands that don't necessarily require the integration across different cortical regions.",
+    "start_ms": 621875,
+    "end_ms": 638319,
+    "duration_ms": 16444,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 640.559,
+    "text": "Now, this actually leads to some interesting novel predictions concerning the medial temporal lobe and memory.",
+    "start_ms": 640559,
+    "end_ms": 647279,
+    "duration_ms": 6720,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 646.718,
+    "text": "lobe and memory formation. Remember that descriptive view had really emphasized that the medial temporal lobe was important for explicit memories, but not implicit memories.",
+    "start_ms": 646718,
+    "end_ms": 657597,
+    "duration_ms": 10879,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 657.597,
+    "text": "That was the broad distinction that came about from the work with H.N.",
+    "start_ms": 657597,
+    "end_ms": 662415,
+    "duration_ms": 4818,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 662.415,
+    "text": "and others. But this computational perspective says, actually, the medial temporal lobe is really going to be important whenever we have to integrate things together across different representations or specify them through a unique time and place.",
+    "start_ms": 662415,
+    "end_ms": 678358,
+    "duration_ms": 15943,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 678.358,
+    "text": "And more generally, we might call that when we have a memory that is context dependent.",
+    "start_ms": 678358,
+    "end_ms": 683438,
+    "duration_ms": 5080,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 683.438,
+    "text": "Because context dependent is really a way of saying, another way of saying, that we're integrating information across multiple dimensions.",
+    "start_ms": 683438,
+    "end_ms": 690517,
+    "duration_ms": 7079,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 690.517,
+    "text": "We're not learning a thing just by itself about, you know, here's this face, but we're learning about this person's face in a particular place and perhaps at a particular time.",
+    "start_ms": 690517,
+    "end_ms": 700637,
+    "duration_ms": 10120,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 700.637,
+    "text": "So it's context dependent or multidimensional. Moreover, this computational perspective says, this isn't really necessarily specific to explicit memory.",
+    "start_ms": 700637,
+    "end_ms": 712798,
+    "duration_ms": 12161,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 712.798,
+    "text": "If we have to form these sort of multidimensional or context dependent memories, even if they're implicit, they should be dependent on the medial temporal lobe.",
+    "start_ms": 712798,
+    "end_ms": 722317,
+    "duration_ms": 9519,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 722.317,
+    "text": "And so now we get this very novel prediction from this computational view that says that if we take these medial temporal lobe patients who, you know, we've shown many, many times have this spared implicit learning, now we should expect that they're actually impaired if that implicit learning requires some sort of contextual information.",
+    "start_ms": 722317,
+    "end_ms": 742838,
+    "duration_ms": 20521,
+    "word_count": 55,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 742.838,
+    "text": "So here's an experiment, one of the first experiments to actually make this point.",
+    "start_ms": 742838,
+    "end_ms": 746798,
+    "duration_ms": 3960,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 746.798,
+    "text": "Here's the task. Your job is to find the T as quickly as you can, the red T, okay, or the T.",
+    "start_ms": 746798,
+    "end_ms": 752677,
+    "duration_ms": 5879,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 752.677,
+    "text": "Okay, here, you know, it's right here. I give you another trial.",
+    "start_ms": 752677,
+    "end_ms": 757997,
+    "duration_ms": 5320,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 757.997,
+    "text": "It's difficult, right? Challenging. Now it's up here. You had to search about.",
+    "start_ms": 757997,
+    "end_ms": 762358,
+    "duration_ms": 4361,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 762.358,
+    "text": "Do another trial. Ah, found it pretty quickly that time and so forth.",
+    "start_ms": 762358,
+    "end_ms": 766997,
+    "duration_ms": 4639,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 766.997,
+    "text": "Do many, many trials. Your job is just press the key as quickly as you can.",
+    "start_ms": 766997,
+    "end_ms": 771238,
+    "duration_ms": 4241,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 771.238,
+    "text": "When you find the T, sometimes there's no T. Okay?",
+    "start_ms": 771238,
+    "end_ms": 775997,
+    "duration_ms": 4759,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 775.997,
+    "text": "Now, the way I actually, the way the researchers, I didn't do the experiment, the way the researchers set this up, though, is they set it up that there were actually two types of perceptual learning that can go on over the course of this experiment.",
+    "start_ms": 775997,
+    "end_ms": 789718,
+    "duration_ms": 13721,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 789.718,
+    "text": "One is just learning to recognize T's as distinct from L's, right?",
+    "start_ms": 789718,
+    "end_ms": 793798,
+    "duration_ms": 4080,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 793.798,
+    "text": "They share a horizontal line, bars, okay? So again, it's a perceptual skill to learn that T has a particular configuration that's different than the L.",
+    "start_ms": 793798,
+    "end_ms": 803518,
+    "duration_ms": 9720,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 804.037,
+    "text": "And if I give you lots and lots of trials of that, people are going to get better at that.",
+    "start_ms": 804037,
+    "end_ms": 808197,
+    "duration_ms": 4160,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 808.197,
+    "text": "And the idea is that that's really kind of, in a sense, non-contextual learning.",
+    "start_ms": 808197,
+    "end_ms": 811678,
+    "duration_ms": 3481,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 811.678,
+    "text": "It doesn't matter. You know, I'm just learning to discriminate between a T and an L.",
+    "start_ms": 811678,
+    "end_ms": 816798,
+    "duration_ms": 5120,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 816.798,
+    "text": "But what they also did in the experiment is that they made it that when the T's were read, they typically occurred in a particular location, okay?",
+    "start_ms": 816798,
+    "end_ms": 827518,
+    "duration_ms": 10720,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 827.518,
+    "text": "They didn't tell people about that, and it was clearly implicit.",
+    "start_ms": 827518,
+    "end_ms": 830358,
+    "duration_ms": 2840,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 830.358,
+    "text": "You didn't notice where the T was when you pressed the key.",
+    "start_ms": 830358,
+    "end_ms": 832997,
+    "duration_ms": 2639,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 832.997,
+    "text": "I mean, you did maybe on that trial, but people were completely oblivious to the fact that the T, when it was read, was more likely to occur at one location compared to the other locations.",
+    "start_ms": 832997,
+    "end_ms": 844518,
+    "duration_ms": 11521,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 844.518,
+    "text": "And so there is contextual learning, right? I have to know, I have to learn something about that the shape is actually dependent on the location.",
+    "start_ms": 844518,
+    "end_ms": 854117,
+    "duration_ms": 9599,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 854.117,
+    "text": "The shape and color are dependent on the location. So here's the data comparing patients with medial temporal obligations, the amnesia group, versus the control subjects.",
+    "start_ms": 854117,
+    "end_ms": 865477,
+    "duration_ms": 11360,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 865.477,
+    "text": "They're slower overall. But notice the control groups, everyone's getting faster as they do epics or blocks of trials.",
+    "start_ms": 865477,
+    "end_ms": 873277,
+    "duration_ms": 7800,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 873.277,
+    "text": "So they're getting faster, and that getting faster is indicative of that first type of, you know, perceptual learning, learning to discriminate T's from L's.",
+    "start_ms": 873277,
+    "end_ms": 882197,
+    "duration_ms": 8920,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 882.197,
+    "text": "And it turns out that that benefit, that general decrease in reaction time is a function of practice, is about the same for the amnesic patients and the control patients.",
+    "start_ms": 882197,
+    "end_ms": 893637,
+    "duration_ms": 11440,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 893.637,
+    "text": "So they're showing kind of, you know, it's a sort of what you might call implicit perceptual task.",
+    "start_ms": 893637,
+    "end_ms": 898998,
+    "duration_ms": 5361,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 898.998,
+    "text": "They do quite well. But notice that the control subjects are also showing this context effect.",
+    "start_ms": 898998,
+    "end_ms": 906398,
+    "duration_ms": 7400,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 906.398,
+    "text": "They're getting even faster for those T's that occur at a frequent location or an old location, familiar location, compared to the new location.",
+    "start_ms": 906398,
+    "end_ms": 917197,
+    "duration_ms": 10799,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 917.197,
+    "text": "But the amnesic patients, they don't show that benefit. They're basically insensitive to that context effect.",
+    "start_ms": 917197,
+    "end_ms": 925917,
+    "duration_ms": 8720,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 925.917,
+    "text": "So now we have this sort of really cool dissociation between what you might classically call two different types of implicit learning.",
+    "start_ms": 925917,
+    "end_ms": 933798,
+    "duration_ms": 7881,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 933.798,
+    "text": "They show the normal benefit, just about learning what the shape discrimination is occurring, what I'd call kind of a within dimension sort of association.",
+    "start_ms": 933798,
+    "end_ms": 942637,
+    "duration_ms": 8839,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 942.637,
+    "text": "Because they aren't showing this cross-dimensional or this contextual benefit that you see in the control subjects.",
+    "start_ms": 942637,
+    "end_ms": 949238,
+    "duration_ms": 6601,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 949.238,
+    "text": "So again, the computational perspective is changing the way we think about things.",
+    "start_ms": 949238,
+    "end_ms": 954678,
+    "duration_ms": 5440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 954.678,
+    "text": "Classic view is implicit versus explicit. Now we have this computational perspective about consolidation theory and what the hippocampus is doing.",
+    "start_ms": 954678,
+    "end_ms": 963678,
+    "duration_ms": 9000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 963.678,
+    "text": "And this just sort of then summarizes the kinds of.",
+    "start_ms": 963678,
+    "end_ms": 966958,
+    "duration_ms": 3280,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 966.729,
+    "text": "the kinds of computational differences between memories that are dependent on the medial temporal lobe versus memories that are independent, not dependent on the medial temporal lobe.",
+    "start_ms": 966729,
+    "end_ms": 977370,
+    "duration_ms": 10641,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 977.37,
+    "text": "And again, I've talked about these, that the non-MTL dependent memories are going to be local representations.",
+    "start_ms": 977370,
+    "end_ms": 984037,
+    "duration_ms": 6667,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 984.037,
+    "text": "These are going to be these distributed or contextual ones where we need to, the hippocampus to bind information together.",
+    "start_ms": 984037,
+    "end_ms": 991537,
+    "duration_ms": 7500,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 991.537,
+    "text": "You know, these local representations seem to be acquired without awareness.",
+    "start_ms": 991537,
+    "end_ms": 996037,
+    "duration_ms": 4500,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 996.037,
+    "text": "We can certainly be aware of them, but we don't need awareness.",
+    "start_ms": 996037,
+    "end_ms": 1000537,
+    "duration_ms": 4500,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1000.537,
+    "text": "These sorts of representations, right? The declarative notion is that they are accessible in awareness.",
+    "start_ms": 1000537,
+    "end_ms": 1006894,
+    "duration_ms": 6357,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1006.894,
+    "text": "It's not required. We can do sorts of implicit learning here.",
+    "start_ms": 1006894,
+    "end_ms": 1010703,
+    "duration_ms": 3809,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1010.703,
+    "text": "But nonetheless, it's a very interesting question, is why are some types of representations, especially the ones that involve the medial temporal lobe, why are they accessible to awareness?",
+    "start_ms": 1010703,
+    "end_ms": 1021037,
+    "duration_ms": 10334,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1021.037,
+    "text": "We've talked about that, the consolidation process. We seem to have some good handle on the physiological process about these replay mechanisms.",
+    "start_ms": 1021037,
+    "end_ms": 1029127,
+    "duration_ms": 8090,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1029.127,
+    "text": "And moreover, that at least for episodic memory, we need the medial temporal lobe to retrieve that information, perhaps through the replay or pre-play mechanisms.",
+    "start_ms": 1029127,
+    "end_ms": 1038370,
+    "duration_ms": 9243,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1038.37,
+    "text": "On the other hand, it's a little unclear about what are the mechanisms.",
+    "start_ms": 1038370,
+    "end_ms": 1042849,
+    "duration_ms": 4479,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1042.849,
+    "text": "It may be that we have replay for these non-medial temporal lobe dependent implicit memories or local memories.",
+    "start_ms": 1042849,
+    "end_ms": 1050465,
+    "duration_ms": 7616,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1050.465,
+    "text": "That's a debated question under study. And as I've said, we don't need the medial temporal lobe when we're doing semantic retrieval because now the memories have been freed up from the dependency on the medial temporal lobe because we've built these strong cortical-cortical connections.",
+    "start_ms": 1050465,
+    "end_ms": 1069037,
+    "duration_ms": 18572,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1069.037,
+    "text": "All right, so that ends the memory section. We'll pick up with our next section after spring break.",
+    "start_ms": 1069037,
+    "end_ms": 1075190,
+    "duration_ms": 6153,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1075.19,
+    "text": "But again, this also concludes the material for the second part of the course.",
+    "start_ms": 1075190,
+    "end_ms": 1080213,
+    "duration_ms": 5023,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1080.213,
+    "text": "So now you have all the knowledge, all the information you need to start thinking about the second midterm.",
+    "start_ms": 1080213,
+    "end_ms": 1085912,
+    "duration_ms": 5699,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1085.912,
+    "text": "Enjoy your spring break. Hope to see you in class afterwards.",
+    "start_ms": 1085912,
+    "end_ms": 1090037,
+    "duration_ms": 4125,
+    "word_count": 11,
+    "avg_confidence": 90
+  }
+]

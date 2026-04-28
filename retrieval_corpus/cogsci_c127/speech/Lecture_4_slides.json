@@ -1,0 +1,3053 @@
+[
+  {
+    "timestamp": 0.0,
+    "text": "you you you you you you you Okay, now that Sebastian's here.",
+    "start_ms": 0,
+    "end_ms": 189591,
+    "duration_ms": 189591,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 189.591,
+    "text": "We can get started You got the announcement about download the new syllabus because it had an extra class in there and Jen pointed out that You probably are gonna take that day off.",
+    "start_ms": 189591,
+    "end_ms": 210505,
+    "duration_ms": 20914,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 210.505,
+    "text": "So we shuffled the schedule up and there's no There's no pointer here today, so I'm gonna be using my mouth.",
+    "start_ms": 210505,
+    "end_ms": 220935,
+    "duration_ms": 10430,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 220.935,
+    "text": "So hopefully that works out. Okay. All right Just finish up a few thoughts on anatomy.",
+    "start_ms": 220935,
+    "end_ms": 227200,
+    "duration_ms": 6265,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 227.2,
+    "text": "So I kind of ended that last lecture Talking about kind of you know a question that people have always been interested in about, you know, making comparative judgments of intelligence You know, of course, we have kind of a human centric view that we're at the top of the scale You can make the relative argument and say, you know animals kind of evolved to be intelligently matched for their environment but we're clearly capable of more complex cognition than In many ways and has probably, you know things like planning or coming to classes and so forth and so again, I gave you a snapshot of different ways people have looked at the relationship between Brain between anatomy and intelligence, but that's always between species and you know, again, it's unsatisfying There's no clear answer.",
+    "start_ms": 227200,
+    "end_ms": 274890,
+    "duration_ms": 47690,
+    "word_count": 137,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 274.89,
+    "text": "I was pointing out here every ten years the story Changes a little bit about whether it's white matters and prefrontal and then this most recent paper said actually Doesn't seem you know, at least there are biomarkers that seem to be predictive of Differences between the human brain and the chimpanzee brain.",
+    "start_ms": 274890,
+    "end_ms": 292109,
+    "duration_ms": 17219,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 292.109,
+    "text": "We're actually in terms of connectivity not with the frontal lobe But with the temporal lobe regions involved in like language and so forth but the perhaps the more Risky question that people dabble in is about asking what about within a species, right?",
+    "start_ms": 292109,
+    "end_ms": 307481,
+    "duration_ms": 15372,
+    "word_count": 44,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 307.481,
+    "text": "Are there ways of looking at gross anatomy and asking about variation in Cognitive capabilities within a species say within humans and again, there's a long history here There is no clear answer But there certainly have been identified some correlates between between variations in macroscopic gross measures of brain size and performance on different measures of intelligence.",
+    "start_ms": 307481,
+    "end_ms": 335279,
+    "duration_ms": 27798,
+    "word_count": 58,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 335.279,
+    "text": "Of course, you can debate what those things are measuring, but there's various things that are, again, predictive of how people are going to be at, say, problem solving and so forth.",
+    "start_ms": 335279,
+    "end_ms": 344558,
+    "duration_ms": 9279,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 344.558,
+    "text": "This is, again, one particular example, which had kind of an interesting twist.",
+    "start_ms": 344558,
+    "end_ms": 349599,
+    "duration_ms": 5041,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 349.599,
+    "text": "The guy said, remember, if we look at the cortex, the cortex, that gray matter, that's composed of all the cell bodies, and we can take an MRI, and we can actually measure on an individual basis, we can basically measure the thickness of their cortex across the whole brain.",
+    "start_ms": 349599,
+    "end_ms": 365559,
+    "duration_ms": 15960,
+    "word_count": 50,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 365.559,
+    "text": "They have different, you know, algorithmic measures to do this.",
+    "start_ms": 365559,
+    "end_ms": 367838,
+    "duration_ms": 2279,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 367.838,
+    "text": "We can look at the width of their white matter and so forth, but here they focused on the thickness of the gray matter.",
+    "start_ms": 367838,
+    "end_ms": 372719,
+    "duration_ms": 4881,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 372.759,
+    "text": "Basically, if you have a thicker gray matter, presumably you have more neurons, and they said how is that related to performance on some measure of intelligence, and they actually did it at all sorts of different ages.",
+    "start_ms": 372759,
+    "end_ms": 383958,
+    "duration_ms": 11199,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 383.958,
+    "text": "They did it in young childhood, late childhood, early adolescence, early adulthood, your age group, and so forth.",
+    "start_ms": 383958,
+    "end_ms": 389958,
+    "duration_ms": 6000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 389.958,
+    "text": "Each time, of course, they're changing the test, they're making it age appropriate, but they're asking within each of the different age groups, how does this correlation hold?",
+    "start_ms": 389958,
+    "end_ms": 397119,
+    "duration_ms": 7161,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 397.119,
+    "text": "Is it the same correlation picture from young childhood all the way through adulthood and so forth?",
+    "start_ms": 397119,
+    "end_ms": 404399,
+    "duration_ms": 7280,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 404.399,
+    "text": "And actually, they got this interesting non-monotonic function. Non-monotonic means that it goes in one direction for a while, and then it goes in the other direction.",
+    "start_ms": 404399,
+    "end_ms": 413119,
+    "duration_ms": 8720,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 413.119,
+    "text": "What they find is that actually in early childhood, it's a negative correlation for the most part.",
+    "start_ms": 413119,
+    "end_ms": 419359,
+    "duration_ms": 6240,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 419.359,
+    "text": "Blue colors here, if you look at the scale, that's the correlation.",
+    "start_ms": 419359,
+    "end_ms": 424998,
+    "duration_ms": 5639,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 424.998,
+    "text": "So strongest, darkest color is going to be the negative correlation of negative .4, pretty strong relationship for measures like this, goes all the way up to positive .4.",
+    "start_ms": 424998,
+    "end_ms": 435799,
+    "duration_ms": 10801,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 435.799,
+    "text": "So here we're basically seeing that there's a negative correlation, meaning you have a thicker gray matter, it actually performed poorer on the test of intelligence, but actually you see that over the course of development, that reverses, so that here you're actually seeing a very positive correlation late in childhood, especially, say, in these prefrontal regions.",
+    "start_ms": 435799,
+    "end_ms": 457078,
+    "duration_ms": 21279,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 457.078,
+    "text": "And again, it might reflect things about rates of maturation and so forth.",
+    "start_ms": 457078,
+    "end_ms": 460759,
+    "duration_ms": 3681,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 460.759,
+    "text": "And then you actually get up to the college-age ones, and in general, it's a positive correlation, but in many cases, actually, those positive correlations have damped down, and now there's no correlation.",
+    "start_ms": 460759,
+    "end_ms": 472039,
+    "duration_ms": 11280,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 472.039,
+    "text": "Once you get into adulthood, I don't know if that's what's going to persist if we measure people late in life.",
+    "start_ms": 472039,
+    "end_ms": 477718,
+    "duration_ms": 5679,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 477.759,
+    "text": "So again, a very complex relationship here, and you can spin stories after the fact.",
+    "start_ms": 477759,
+    "end_ms": 481759,
+    "duration_ms": 4000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 481.759,
+    "text": "Remember, we talked about that you're born with lots of neurons, and then there's a pruning process.",
+    "start_ms": 481759,
+    "end_ms": 486878,
+    "duration_ms": 5119,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 486.878,
+    "text": "Maybe that's related to what's happening in early childhood, about the rate of that pruning.",
+    "start_ms": 486878,
+    "end_ms": 490839,
+    "duration_ms": 3961,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 490.839,
+    "text": "If you have a lot of neurons, your brain isn't as mature as it's going to be, as if you've had a lot of pruning.",
+    "start_ms": 490839,
+    "end_ms": 497518,
+    "duration_ms": 6679,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 497.518,
+    "text": "But again, as we can see, later in life, there's some modest correlation that tends to be positive in terms of the gray matter thickness, but there's no correlation in many parts of the brain.",
+    "start_ms": 497518,
+    "end_ms": 507318,
+    "duration_ms": 9800,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 507.919,
+    "text": "And that's one approach that's been studied. There's a faculty member in our department, Kevin Weiner, some of you have probably taken his class.",
+    "start_ms": 507919,
+    "end_ms": 514878,
+    "duration_ms": 6959,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 514.878,
+    "text": "If you haven't, I strongly recommend it. I only hear rave reviews about it.",
+    "start_ms": 514878,
+    "end_ms": 519399,
+    "duration_ms": 4521,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 519.399,
+    "text": "And he's actually tried to do a much more sophisticated analysis of looking at gross measure of anatomy and how they might be related to variation in different features of cognition.",
+    "start_ms": 519399,
+    "end_ms": 529878,
+    "duration_ms": 10479,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 529.878,
+    "text": "So he's not looking at crude measure like general intelligence tests or something like that.",
+    "start_ms": 529878,
+    "end_ms": 534399,
+    "duration_ms": 4521,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 534.479,
+    "text": "He's looking at particular types of cognitive capabilities. And his starting point is to say, here's the typical brain you might see in an anatomy textbook.",
+    "start_ms": 534479,
+    "end_ms": 543759,
+    "duration_ms": 9280,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 543.759,
+    "text": "If you took a college level neuroanatomy textbook, you might get told, memorize the key sulci and gyri in the human brain.",
+    "start_ms": 543759,
+    "end_ms": 551999,
+    "duration_ms": 8240,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 551.999,
+    "text": "And what you'd see is that they'll always have things like, here's that temporal fissure, that lateral fissure separating the temporal lobe.",
+    "start_ms": 551999,
+    "end_ms": 560279,
+    "duration_ms": 8280,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 560.279,
+    "text": "Here's the central sulcus here. And up here, you'll see two prominent sulci.",
+    "start_ms": 560279,
+    "end_ms": 564839,
+    "duration_ms": 4560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 564.839,
+    "text": "Remember, sulci is where the cortex folds within. And you have the superior frontal sulcus, and then you have the inferior frontal sulcus.",
+    "start_ms": 564839,
+    "end_ms": 575318,
+    "duration_ms": 10479,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 575.318,
+    "text": "In between them is a gyrus, right? Because the sulcus is a folding in, and the gyrus is on that lateral surface.",
+    "start_ms": 575318,
+    "end_ms": 581159,
+    "duration_ms": 5841,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 581.159,
+    "text": "And that gyrus is called the medial central gyrus. And I can actually show it up here better.",
+    "start_ms": 581159,
+    "end_ms": 590319,
+    "duration_ms": 9160,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 590.358,
+    "text": "So again, what we have here is that superior frontal sulcus, inferior frontal sulcus, and then here's the middle frontal gyrus right in between the two.",
+    "start_ms": 590358,
+    "end_ms": 598638,
+    "duration_ms": 8280,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 598.638,
+    "text": "Okay? Now, again, I said that once we get to the sulci, some of them are very consistent from individual to individual, but others vary from one individual to another.",
+    "start_ms": 598638,
+    "end_ms": 608399,
+    "duration_ms": 9761,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 608.399,
+    "text": "Now, these two here, the middle and the superior and the inferior frontal sulci are quite prominent.",
+    "start_ms": 608399,
+    "end_ms": 614918,
+    "duration_ms": 6519,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 614.918,
+    "text": "You'll see them in every individual. So what Kevin and others have observed, it's been known for a while, but people haven't really studied it, is that if you actually look within the middle frontal gyrus, you'll actually see a little dimple.",
+    "start_ms": 614918,
+    "end_ms": 627399,
+    "duration_ms": 12481,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 627.399,
+    "text": "So that would make sense, right? It's not like it's an all or nothing.",
+    "start_ms": 627399,
+    "end_ms": 630159,
+    "duration_ms": 2760,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 630.159,
+    "text": "Sometimes the brain dives down into a sulcus and then comes up to the gyrus.",
+    "start_ms": 630159,
+    "end_ms": 633999,
+    "duration_ms": 3840,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 633.999,
+    "text": "There's probably like little indentations. He's saying that there's this indentation there, which he calls the middle frontal sulcus.",
+    "start_ms": 633999,
+    "end_ms": 643038,
+    "duration_ms": 9039,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 643.038,
+    "text": "It's not in most of the books because it's inconsistent from one person to another.",
+    "start_ms": 643038,
+    "end_ms": 646999,
+    "duration_ms": 3961,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 646.789,
+    "text": "to another. But if you do high resolution fMRI or MRI, structural MRI images, you can actually see that in some people it's quite prominent, in other people it's quite shallow.",
+    "start_ms": 646789,
+    "end_ms": 658198,
+    "duration_ms": 11409,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 658.198,
+    "text": "And so he can get a measure of individual differences between how deep, how pronounced is that sulcus from one individual to another.",
+    "start_ms": 658198,
+    "end_ms": 666517,
+    "duration_ms": 8319,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 666.517,
+    "text": "Remember, if it's deeper, you're probably gonna have greater likelihood of having more neurons because that's what these sulci are all about, increasing the surface area.",
+    "start_ms": 666517,
+    "end_ms": 674957,
+    "duration_ms": 8440,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 674.957,
+    "text": "And again, this particular study found not only is there this variation that you could identify from one person to the next, but it was positively correlated with a person's kind of immediate memory span, or what we call working memory.",
+    "start_ms": 674957,
+    "end_ms": 687637,
+    "duration_ms": 12680,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 687.637,
+    "text": "Something that's really fluid about, you know, how do you keep track of what you're doing right now?",
+    "start_ms": 687637,
+    "end_ms": 691277,
+    "duration_ms": 3640,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 691.277,
+    "text": "How do you keep track of what I said a minute ago and integrate it with what I say right now?",
+    "start_ms": 691277,
+    "end_ms": 696157,
+    "duration_ms": 4880,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 696.157,
+    "text": "So here again, this is sort of a new way of kind of looking at what he calls cognitive neuroanatomy, saying we can take new tools, do this high-resolution imaging, really take advantage of the fact that there's this individual variation, and now ask about individual variation in some parts of the brain, are they correlated with one type of cognitive ability?",
+    "start_ms": 696157,
+    "end_ms": 714838,
+    "duration_ms": 18681,
+    "word_count": 62,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 714.838,
+    "text": "And you can look at the same kind of question he does in the back of the brain to ask about other types of cognitive ability, say ones related to perception.",
+    "start_ms": 714838,
+    "end_ms": 722197,
+    "duration_ms": 7359,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 722.197,
+    "text": "So I think this is where people are really going in terms of asking about, within a species, how can we account for variation in brain anatomy and how that might relate to things like cognition?",
+    "start_ms": 722197,
+    "end_ms": 733038,
+    "duration_ms": 10841,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 734.177,
+    "text": "Okay, so what I really wanna switch our attention to today is, okay, we've talked now, we've got the basics of anatomy, we've got the gray matter, we've got this big cerebral cortex here, we've got the subcortex sitting underneath it.",
+    "start_ms": 734177,
+    "end_ms": 745877,
+    "duration_ms": 11700,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 745.877,
+    "text": "I've told you that it's all composed of, you know, the neurons are in the gray matter, we have all the connections in the white matter.",
+    "start_ms": 745877,
+    "end_ms": 752057,
+    "duration_ms": 6180,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 752.057,
+    "text": "It's this one continuous sheet, the cerebral cortex, right? There's no like breaks or anything, it just gets buried in the soul side and so forth.",
+    "start_ms": 752057,
+    "end_ms": 760898,
+    "duration_ms": 8841,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 760.898,
+    "text": "But still, we know that all the brain isn't like one homogeneous structure, there's some variation.",
+    "start_ms": 760898,
+    "end_ms": 766737,
+    "duration_ms": 5839,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 766.737,
+    "text": "And so today I wanna just talk about how do we map out the different functional or anatomical regions of the brain?",
+    "start_ms": 766737,
+    "end_ms": 773337,
+    "duration_ms": 6600,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 773.337,
+    "text": "How do we make sense of, we have these billions of neurons, how do we put some sort of order or understanding about how the brain is organized and so forth?",
+    "start_ms": 773337,
+    "end_ms": 781818,
+    "duration_ms": 8481,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 781.818,
+    "text": "And again, this question always falls back on the message that we use.",
+    "start_ms": 781818,
+    "end_ms": 785378,
+    "duration_ms": 3560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 785.378,
+    "text": "The methods we use are gonna dictate the kinds of answers we get.",
+    "start_ms": 785378,
+    "end_ms": 788938,
+    "duration_ms": 3560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 788.938,
+    "text": "So I wanna briefly talk about some of the different methods we might use to map out the cortex.",
+    "start_ms": 788938,
+    "end_ms": 794137,
+    "duration_ms": 5199,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 794.137,
+    "text": "And of course, one would be neuroanatomical methods, okay? That is neuroanatomical, we're gonna look at neurons themselves, the basic building blocks of the nervous system.",
+    "start_ms": 794137,
+    "end_ms": 804537,
+    "duration_ms": 10400,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 804.537,
+    "text": "And we have this very fancy word here, cytoarchitectonic, we can just break it up.",
+    "start_ms": 804537,
+    "end_ms": 809977,
+    "duration_ms": 5440,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 809.977,
+    "text": "Cyto basically means cell, architecture means the architecture, and tonic is like the structure of the architecture.",
+    "start_ms": 809977,
+    "end_ms": 817578,
+    "duration_ms": 7601,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 817.578,
+    "text": "So cytoarchitectonic map is gonna be a way of dividing up the brain based on variation in the cell structure, or more important within the cerebral cortex, it's gonna be about variation in the cell density.",
+    "start_ms": 817578,
+    "end_ms": 832078,
+    "duration_ms": 14500,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 832.078,
+    "text": "What do I mean by that? So if we now take a cross-section through the gray matter, so imagine that this is, like I said, it's just that ribbon.",
+    "start_ms": 832078,
+    "end_ms": 842298,
+    "duration_ms": 10220,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 842.298,
+    "text": "If we took a cross-section and looked at that ribbon, what you'll notice in the cerebral cortex, or the mammalian cortex, is that it's usually composed of six distinct layers.",
+    "start_ms": 842298,
+    "end_ms": 852977,
+    "duration_ms": 10679,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 852.977,
+    "text": "And what do I mean by layers? Well, layers, you can see that if you look here at this cross-section, each of these black dots represents a stained cell body of a neuron.",
+    "start_ms": 852977,
+    "end_ms": 863458,
+    "duration_ms": 10481,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 863.458,
+    "text": "And so you see that there's a lot of neurons down here in layer four, very dense label, much sparser label up here, say, in layer five, and inferior parts of layer six.",
+    "start_ms": 863458,
+    "end_ms": 875697,
+    "duration_ms": 12239,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 875.697,
+    "text": "So you can see across the, that's how we come up with the six layers, is that there's this variation in the density of the neurons.",
+    "start_ms": 875697,
+    "end_ms": 883257,
+    "duration_ms": 7560,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 884.617,
+    "text": "It's not always six layers. In some parts of the human brain, especially some of the more older parts, phylogenetically older parts, there might only be three layers.",
+    "start_ms": 884617,
+    "end_ms": 893018,
+    "duration_ms": 8401,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 893.018,
+    "text": "Like, for instance, here's a cross-section through the hippocampus, okay, going from the outer edge, again, towards the more inferior parts.",
+    "start_ms": 893018,
+    "end_ms": 901137,
+    "duration_ms": 8119,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 901.137,
+    "text": "And here, I've just labeled that, again, in terms of cell density, we clearly see there's a change from where I've labeled one to label two to label three.",
+    "start_ms": 901137,
+    "end_ms": 910278,
+    "duration_ms": 9141,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 910.278,
+    "text": "And again, this is just a label of cell bodies, and so we're just seeing this variation.",
+    "start_ms": 910278,
+    "end_ms": 917437,
+    "duration_ms": 7159,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 917.437,
+    "text": "But now, if we actually look across that whole ribbon of the cerebral cortex, what we'll see is that as six layers, there's gonna be variation as I move across the cortex.",
+    "start_ms": 917437,
+    "end_ms": 929377,
+    "duration_ms": 11940,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 929.377,
+    "text": "So this is just looking at a few different places in the cortex.",
+    "start_ms": 929377,
+    "end_ms": 932358,
+    "duration_ms": 2981,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 932.358,
+    "text": "Here's the motor cortex. The striate cortex is way at the back of the brain, or the parietal cortex over here, up in this part.",
+    "start_ms": 932358,
+    "end_ms": 940657,
+    "duration_ms": 8299,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 940.657,
+    "text": "This is just taking cross-section looks at that six-layer structure, and what you see is that there's actually pretty dramatic differences in terms of the cell density.",
+    "start_ms": 940657,
+    "end_ms": 950217,
+    "duration_ms": 9560,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 950.217,
+    "text": "So the motor cortex is fairly homogeneous. It's really hard to see the six layers there because there's very little variation.",
+    "start_ms": 950217,
+    "end_ms": 957898,
+    "duration_ms": 7681,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 957.898,
+    "text": "Striate cortex, we can see there's a very strong band here in this middle layer, very sparse in the deep layer, and parietal looks a lot like the striate cortex and so forth.",
+    "start_ms": 957898,
+    "end_ms": 968458,
+    "duration_ms": 10560,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 968.276,
+    "text": "So what anatomists have done, going back over a hundred years, is they basically, here's that ribbon of the cortex, right?",
+    "start_ms": 968276,
+    "end_ms": 975276,
+    "duration_ms": 7000,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 975.276,
+    "text": "Here's a gyrus, here's a sulcus down here, and they basically said, we're just going to move across that ribbon, and wherever I see a change in cell density, and they were just doing it by visualization, I'm going to call that one area that's distinct from another area.",
+    "start_ms": 975276,
+    "end_ms": 993397,
+    "duration_ms": 18121,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 993.397,
+    "text": "I'm going to assume that there's some maybe functional difference, but again it's an anatomical method, between this area and that area, and this is a method that was made famous.",
+    "start_ms": 993397,
+    "end_ms": 1002277,
+    "duration_ms": 8880,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1002.277,
+    "text": "So you can see right here, we're looking at the cell density, what's labeled area 18, back here in 17, the claim is that there's a marked difference in the cell density between one, at this border point here, there's a transition there from one type of thing, and so basically, this guy Brodman basically said, okay, I'm going to do this for the whole brain, doing this in the year 1905, he published this paper in 1905, I don't know how long it took him, he just said, I'm going to start at the central sulcus, I'm going to go right behind it, and I'm going to call that area one, and then I'm going to keep moving back until I find a change in the cell density, I'm going to call that area two, I'm going to go further back, I'm going to call whenever I see a change, I'm going to call that area three, then for whatever reason he said, maybe now I'll start going forward, because he's got to go in different directions, and basically, this is his original picture, here's sort of a more modern schematic of it, frequently you'll read papers, they'll talk about Brodman area four, primary motor cortex, or Brodman area 46, there's basically about 53 distinct areas, all of these are defined as being distinct cytoarchitectonic structure from their neighbors, and that's basically how this map comes about, so there's nothing in that map per se about function, it's just a purely neuroanatomical map, but it says that at least, you know, using his method, you can see 53 distinct cytoarchitectonic structures, it doesn't mean there's actually 53 different ones, it just means there's always a neighbor, there's a border that separates things into 53 transition zones.",
+    "start_ms": 1002277,
+    "end_ms": 1102596,
+    "duration_ms": 100319,
+    "word_count": 297,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1102.596,
+    "text": "This method can be quite useful, because again, I can now actually, with cytoarchitectonics can sort of lay out the structure, that's looking at the gray matter, but I can also look at the white matter, right, if I have good techniques, I can say, if I inject some sort of tracer at this part of the brain, where does it connect up to, so I can make projection maps by kind of tracking the white matter tracks from one place to another.",
+    "start_ms": 1102596,
+    "end_ms": 1127436,
+    "duration_ms": 24840,
+    "word_count": 83,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1127.436,
+    "text": "Now most of the white matter, most of the axons are projecting very locally, but there's certainly some that are projecting over large distances, so here we're basically going to build a wiring diagram.",
+    "start_ms": 1127436,
+    "end_ms": 1139436,
+    "duration_ms": 12000,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1139.436,
+    "text": "To do that, we have to be able to label both the cell bodies, or we have to be able to label the axons and the processes, so let's just get ourselves oriented, this is just showing four different staining techniques, these are different dyes that are injected and tend to have some sort of property that allows them to be absorbed into the neural tissue, so you get this visualization.",
+    "start_ms": 1139436,
+    "end_ms": 1161716,
+    "duration_ms": 22280,
+    "word_count": 71,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1161.716,
+    "text": "Four different dyes, they give you four very different pictures of the anatomy, and I'll make this a multiple choice one, so what did I say, quiz?",
+    "start_ms": 1161716,
+    "end_ms": 1174156,
+    "duration_ms": 12440,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1174.156,
+    "text": "Why did it do that? I don't want it to quiz, I guess, what do I want, I do a poll, right, a poll, multiple choice, go.",
+    "start_ms": 1174156,
+    "end_ms": 1182997,
+    "duration_ms": 8841,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1199.397,
+    "text": "Okay, Lori's relieved to see the first numbers coming in.",
+    "start_ms": 1199397,
+    "end_ms": 1202397,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1205.156,
+    "text": "All right, so ten more seconds. All right, three, two, one, go.",
+    "start_ms": 1205156,
+    "end_ms": 1234156,
+    "duration_ms": 29000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1235.156,
+    "text": "Let's see what you say. All right, so the question is, which one of these images does not show label in the soma, and the majority of you said B, and some of you said the second most popular answer was E, okay, so let me stop that and hide that, how do I hide that again?",
+    "start_ms": 1235156,
+    "end_ms": 1257156,
+    "duration_ms": 22000,
+    "word_count": 57,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1257.156,
+    "text": "All right, so most people said B, okay, so B is certainly right here, it's very easy that these seem to be clearly marked cells, but notice there, you can see that soma right in the center, but then you have all these processes extending, so I guess what people are saying is B probably isn't labeling neurons, and I should have made that clear.",
+    "start_ms": 1257156,
+    "end_ms": 1277556,
+    "duration_ms": 20400,
+    "word_count": 65,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1277.556,
+    "text": "B, all of these are things that are absorbed by neurons, so actually the correct answer here is all of these are actually labeling the soma, or E would have been the correct answer.",
+    "start_ms": 1277556,
+    "end_ms": 1286757,
+    "duration_ms": 9201,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1286.696,
+    "text": "the correct answer. The thing that's special about the nissl stain is that it only labels cell bodies.",
+    "start_ms": 1286696,
+    "end_ms": 1292115,
+    "duration_ms": 5419,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1292.115,
+    "text": "It actually doesn't spread into the dendrites or into the axons.",
+    "start_ms": 1292115,
+    "end_ms": 1296595,
+    "duration_ms": 4480,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1296.595,
+    "text": "So the nissl stain is actually what was used in the earlier work.",
+    "start_ms": 1296595,
+    "end_ms": 1300955,
+    "duration_ms": 4360,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1302.355,
+    "text": "In this kind of work here, they're typically using something like a nissl stain because it's absorbed by almost every single neuron or a large percentage of the neurons.",
+    "start_ms": 1302355,
+    "end_ms": 1312096,
+    "duration_ms": 9741,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1312.096,
+    "text": "So you get this very dense picture here of the label because of course there's billions and billions of neurons that are jammed in together.",
+    "start_ms": 1312096,
+    "end_ms": 1319436,
+    "duration_ms": 7340,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1319.436,
+    "text": "The Golgi stain has some really strange property. You inject that, it's absorbed not only by the cell body and also spreads throughout the processes, throughout the dendritic arbor.",
+    "start_ms": 1319436,
+    "end_ms": 1330855,
+    "duration_ms": 11419,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1330.855,
+    "text": "But for whatever reason, it's only absorbed by about one out of every hundred neurons.",
+    "start_ms": 1330855,
+    "end_ms": 1335576,
+    "duration_ms": 4721,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1336.096,
+    "text": "Most neurons it doesn't penetrate through on chance that it does about 1% of the cells, which is really nice because you get a very clear picture of a single neuron despite the fact that, of course, it's surrounded by lots of neurons with all their sorts of dendrites interwoven with one another.",
+    "start_ms": 1336096,
+    "end_ms": 1350855,
+    "duration_ms": 14759,
+    "word_count": 53,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1351.815,
+    "text": "I don't know what this is all about, but I will cancel that.",
+    "start_ms": 1351815,
+    "end_ms": 1354936,
+    "duration_ms": 3121,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1355.855,
+    "text": "All right, so that's what I said here. There's different ways.",
+    "start_ms": 1355855,
+    "end_ms": 1359135,
+    "duration_ms": 3280,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1359.135,
+    "text": "Some tracers are picked up by the axons in our retrograde transporter.",
+    "start_ms": 1359135,
+    "end_ms": 1365055,
+    "duration_ms": 5920,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1365.495,
+    "text": "That is, they go backwards, so they only get absorbed if the axons and then move their way back to the soma and then move their way back up to the dendrites.",
+    "start_ms": 1365495,
+    "end_ms": 1373455,
+    "duration_ms": 7960,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1373.455,
+    "text": "Others are anterograde transporters. Here's an example about how I can do, use one of these tracers to sort of build a projection map.",
+    "start_ms": 1373455,
+    "end_ms": 1383175,
+    "duration_ms": 9720,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1383.175,
+    "text": "So this is a very basic question. I mean, people knew the answer here, but it was just demonstrating the power of the method to build these maps.",
+    "start_ms": 1383175,
+    "end_ms": 1390735,
+    "duration_ms": 7560,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1390.735,
+    "text": "The basic question is we know there's a part of the, right sitting below the cerebral cortex, there's a large structure called the thalamus.",
+    "start_ms": 1390735,
+    "end_ms": 1397616,
+    "duration_ms": 6881,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1397.616,
+    "text": "It's frequently referred to as a relay station of getting information from the periphery up to the cerebral cortex.",
+    "start_ms": 1397616,
+    "end_ms": 1403815,
+    "duration_ms": 6199,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1403.815,
+    "text": "I'm sure it does much more than that. But here they basically wanted to ask, we know that visual information is gonna pass through the thalamus on the way up to the cerebral cortex.",
+    "start_ms": 1403815,
+    "end_ms": 1414596,
+    "duration_ms": 10781,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1414.596,
+    "text": "The question they wanted to ask here is, does it go directly from the receptors in the eye up to the thalamus, or is there a relay station between the two of them?",
+    "start_ms": 1414596,
+    "end_ms": 1423816,
+    "duration_ms": 9220,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1423.816,
+    "text": "And so the way they did that is they said, let's do an injection into the thalamus.",
+    "start_ms": 1423816,
+    "end_ms": 1428876,
+    "duration_ms": 5060,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1428.876,
+    "text": "That's what's shown here. This is just a slice of the rat brain here, and this basically showing the label where it was injected into the thalamus.",
+    "start_ms": 1428876,
+    "end_ms": 1438335,
+    "duration_ms": 9459,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1438.335,
+    "text": "And then what they did is they extract the eye.",
+    "start_ms": 1438335,
+    "end_ms": 1440296,
+    "duration_ms": 1961,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1440.296,
+    "text": "So this is all post-mortem work that they're doing here.",
+    "start_ms": 1440296,
+    "end_ms": 1443096,
+    "duration_ms": 2800,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1443.096,
+    "text": "They're gonna extract the eye, the retina. They're gonna flatten it out, and they're basically gonna magnify it and say, do we see any of this retrograde transport, this horseradish peroxidase, in the retina?",
+    "start_ms": 1443096,
+    "end_ms": 1454335,
+    "duration_ms": 11239,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1454.335,
+    "text": "If we do, that means there's a direct projection from the retina to the thalamus.",
+    "start_ms": 1454335,
+    "end_ms": 1459576,
+    "duration_ms": 5241,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1459.576,
+    "text": "If we don't see it, it means that there must have been a relay station because the horseradish peroxidase doesn't cross the synapse.",
+    "start_ms": 1459576,
+    "end_ms": 1466876,
+    "duration_ms": 7300,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1466.876,
+    "text": "It just gets picked up by the axons. And as you can see here, quite clearly, there's massive label in the retina right here.",
+    "start_ms": 1466876,
+    "end_ms": 1474176,
+    "duration_ms": 7300,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1474.176,
+    "text": "All these little black labels are some of that tracer having worked its way back up to cell bodies that are in the retina and sending their axons that are gonna terminate in the thalamus.",
+    "start_ms": 1474176,
+    "end_ms": 1485076,
+    "duration_ms": 10900,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1487.096,
+    "text": "And again, you can do that sort of thing. It really works well from looking at how does the peripheral information get projected up into, say, the thalamus?",
+    "start_ms": 1487096,
+    "end_ms": 1495895,
+    "duration_ms": 8799,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1495.895,
+    "text": "How is the thalamus organized? We can do the same thing.",
+    "start_ms": 1495895,
+    "end_ms": 1498936,
+    "duration_ms": 3041,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1498.936,
+    "text": "We can use an intragrade tracer in the thalamus to ask where does information go into the cerebral cortex, or we can put a retrograde tracer in the cerebral cortex and ask where it's coming from in the thalamus and so forth.",
+    "start_ms": 1498936,
+    "end_ms": 1512456,
+    "duration_ms": 13520,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1512.456,
+    "text": "So you can get all sorts of pictures here. Here's a particular projection map showing that if we do, it's not monosynaptic.",
+    "start_ms": 1512456,
+    "end_ms": 1519456,
+    "duration_ms": 7000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1519.456,
+    "text": "It's not from the ears directly to the auditory part of the brain.",
+    "start_ms": 1519456,
+    "end_ms": 1524796,
+    "duration_ms": 5340,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1524.796,
+    "text": "But if we do this procedure multiple times, we would find that basically input in from the, that's leaving the ears where the auditory nerve is gonna end up in this part of the cerebral cortex.",
+    "start_ms": 1524796,
+    "end_ms": 1535976,
+    "duration_ms": 11180,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1535.976,
+    "text": "Where is my little mouse? This part here. Information from the eyes, vision, is gonna end up back here.",
+    "start_ms": 1535976,
+    "end_ms": 1545835,
+    "duration_ms": 9859,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1545.835,
+    "text": "From the touch, it's gonna end up back here, and the motor regions are gonna project out from here.",
+    "start_ms": 1545835,
+    "end_ms": 1550536,
+    "duration_ms": 4701,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1550.536,
+    "text": "So we can build these projection maps. The problem with projection maps is that they really fall apart very quickly.",
+    "start_ms": 1550536,
+    "end_ms": 1557136,
+    "duration_ms": 6600,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1557.136,
+    "text": "It's not gonna, because I said that there's lots and lots of connectivity.",
+    "start_ms": 1557136,
+    "end_ms": 1560916,
+    "duration_ms": 3780,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1560.916,
+    "text": "Any given neuron is just really a few synapses away from every other neuron.",
+    "start_ms": 1560916,
+    "end_ms": 1565876,
+    "duration_ms": 4960,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1565.876,
+    "text": "So we couldn't make a very complete or very cohesive map of the cerebral cortex by doing the sort of tracing from one place to another, because there's gonna be all this branching, all this divergence.",
+    "start_ms": 1565876,
+    "end_ms": 1578876,
+    "duration_ms": 13000,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1578.876,
+    "text": "But there are interesting methods that have been developed that do polysynaptic tracing.",
+    "start_ms": 1578876,
+    "end_ms": 1584156,
+    "duration_ms": 5280,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1584.156,
+    "text": "And for whatever reason, these tend to be these viruses that are really dangerous.",
+    "start_ms": 1584156,
+    "end_ms": 1587756,
+    "duration_ms": 3600,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1587.756,
+    "text": "Herpes and the rabies virus. The rabies virus is the number one choice that it has this interesting property that'll be taken up.",
+    "start_ms": 1587756,
+    "end_ms": 1595356,
+    "duration_ms": 7600,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1595.835,
+    "text": "It's a retrograde tracer, so it's gonna be absorbed in an axon, make its way back to the soma, spread through the dendrite, and then it's actually gonna be checked out into the synapse.",
+    "start_ms": 1595835,
+    "end_ms": 1606555,
+    "duration_ms": 10720,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1606.414,
+    "text": "again and picked up by the next axon, and that process will propagate.",
+    "start_ms": 1606414,
+    "end_ms": 1611355,
+    "duration_ms": 4941,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1611.355,
+    "text": "And basically, roughly, it depends on the distance you're looking at, but you might think about that basically it's one synapse every 24 hours.",
+    "start_ms": 1611355,
+    "end_ms": 1619354,
+    "duration_ms": 7999,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1619.354,
+    "text": "And so here's just one example where they wanted to ask, well, we know that the cerebellum is really important for motor coordination, and it's a big structure, and we want to see, is basically all the cerebellar output gonna end up in the primary motor cortex, or are some parts of the cerebellum going to the motor cortex, and other parts of the cerebellum going to other places in the brain?",
+    "start_ms": 1619354,
+    "end_ms": 1644075,
+    "duration_ms": 24721,
+    "word_count": 72,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1644.075,
+    "text": "So we want to map out, where does this, how does the cerebellum connect up with the cerebral cortex?",
+    "start_ms": 1644075,
+    "end_ms": 1649194,
+    "duration_ms": 5119,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1649.194,
+    "text": "And there's basically about three or four synapses between the cerebellum and the cortex, so that's why they wanted to use this polysynaptic, meaning crossing many synapses, tracer.",
+    "start_ms": 1649194,
+    "end_ms": 1659834,
+    "duration_ms": 10640,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1659.834,
+    "text": "So again, the way it works, inject it in the motor cortex.",
+    "start_ms": 1659834,
+    "end_ms": 1663475,
+    "duration_ms": 3641,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1663.475,
+    "text": "It's a retrograde tracer, so that's gonna go back to the thalamus and so forth.",
+    "start_ms": 1663475,
+    "end_ms": 1668295,
+    "duration_ms": 4820,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1668.295,
+    "text": "That's gonna go back into these DCN, the deep nuclei within the cerebellum, and eventually back into the cerebellar cortex, okay?",
+    "start_ms": 1668295,
+    "end_ms": 1677174,
+    "duration_ms": 8879,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1677.174,
+    "text": "That's what's shown down here. And what they're doing here is they're showing, basically, when I do that injection, this is all the parts of the cerebellum, this is just sort of a flattened view of the cerebellum, basically showing that, well, there is a lot of label, so clearly the motor cortex is receiving a lot of input from the cerebellum, but actually, that input is restricted to only a few different regions of the cerebellum.",
+    "start_ms": 1677174,
+    "end_ms": 1701835,
+    "duration_ms": 24661,
+    "word_count": 77,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1701.835,
+    "text": "There's large parts of the cerebellum that have no connection to the primary motor cortex.",
+    "start_ms": 1701835,
+    "end_ms": 1706155,
+    "duration_ms": 4320,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1706.155,
+    "text": "And in fact, what they did in subsequent experiments is that they did that same procedure, but now rather than doing the injection into the primary motor cortex, they did it into the prefrontal cortex.",
+    "start_ms": 1706155,
+    "end_ms": 1719094,
+    "duration_ms": 12939,
+    "word_count": 35,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1719.094,
+    "text": "Other studies into the parietal lobe, et cetera. What they see here is what was really kind of an unexpected and interesting result is that there's some parts of the cerebellum that are only projecting to the prefrontal cortex, areas that don't seem to have a strong connection to motor control, or at least don't have anything to do with the actual production of movement.",
+    "start_ms": 1719094,
+    "end_ms": 1739355,
+    "duration_ms": 20261,
+    "word_count": 65,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1739.355,
+    "text": "They seem to be very distinct from the areas that are actually projecting to the motor cortex.",
+    "start_ms": 1739355,
+    "end_ms": 1744434,
+    "duration_ms": 5079,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1744.434,
+    "text": "So there seems to be different sub-regions of the cerebellum that are connected up with different parts of the cerebral cortex, and that's led to lots of thinking about what might those non-motor parts of the cerebellum be involved in.",
+    "start_ms": 1744434,
+    "end_ms": 1757755,
+    "duration_ms": 13321,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1757.755,
+    "text": "But all this, again, coming from projection maps using very sophisticated tracing techniques.",
+    "start_ms": 1757755,
+    "end_ms": 1763794,
+    "duration_ms": 6039,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1764.794,
+    "text": "All right, so that's one class of methods, the anatomical ones.",
+    "start_ms": 1764794,
+    "end_ms": 1768635,
+    "duration_ms": 3841,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1768.635,
+    "text": "But functionally, people have looked at other ways to look at things, and in particular, looking at physiological methods, because here we can really emphasize the function.",
+    "start_ms": 1768635,
+    "end_ms": 1777275,
+    "duration_ms": 8640,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1777.275,
+    "text": "We can ask what makes neurons in one part of the brain become activated, or what happens if we activate neurons in one part of the brain compared to activated neurons in a different part of the brain.",
+    "start_ms": 1777275,
+    "end_ms": 1788895,
+    "duration_ms": 11620,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1788.895,
+    "text": "So that's what I mean by physiological methods are going to have much more of an emphasis directly on function.",
+    "start_ms": 1788895,
+    "end_ms": 1796355,
+    "duration_ms": 7460,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1796.355,
+    "text": "Neurons are triggered, right, as they're these neurochemical events. But if you write it gets initiated by a change in the membrane potential, the neuron will trigger an action potential, will cause that cascade, the transmitter release, et cetera, to come about.",
+    "start_ms": 1796355,
+    "end_ms": 1811755,
+    "duration_ms": 15400,
+    "word_count": 42,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1811.755,
+    "text": "Of course, usually this is occurring because of these endogenous changes, those EPA excitatory little changes and inhibitory changes across the synapse.",
+    "start_ms": 1811755,
+    "end_ms": 1821434,
+    "duration_ms": 9679,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1821.434,
+    "text": "So I, as an experimenter, can come in there, and I can actually apply an electrical charge outside the neuron and change that membrane potential.",
+    "start_ms": 1821434,
+    "end_ms": 1829475,
+    "duration_ms": 8041,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1829.475,
+    "text": "So if I actually electrically stimulate the brain, I will cause a bunch of neurons to fire, and I can do that experiment.",
+    "start_ms": 1829475,
+    "end_ms": 1835915,
+    "duration_ms": 6440,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1835.915,
+    "text": "I can say, if I actually activate the neurons in this part of the brain, what happens behaviorally?",
+    "start_ms": 1835915,
+    "end_ms": 1842395,
+    "duration_ms": 6480,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1842.395,
+    "text": "And some of this work was done in the 18th century, you know, in species like frogs, but it actually became very common or part of clinical tools in the 1940s and 1950s in human research as neurosurgeons developed methods to go into the brain.",
+    "start_ms": 1842395,
+    "end_ms": 1860275,
+    "duration_ms": 17880,
+    "word_count": 45,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1860.275,
+    "text": "They were going into the brain for different purposes. Some of it was things like frontal lobotomy.",
+    "start_ms": 1860275,
+    "end_ms": 1865234,
+    "duration_ms": 4959,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1865.234,
+    "text": "Some of it was to treat epilepsy and so forth.",
+    "start_ms": 1865234,
+    "end_ms": 1868595,
+    "duration_ms": 3361,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1868.595,
+    "text": "When they're in there, then, they could apply electrical stimulation.",
+    "start_ms": 1868595,
+    "end_ms": 1872474,
+    "duration_ms": 3879,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1872.474,
+    "text": "And there was some classic work that became very clear right away.",
+    "start_ms": 1872474,
+    "end_ms": 1875694,
+    "duration_ms": 3220,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1875.694,
+    "text": "If you stimulate on the primary motor cortex, so just in front of the central sulcus, you actually elicit movement.",
+    "start_ms": 1875694,
+    "end_ms": 1884294,
+    "duration_ms": 8600,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1884.294,
+    "text": "So if I stimulate there, if I apply a little electrical charge, the person's hand will move.",
+    "start_ms": 1884294,
+    "end_ms": 1889375,
+    "duration_ms": 5081,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1889.375,
+    "text": "Or if I stimulate another part of the motor cortex, I'll get their whole arm to move or I might get the leg to move.",
+    "start_ms": 1889375,
+    "end_ms": 1894395,
+    "duration_ms": 5020,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1894.395,
+    "text": "So you can see now, I can already build up.",
+    "start_ms": 1894395,
+    "end_ms": 1896474,
+    "duration_ms": 2079,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1896.474,
+    "text": "This part of the brain seems to be very strongly connected to the muscles.",
+    "start_ms": 1896474,
+    "end_ms": 1900055,
+    "duration_ms": 3581,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1900.055,
+    "text": "Moreover, there seems to be some systematic relationship between where I stimulate in the motor cortex and what the person does.",
+    "start_ms": 1900055,
+    "end_ms": 1908615,
+    "duration_ms": 8560,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1908.615,
+    "text": "It's a strange feeling to be making movement when you didn't will yourself to make that movement.",
+    "start_ms": 1908615,
+    "end_ms": 1913294,
+    "duration_ms": 4679,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1913.294,
+    "text": "We'll see that next week. On the other hand, if I do that same experiment, but now move my electrode to just in back of the central sulcus, so now I'm at the very front part of the parietal lobe.",
+    "start_ms": 1913294,
+    "end_ms": 1926134,
+    "duration_ms": 12840,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1926.082,
+    "text": "lobe. I do the same thing. Now you don't elicit any movement at all.",
+    "start_ms": 1926082,
+    "end_ms": 1930374,
+    "duration_ms": 4292,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1930.374,
+    "text": "What you actually have is the person says, wow, I feel like you were just touching my face, or it felt like someone was pulling my arm out.",
+    "start_ms": 1930374,
+    "end_ms": 1938074,
+    "duration_ms": 7700,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1938.074,
+    "text": "So you go from having these sort of motor responses being elicited to actually these sensory experiences.",
+    "start_ms": 1938074,
+    "end_ms": 1944873,
+    "duration_ms": 6799,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1944.873,
+    "text": "And there was a very tight correspondence between what kind of motor activation you got and the sensory experience you had if you went across the central sulcus there.",
+    "start_ms": 1944873,
+    "end_ms": 1955574,
+    "duration_ms": 10701,
+    "word_count": 29,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1955.574,
+    "text": "So there's some sort of organization between the two. This is just kind of showing, this is actually commonly done in neurosurgery now.",
+    "start_ms": 1955574,
+    "end_ms": 1963574,
+    "duration_ms": 8000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1963.574,
+    "text": "This is showing a grid of electrodes placed on top of cerebral cortex.",
+    "start_ms": 1963574,
+    "end_ms": 1968574,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1968.574,
+    "text": "They're actually going to be using most of these electrodes to record the activity.",
+    "start_ms": 1968574,
+    "end_ms": 1973574,
+    "duration_ms": 5000,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1973.574,
+    "text": "They're actually interested in trying to figure out how is the epileptic activity originating?",
+    "start_ms": 1973574,
+    "end_ms": 1978774,
+    "duration_ms": 5200,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1978.774,
+    "text": "But while that grid's in place, they can do experiments like turn on the electrodes as a way to stimulate the brain to ask questions about behavior.",
+    "start_ms": 1978774,
+    "end_ms": 1986773,
+    "duration_ms": 7999,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1986.773,
+    "text": "Now the limitation here is that if you actually do this procedure over most of the brain, nothing happens, or at least the person has no phenomenal experience.",
+    "start_ms": 1986773,
+    "end_ms": 1996773,
+    "duration_ms": 10000,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 1996.773,
+    "text": "So you're activating a bunch of neurons. I can do it up here.",
+    "start_ms": 1996773,
+    "end_ms": 2000773,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2000.773,
+    "text": "I can activate a bunch of neurons in the frontal lobe.",
+    "start_ms": 2000773,
+    "end_ms": 2002773,
+    "duration_ms": 2000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2002.773,
+    "text": "I can do it back here. It's done sort of in visual areas and so forth.",
+    "start_ms": 2002773,
+    "end_ms": 2006974,
+    "duration_ms": 4201,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2006.974,
+    "text": "But for the most part, you say to the person, tell me when the stimulus is on versus off.",
+    "start_ms": 2006974,
+    "end_ms": 2011974,
+    "duration_ms": 5000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2011.974,
+    "text": "They can't tell the difference between the two of them.",
+    "start_ms": 2011974,
+    "end_ms": 2014974,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2014.974,
+    "text": "On occasion, there are places where people might have like, oh, I felt like I saw a face, or I saw some strange shapes, and so forth.",
+    "start_ms": 2014974,
+    "end_ms": 2021974,
+    "duration_ms": 7000,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2021.974,
+    "text": "But for the most part, when you stimulate a part of the brain, you actually don't have any sort of coherent experience.",
+    "start_ms": 2021974,
+    "end_ms": 2027974,
+    "duration_ms": 6000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2027.974,
+    "text": "It might seem puzzling, because this is where experience probably comes from.",
+    "start_ms": 2027974,
+    "end_ms": 2031974,
+    "duration_ms": 4000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2032.173,
+    "text": "But on the other hand, when I apply this electrical stimulation, it's kind of an incoherent pattern that I'm generating.",
+    "start_ms": 2032173,
+    "end_ms": 2038173,
+    "duration_ms": 6000,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2038.173,
+    "text": "And probably, you know, to have a real conscious experience of something, I probably need a much more coherent pattern of activity, rather than just randomly turning on a bunch of neurons.",
+    "start_ms": 2038173,
+    "end_ms": 2048174,
+    "duration_ms": 10001,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2050.174,
+    "text": "Yeah, I already told you about this, that you can get these sorts of motor maps here.",
+    "start_ms": 2050174,
+    "end_ms": 2054174,
+    "duration_ms": 4000,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2054.174,
+    "text": "This is the picture of the motor map. This is the most medial part, where you have the leg.",
+    "start_ms": 2054174,
+    "end_ms": 2058174,
+    "duration_ms": 4000,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2058.174,
+    "text": "And then it comes across. There's the hand area, down to the face.",
+    "start_ms": 2058174,
+    "end_ms": 2062374,
+    "duration_ms": 4200,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2062.374,
+    "text": "One thing that stands out here, that is, there's a disproportionate representation.",
+    "start_ms": 2062374,
+    "end_ms": 2067374,
+    "duration_ms": 5000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2067.374,
+    "text": "Some parts of the body have much bigger cortical representations than other parts of the body.",
+    "start_ms": 2067374,
+    "end_ms": 2074374,
+    "duration_ms": 7000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2074.374,
+    "text": "And that probably has to do with, you know, what kind of degree of control is required, right?",
+    "start_ms": 2074374,
+    "end_ms": 2079374,
+    "duration_ms": 5000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2079.374,
+    "text": "To be able to speak requires an amazing, precise coordination amongst many, many different muscles.",
+    "start_ms": 2079374,
+    "end_ms": 2085374,
+    "duration_ms": 6000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2085.374,
+    "text": "And that's, of course, so essential for our survival. So the face has really huge representation.",
+    "start_ms": 2085374,
+    "end_ms": 2091574,
+    "duration_ms": 6200,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2091.574,
+    "text": "The same with the fingers and so forth. Whereas the trunk and so forth, you know, we aren't doing that much with our trunks.",
+    "start_ms": 2091574,
+    "end_ms": 2097574,
+    "duration_ms": 6000,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2097.574,
+    "text": "They are important to us and everything. But there isn't a great deal of cortical control.",
+    "start_ms": 2097574,
+    "end_ms": 2102574,
+    "duration_ms": 5000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2102.574,
+    "text": "Basically, one command is going to move this whole structure.",
+    "start_ms": 2102574,
+    "end_ms": 2105574,
+    "duration_ms": 3000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2105.574,
+    "text": "It's kind of locked in place. And we see a similar thing over here, which will reflect the sensitivity of different parts of the body.",
+    "start_ms": 2105574,
+    "end_ms": 2113574,
+    "duration_ms": 8000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2113.773,
+    "text": "Now that's one method that's at a crude level, right?",
+    "start_ms": 2113773,
+    "end_ms": 2119773,
+    "duration_ms": 6000,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2119.773,
+    "text": "To apply this sort of large electrical current. The real breakthrough over the last generation in neuroscience was the development of what they call optogenetics.",
+    "start_ms": 2119773,
+    "end_ms": 2128773,
+    "duration_ms": 9000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2128.773,
+    "text": "It's not work that's done in humans. It's actually some work now being done in primates, but most of it's been done in mice.",
+    "start_ms": 2128773,
+    "end_ms": 2135773,
+    "duration_ms": 7000,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2135.773,
+    "text": "And this is basically, what they're doing is they're genetically altering, say, we'll talk about a mouse here.",
+    "start_ms": 2135773,
+    "end_ms": 2142773,
+    "duration_ms": 7000,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2142.973,
+    "text": "They're modifying the cell so that it's going to express, in addition to all the receptors it typically expresses, it's going to express a light-sensitive channel.",
+    "start_ms": 2142973,
+    "end_ms": 2152973,
+    "duration_ms": 10000,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2152.973,
+    "text": "So that's what the genetic modification is, is that they're going to...",
+    "start_ms": 2152973,
+    "end_ms": 2157973,
+    "duration_ms": 5000,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2157.973,
+    "text": "These so-called opsins, it's going to be a light-activated channel, and then basically the experimenter can control where the opsin is expressed, and then they simply can turn on and off the neurons by turning a light switch on and off.",
+    "start_ms": 2157973,
+    "end_ms": 2173174,
+    "duration_ms": 15201,
+    "word_count": 41,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2173.174,
+    "text": "In some species, the brain's transparent enough that I can do it externally.",
+    "start_ms": 2173174,
+    "end_ms": 2178174,
+    "duration_ms": 5000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2178.174,
+    "text": "Usually, though, they've inserted a light probe and they just turn on this light-emitting diode and it makes all those neurons fire.",
+    "start_ms": 2178174,
+    "end_ms": 2185174,
+    "duration_ms": 7000,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2185.174,
+    "text": "So now they can control when the neurons fire with really great precision, and they can also control where the modification is expressed.",
+    "start_ms": 2185174,
+    "end_ms": 2195174,
+    "duration_ms": 10000,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2195.174,
+    "text": "So I can say I want to manipulate a particular plate.",
+    "start_ms": 2195174,
+    "end_ms": 2198174,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2198.174,
+    "text": "So here's a particular example. They've inserted the light probe and they've done this optogenetics to have actually the expression be in a structure called the amygdala.",
+    "start_ms": 2198174,
+    "end_ms": 2208373,
+    "duration_ms": 10199,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2208.373,
+    "text": "And what I'm just showing down here is each of these white dots represents a moment when they just very, very briefly flash the light.",
+    "start_ms": 2208373,
+    "end_ms": 2216373,
+    "duration_ms": 8000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2216.373,
+    "text": "And what you can see here, the red lines are the spiking activity of the neurons.",
+    "start_ms": 2216373,
+    "end_ms": 2221373,
+    "duration_ms": 5000,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2221.373,
+    "text": "It's that electrical potential. So rising up is basically the generation of an action potential.",
+    "start_ms": 2221373,
+    "end_ms": 2227373,
+    "duration_ms": 6000,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2227.373,
+    "text": "And you can see that there's a really tight coupling here.",
+    "start_ms": 2227373,
+    "end_ms": 2229373,
+    "duration_ms": 2000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2229.574,
+    "text": "They really have amazing control of the activity of the neuron.",
+    "start_ms": 2229574,
+    "end_ms": 2233574,
+    "duration_ms": 4000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2233.574,
+    "text": "Don't turn on the light for a period here. The neuron goes quiet.",
+    "start_ms": 2233574,
+    "end_ms": 2237574,
+    "duration_ms": 4000,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2237.574,
+    "text": "Turn on the light here, here, and here, and boom, you get a single spike each time you turn on that brief flash of light.",
+    "start_ms": 2237574,
+    "end_ms": 2243574,
+    "duration_ms": 6000,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2243.574,
+    "text": "So this is really revolutionized systems. systems neuroscience because now the experimenter has complete control, in some sense, over the activity of neurons.",
+    "start_ms": 2243574,
+    "end_ms": 2252253,
+    "duration_ms": 8679,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2252.253,
+    "text": "So here's one experiment, and we can do an eye clicker on this, we'll try a word cloud, see how that works.",
+    "start_ms": 2252253,
+    "end_ms": 2257793,
+    "duration_ms": 5540,
+    "word_count": 22,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2257.793,
+    "text": "Okay, these are the data, I'm giving you the data.",
+    "start_ms": 2257793,
+    "end_ms": 2259652,
+    "duration_ms": 1859,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2259.652,
+    "text": "They do this experiment, these are your little mice that have been genetically modified.",
+    "start_ms": 2259652,
+    "end_ms": 2265232,
+    "duration_ms": 5580,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2265.232,
+    "text": "This is when the mouse, it's put in this little box here, and when you don't turn on, when you don't activate the neurons, this is what the mouse's behavior looks like.",
+    "start_ms": 2265232,
+    "end_ms": 2276032,
+    "duration_ms": 10800,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2276.032,
+    "text": "And now you turn on the light, okay, and this is what the mouse's behavior looked like.",
+    "start_ms": 2276032,
+    "end_ms": 2281313,
+    "duration_ms": 5281,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2281.313,
+    "text": "Okay, so given those data, okay, just give me two-word phrase that you think describes amygdala function, because that's what you have to do as an experimenter.",
+    "start_ms": 2281313,
+    "end_ms": 2291593,
+    "duration_ms": 10280,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2291.593,
+    "text": "You gotta take the data, and you gotta make an inference about what does the amygdala do, okay?",
+    "start_ms": 2291593,
+    "end_ms": 2297273,
+    "duration_ms": 5680,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2297.273,
+    "text": "What functional contribution does the amygdala make to behavior? So let me do a poll here, and I gotta do it as a word cloud.",
+    "start_ms": 2297273,
+    "end_ms": 2305473,
+    "duration_ms": 8200,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2306.433,
+    "text": "Short answer. All right, go. So just give me a pair of words, let me get two words so that we hopefully get some consensus across individuals.",
+    "start_ms": 2306433,
+    "end_ms": 2321193,
+    "duration_ms": 14760,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2324.833,
+    "text": "Okay. All right, just gonna give you 15 more seconds.",
+    "start_ms": 2324833,
+    "end_ms": 2348193,
+    "duration_ms": 23360,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2354.072,
+    "text": "All right, 13 more seconds, give you a full minute on this one.",
+    "start_ms": 2354072,
+    "end_ms": 2362433,
+    "duration_ms": 8361,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2369.993,
+    "text": "All right, there we go. So let's see, what do people say?",
+    "start_ms": 2369993,
+    "end_ms": 2375273,
+    "duration_ms": 5280,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2375.273,
+    "text": "How do I show this as a word cloud? Word cloud.",
+    "start_ms": 2375273,
+    "end_ms": 2379193,
+    "duration_ms": 3920,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2384.113,
+    "text": "All right, so what do we got here? We got fear is the biggest one, emotional response, processing.",
+    "start_ms": 2384113,
+    "end_ms": 2392872,
+    "duration_ms": 8759,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2392.872,
+    "text": "All right, so how do our mice look? Do they look more fearful when the amygdala's active or less fearful?",
+    "start_ms": 2392872,
+    "end_ms": 2399073,
+    "duration_ms": 6201,
+    "word_count": 20,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2401.312,
+    "text": "More fearful here, okay? I mean, mice, we know mice don't like to venture into the open.",
+    "start_ms": 2401312,
+    "end_ms": 2407452,
+    "duration_ms": 6140,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2407.452,
+    "text": "The open's really dangerous for the mice. They stick to the walls all the time there.",
+    "start_ms": 2407452,
+    "end_ms": 2411392,
+    "duration_ms": 3940,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2411.392,
+    "text": "And you put them in their not natural environment, in their captive environment.",
+    "start_ms": 2411392,
+    "end_ms": 2416232,
+    "duration_ms": 4840,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2416.232,
+    "text": "But for whatever reason, if you activate the amygdala, now the mice, they're reckless.",
+    "start_ms": 2416232,
+    "end_ms": 2421113,
+    "duration_ms": 4881,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2421.113,
+    "text": "They're just charging out into the middle of the maze there.",
+    "start_ms": 2421113,
+    "end_ms": 2423872,
+    "duration_ms": 2759,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2423.872,
+    "text": "Now here's where it gets tricky. What we don't know is how do we interpret the amygdala function?",
+    "start_ms": 2423872,
+    "end_ms": 2428833,
+    "duration_ms": 4961,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2428.833,
+    "text": "It might be that activating these neurons is in a sense burning out the amygdala.",
+    "start_ms": 2428833,
+    "end_ms": 2433993,
+    "duration_ms": 5160,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2433.993,
+    "text": "It doesn't function normally because we've activated a bunch of neurons.",
+    "start_ms": 2433993,
+    "end_ms": 2436993,
+    "duration_ms": 3000,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2436.993,
+    "text": "And now the amygdala isn't functioning normally. It's a noisy operating system because we have this random activation.",
+    "start_ms": 2436993,
+    "end_ms": 2443532,
+    "duration_ms": 6539,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2443.532,
+    "text": "And so it may be that the amygdala really promotes that cautiousness in the rats, in the mice.",
+    "start_ms": 2443532,
+    "end_ms": 2449693,
+    "duration_ms": 6161,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2449.693,
+    "text": "And when we actually overstimulate the amygdala by doing it artificially, now suddenly they lose that sort of natural, fearful response and become reckless in their behavior.",
+    "start_ms": 2449693,
+    "end_ms": 2459613,
+    "duration_ms": 9920,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2460.853,
+    "text": "All right. Oh, we still have answers coming in. Anyhow, you'll see lots and lots of papers if you go into systems neuroscience.",
+    "start_ms": 2460853,
+    "end_ms": 2470573,
+    "duration_ms": 9720,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2470.573,
+    "text": "It's almost a standard tool in many, many papers now up to genetics.",
+    "start_ms": 2470573,
+    "end_ms": 2474133,
+    "duration_ms": 3560,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2475.213,
+    "text": "Now that's on the stimulating side. But on the other hand, really what we can also do is rather than artificially perturb the brain by stimulating it, by turning the neurons on, we can just basically eavesdrop on the brain by listening to what makes neurons active.",
+    "start_ms": 2475213,
+    "end_ms": 2490773,
+    "duration_ms": 15560,
+    "word_count": 47,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2490.773,
+    "text": "We can use those same electrodes, but rather than put a charge into the electrode to activate the neurons, we'll use the electrode as a recording device to constantly monitor the neural activity.",
+    "start_ms": 2490773,
+    "end_ms": 2502092,
+    "duration_ms": 11319,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2502.092,
+    "text": "So we can basically, depending on our resolution, we might be able to listen to the activity of an individual neuron and ask what makes that neuron fire in its natural state, or at least without artificial stimulation.",
+    "start_ms": 2502092,
+    "end_ms": 2516112,
+    "duration_ms": 14020,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2516.112,
+    "text": "And this is really classic work that started in the 1950s earned a Nobel Prize for Hubel and Wiesel in the 1960s doing this sort of experiment.",
+    "start_ms": 2516112,
+    "end_ms": 2525393,
+    "duration_ms": 9281,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2525.393,
+    "text": "So again, this is work, here's an example being done with a monkey.",
+    "start_ms": 2525393,
+    "end_ms": 2529272,
+    "duration_ms": 3879,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2529.272,
+    "text": "The monkey's trained to look at this fixation spot, keep their eyes at a particular spot, a place in the world, and then what they're gonna do is they're simply gonna flash a light, that's what this yellow is, it's flashing a light someplace in the monkey's viewing space.",
+    "start_ms": 2529272,
+    "end_ms": 2545753,
+    "duration_ms": 16481,
+    "word_count": 49,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2545.753,
+    "text": "All right, and they're gonna move that light around and they're gonna ask when does that cell become active?",
+    "start_ms": 2545753,
+    "end_ms": 2551532,
+    "duration_ms": 5779,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2551.532,
+    "text": "Does it become active at certain locations? Does it become active as soon as I turn the light on?",
+    "start_ms": 2551532,
+    "end_ms": 2556473,
+    "duration_ms": 4941,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2556.473,
+    "text": "Does it come on only if it's a blue light versus a red light and so forth?",
+    "start_ms": 2556473,
+    "end_ms": 2561272,
+    "duration_ms": 4799,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2561.272,
+    "text": "Well, this down here is showing that this particular cell has a preference.",
+    "start_ms": 2561272,
+    "end_ms": 2565712,
+    "duration_ms": 4440,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2565.246,
+    "text": "preference for certain locations in space. So you can see that when I flash the light over here, all these vertical lines are showing action potentials, so now the cell becomes very active.",
+    "start_ms": 2565246,
+    "end_ms": 2577151,
+    "duration_ms": 11905,
+    "word_count": 33,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2577.151,
+    "text": "Again, not because they're stimulating the neuron, but simply the endogenous activity by flashing a light in the upper right side of space causes that cell to become active, whereas if I flash it down in the lower left, the cell basically just fires at its natural rate.",
+    "start_ms": 2577151,
+    "end_ms": 2593211,
+    "duration_ms": 16060,
+    "word_count": 48,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2593.211,
+    "text": "Cells are always spontaneously active at some rate, but it's quite low here.",
+    "start_ms": 2593211,
+    "end_ms": 2597432,
+    "duration_ms": 4221,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2597.432,
+    "text": "The same with over here and so forth. As I approach this location, the level of activity comes up.",
+    "start_ms": 2597432,
+    "end_ms": 2603652,
+    "duration_ms": 6220,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2603.652,
+    "text": "So now actually I know something about this neuron. This neuron responds to light, but it only responds to light at a particular location in space, and that's where the term is, and you'll see it all the time.",
+    "start_ms": 2603652,
+    "end_ms": 2614911,
+    "duration_ms": 11259,
+    "word_count": 39,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2614.911,
+    "text": "We talk about the receptive field of the neuron, and the receptive field, again, it's a concept talking about a property of the neuron, what's it responsive to, but it's talking about its responsiveness to some property in the environment.",
+    "start_ms": 2614911,
+    "end_ms": 2630472,
+    "duration_ms": 15561,
+    "word_count": 40,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2630.472,
+    "text": "This particular neuron is responsive to spatial information, but we'd have to do another experiment to say it's also responsive to some colors more than other colors and so forth.",
+    "start_ms": 2630472,
+    "end_ms": 2640951,
+    "duration_ms": 10479,
+    "word_count": 30,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2641.951,
+    "text": "Now, that's just one way people do to measure at a single cell level.",
+    "start_ms": 2641951,
+    "end_ms": 2646711,
+    "duration_ms": 4760,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2646.711,
+    "text": "There's lots of other ways, methods out there, that people do to measure neural activity.",
+    "start_ms": 2646711,
+    "end_ms": 2653432,
+    "duration_ms": 6721,
+    "word_count": 15,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2653.432,
+    "text": "The case I just gave you, that was a direct measurement of the neural activity, right?",
+    "start_ms": 2653432,
+    "end_ms": 2656671,
+    "duration_ms": 3239,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2656.671,
+    "text": "We're using an electrode to measure the electrical changes in the membrane potential.",
+    "start_ms": 2656671,
+    "end_ms": 2661932,
+    "duration_ms": 5261,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2661.932,
+    "text": "In most of the other cases, we're gonna talk about what we call proxies of neural activity.",
+    "start_ms": 2661932,
+    "end_ms": 2666671,
+    "duration_ms": 4739,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2666.671,
+    "text": "We aren't directly measuring neural activity, but we're measuring some sort of either chemical or metabolic change that is highly correlated with neural activity.",
+    "start_ms": 2666671,
+    "end_ms": 2678592,
+    "duration_ms": 11921,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2678.592,
+    "text": "For instance, we've actually seen examples earlier of two-photon calcium imaging.",
+    "start_ms": 2678592,
+    "end_ms": 2683711,
+    "duration_ms": 5119,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2683.711,
+    "text": "Calcium release is a big part of neurotransmitter release, so if I have some way to measure the amount of calcium that's in the extracellular space, then I can have that as a proxy.",
+    "start_ms": 2683711,
+    "end_ms": 2695512,
+    "duration_ms": 11801,
+    "word_count": 34,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2695.512,
+    "text": "That means the neurons were active. When we get into PET scanning or human fMRI imaging, we aren't usually measuring neural activity, but we're measuring something like changes in the level of oxygen, because neural activity consumes oxygen and then requires processes to kick in that are gonna replenish that oxygen supply.",
+    "start_ms": 2695512,
+    "end_ms": 2717471,
+    "duration_ms": 21959,
+    "word_count": 52,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2717.471,
+    "text": "So again, we'll talk about that in detail, but I just wanted to make the point now that there's a distinction between direct measures of neural activity and these proxies or these indirect measures of neural activity.",
+    "start_ms": 2717471,
+    "end_ms": 2728152,
+    "duration_ms": 10681,
+    "word_count": 37,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2729.872,
+    "text": "Whatever method we're doing, in terms of function, what we're usually looking to see is there's some sort of topography that is some systematic relationship between the external world and what's happening in the neural activity.",
+    "start_ms": 2729872,
+    "end_ms": 2744672,
+    "duration_ms": 14800,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2744.672,
+    "text": "Now, some parts of the brain will show topography, some won't.",
+    "start_ms": 2744672,
+    "end_ms": 2749111,
+    "duration_ms": 4439,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2749.111,
+    "text": "For instance, I've already shown this example, and this is an example of a topographic map or what we call somatotopic map, because somatotopic meaning of the body.",
+    "start_ms": 2749111,
+    "end_ms": 2759592,
+    "duration_ms": 10481,
+    "word_count": 28,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2759.592,
+    "text": "So we have a somatotopic map in the motor cortex we've already talked about.",
+    "start_ms": 2759592,
+    "end_ms": 2764411,
+    "duration_ms": 4819,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2764.411,
+    "text": "We also have a somatotopic map in the somatosensory cortex, and the two actually closely mirror one another.",
+    "start_ms": 2764411,
+    "end_ms": 2771191,
+    "duration_ms": 6780,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2771.191,
+    "text": "Presumably, there's probably axons running from the sensory to the motor cortex that are gonna allow communication between what my hand is actually doing and what's the sensory experience that I'm experiencing.",
+    "start_ms": 2771191,
+    "end_ms": 2784892,
+    "duration_ms": 13701,
+    "word_count": 32,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2784.892,
+    "text": "But that's one type of topographic map. Here's other ones in the auditory cortex.",
+    "start_ms": 2784892,
+    "end_ms": 2789971,
+    "duration_ms": 5079,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2789.971,
+    "text": "We can talk about a tonotopic map, and what makes it a topographic map is that at some parts of the primary auditory cortex, you have neurons that have a preference for low-frequency sounds, like, say, the pitch of a voice, about 100 times a second my vocal cords are vibrating, versus other neurons are sensitive to very high frequencies, sounds that are gonna be, say, really important for distinguishing L sounds or S sounds and so forth, or if you'd be able to listen to the complexity of music, it's gonna require integrating information across a wide frequency spectrum, but what we see in the auditory cortex is that there is some sort of systematic relationship.",
+    "start_ms": 2789971,
+    "end_ms": 2833852,
+    "duration_ms": 43881,
+    "word_count": 117,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2833.852,
+    "text": "It didn't have to be this way, but it turns out to be this way, that there's some organization between low-frequency sounds, sensitive neurons, and high-frequency sensitive neurons, and this is just showing the visual cortex.",
+    "start_ms": 2833852,
+    "end_ms": 2846491,
+    "duration_ms": 12639,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2846.491,
+    "text": "This is one particular picture showing, here's the image that they showed, and here they're using a particular glucose imaging method to look across the monkey brain, and you actually can see, across the visual cortex of the monkey brain, you almost see a complete reproduction of the external world stimulus there, and we'd see that if we looked in visual cortex, we'll talk about this later on, that again, you'll see systematic relationship of space being represented over and over again in visually sensitive regions of the world.",
+    "start_ms": 2846491,
+    "end_ms": 2877812,
+    "duration_ms": 31321,
+    "word_count": 89,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2878.932,
+    "text": "Now, again, methods development really drive, what we're able to visualize and what we're able to conceptualize to a large degree.",
+    "start_ms": 2878932,
+    "end_ms": 2890198,
+    "duration_ms": 11266,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2890.198,
+    "text": "There's been huge funding initiatives, you know, for brain science over the last 20 years has almost exclusively focused on methodologies.",
+    "start_ms": 2890198,
+    "end_ms": 2898575,
+    "duration_ms": 8377,
+    "word_count": 21,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2898.575,
+    "text": "They don't say we're going to fund a ton of money here to understand Alzheimer's disease.",
+    "start_ms": 2898575,
+    "end_ms": 2904101,
+    "duration_ms": 5526,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2904.101,
+    "text": "They do some money there. But the really big initiatives are always about let's develop the next generation of tools under the belief that somehow having the tools are really going to propel the science forward.",
+    "start_ms": 2904101,
+    "end_ms": 2915865,
+    "duration_ms": 11764,
+    "word_count": 36,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2915.865,
+    "text": "So there's this U.S. Brain Initiative. Europeans have their own.",
+    "start_ms": 2915865,
+    "end_ms": 2919097,
+    "duration_ms": 3232,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2919.097,
+    "text": "One of them is like we want to actually map out all 77 million neurons in the mouse brain.",
+    "start_ms": 2919097,
+    "end_ms": 2924969,
+    "duration_ms": 5872,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2924.969,
+    "text": "This work can take place or these tools can be done kind of at the macro level.",
+    "start_ms": 2924969,
+    "end_ms": 2930888,
+    "duration_ms": 5919,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2930.888,
+    "text": "And this is where really the big data science comes in.",
+    "start_ms": 2930888,
+    "end_ms": 2934098,
+    "duration_ms": 3210,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2934.098,
+    "text": "There's this thing called the Human Connectome Project. It's a giant database.",
+    "start_ms": 2934098,
+    "end_ms": 2938652,
+    "duration_ms": 4554,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2938.652,
+    "text": "It has all sorts of different brain scans of many, many different individuals.",
+    "start_ms": 2938652,
+    "end_ms": 2944030,
+    "duration_ms": 5378,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2944.03,
+    "text": "It's publicly accessible. You can go in there and play with it.",
+    "start_ms": 2944030,
+    "end_ms": 2947603,
+    "duration_ms": 3573,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2947.603,
+    "text": "So basically researchers come in and say, oh, I want to have a question about asking what does primary motor cortex in the left hemisphere connect up with visual cortex directly?",
+    "start_ms": 2947603,
+    "end_ms": 2958193,
+    "duration_ms": 10590,
+    "word_count": 31,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2958.193,
+    "text": "Okay. You might say maybe there's some direct connection between visual and motor areas.",
+    "start_ms": 2958193,
+    "end_ms": 2963061,
+    "duration_ms": 4868,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2963.061,
+    "text": "You could go into this database and the data would be in there and you'd be able to actually do your research there.",
+    "start_ms": 2963061,
+    "end_ms": 2969680,
+    "duration_ms": 6619,
+    "word_count": 23,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2969.68,
+    "text": "So many, many studies they don't collect new data. They use these large databases.",
+    "start_ms": 2969680,
+    "end_ms": 2974750,
+    "duration_ms": 5070,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2974.75,
+    "text": "Here is one very influential recent paper that said, remember I mentioned Brodman gave us 53 distinct cytoarchitectonic areas.",
+    "start_ms": 2974750,
+    "end_ms": 2984077,
+    "duration_ms": 9327,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2984.077,
+    "text": "This method here in 2016, one group said, let's take a bunch of different imaging methodologies.",
+    "start_ms": 2984077,
+    "end_ms": 2990482,
+    "duration_ms": 6405,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2990.482,
+    "text": "Some of them have to do with functional imaging that we haven't talked about.",
+    "start_ms": 2990482,
+    "end_ms": 2994580,
+    "duration_ms": 4098,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2994.58,
+    "text": "Some have to do with building white matter connectivity maps and so forth.",
+    "start_ms": 2994580,
+    "end_ms": 2998601,
+    "duration_ms": 4021,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 2998.601,
+    "text": "They had a set of criterion that they used to define what makes an area unique from another area.",
+    "start_ms": 2998601,
+    "end_ms": 3005911,
+    "duration_ms": 7310,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3006.111,
+    "text": "And they actually came up with what they claim are 180 distinct functional areas in the human brain.",
+    "start_ms": 3006111,
+    "end_ms": 3012446,
+    "duration_ms": 6335,
+    "word_count": 18,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3012.446,
+    "text": "But again, it's not that we grew 130 new areas.",
+    "start_ms": 3012446,
+    "end_ms": 3015796,
+    "duration_ms": 3350,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3015.796,
+    "text": "It's that there were different tools now that allowed us to think about the functional organization in a different way depending on the criterion we use.",
+    "start_ms": 3015796,
+    "end_ms": 3024505,
+    "duration_ms": 8709,
+    "word_count": 26,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3024.505,
+    "text": "And that's at the micro level, at the macro level, at the large scale.",
+    "start_ms": 3024505,
+    "end_ms": 3028830,
+    "duration_ms": 4325,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3028.83,
+    "text": "At the micro level, the biggest breakthrough has really come about in the last three or four years, maybe it's five now or so.",
+    "start_ms": 3028830,
+    "end_ms": 3037214,
+    "duration_ms": 8384,
+    "word_count": 24,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3037.214,
+    "text": "It's what's called neuropixels. The way neurophysiology used to be done is people would maybe insert an electrode and record one neuron at a time.",
+    "start_ms": 3037214,
+    "end_ms": 3044808,
+    "duration_ms": 7594,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3044.808,
+    "text": "And then after a while, it kind of went up that people could develop techniques that they could put in this little device that might have 20 or 30 or even up to 40 electrodes at a time.",
+    "start_ms": 3044808,
+    "end_ms": 3054634,
+    "duration_ms": 9826,
+    "word_count": 38,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3054.634,
+    "text": "It doesn't mean you get one neuron for each of those electrodes.",
+    "start_ms": 3054634,
+    "end_ms": 3057683,
+    "duration_ms": 3049,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3057.683,
+    "text": "You might get multiple neurons. You use algorithms to separate them.",
+    "start_ms": 3057683,
+    "end_ms": 3061716,
+    "duration_ms": 4033,
+    "word_count": 11,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3061.716,
+    "text": "But these neuropixels were just developed recently with a large scale collaboration between groups.",
+    "start_ms": 3061716,
+    "end_ms": 3067991,
+    "duration_ms": 6275,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3067.991,
+    "text": "And basically, one of these neuropixels is going to have 5,000 electrodes on it.",
+    "start_ms": 3067991,
+    "end_ms": 3073940,
+    "duration_ms": 5949,
+    "word_count": 14,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3073.94,
+    "text": "So now, whereas before it might have taken months and months to collect enough data to put together a picture of what a particular brain region is doing, now you're going to be able to record, say in two hours, the activity of maybe 3,000 neurons.",
+    "start_ms": 3073940,
+    "end_ms": 3087275,
+    "duration_ms": 13335,
+    "word_count": 46,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3087.275,
+    "text": "So again, massive data set, but much more efficient. It's a whole order of magnitude more efficient.",
+    "start_ms": 3087275,
+    "end_ms": 3093363,
+    "duration_ms": 6088,
+    "word_count": 17,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3093.363,
+    "text": "And it's really changing the nature of the papers we're getting, where we're now seeing people put a neuropixel probe in one part of the brain, another part of the brain, and suddenly something that might have taken 10 years to do a research project on can be done in one or two years.",
+    "start_ms": 3093363,
+    "end_ms": 3107123,
+    "duration_ms": 13760,
+    "word_count": 54,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3107.123,
+    "text": "This is just giving you a sense of the size of these devices.",
+    "start_ms": 3107123,
+    "end_ms": 3110776,
+    "duration_ms": 3653,
+    "word_count": 13,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3110.776,
+    "text": "This is the kind of where the electronics lie here.",
+    "start_ms": 3110776,
+    "end_ms": 3114038,
+    "duration_ms": 3262,
+    "word_count": 10,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3114.038,
+    "text": "The probes at the 5,000. There's 1,300 on each one of these.",
+    "start_ms": 3114038,
+    "end_ms": 3117613,
+    "duration_ms": 3575,
+    "word_count": 12,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3117.613,
+    "text": "You can see that these are just tiny, tiny things, but they're able to pick up signals from many, many different neurons in these low-power device systems.",
+    "start_ms": 3117613,
+    "end_ms": 3125745,
+    "duration_ms": 8132,
+    "word_count": 27,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3125.745,
+    "text": "I'm out of time. I don't know if I'll actually show this video, but it's a really cool one.",
+    "start_ms": 3125745,
+    "end_ms": 3132510,
+    "duration_ms": 6765,
+    "word_count": 19,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3132.51,
+    "text": "You can look at it on your own. It's basically a technique, an anatomical technique, that allows them to strip away everything but the neurons.",
+    "start_ms": 3132510,
+    "end_ms": 3140710,
+    "duration_ms": 8200,
+    "word_count": 25,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3140.71,
+    "text": "It's a really cool way to make brains transparent. I'll mention it briefly maybe on Wednesday.",
+    "start_ms": 3140710,
+    "end_ms": 3146936,
+    "duration_ms": 6226,
+    "word_count": 16,
+    "avg_confidence": 90
+  },
+  {
+    "timestamp": 3146.936,
+    "text": "Pick up there. . . .",
+    "start_ms": 3146936,
+    "end_ms": 3239389,
+    "duration_ms": 92453,
+    "word_count": 6,
+    "avg_confidence": 90
+  }
+]
